@@ -853,12 +853,15 @@ def build_search_index(chapters):
     entries = []
     for c in chapters:
         part = PART_BY_KEY[c["part"]]
+        plain = re.sub(r":::note", " ", c["body"])
+        plain = re.sub(r"[#>*_`|]", " ", plain)
+        plain = re.sub(r"\s+", " ", plain).strip()[:6000]
         entries.append({
             "t": c["title"],
             "k": f"Bab {c['num']:02d} · {part['title']}",
             "u": c["file"],
             "d": c["span"],
-            "x": c["dek"],
+            "x": c["dek"] + " " + plain,
         })
     try:
         tl = json.loads((DATA / "timeline.json").read_text(encoding="utf-8"))

@@ -81,10 +81,23 @@
     if (!list) return;
     var norm = function (s) { return (s || "").toLowerCase(); };
     var terms = norm(q).split(/\s+/).filter(Boolean);
-    var hits = data.filter(function (it) {
-      var hay = norm(it.t + " " + (it.d || "") + " " + (it.k || "") + " " + (it.x || ""));
-      return terms.every(function (t) { return hay.indexOf(t) !== -1; });
-    }).slice(0, 14);
+    var hits = data
+      .map(function (it) {
+        var title = norm(it.t), lead = norm((it.d || "") + " " + (it.k || "")), body = norm(it.x || "");
+        var hay = title + " " + lead + " " + body;
+        if (!terms.every(function (t) { return hay.indexOf(t) !== -1; })) return null;
+        var score = 0;
+        terms.forEach(function (t) {
+          if (title.indexOf(t) !== -1) score += 8;
+          if (lead.indexOf(t) !== -1) score += 3;
+          score += Math.min(4, (body.split(t).length - 1));
+        });
+        return { it: it, score: score };
+      })
+      .filter(Boolean)
+      .sort(function (a, b) { return b.score - a.score; })
+      .slice(0, 14)
+      .map(function (r) { return r.it; });
 
     if (!q.trim()) {
       list.innerHTML =
