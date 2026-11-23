@@ -1,5 +1,5 @@
 ---
-number: 16
+number: 14
 slug: voc
 part: kolonial
 title: Perusahaan dengan Pasukan Sendiri

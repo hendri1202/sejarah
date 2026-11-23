@@ -1,5 +1,5 @@
 ---
-number: 18
+number: 17
 slug: politik-etis
 part: kolonial
 title: Sekolah, Surat Kabar, dan Bangsa Baru

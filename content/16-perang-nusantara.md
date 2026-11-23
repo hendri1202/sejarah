@@ -1,7 +1,7 @@
 ---
-number: 14
+number: 16
 slug: perang-nusantara
-part: kerajaan
+part: kolonial
 title: Lima Perang yang Menguras Hindia
 dek: Antara 1803 dan 1914, lima perang besar mengubah peta, jumlah penduduk, dan kas kolonial
 span: 1803 – 1914

@@ -1,7 +1,7 @@
 ---
-number: 15
+number: 18
 slug: perang-dunia
-part: kerajaan
+part: kolonial
 title: Dunia Terbakar Dua Kali
 dek: Dua perang dunia mengubah Hindia dari pemasok gula menjadi rebutan minyak
 span: 1914 – 1945

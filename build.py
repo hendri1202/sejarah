@@ -43,29 +43,31 @@ PARTS = [
     {
         "key": "kerajaan",
         "num": "III",
-        "title": "Kerajaan & Perang",
-        "sub": "abad ke-4 – 1945",
-        "intro": "Prasasti pertama di Nusantara ditulis pada abad ke-4, di tepi sungai di Kalimantan timur. "
-                 "Seribu lima ratus tahun kemudian, kepulauan ini sudah punya kerajaan maritim, perang saudara, "
-                 "dan lima perang besar yang menguras kas kolonial.",
+        "title": "Kerajaan",
+        "sub": "abad ke-4 – 1527",
+        "intro": "Seribu tahun pertama Nusantara yang bisa dibaca dari batu: tujuh prasasti di tepi sungai "
+                 "Kalimantan timur, candi-candi di dataran Kedu, dan daftar pulau yang mengaku takluk kepada "
+                 "Majapahit — daftar yang panjangnya lebih banyak soal ambisi daripada kenyataan.",
     },
     {
         "key": "kolonial",
         "num": "IV",
         "title": "Kolonialisme",
-        "sub": "1602 – 1942",
+        "sub": "1596 – 1945",
         "intro": "Selama tiga ratus empat puluh tahun, kepulauan ini diatur dari jauh: oleh sebuah perusahaan dagang, "
                  "lalu oleh sebuah kerajaan Eropa. Rempah, kopi, sekolah, dan surat kabar mengubah sebuah wilayah "
-                 "menjadi Hindia — dan melahirkan bangsa yang tidak pernah direncanakan.",
+                 "menjadi Hindia — dan melahirkan bangsa yang tidak pernah direncanakan. Di antaranya lima perang "
+                 "besar yang menguras kas kolonial dan menghabiskan satu generasi.",
     },
     {
         "key": "jepang",
         "num": "V",
-        "title": "Pendudukan Jepang",
-        "sub": "1942 – 1945",
-        "intro": "Tiga tahun tujuh bulan. Itu saja. Tetapi pendudukan Jepang menghapus kekuasaan Belanda, "
-                 "melatih pemuda Indonesia menjadi tentara, dan meninggalkan kekosongan yang diisi oleh "
-                 "sebuah proklamasi.",
+        "title": "Perang & Pendudukan",
+        "sub": "1929 – 1945",
+        "intro": "Depresi, embargo minyak, dan sebuah kekaisaran yang butuh bahan bakar: jalan menuju perang "
+                 "di Pasifik ternyata melewati Hindia. Lalu tiga tahun tujuh bulan pendudukan Jepang menghapus "
+                 "kekuasaan Belanda dan melatih pemuda Indonesia menjadi tentara — meninggalkan kekosongan "
+                 "yang diisi oleh sebuah proklamasi.",
     },
     {
         "key": "merdeka",
@@ -489,16 +491,16 @@ def build_index(chapters):
             (1_700, "abad ke-4", "Prasasti Kutai", files.get(12, "")),
             (1_100, "abad ke-9", "Sriwijaya", files.get(12, "")),
             (700, "abad ke-14", "Majapahit", files.get(13, "")),
-            (426, "1602", "VOC berdiri", files.get(16, "")),
+            (426, "1602", "VOC berdiri", files.get(14, "")),
         ],
     )
     late = era_rail(
         426, 0,
         [("Kolonial", 426, 84, "kolonial"), ("Jepang", 84, 81, "jepang"), ("Merdeka", 81, 0, "merdeka")],
         [
-            (426, "1602", "VOC didirikan", files.get(16, "")),
-            (196, "1830", "Tanam paksa", files.get(17, "")),
-            (118, "1908", "Boedi Oetomo", files.get(18, "")),
+            (426, "1596", "Armada Houtman", files.get(14, "")),
+            (196, "1830", "Tanam paksa", files.get(15, "")),
+            (118, "1908", "Boedi Oetomo", files.get(17, "")),
             (84, "1942", "Jepang mendarat", files.get(20, "")),
             (81, "1945", "Proklamasi", files.get(22, "")),
             (61, "1965", "G30S", files.get(24, "")),

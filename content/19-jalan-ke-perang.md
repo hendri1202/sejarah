@@ -1,7 +1,7 @@
 ---
 number: 19
 slug: jalan-ke-perang
-part: kolonial
+part: jepang
 title: Depresi, Fasis, dan Minyak
 dek: Harga karet jatuh, gaji dipotong, negeri induk hilang, dan sebuah kepulauan menjadi rebutan karena kilang-kilangnya
 span: 1929 – 1942

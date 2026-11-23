@@ -1,5 +1,5 @@
 ---
-number: 17
+number: 15
 slug: tanam-paksa
 part: kolonial
 title: Kopi, Tebu, dan Kerja Tanpa Upah
