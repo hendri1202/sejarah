@@ -4,7 +4,7 @@ slug: sriwijaya-dan-kerajaan-awal
 part: kerajaan
 title: Prasasti di Tepi Sungai
 dek: Dari yupa di Mahakam sampai kutukan di Musi, kekuasaan awal Nusantara meninggalkan jejak di batu
-span: abad ke-4 – 13
+span: abad ke-4 – abad ke-13
 dates:
   - "abad ke-4|Tujuh yupa di Muara Kaman"
   - "683|Prasasti Kedukan Bukit"
