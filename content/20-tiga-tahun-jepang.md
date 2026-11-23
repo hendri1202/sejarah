@@ -6,71 +6,198 @@ title: Bendera Matahari Terbit di Batavia
 dek: Tiga setengah tahun Jepang memerintah Indonesia, dan setiap kebijakannya meninggalkan luka yang tak sepenuhnya sembuh
 span: 1942 – 1945
 dates:
-  - "8 Desember 1941|Serangan ke Malaya dan Pearl Harbor"
-  - "27 Februari 1942|Pertempuran Laut Jawa"
-  - "8 Maret 1942|Kapitulasi di Kalijati"
-  - "1943–1945|Rel Burma dan Pakanbaru"
+  - "1941|Pearl Harbor dan perang Pasifik"
+  - "1942|Tarakan jatuh, lalu Kalijati"
+  - "1943|PETA dibentuk"
+  - "1943|Rel Pakanbaru dimulai"
+  - "1944|Kelaparan di Jawa"
+  - "1945|Jepang menyerah"
 sources:
-  - "M.C. Ricklefs, A History of Modern Indonesia since c. 1200 (edisi ke-3, 2001)"
-  - "L. de Jong, The Collapse of a Colonial Society: The Dutch in Indonesia during the Second World War (2002)"
+  - "M.C. Ricklefs, A History of Modern Indonesia since c. 1200 (2008)"
+  - "L. de Jong, The Collapse of a Colonial Society (2002)"
   - "Aiko Kurasawa, Mobilization and Control: Social Change in Rural Java, 1942–1945 (1993)"
+  - "Pierre van der Eng, \"Mortality from the 1944–1945 famine in Java\", Asia-Pacific Economic History Review (2024)"
+  - "Hank Nelson, The Burma Railway (2006)"
   - "Arsip Nasional Republik Indonesia, arsip masa pendudukan Jepang"
 ---
 
-Pada 8 Maret 1942, di Kalijati, sebuah kecamatan di Subang, Jawa Barat, Letnan Jenderal Ter Poorten menandatangani kapitulasi tentara Hindia Belanda. Tidak ada tembakan di halaman. Yang ada hanya dua rombongan perwira, satu meja, dan keputusan yang sudah tidak mungkin ditawar. Di sisi Jepang, Letnan Jenderal Hitoshi Imamura menerima penyerahan itu tanpa banyak upacara. Gubernur Jenderal Tjarda van Starkenborgh Stachouwer, yang ikut hadir, kehilangan seluruh kekuasaannya dalam satu pagi.
+Rombongan Belanda itu tiba di Kalijati pada sore 8 Maret 1942, setelah menempuh perjalanan darat dari Bandung melewati jalan yang penuh kendaraan mundur. Kalijati bukan kota, hanya sebuah kecamatan di Subang dengan lapangan udara kecil dan beberapa bangunan pemerintah. Di salah satu rumah itu, Letnan Jenderal Ter Poorten, panglima tentara Hindia Belanda, menunggu bersama Gubernur Jenderal Tjarda van Starkenborgh Stachouwer dan beberapa perwira staf.
 
-Jalan ke meja itu dibuka tiga bulan sebelumnya, di Pearl Harbor.
+Letnan Jenderal Hitoshi Imamura datang terlambat. Ia baru mendarat di lapangan udara dekat situ, dan ketika masuk ke ruangan, ia tidak banyak berbasa-basi. Ia menuntut penyerahan tanpa syarat seluruh tentara Hindia Belanda, segera, tanpa perundingan. Ter Poorten mencoba menjelaskan bahwa ia perlu berkonsultasi; Imamura memotong, dan menurut beberapa catatan, membenturkan tangan ke meja sambil mengancam akan melanjutkan pemboman atas Bandung jika jawabannya tidak datang malam itu.
 
-## Minyak, bukan wilayah
+Tidak ada tembakan di halaman. Yang ada hanya dua rombongan perwira, satu meja, lampu minyak, dan dokumen yang sudah disiapkan penerjemah. Menjelang tengah malam, Ter Poorten menandatangani. Gubernur jenderal yang memerintah 60 juta orang kehilangan seluruh kekuasaannya dalam satu sore.
 
-Pada 7 Desember 1941 waktu Hawaii — 8 Desember di Asia — pesawat Jepang menyerang Pearl Harbor. Dalam hitungan jam, bom juga jatuh di Kota Bharu, Malaya, dan di Filipina. Perang Pasifik dimulai bukan dengan perebutan tanah, melainkan dengan perebutan minyak. Jepang sudah empat tahun terbenam di Perang Tiongkok, dan cadangan bahan bakarnya menipis. Hindia Belanda adalah sasaran yang paling masuk akal: Tarakan dan Balikpapan sudah memompa minyak sejak awal abad, sementara Palembang menyimpan kilang Plaju dan Sungai Gerong, salah satu kompleks pengolahan terbesar di Asia.
+Kekuasaan kolonial yang dibangun tiga abad runtuh dalam waktu kurang dari tiga bulan.
 
-Tentara Jepang mendarat di Tarakan pada 11 Januari 1942. Belanda lebih dulu membakar sumur dan kilangnya, lalu mundur. Balikpapan jatuh pada 24 Januari. Di Palembang, pada 14 Februari, penerjun payung Jepang turun di sekitar kilang — salah satu pengerahan pasukan udara terbesar dalam kampanye ini — dan dalam dua hari Plaju serta Sungai Gerong dikuasai, sebagian dalam keadaan rusak karena pembakaran sendiri.
+## Delapan Desember 1941
 
-Yang tersisa bagi Belanda adalah laut, dan laut itu pun tidak bertahan lama.
+Pada 7 Desember 1941 waktu Hawaii — 8 Desember di Asia — pesawat Jepang menyerang Pearl Harbor. Pada saat yang hampir bersamaan — beberapa menit lebih awal, menurut jam setempat — pasukan Jepang mendarat di Kota Bharu di Malaya, dan pesawatnya menyerang lapangan udara di Filipina. Perang Pasifik dimulai bukan dengan perebutan wilayah, melainkan dengan perebutan bahan bakar.
 
-## Tujuh jam di Laut Jawa
+Di Batavia, berita itu tiba pada 8 Desember pagi. Pemerintah Hindia Belanda menyatakan perang terhadap Jepang pada hari yang sama — lebih cepat daripada Amerika Serikat, yang menyatakan perang pada 8 Desember waktu Washington. Keputusan itu diambil gubernur jenderal tanpa parlemen, karena parlemennya sudah tidak ada sejak Mei 1940.
 
-Pertahanan Hindia Belanda bergantung pada armada gabungan Amerika Serikat, Inggris, Belanda, dan Australia di bawah komando tunggal yang dibentuk pada Januari 1942. Panglimanya berganti-ganti, kewenangannya bertabrakan, dan kapalnya datang dari empat doktrin berbeda. Pada 27 Februari 1942, Laksamana Muda Karel Doorman memimpin armada itu ke utara Surabaya untuk mencegat konvoi Jepang yang mengangkut tentara menuju Jawa.
+Dua hari kemudian, dua kapal perang Inggris, *Prince of Wales* dan *Repulse*, tenggelam di Laut China Selatan sekitar delapan puluh kilometer dari Kuantan. Keduanya dikirim ke Asia sebagai simbol bahwa Inggris akan mempertahankan koloninya, dan keduanya dihancurkan oleh pesawat torpedo Jepang dalam waktu kurang dari dua jam. Sekitar 840 pelaut Inggris tewas. Tidak ada kapal perang Sekutu yang tersisa di perairan itu yang bisa menandingi armada Jepang.
 
-Pertempuran berlangsung dari sore sampai malam. Meriam jarak jauh Jepang lebih unggul, torpedonya lebih baik, dan koordinasi udara mereka bekerja. Menjelang tengah malam, sebuah torpedo menghantam *De Ruyter*; *Java* tenggelam beberapa menit kemudian. Doorman memilih ikut tenggelam bersama kapalnya. Dua kapal penjelajah Belanda hilang dalam satu pertempuran, bersama sekitar 2.300 pelaut Sekutu.
+Bagi Hindia, artinya jelas: tidak ada armada yang akan datang menyelamatkan. Yang ada hanyalah kapal-kapal yang sudah berada di sana, pesawat-pesawat yang sudah tua, dan tentara yang tersebar di puluhan pulau.
+
+## Minyak Dulu, Jawa Kemudian
+
+Rencana Jepang disusun menurut urutan kepentingan ekonomi, bukan politik. Tarakan direbut lebih dulu karena kilangnya paling dekat dengan Filipina selatan dan bisa memasok bahan bakar bagi pasukan yang bergerak ke selatan. Balikpapan menyusul. Palembang, dengan kilang Plaju dan Sungai Gerong yang mengolah sekitar sepertiga minyak Hindia, menjadi sasaran utama. Jawa, pusat pemerintahan dan tentara, didatangi terakhir.
+
+Pada 11 Januari 1942, pasukan Jepang mendarat di Tarakan. Garnisun KNIL di pulau itu berjumlah sekitar 1.300 orang, sebagian besar prajurit Indonesia di bawah perwira Belanda. Sebelum mundur, mereka membakar sumur, kilang, dan tangki minyak. Kebakaran itu terlihat dari laut selama berhari-hari. Jepang tetap maju, karena yang mereka butuhkan bukan kilang yang utuh, melainkan sumur yang bisa diperbaiki.
+
+Balikpapan jatuh pada 24 Januari, juga dengan kilang yang dibakar lebih dulu. Di malam 23–24 Januari, empat kapal perusak Amerika menyerang konvoi Jepang di anchorage Balikpapan dan menenggelamkan beberapa kapal pengangkut — salah satu keberhasilan Sekutu yang jarang dalam kampanye ini, meskipun tidak mengubah hasilnya.
+
+Palembang diserang dengan cara yang berbeda. Pada 14 Februari, sekitar 360 penerjun payung Jepang turun di sekitar lapangan udara P1 dan kilang Plaju. Ini salah satu pengerahan pasukan udara terbesar dalam kampanye selatan. Penerjun pertama berhasil menguasai lapangan udara. Belanda sempat membakar sebagian instalasi kilang, tetapi kerusakannya tidak menyeluruh; penerjun tambahan turun keesokan harinya, dan pada malam 15 Februari Palembang diduduki. Pasukan darat dari Divisi ke-38 menyusul pada 16 Februari.
+
+Ambon jatuh pada 3 Februari, Makassar pada 9 Februari, Timor pada 20 Februari. Dalam enam minggu, Jepang menguasai semua sumber minyak, semua pelabuhan utama di luar Jawa, dan semua lapangan udara yang dibutuhkan untuk menutup jalur bantuan ke Jawa.
+
+:::note
+Penerjunan di Palembang pada 14 Februari 1942 adalah salah satu operasi lintas udara terbesar Jepang: sekitar 360 penerjun pada hari pertama, ditambah seratus orang keesokan harinya.
+:::
+
+## Tujuh Jam di Laut Jawa
+
+Yang tersisa bagi Sekutu adalah laut, dan laut itu pun tidak bertahan lama.
+
+Pada 27 Februari 1942, Laksamana Muda Karel Doorman memimpin armada gabungan ABDA ke utara dari Surabaya untuk mencegat konvoi Jepang yang mengangkut tentara menuju Jawa. Armadanya terdiri dari dua kapal penjelajah berat — *Houston* Amerika dan *Exeter* Inggris — tiga penjelajah ringan — *De Ruyter*, *Java*, dan *Perth* — serta sembilan kapal perusak dari empat negara.
+
+Pertempuran dimulai sekitar pukul empat sore. Jepang memiliki keunggulan yang tidak bisa ditutup oleh keberanian: torpedo yang lebih baik, meriam jarak jauh dengan kendali tembakan yang lebih akurat, dan pengamatan udara yang bekerja sementara Sekutu tidak punya pesawat sama sekali. *Exeter* terkena tembakan dan harus mundur; *Kortenaer* tenggelam oleh torpedo; *Electra* tenggelam saat melindungi kapal yang mundur.
+
+Menjelang tengah malam, *De Ruyter* terkena torpedo. *Java* terkena beberapa menit kemudian dan tenggelam dalam waktu kurang dari dua menit, membawa ratusan pelaut. Doorman memilih ikut tenggelam bersama kapalnya daripada meninggalkan armada. Sekitar 2.300 pelaut Sekutu tewas dalam pertempuran itu.
 
 > Dalam tujuh jam, armada yang dibentuk enam minggu sebelumnya berhenti ada sebagai kekuatan tempur.
 
-Sisa armada tercerai. *Exeter* yang rusak dihabisi di Laut Jawa pada 1 Maret bersama dua kapal perusak. *Houston* dan *Perth* tenggelam di Selat Sunda pada malam yang sama setelah menembaki konvoi pendaratan. Dengan laut terbuka, Jepang mendarat di Kragan, Jawa Tengah, pada awal Maret. Batavia dinyatakan kota terbuka, diduduki pada 5 Maret 1942, dan namanya dikembalikan menjadi Jakarta. Tiga hari kemudian, Ter Poorten menyerah di Kalijati.
+Sisa armada tercerai. Pada malam 28 Februari, *Houston* dan *Perth* masuk ke Selat Sunda tanpa tahu bahwa konvoi pendaratan Jepang sedang berada di sana; keduanya tenggelam setelah pertempuran jarak dekat yang berlangsung kurang dari satu jam, bersama sekitar seribu pelaut. Pada 1 Maret, *Exeter* yang sudah rusak dihabisi di Laut Jawa bersama dua kapal perusak.
+
+Dengan laut terbuka, Jepang mendarat di Jawa pada 1 Maret: di Merak dan Banten di ujung barat, di Eretan Wetan di pantai utara, dan di Kragan di Jawa timur. Tidak ada pertahanan pantai yang berarti. Batavia dinyatakan kota terbuka pada 4 Maret dan diduduki keesokan harinya; namanya diubah menjadi Jakarta. Bandung jatuh tanpa pertempuran berarti. Pada 8 Maret, Ter Poorten menandatangani penyerahan di Kalijati.
+
+## Pendaratan dan Meja Kalijati
+
+Penyerahan di Kalijati bukan hanya kekalahan militer; ia adalah akhir dari sebuah negara kolonial. Dokumen yang ditandatangani Ter Poorten menyerahkan seluruh tentara Hindia Belanda, semua instalasi, dan semua wilayah kepada Jepang. Tjarda, yang hadir sebagai gubernur jenderal, tidak menandatangani, tetapi ia juga tidak bisa menolak. Ia kemudian diinternir bersama puluhan ribu orang Belanda lainnya.
+
+Jepang tidak mengakui adanya pemerintah Hindia Belanda setelah 8 Maret. Yang ada adalah wilayah pendudukan di bawah pemerintahan militer. Semua pejabat Belanda diberhentikan; semua orang Belanda, termasuk perempuan dan anak-anak, dicatat untuk diinternir; semua lambang kolonial diganti.
+
+Secara keseluruhan, sekitar 88.800 tentara Sekutu menjadi tawanan di Jawa: 66.900 di antaranya KNIL, sisanya tentara Inggris, Australia, dan Amerika yang terdampar setelah Singapura jatuh. Sekitar 9.200 prajurit KNIL melarikan diri dan bergerilya di pedalaman; sisanya masuk kamp tawanan perang, tempat sekitar seperlima dari mereka meninggal sebelum 1945.
+
+Bagi orang Indonesia, perubahan itu terasa dalam hal-hal kecil sebelum terasa dalam hal besar. Bendera Belanda diturunkan, bendera Jepang dinaikkan. Lagu kebangsaan Belanda diganti *Kimigayo*. Kalender diganti: tahun 1942 menjadi tahun 2602 dalam hitungan Jepang. Kantor-kantor memasang papan nama dalam bahasa Jepang dan Indonesia, dan pegawai Indonesia yang dulu hanya boleh menjadi juru tulis mulai duduk di kursi yang sebelumnya ditempati orang Eropa.
+
+Bagi sebagian orang, itu adalah pembebasan. Bagi sebagian lain, itu adalah pertukaran tuan. Bagi sebagian besar, itu hanya berarti bahwa sekarang ada tentara asing di kampung mereka, dan bahwa beras makin sulit didapat.
+
+## Tiga Pemerintahan, Satu Pendudukan
+
+Jepang tidak memerintah Indonesia sebagai satu wilayah. Jawa dan Madura berada di bawah Tentara ke-16 yang berpusat di Jakarta, dengan *gunseikanbu* — departemen pemerintahan militer — yang mengurus administrasi sehari-hari. Sumatra berada di bawah Tentara ke-25 yang berkedudukan di Bukittinggi. Kalimantan, Sulawesi, Maluku, dan Nusa Tenggara diperintah Angkatan Laut melalui *minseifu* di Makassar.
+
+Tiga pusat kekuasaan, tiga mata uang, tiga sistem jatah pangan, dan tiga cara berbeda memperlakukan bekas pejabat kolonial. Seseorang yang dipindahkan dari Jakarta ke Palembang pada 1943 melewati perbatasan yang lebih ketat daripada perbatasan internasional.
+
+Di setiap wilayah, gubernur jenderal digantikan seorang *gunseikan*, kepala pemerintahan militer. Semua keputusan penting tetap di tangan pejabat Jepang; bupati, wedana, dan camat Indonesia dipertahankan sebagai pelaksana di lapisan bawah. Sistem itu murah dan efektif: sedikit orang Jepang mengendalikan banyak orang Indonesia melalui hierarki yang sudah ada, dengan bahasa Jepang dalam upacara dan dokumen resmi.
+
+Pada 1943, Jepang mulai membentuk barisan pemuda dan tentara bantuan. *Heiho* — pembantu prajurit — dibentuk lebih dulu, kemudian *PETA*, tentara pembela tanah air, pada 3 Oktober 1943. Pada akhir perang, PETA di Jawa memiliki sekitar 37.000 anggota, dilatih oleh perwira Jepang, dengan senjata Jepang. Mereka adalah orang-orang yang, dua tahun kemudian, menjadi inti tentara Republik.
+
+Di tingkat kampung, Jepang membentuk *tonarigumi* — rukun tetangga — pada 1944, yang mengatur jatah, kerja wajib, dan pengawasan. Setiap kepala keluarga harus melapor kepada ketua RT, dan setiap ketua RT melapor kepada kepala desa, yang melapor kepada camat, yang melapor kepada Jepang. Sistem itu kemudian dipakai lagi oleh Republik Indonesia, dengan nama yang sama.
+
+Rakyat diminta menghormati Kaisar dengan membungkuk ke arah timur setiap pagi, terutama pada hari-hari besar. Yang tidak melakukannya dicatat. Di sekolah, anak-anak menyanyikan lagu Jepang dan menghafal nama-nama pulau Jepang sebelum belajar membaca.
+
+## Kamp dan Nama yang Hilang
+
+Orang Belanda dikeluarkan dari ruang kerja, lalu dari rumah mereka. Pada 1942, laki-laki dewasa diinternir lebih dulu; pada 1943, perempuan dan anak-anak menyusul. Sekitar 100.000 warga sipil Belanda dan Indo-Belanda dikumpulkan di ratusan kamp di Jawa dan Sumatra, ditambah sekitar 42.000 tawanan perang.
+
+Kamp-kamp itu bukan kamp pemusnahan, tetapi kekurangan makanan, obat, dan ruang membuatnya mematikan. Tjideng, sebuah kamp di kawasan Cideng, Jakarta barat, menampung 11.337 perempuan dan anak-anak selama pendudukan; pada puncaknya, satu rumah dihuni oleh beberapa keluarga, dan setiap orang mendapat ruang kurang dari dua meter persegi. Komandannya pada 1944–1945, Kapten Sone Kenichi, kemudian diadili karena kekerasan yang terjadi di sana.
+
+Menurut perhitungan L. de Jong, sekitar 13.000 dari 100.000 interniran di Jawa meninggal — tingkat kematian sekitar 13 persen. Di kamp-kamp perempuan, angka itu lebih tinggi pada 1944–1945, ketika makanan makin langka. Di Ambarawa, di Tangerang, di Bangkinang, kuburan massal digali di belakang kamp.
+
+Bagi orang Indonesia di luar kamp, pendudukan berarti hal lain. Mereka tidak diinternir, tetapi mereka kehilangan beras, kerja, dan kadang nyawa. Ketika kamp-kamp Belanda dibebaskan pada 1945, cerita tentang kamp itu memenuhi buku dan film di Belanda; cerita tentang kampung-kampung Indonesia yang kehilangan lebih banyak orang hampir tidak terdengar selama puluhan tahun.
+
+## Rel, Romusha, dan Kuburan
+
+Kerja paksa bukan penemuan tahun 1942. Pemerintah kolonial pun memakai tenaga wajib untuk jalan, jembatan, dan perkebunan. Yang membedakan pendudukan Jepang adalah skalanya, dan kenyataan bahwa pekerja dikirim ke tempat yang jauh, tanpa kontrak, tanpa upah yang berarti, dan tanpa jalan pulang yang pasti.
+
+Mereka disebut *romusha*. Pemerintah Indonesia pada 1950-an memakai angka 4,1 juta orang untuk keperluan tuntutan pampasan perang; perkiraan lain berkisar antara 4 dan 10 juta, tergantung apakah pekerja kampung jangka pendek dihitung. Sekitar 300.000 di antaranya dikirim ke luar Jawa.
+
+Yang paling masyhur adalah rel Burma, 415 kilometer antara Thanbyuzayat di Burma dan Ban Pong di Thailand, ditebas menembus hutan dan bukit dalam waktu sekitar empat belas bulan pada 1942–1943. Sekitar 60.000 tawanan perang Sekutu dan hampir 200.000 pekerja Asia dikerahkan di sana; sekitar 12.000 tawanan dan 90.000 pekerja Asia meninggal. Dari sekitar 18.000 tawanan Belanda di jalur itu, lebih dari 3.000 tidak kembali.
+
+Di Sumatra, Jepang membangun rel Pakanbaru sepanjang sekitar 200–220 kilometer dari Pekanbaru ke Muaro, untuk mengangkut batu bara dari pedalaman ke sungai. Sekitar 6.500 tawanan Eropa dan puluhan ribu romusha dikerahkan antara 1943 dan 1945. Jalur itu tidak pernah selesai sepenuhnya dan tidak pernah dipakai secara penuh. Kuburan massal di sepanjang bekas jalurnya masih ditemukan puluhan tahun kemudian, ketika tanah dibuka untuk perkebunan kelapa sawit.
 
 :::note
-Dalam empat hari, 27 Februari–1 Maret 1942, Sekutu kehilangan lima kapal penjelajah dan tujuh kapal perusak. Armada gabungan ABDA praktis bubar sebagai kekuatan tempur.
+Satu kilometer rel Burma menelan sekitar 250 nyawa pekerja Asia dan tawanan. Di Pakanbaru, perbandingannya tidak jauh berbeda, meskipun jalurnya lebih pendek dan tidak pernah selesai.
 :::
 
-## Tiga pemerintahan, satu pendudukan
+Bagi keluarga di Jawa, romusha berarti ketidakhadiran. Seorang laki-laki pergi ke stasiun dengan pakaian terbaiknya, menerima janji upah dan makanan, lalu tidak pernah mengirim kabar. Sampai akhir 1945, banyak keluarga masih menunggu, dan setelah itu mereka berhenti menunggu tanpa pernah tahu di mana kuburnya.
 
-Jepang tidak memerintah Indonesia sebagai satu wilayah. Jawa dan Madura berada di bawah Tentara ke-16 yang berpusat di Jakarta. Sumatera berada di bawah Tentara ke-25 yang berkedudukan di Bukittinggi. Kalimantan, Sulawesi, Maluku, dan Nusa Tenggara diperintah Angkatan Laut dengan pusat di Makassar. Tiga pusat kekuasaan, tiga mata uang, tiga sistem jatah pangan, dan tiga cara berbeda memperlakukan bekas pejabat kolonial.
+## Kelaparan 1944–1945
 
-Di tiap wilayah, gubernur jenderal digantikan seorang *gunseikan*, kepala pemerintahan militer. Semua keputusan penting tetap di tangan pejabat Jepang; bupati, wedana, dan camat Indonesia dipertahankan sebagai pelaksana di lapisan bawah. Sistem itu murah dan efektif: sedikit orang Jepang mengendalikan banyak orang Indonesia melalui hierarki yang sudah ada. Bahasa Jepang dipakai dalam upacara dan dokumen resmi, dan rakyat diminta menghormati Kaisar dengan membungkuk ke arah timur setiap pagi.
+Di luar kamp dan di luar proyek rel, hidup rakyat biasa memburuk lebih lambat tetapi sama pasti.
 
-Orang Belanda dikeluarkan dari ruang kerja, lalu dari rumah mereka.
+Pada 1943, Jepang mewajibkan penyerahan padi kepada pemerintah pada harga tetap yang jauh di bawah harga pasar. Petani harus menyerahkan sebagian hasil panennya, dan yang tidak mampu memenuhi kuota harus membeli beras di pasar gelap dengan harga berkali-kali lipat. Pada 1944, musim kemarau panjang memperburuk panen, sementara tenaga kerja di desa berkurang karena romusha dan kerja wajib.
 
-## Rel, kamp, dan kuburan
+Aiko Kurasawa, yang meneliti desa Jawa pada masa itu, mencatat bahwa kuota penyerahan padi ditetapkan dari atas tanpa memperhitungkan panen setempat, dan bahwa kepala desa yang gagal memenuhi kuota menghadapi hukuman. Di beberapa desa, petani harus menyerahkan lebih dari sepertiga hasil panennya, sementara keluarga mereka sendiri kekurangan makan sampai panen berikutnya.
 
-Kerja paksa bukan penemuan tahun 1942. Pemerintah kolonial pun memakai tenaga wajib untuk jalan dan perkebunan. Yang membedakan pendudukan Jepang adalah skalanya. Pada 1943, ketika front mulai terdesak, Jepang mengirim pekerja dari Jawa ke berbagai proyek di luar pulau. Mereka disebut *romusha*.
+Beras menghilang dari pasar. Penduduk makan singkong, gaplek, ubi, jagung, dan apa saja yang bisa ditumbuk menjadi tepung. Di kota-kota, ransum yang dijanjikan sering tidak datang; di desa, orang memakan biji dan kulit umbi. Harga beras naik puluhan kali antara 1942 dan 1945, dan uang kertas Jepang yang dicetak tanpa henti kehilangan nilainya.
 
-Yang paling masyhur adalah rel Burma, 415 kilometer antara Thanbyuzayat dan Ban Pong, ditebas menembus hutan dan bukit dalam waktu empat belas bulan. Sekitar 60.000 tawanan perang Sekutu dan hampir 200.000 pekerja Asia dikerahkan di sana; sejumlah besar pekerja Asia didatangkan dari Jawa. Perkiraan jumlah pekerja Asia yang mati berkisar 90.000 orang, dan angka itu masih diperdebatkan.
+Pierre van der Eng, yang meneliti angka kematian di Jawa, pada 2024 memperkirakan sekitar 1,8 juta kematian berlebih selama 1944–1945: sekitar 0,7 juta pada 1944 dan 1,1 juta pada 1945. Angka yang lebih lama dan lebih sering dikutip adalah 2,4 juta. Jika angka kelahiran yang hilang ikut dihitung, ia memperkirakan kehilangan penduduk bersih sekitar 3,3 juta orang antara 1942 dan 1945.
 
-Di Sumatera, Jepang membangun rel Pakanbaru sepanjang 220 kilometer untuk mengangkut batu bara dari pedalaman ke sungai. Sekitar 6.500 tawanan Eropa dan puluhan ribu romusha dikerahkan; jalur itu tidak pernah selesai sepenuhnya dan tidak pernah dipakai secara penuh. Kuburan massal di sepanjang bekas jalurnya masih ditemukan puluhan tahun kemudian.
+Tidak ada sejarawan yang menyangkal bahwa kelaparan itu besar. Yang diperdebatkan adalah angkanya, dan sebabnya: apakah kelaparan disebabkan oleh kebijakan Jepang, oleh kekeringan, oleh blokade Sekutu, atau oleh kombinasi ketiganya. Yang jelas, kebijakan penyerahan padi adalah sebab yang dibuat manusia, dan kematian akibat kebijakan itu tidak bisa disebut bencana alam.
+
+## Jugun Ianfu
+
+Perempuan mengalami lapisan kekerasan yang lain.
+
+Jepang mengorganisasi *ianfu* — perempuan yang dipaksa melayani tentara di rumah-rumah yang disebut *ianjo*. Sistem itu dibangun di seluruh Asia yang diduduki Jepang, dari Tiongkok sampai Filipina, dan di Hindia ia muncul di kota-kota garnisun: Batavia, Semarang, Surabaya, Bandung, Ambon, Flores.
+
+Korban Indonesia jauh lebih banyak daripada yang tercatat. Mereka direkrut dengan janji pekerjaan, diculik, atau diserahkan oleh keluarga yang diancam. Kesaksian Belanda menyebut beberapa ratus perempuan Belanda dan Indo-Belanda yang dimasukkan ke sistem itu; jumlah perempuan Indonesia diperkirakan ribuan, tetapi tidak pernah terdokumentasi lengkap, karena sebagian besar tidak melapor setelah perang.
+
+Setelah 1945, beberapa kasus dibawa ke pengadilan militer Sekutu, termasuk pengadilan di Batavia. Sebagian besar perempuan yang selamat tidak pernah mendapat pengakuan resmi dari pemerintah mana pun sampai akhir abad ke-20. Di Indonesia, istilah *jugun ianfu* baru menjadi perdebatan publik pada 1990-an, ketika beberapa korban mulai berbicara.
+
+## Bahasa yang Menang
+
+Satu hal tumbuh justru ketika hampir segala hal lain runtuh: bahasa Indonesia.
+
+Jepang melarang bahasa Belanda di ruang publik. Larangan itu praktis sekaligus politis: Jepang tidak ingin bahasa bekas penjajah tetap menjadi bahasa administrasi dan pendidikan. Bahasa Indonesia, yang sudah dipakai oleh pergerakan nasional sejak 1928, naik menggantikannya — di kantor, di pasar, di sekolah, di koran.
 
 :::note
-Harga sebuah rel dihitung dengan nyawa. Di Burma, satu kilometer rel menelan sekitar 250 pekerja Asia dan tawanan; di Pakanbaru, perbandingannya tidak jauh berbeda.
+Pada 1930, kurang dari sepuluh persen penduduk pribumi bisa membaca huruf Latin. Empat tahun pendudukan Jepang menaikkan angka itu lebih cepat daripada tiga dekade politik etis.
 :::
 
-Bagi warga sipil Belanda dan Indo-Belanda, pendudukan berarti kamp. Sekitar 100.000 orang dikumpulkan di ratusan kamp di Jawa dan Sumatera. Tjideng di Jakarta menampung lebih dari 10.000 perempuan dan anak pada puncaknya; komandannya, Kapten Sone Kenichi, kemudian diadili karena kekerasan yang terjadi di sana. Di Ambarawa, di Tangerang, di Bangkinang, tingkat kematian naik karena kelaparan, penyakit, dan ruang yang terlalu sempit.
+Pada Oktober 1942, Jepang membentuk Komisi Bahasa Indonesia, yang diketuai Sutan Takdir Alisjahbana dan bertugas menyusun tata bahasa, istilah, dan ejaan untuk dipakai secara luas. Koran *Asia Raya* terbit di Jakarta pada 1942 dan menjadi surat kabar terbesar masa pendudukan. Radio Jakarta Hoso Kyoku menyiarkan berita dan sandiwara dalam bahasa Indonesia. Kantor propaganda *Sendenbu* memakai bahasa itu untuk menyebarkan slogan, dan sekolah-sekolah mengajarkannya kepada anak-anak yang dulu belajar dalam bahasa Melayu pasar atau bahasa daerah.
 
-Perempuan mengalami lapisan kekerasan yang lain. Jepang mengorganisasi *jugun ianfu*, rumah-rumah tempat perempuan dipaksa melayani tentara. Kesaksian Belanda menyebut beberapa ratus perempuan Belanda yang dimasukkan ke sistem itu; jumlah korban Indonesia jauh lebih besar dan tidak pernah tercatat lengkap. Catatan tentang Semarang, Batavia, dan Flores muncul dalam laporan pascaperang, tetapi banyak nama tidak pernah didengar kembali.
+Bahasa Jepang juga diajarkan, tetapi tidak pernah menggantikan bahasa Indonesia. Terlalu sedikit guru, terlalu sedikit buku, dan terlalu singkat waktunya. Yang tersisa justru sejumlah kata serapan: *bensin*, *kantor*, *dokan*, *kenpeitai*, *heiho*, *romusha*.
 
-## Tahun-tahun terakhir
+> Bahasa yang lahir dari sumpah pemuda akhirnya menjadi bahasa administrasi, bukan karena Jepang menyukainya, tetapi karena Jepang membutuhkannya.
 
-Di luar kamp, hidup rakyat biasa memburuk lebih lambat tetapi sama pasti. Jepang memungut padi dengan harga tetap, sementara beras menghilang dari pasar. Pada 1944–1945, penduduk Jawa makan singkong, gaplek, dan apa saja yang bisa ditumbuk. Pierre van der Eng memperkirakan sekitar 2,4 juta kematian berlebih di Jawa selama pendudukan; angka itu masih diperdebatkan, tetapi tidak ada sejarawan yang menyangkal bahwa kelaparan itu besar.
+## Ekonomi Uang Kertas
 
-Satu hal tumbuh justru ketika hampir segala hal lain runtuh: bahasa Indonesia. Jepang melarang bahasa Belanda di ruang publik, dan bahasa Indonesia naik menggantikannya — di kantor, di pasar, di koran. *Asia Raya* terbit di Jakarta, radio Jakarta Hoso Kyoku menyiarkan berita dalam bahasa Indonesia, dan kantor propaganda Sendenbu memakainya untuk menyebarkan slogan. Bahasa yang lahir dari pergerakan nasional akhirnya menjadi bahasa administrasi.
+Ekonomi pendudukan dibangun untuk satu tujuan: mengirim bahan mentah ke Jepang dan menjaga tentara tetap makan.
 
-Di tengah semua itu, Jepang mulai mencari pemuda. Bukan untuk sekolah, melainkan untuk barisan.
+Perkebunan yang dulu menanam karet, teh, dan tembakau untuk ekspor diubah menjadi lahan pangan atau dibiarkan terlantar. Pabrik gula yang masih beroperasi diarahkan untuk memproduksi alkohol, bukan gula. Minyak dari Sumatra dan Kalimantan diangkut ke Jepang sampai jalur laut terputus pada 1944–1945.
+
+Jepang mengeluarkan uang kertas sendiri, yang rakyat sebut *uang Jepang*, atau *uang pisang* karena gambar pisang pada salah satu pecahannya. Uang itu tidak didukung cadangan dan dicetak dalam jumlah yang makin besar. Pada 1942, satu kilogram beras berharga beberapa sen; pada 1945, harganya ribuan gulden Jepang, jika berasnya ada. Pegawai negeri menerima gaji yang tidak cukup untuk membeli makan, dan banyak yang bertahan dengan menjual perabot, sepeda, dan pakaian.
+
+Produksi ekspor hampir berhenti. Karet dan teh dari perkebunan menumpuk di gudang karena kapal tidak datang; minyak dari Sumatra tetap mengalir ke Jepang sampai 1944, ketika kapal tanker menjadi sasaran kapal selam Sekutu. Pabrik-pabrik yang masih berjalan mengolah besi tua, membuat sabuk, atau memperbaiki mesin, bukan memproduksi barang baru.
+
+Di kota, orang menukar barang, bukan uang. Cincin ditukar dengan beras, sepeda dengan kain, mesin jahit dengan gula. Pasar gelap menjadi institusi yang lebih penting daripada bank. Ketika Jepang menyerah, uang kertas mereka tidak bernilai apa pun, dan sebagian orang membakarnya untuk memasak.
+
+## Yang Masih Diperdebatkan
+
+Tiga perdebatan besar masih berjalan.
+
+Pertama, jumlah kematian akibat kelaparan. Angka 2,4 juta sudah lama dipakai; van der Eng pada 2024 menurunkannya menjadi sekitar 1,8 juta kematian berlebih, dengan tambahan kehilangan kelahiran sehingga total kehilangan penduduk mencapai 3,3 juta. Perbedaan itu penting bukan hanya secara statistik, tetapi secara politik: angka yang lebih besar menempatkan pendudukan Jepang sebagai salah satu bencana kemanusiaan terbesar abad ke-20, dan angka yang lebih kecil pun masih cukup untuk menyebutnya bencana.
+
+Kedua, peran Jepang dalam kemerdekaan Indonesia. Sebagian sejarawan menekankan bahwa Jepang melatih PETA, memberi orang Indonesia pengalaman administrasi, dan menciptakan kekosongan kekuasaan yang memungkinkan proklamasi. Sebagian lain menekankan bahwa semua itu adalah efek samping dari kekalahan Jepang, bukan kebijakan yang bertujuan memerdekakan; Jepang tidak pernah menyerahkan kedaulatan, dan kemerdekaan datang karena Jepang kalah, bukan karena Jepang memberi.
+
+Ketiga, ingatan tentang pendudukan. Di Belanda, pendudukan Hindia diingat terutama melalui kamp interniran dan *romusha* Belanda. Di Indonesia, ingatan itu berpusat pada kelaparan, kerja paksa, dan propaganda. Kedua ingatan itu benar, tetapi tidak simetris: korban Indonesia jauh lebih banyak, sementara kesaksian yang terdokumentasi jauh lebih sedikit. Sejarawan seperti van der Eng menyebut kelaparan Jawa sebagai "juta orang yang hilang" dari historiografi — bukan karena tidak terjadi, tetapi karena tidak ada yang mencatatnya dengan cara yang sama seperti kamp Belanda dicatat.
+
+Jepang menyerah pada 15 Agustus 1945. Di Jawa, tidak ada lagi pemerintah kolonial yang berdiri, tidak ada tentara Belanda yang berkuasa, dan tidak ada administrasi Jepang yang masih berfungsi. Yang ada adalah kekosongan yang berlangsung beberapa hari — cukup lama untuk sebuah proklamasi, dan terlalu singkat untuk sebuah pemerintahan.
+
+Tiga setengah tahun pendudukan mengubah Indonesia lebih dalam daripada tiga abad kolonialisme Belanda. Bahasa berubah, kelas sosial berubah, dan generasi muda yang dilatih Jepang menjadi tentara mendapat senjata serta pengalaman yang tidak dimiliki generasi sebelumnya. Pada saat yang sama, jutaan orang meninggal karena kebijakan yang tidak pernah diminta oleh siapa pun di kepulauan ini.
+
+Di Kalijati, rumah tempat penyerahan itu ditandatangani masih berdiri. Di Tjideng, jalan-jalannya sekarang menjadi kampung padat di Jakarta. Di sepanjang bekas rel Pakanbaru, kelapa sawit tumbuh di atas tanah yang pernah menjadi kuburan tanpa nama.
+
+:::linimasa
+1941|Pearl Harbor; Belanda menyatakan perang
+1942|Tarakan jatuh pada 11 Januari
+1942|Laut Jawa; Doorman gugur
+1942|Kalijati: penyerahan tanpa syarat
+1943|PETA dibentuk; rel Burma selesai
+1943|Rel Pakanbaru dimulai
+1944|Kelaparan meluas di Jawa
+1945|Jepang menyerah pada 15 Agustus
+:::

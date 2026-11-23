@@ -1,74 +1,102 @@
-# Spesifikasi Isi — Proyek "KRONIK"
+# Spesifikasi Isi — Proyek "KRONIK" (edisi rinci)
 
 Situs artikel sejarah berbahasa Indonesia. Setiap bab adalah satu file Markdown di `/opt/data/sejarah/content/`.
-Bangun file HANYA untuk bab yang ditugaskan kepadamu. Jangan menyentuh file lain, jangan menjalankan build.
+Bangun file HANYA untuk bab yang ditugaskan. Jangan menyentuh file lain, jangan menjalankan build.
+
+## Target: rinci, bukan ringkasan
+
+- **3.000–3.800 kata per bab** (isi, bukan frontmatter).
+- **8–12 subjudul `## `** (maksimal 8 kata), boleh `### ` untuk pecahan di dalamnya.
+- **3–4 blok `:::note`** (catatan margin).
+- **2–3 kutipan tarik** (`> `).
+- **1 blok `:::linimasa`** berisi 6–9 baris `tahun|peristiwa` di bagian akhir bab.
+- **5–6 `dates`** di frontmatter; **4–6 `sources`** nyata.
+
+Kedalaman bukan berarti menambah kata sambung. Kedalaman berarti nama orang, nama tempat, angka, tanggal,
+mekanisme sebab-akibat, dan perdebatan di antara sejarawan. Bab yang baik menjawab "bagaimana tepatnya"
+dan "dari mana kita tahu".
+
+## Bentuk wajib setiap bab
+
+1. **Adegan pembuka** (150–250 kata): satu momen konkret — tanggal, tempat, orang, benda. Bukan definisi.
+2. **Latar dan sebab** (2–3 subjudul): mengapa hal itu bisa terjadi, apa yang mendahuluinya.
+3. **Proses/kronologi rinci** (3–5 subjudul): urutan peristiwa dengan tanggal dan nama, termasuk yang gagal.
+4. **Angka dan bahan** (1–2 subjudul): jumlah, biaya, produksi, korban — dengan kualifikasi bila diperdebatkan.
+5. **Perdebatan** (1 subjudul): apa yang masih diperselisihkan ahli, dan mengapa.
+6. **Warisan/penutup** (100–180 kata): apa yang tersisa sampai sekarang, menyambung ke bab berikutnya.
+
+Setiap bab wajib punya minimal satu **jangkar lokal Indonesia** (nama situs, kampung, kapal, pasar, surat kabar,
+arsip, museum) dan minimal satu **angka spesifik yang mengejutkan tetapi benar**.
 
 ## Format file
 
-Nama file: `NN-slug.md` (contoh: `01-dentuman-besar.md`).
+Nama file sudah ada: jangan diganti. Tulis ulang isinya pada nama file yang sama.
 
 ```
 ---
-number: 1
-slug: dentuman-besar
-part: bumi
-title: Titik Nol
-dek: Satu kalimat pengantar, maksimal 150 karakter, tanpa titik di akhir.
-span: 13,8 miliar tahun lalu
+number: 14
+slug: voc
+part: kolonial
+title: Perusahaan dengan Pasukan Sendiri
+dek: Satu kalimat, maksimal 150 karakter, tanpa titik di akhir
+span: 1596 – 1799
 dates:
-  - "13,8 miliar tahun lalu|Dentuman Besar"
-  - "380.000 tahun|Cahaya pertama memisah dari materi"
+  - "1596|Armada Houtman berlabuh di Banten"
+  - "1619|Batavia berdiri"
 sources:
-  - "Steven Weinberg, The First Three Minutes (1977)"
-  - "NASA/WMAP Science Team, hasil pemetaan latar gelombang mikro kosmik"
+  - "Femme Gaastra, The Dutch East India Company (2003)"
 ---
 
 Teks bab...
 ```
 
 Aturan frontmatter:
-- `part` salah satu: `bumi`, `manusia`, `kerajaan`, `kolonial`, `jepang`, `merdeka`.
-- `dates`: 2–4 penanda waktu penting, format `"kapan|apa"`. `kapan` harus pendek (maks 32 karakter).
-- `sources`: 2–4 rujukan NYATA dan umum dikenal (buku klasik, terbitan jurnal, museum, arsip). Jangan mengarang judul buku atau penulis. Kalau ragu, gunakan nama lembaga/terbitan yang jelas ada (mis. "Ricklefs, A History of Modern Indonesia since c. 1200", "National Museum of Indonesia", "Badan Geologi").
-- Tanpa tanda kutip tambahan yang aneh; string berisi `:` atau `|` harus dalam tanda kutip ganda.
+- `number`, `slug`, `part`, `title`, `span` **jangan diubah** (dipakai untuk URL dan urutan situs).
+- `dek` boleh diperjelas, maksimal 150 karakter, tanpa titik di akhir.
+- `part` hanya: `bumi`, `manusia`, `kerajaan`, `kolonial`, `jepang`, `merdeka`.
+- `dates`: 5–6 penanda, format `"kapan|apa"`; `kapan` maksimal 32 karakter.
+- `sources`: 4–6 rujukan NYATA (buku klasik, artikel jurnal, arsip, museum). Jangan mengarang judul atau penulis.
 
-## Panjang & bentuk
+## Blok khusus
 
-- 900–1400 kata per bab. Padat, bukan bertele-tele.
-- Mulai dengan adegan/Detail konkret (tempat, angka, benda, nama orang), bukan definisi kamus.
-- 3–5 subjudul `## ` (maksimal 8 kata). Boleh `### ` sesekali.
-- 1–2 kutipan tarik: baris yang diawali `> ` (maks 2 baris). Kalau mengutip orang, tulis atribusinya di baris berikutnya juga dengan `> `.
-- 1–2 catatan margin, format persis:
+Catatan margin (3–4 per bab, maksimal 240 karakter):
 
 ```
 :::note
-Teks catatan pendek (maksimal 220 karakter). Boleh berisi angka pembanding.
+Bandingkan dengan angka sensus 1930: ...
 :::
 ```
 
-- Paragraf penutup yang menyambung ke bab berikutnya tanpa menyebut "bab berikutnya" secara literal.
-- Tidak perlu daftar isi, tidak perlu ringkasan di akhir, tidak perlu bullet panjang. Daftar hanya untuk hal yang memang enumeratif (maks 5 butir).
+Linimasa bab (tepat satu, di akhir, 6–9 baris):
 
-## Suara penulisan (penting)
+```
+:::linimasa
+1825|Perang Jawa meletus di Tegalrejo
+1830|Diponegoro ditangkap di Magelang
+:::
+```
 
-Tulis seperti sejarawan yang menjelaskan ke pembaca cerdas, bukan seperti mesin.
+Kutipan tarik: baris diawali `> `. Kalau mengutip orang, atribusinya ditulis di baris `> ` berikutnya.
 
-- Bahasa Indonesia baku, aktif, konkret. Hindari istilah Inggris bila ada padanan Indonesia.
-- Angka pakai konvensi Indonesia: `13,8 miliar`, `4.540 juta tahun`, `abad ke-17`.
-- Jangan memakai: "Dalam artikel ini", "Tahukah kamu", "Menariknya", "Selain itu" sebagai pembuka paragraf berulang, "Di sisi lain", "Mari kita", "Kesimpulannya", "Penting untuk dicatat".
-- Jangan menebalkan frasa di tengah kalimat secara berlebihan. Maksimal satu penebalan per 300 kata, dan hanya untuk istilah teknis pertama kali muncul.
-- Variasikan panjang kalimat. Boleh kalimat pendek sekali. Boleh satu paragraf hanya satu baris.
-- Sebut angka yang spesifik, nama tempat, nama pelaku. Hindari generalisasi kosong seperti "banyak korban" bila angka perkiraan tersedia (sebutkan sebagai perkiraan).
-- Kalau suatu hal masih diperdebatkan (misalnya angka korban, tanggal pasti, penafsiran), katakan bahwa itu perkiraan/debat. Jangan menyajikan dugaan sebagai fakta.
-- Minimal satu tempat di setiap bab harus terasa lokal: nama situs, nama kampung, nama kapal, nama surat kabar, nama pasar, dan sebagainya.
+## Suara penulisan
+
+- Bahasa Indonesia baku, aktif, konkret. Angka pakai konvensi Indonesia: `13,8 miliar`, `Rp`.
+- Nada sejarawan yang menjelaskan, bukan pemandu wisata. Tidak ada "Tahukah kamu", "Menariknya",
+  "Dalam artikel ini", "Mari kita", "Kesimpulannya", "Penting untuk dicatat".
+- Variasikan panjang kalimat dan paragraf. Boleh paragraf satu baris.
+- Maksimal satu penebalan per 500 kata, hanya untuk istilah teknis yang pertama muncul.
+- Sebut angka spesifik; kalau diperdebatkan, sebut rentang dan sumbernya.
+- Jangan mengarang kutipan langsung. Kalau redaksi aslinya tidak terdokumentasi, parafrasa dan sebut sumbernya.
+- Istilah asing dimiringkan, tetapi jangan berlebihan.
 
 ## Akurasi
 
-- Tanggal dan angka harus benar. Kalau ragu pada satu angka, gunakan rentang atau kualifikasi ("sekitar", "menurut perkiraan terbaru").
-- Ejaan sejarah: gunakan ejaan sekarang untuk nama umum (Soekarno, Diponegoro, Sriwijaya), tetapi sebutkan ejaan lama bila relevan (Pithecanthropus erectus, Batavia).
-- Jangan mengarang kutipan langsung. Kalau tidak yakin redaksi aslinya, parafrasa dan sebut sumbernya tanpa tanda kutip.
-- Jangan memakai gambar, tautan eksternal, atau tabel.
+- Tanggal dan angka harus benar. Verifikasi lewat pencarian web bila ragu (kamu punya alatnya).
+- Kalau suatu angka adalah perkiraan, tulis "sekitar" atau "menurut perkiraan ...".
+- Kalau ada dua versi yang beredar, tulis keduanya dan siapa yang mendukung.
+- Bedakan jelas: sumber primer (prasasti, arsip, foto) vs sumber sekunder vs tradisi lisan.
 
 ## Markdown yang didukung
 
-Hanya: paragraf, `## `, `### `, `> ` (kutipan tarik), `- ` (daftar pendek), `**tebal**`, `*miring*`, dan blok `:::note`. Jangan memakai tabel, gambar, HTML, atau heading level 1.
+Paragraf, `## `, `### `, `> `, `- `, `**tebal**`, `*miring*`, `:::note`, `:::linimasa`.
+Jangan memakai tabel, gambar, HTML, heading level 1, atau tautan eksternal.

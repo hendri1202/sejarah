@@ -2,6 +2,23 @@
 (function () {
   "use strict";
   var doc = document, root = doc.documentElement;
+  var reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  function smoothTo(y, dur) {
+    if (reduce) { window.scrollTo(0, y); return; }
+    var start = window.scrollY, t0 = null;
+    var d = dur || 420;
+    function ease(t) { return t < 0.5 ? 2 * t * t : 1 - Math.pow(-2 * t + 2, 2) / 2; }
+    function step() {
+      if (t0 === null) t0 = Date.now();
+      var p = Math.min(1, (Date.now() - t0) / d);
+      window.scrollTo(0, Math.round(start + (y - start) * ease(p)));
+      if (p < 1) window.setTimeout(step, 16);
+    }
+    window.setTimeout(step, 0);
+    window.setTimeout(function () {
+      if (Math.abs(window.scrollY - y) > 4) window.scrollTo(0, y);
+    }, d + 140);
+  }
   var $ = function (s, el) { return (el || doc).querySelector(s); };
   var $$ = function (s, el) { return Array.prototype.slice.call((el || doc).querySelectorAll(s)); };
 
@@ -179,6 +196,45 @@
       });
     });
   }
+
+  /* ——— navigasi kibor antar bab ——— */
+  var art = $(".chapter");
+  if (art) {
+    var prevUrl = art.getAttribute("data-prev"), nextUrl = art.getAttribute("data-next");
+    doc.addEventListener("keydown", function (e) {
+      if (/^(INPUT|TEXTAREA|SELECT)$/.test(doc.activeElement.tagName)) return;
+      if (e.metaKey || e.ctrlKey || e.altKey) return;
+      var target = e.key === "ArrowLeft" ? prevUrl : e.key === "ArrowRight" ? nextUrl : null;
+      if (target) window.location.href = target;
+    });
+  }
+
+  /* ——— kembali ke atas ——— */
+  var top = doc.createElement("button");
+  top.className = "to-top";
+  top.type = "button";
+  top.setAttribute("aria-label", "Kembali ke atas");
+  top.textContent = "↑ Atas";
+  doc.body.appendChild(top);
+  top.addEventListener("click", function () { smoothTo(0); });
+  var showTop = function () {
+    top.setAttribute("data-show", window.scrollY > 900 ? "true" : "false");
+  };
+  window.addEventListener("scroll", showTop, { passive: true });
+  showTop();
+
+  /* ——— tautan daftar isi bab ——— */
+  $$('.chapter-toc a, .prose a[href^="#"]').forEach(function (a) {
+    a.addEventListener("click", function (e) {
+      var id = (a.getAttribute("href") || "").slice(1);
+      var target = id ? doc.getElementById(id) : null;
+      if (!target) return;
+      e.preventDefault();
+      var y = target.getBoundingClientRect().top + window.scrollY - 78;
+      smoothTo(y);
+      if (history.replaceState) history.replaceState(null, "", "#" + id);
+    });
+  });
 
   /* ——— sorot bab aktif di laci ——— */
   var here = location.pathname.split("/").pop();

@@ -80,6 +80,9 @@ PARTS = [
     },
 ]
 PART_BY_KEY = {p["key"]: p for p in PARTS}
+HAS_FIGURES = False
+BULAN = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli",
+         "Agustus", "September", "Oktober", "November", "Desember"]
 
 CAT_LABEL = {
     "bumi": "Bumi",
@@ -169,21 +172,47 @@ def md_to_html(text: str) -> str:
     notes = []
 
     def stash(m):
-        notes.append(m.group(1).strip())
+        kind = m.group(1)
+        notes.append((kind, m.group(2).strip()))
         return f"\n\nNOTEHOLDER{len(notes) - 1}ENDNOTE\n\n"
 
-    text = re.sub(r":::note\s*\n(.*?)\n:::", stash, text, flags=re.S)
+    text = re.sub(r":::(note|linimasa)\s*\n(.*?)\n:::", stash, text, flags=re.S)
     text = re.sub(r"^:::.*?:::\s*$", "", text, flags=re.M | re.S)
     converter = markdown.Markdown(extensions=["extra", "toc", "sane_lists", "smarty"],
-                                  extension_configs={"toc": {"permalink": False}})
+                                  extension_configs={"toc": {"permalink": False, "toc_depth": "2-2"}})
     out = converter.convert(text)
+    md_to_html.last_toc = converter.toc_tokens
 
-    for i, note in enumerate(notes):
-        inner = markdown.markdown(note, extensions=["extra", "smarty"])
+    note_no = 0
+    for i, (kind, body) in enumerate(notes):
+        if kind == "linimasa":
+            rows = []
+            for line in body.splitlines():
+                line = line.strip().lstrip("-").strip()
+                if not line:
+                    continue
+                if "|" in line:
+                    when, what = line.split("|", 1)
+                else:
+                    when, what = "", line
+                rows.append(
+                    '<li><span class="lm-when">' + esc(when.strip()) + "</span>"
+                    '<span class="lm-what">' + esc(what.strip()) + "</span></li>"
+                )
+            if not rows:
+                continue
+            block = (
+                '\n<div class="linimasa"><span class="micro">Linimasa</span>'
+                "<ol>" + "".join(rows) + "</ol></div>\n"
+            )
+            out = out.replace(f"<p>NOTEHOLDER{i}ENDNOTE</p>", block)
+            continue
+        note_no += 1
+        inner = markdown.markdown(body, extensions=["extra", "smarty"])
         inner = re.sub(r"^<p>(.*?)</p>$", r"\1", inner, flags=re.S)
         block = (
             '\n<aside class="aside"><span class="aside__n">Catatan '
-            + str(i + 1) + "</span>" + inner + "</aside>\n"
+            + str(note_no) + "</span>" + inner + "</aside>\n"
         )
         out = out.replace(f"<p>NOTEHOLDER{i}ENDNOTE</p>", block)
 
@@ -364,6 +393,8 @@ def masthead(current=""):
 
 
 def drawer(chapters):
+    fig_drawer = ('<li><a href="tokoh.html"><span class="n">→</span><span>Tokoh</span></a></li>'
+                  if HAS_FIGURES else "")
     blocks = []
     for part in PARTS:
         items = [c for c in chapters if c["part"] == part["key"]]
@@ -386,6 +417,7 @@ def drawer(chapters):
   {"".join(blocks)}
   <div class="drawer__part"><span class="micro">Rujukan</span><ol>
     <li><a href="kronologi.html"><span class="n">→</span><span>Kronologi lengkap</span></a></li>
+    {fig_drawer}
     <li><a href="glosarium.html"><span class="n">→</span><span>Glosarium</span></a></li>
     <li><a href="tentang.html"><span class="n">→</span><span>Tentang &amp; sumber</span></a></li>
   </ol></div>
@@ -407,13 +439,15 @@ def search_panel():
 
 
 def footer():
-    return """
+    fig_link = '<a class="micro" href="tokoh.html">Tokoh</a>' if HAS_FIGURES else ""
+    return f"""
 <footer class="foot">
   <div class="wrap foot__inner">
     <a class="foot__mark" href="index.html">Kronik</a>
-    <span class="micro">26 bab · 6 bagian · 13,8 miliar tahun</span>
+    <span class="micro">26 bab · 6 bagian · Edisi {BULAN[date.today().month - 1]} {date.today().year}</span>
     <nav>
       <a class="micro" href="kronologi.html">Kronologi</a>
+      {fig_link}
       <a class="micro" href="glosarium.html">Glosarium</a>
       <a class="micro" href="tentang.html">Tentang</a>
     </nav>
@@ -522,7 +556,7 @@ def build_index(chapters):
   <h1>Dari debu bintang<em>sampai proklamasi.</em></h1>
   <div class="hero__lede">
     <p>Bumi ini berumur 4,54 miliar tahun. Manusia baru muncul di detik-detik terakhirnya. Republik ini
-    bahkan lebih muda lagi: delapan dekade, sekitar sepersembilan juta dari seluruh riwayat planet.
+    bahkan lebih muda lagi: delapan dekade, sekitar satu per lima puluh juta dari seluruh riwayat planet.
     Kronik menyusun rentang raksasa itu menjadi {len(chapters)} bab yang bisa dibaca berurutan — dari ledakan yang
     memulai segalanya, sampai pemilu yang baru saja lewat.</p>
     <p>Setiap bab berdiri sendiri, tetapi benangnya satu: bagaimana sebuah kepulauan di antara dua samudra
@@ -608,11 +642,19 @@ def build_chapter(ch, chapters):
     next_html += '<a href="index.html#daftar" style="margin-top:10px"><span class="micro">Daftar isi</span><span class="t">Semua bab</span></a>'
 
     body_html = md_to_html(ch["body"])
+    toc_items = "".join(
+        f'<li><a href="#{t["id"]}">{esc(t["name"])}</a></li>'
+        for t in (md_to_html.last_toc or []) if t.get("level") == 2
+    )
+    toc_html = (
+        f'<nav class="chapter-toc" aria-label="Isi bab"><span class="micro">Dalam bab ini</span>'
+        f'<ol>{toc_items}</ol></nav>'
+    ) if toc_items else ""
 
     body = f"""{masthead(ch["slug"])}
 {drawer(chapters)}
 <main id="isi">
-<article class="chapter wrap">
+<article class="chapter wrap" data-prev="{prev_ch["file"] if prev_ch else ""}" data-next="{next_ch["file"] if next_ch else ""}">
   <header class="chapter__head">
     <div class="chapter__ghost" aria-hidden="true">{ch["num"]:02d}</div>
     <div class="chapter__kicker">
@@ -624,9 +666,11 @@ def build_chapter(ch, chapters):
     <div class="chapter__meta">
       <span class="micro">Rentang <b style="color:var(--ink)">{esc(ch["span"])}</b></span>
       <div class="dates">{dates_html}</div>
-      <span class="micro" style="margin-left:auto">± {minutes} menit</span>
+      <span class="micro" style="margin-left:auto">{word_range(ch["words"])} kata · ± {minutes} menit</span>
     </div>
   </header>
+
+  {toc_html}
 
   <div class="layout">
     <div class="prose">{body_html}</div>
@@ -750,6 +794,59 @@ def build_glossary(chapters):
                 body, url="glosarium.html", cls="page-glossary")
 
 
+def norm_years(life: str) -> str:
+    life = re.sub(r"(\d)\s*-\s*(\d)", "\1–\2", life)
+    life = re.sub(r"(\d)-$", "\1–", life)
+    return life
+
+
+def build_figures(figures, chapters):
+    by_num = {c["num"]: c for c in chapters}
+    groups = []
+    for f in figures:
+        letter = f["name"][0].upper()
+        if not groups or groups[-1][0] != letter:
+            groups.append((letter, []))
+        groups[-1][1].append(f)
+
+    sections = []
+    for letter, items in groups:
+        rows = []
+        for f in items:
+            ch = by_num.get(int(f.get("chapter", 0)))
+            link = (f'<a class="tfig__ch" href="{ch["file"]}">Bab {ch["num"]:02d}</a>'
+                    if ch else "")
+            rows.append(
+                f'<li class="tfig" id="{slug_id(f["name"])}">'
+                f'<span class="tfig__who"><span class="tfig__name">{esc(f["name"])}</span>'
+                f'<span class="tfig__life">{esc(f.get("life", ""))}</span></span>'
+                f'<span class="tfig__role">{esc(f.get("role", ""))}</span>'
+                f"{link}</li>"
+            )
+        sections.append(
+            f'<section class="gletter"><h2 class="gletter__l">{letter}</h2>'
+            f'<ul class="tfigs">{"".join(rows)}</ul></section>'
+        )
+
+    body = f"""{masthead()}
+{drawer(chapters)}
+<main id="isi">
+<section class="wrap">
+  <header class="page-head">
+    <div class="chapter__kicker"><span class="micro">Rujukan · Tokoh</span><span class="micro">{len(figures)} nama</span></div>
+    <h1>Tokoh</h1>
+    <p>Orang-orang yang menggerakkan bab-bab di situs ini: dari astronom yang mengukur alam semesta
+    sampai pemuda yang mengetik teks proklamasi. Tiap nama menunjuk ke bab tempat ia muncul.</p>
+  </header>
+  {"".join(sections)}
+</section>
+</main>
+{footer()}
+{search_panel()}"""
+    return page("Tokoh", "Indeks tokoh sejarah dalam Kronik, dari kosmologi sampai Indonesia modern.",
+                body, url="tokoh.html", cls="page-figures")
+
+
 def build_about(chapters):
     raw_sources = sorted({s for c in chapters for s in c["sources"]})
     sources = []
@@ -772,9 +869,11 @@ def build_about(chapters):
   <div class="about-grid">
     <div class="prose notes">
       <h2>Cara membaca</h2>
-      <p>{len(chapters)} bab tersusun kronologis, tetapi tiap bab ditulis supaya bisa dibaca sendirian. Kalau
-      kamu baru datang, mulai dari daftar isi dan ikuti nomornya. Kalau kamu sedang mencari satu peristiwa,
-      kronologi punya {len(json.loads((DATA / 'timeline.json').read_text(encoding='utf-8')))} titik yang bisa disaring.
+      <p>{len(chapters)} bab tersusun kronologis, masing-masing sekitar tiga ribu sampai empat ribu kata, dan
+      ditulis supaya bisa dibaca sendirian. Setiap bab punya daftar isi sendiri di atas, penanda waktu di kepala,
+      catatan di tepi halaman, dan linimasa ringkas di ujungnya. Kalau kamu baru datang, mulai dari daftar isi
+      dan ikuti nomornya. Kalau kamu sedang mencari satu peristiwa, kronologi punya
+      {len(json.loads((DATA / 'timeline.json').read_text(encoding='utf-8')))} titik yang bisa disaring.
       Tombol <em>Cari</em> atau garis miring di kibor membuka pencarian cepat.</p>
       <p>Catatan di tepi halaman — yang bergaris atas tipis — bukan hiasan: isinya angka pembanding, koreksi,
       atau versi lain dari cerita yang sedang dibaca.</p>
@@ -823,6 +922,7 @@ def build_about(chapters):
     <div><b>Isi</b>{len(chapters)} bab · {len(PARTS)} bagian · {word_range(words)} kata</div>
     <div><b>Huruf</b>Instrument Serif · Source Serif 4 · JetBrains Mono</div>
     <div><b>Palet</b>Kertas #f2ebdb · Tinta #1a1610 · Oksida #9c3a1f</div>
+    <div><b>Format</b>{len(chapters)} bab · ± 3.400 kata per bab</div>
     <div><b>Teknis</b>HTML statis, tanpa pelacak</div>
   </div>
 </section>
@@ -890,6 +990,22 @@ def build_search_index(chapters):
             })
     except Exception as exc:  # noqa: BLE001
         print("  ! glosarium dilewati:", exc)
+    if HAS_FIGURES:
+        try:
+            figs = json.loads((DATA / "figures.json").read_text(encoding="utf-8"))
+            by_num = {c["num"]: c for c in chapters}
+            for f in figs:
+                ch = by_num.get(int(f.get("chapter", 0)))
+                entries.append({
+                    "t": f["name"],
+                    "k": "Tokoh" + (f" · Bab {ch['num']:02d}" if ch else ""),
+                    "u": "tokoh.html#" + slug_id(f["name"]),
+                    "d": f.get("life", ""),
+                    "x": f.get("role", ""),
+                })
+        except Exception as exc:  # noqa: BLE001
+            print("  ! tokoh dilewati:", exc)
+
     js = "window.KRONIK_INDEX=" + json.dumps(entries, ensure_ascii=False, separators=(",", ":")) + ";\n"
     (OUT / "assets" / "index-data.js").write_text(js, encoding="utf-8")
     return len(entries)
@@ -905,6 +1021,13 @@ def main():
             shutil.copy(f, OUT / "assets" / f.name)
     shutil.copytree(ROOT / "assets" / "fonts", OUT / "assets" / "fonts")
 
+    global HAS_FIGURES
+    try:
+        figures = json.loads((DATA / "figures.json").read_text(encoding="utf-8"))
+    except Exception:  # noqa: BLE001
+        figures = []
+    HAS_FIGURES = bool(figures)
+
     chapters = load_chapters()
     if not chapters:
         raise SystemExit("Tidak ada bab di content/")
@@ -915,6 +1038,8 @@ def main():
         (OUT / ch["file"]).write_text(build_chapter(ch, chapters), encoding="utf-8")
     (OUT / "kronologi.html").write_text(build_timeline(chapters), encoding="utf-8")
     (OUT / "glosarium.html").write_text(build_glossary(chapters), encoding="utf-8")
+    if HAS_FIGURES:
+        (OUT / "tokoh.html").write_text(build_figures(figures, chapters), encoding="utf-8")
     (OUT / "tentang.html").write_text(build_about(chapters), encoding="utf-8")
     (OUT / "404.html").write_text(build_404(chapters), encoding="utf-8")
 

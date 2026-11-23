@@ -44,7 +44,7 @@
 
 html{
   -webkit-text-size-adjust:100%;
-  scroll-behavior:smooth;
+  scroll-behavior:auto;
   scroll-padding-top:80px;
 }
 @media (prefers-reduced-motion:reduce){
@@ -411,7 +411,10 @@ main{position:relative;z-index:1;padding-top:58px}
   border-bottom:var(--hair);
 }
 .chapter__meta .dates{display:flex;flex-wrap:wrap;gap:8px 22px}
-.chapter__meta .dates span{font-family:var(--mono);font-size:10.5px;color:var(--muted);letter-spacing:.04em}
+.chapter__meta .dates span{
+  font-family:var(--mono);font-size:11px;color:var(--ink-2);letter-spacing:.02em;
+  line-height:1.55;
+}
 .chapter__meta .dates b{color:var(--ink);font-weight:400}
 
 /* pita rentang: posisi bab pada garis waktu */
@@ -918,3 +921,117 @@ main{position:relative;z-index:1;padding-top:58px}
 }
 .rail-hint{display:none;font-family:var(--mono);font-size:9.5px;letter-spacing:.16em;text-transform:uppercase;color:var(--accent)}
 @media (max-width:1000px){.rail-hint{display:block;margin-top:6px}}
+
+/* ————— linimasa bab ————— */
+.linimasa{
+  margin:2.4em 0 0;
+  border-top:1px solid var(--ink);
+  padding-top:14px;
+  break-inside:avoid;
+}
+.linimasa > .micro{display:block;margin-bottom:8px}
+.linimasa ol{list-style:none;margin:0;padding:0}
+.linimasa li{
+  display:grid;
+  grid-template-columns:104px minmax(0,1fr);
+  gap:12px;
+  padding:7px 0;
+  border-bottom:1px solid var(--rule-soft);
+  align-items:baseline;
+}
+.linimasa .lm-when{
+  font-family:var(--mono);
+  font-size:11px;
+  letter-spacing:.03em;
+  color:var(--accent);
+  font-weight:500;
+}
+.linimasa .lm-what{font-size:.94em;line-height:1.45}
+@media (max-width:620px){
+  .linimasa li{grid-template-columns:1fr;gap:2px}
+}
+
+/* ————— daftar isi bab ————— */
+.chapter-toc{
+  margin:clamp(24px,3.4vw,36px) 0 0;
+  border-top:var(--hair);
+  border-bottom:var(--hair);
+  padding:14px 0 10px;
+}
+.chapter-toc > .micro{display:block;margin-bottom:8px}
+.chapter-toc ol{
+  list-style:none;
+  margin:0;padding:0;
+  columns:2;
+  column-gap:clamp(24px,4vw,56px);
+}
+.chapter-toc li{
+  break-inside:avoid;
+  border-bottom:1px solid var(--rule-soft);
+  padding:5px 0;
+}
+.chapter-toc a{
+  display:flex;gap:10px;
+  font-size:.9em;
+  color:var(--ink-2);
+  line-height:1.35;
+}
+.chapter-toc a::before{
+  content:counter(local-toc,decimal-leading-zero);
+  counter-increment:local-toc;
+  font-family:var(--mono);font-size:9.5px;color:var(--muted);padding-top:3px;
+}
+.chapter-toc ol{counter-reset:local-toc}
+.chapter-toc a:hover{color:var(--accent)}
+@media (max-width:720px){.chapter-toc ol{columns:1}}
+
+/* ————— kembali ke atas ————— */
+.to-top{
+  position:fixed;
+  right:18px;bottom:18px;
+  z-index:50;
+  border:1px solid var(--rule);
+  background:var(--paper);
+  color:var(--ink-2);
+  font-family:var(--mono);
+  font-size:10px;
+  letter-spacing:.12em;
+  text-transform:uppercase;
+  padding:10px 12px;
+  cursor:pointer;
+  opacity:0;
+  pointer-events:none;
+  transition:opacity .25s ease,transform .25s ease;
+  transform:translateY(6px);
+}
+.to-top[data-show="true"]{opacity:1;pointer-events:auto;transform:none}
+.to-top:hover{border-color:var(--ink);color:var(--ink)}
+
+/* ————— indeks tokoh ————— */
+.tfigs{list-style:none;margin:0;padding:0}
+.tfig{
+  display:grid;
+  grid-template-columns:minmax(0,300px) minmax(0,1fr) 62px;
+  gap:clamp(10px,2vw,26px);
+  align-items:baseline;
+  padding:10px 0;
+  border-bottom:1px solid var(--rule-soft);
+}
+.tfig__who{display:block;min-width:0}
+.tfig__name{font-size:1.02em;line-height:1.3}
+.tfig__life{
+  font-family:var(--mono);font-size:10px;letter-spacing:.03em;
+  color:var(--muted);white-space:nowrap;margin-left:8px;
+}
+.tfig__role{font-size:.9em;line-height:1.45;color:var(--ink-2)}
+.tfig__ch{
+  font-family:var(--mono);font-size:9.5px;letter-spacing:.1em;
+  text-transform:uppercase;color:var(--accent);text-align:right;white-space:nowrap;
+}
+.tfig__ch:hover{text-decoration:underline}
+@media (max-width:760px){
+  .tfig{grid-template-columns:1fr auto;gap:3px 12px}
+  .tfig__who{grid-column:1/2}
+  .tfig__ch{grid-column:2/3;grid-row:1/2;padding-top:4px}
+  .tfig__role{grid-column:1/3;font-size:.88em}
+}
