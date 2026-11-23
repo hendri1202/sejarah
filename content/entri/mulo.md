@@ -20,7 +20,7 @@ MULO bukan sekolah baru dalam arti bangunan. Sejak 1903 ada kursus MULO yang men
 
 Masa belajar MULO tiga tahun, atau empat tahun bila murid masuk kelas persiapan (*voorklas*) lebih dulu. Murid masuk pada usia sekitar dua belas tahun setelah lulus HIS, sekolah kelas satu, atau ELS. Ijazah MULO menjadi syarat untuk masuk AMS, sekolah guru, dan kemudian sekolah tinggi teknik atau hukum.
 
-Ada dua jurusan. MULO-A lebih banyak bahasa dan pelajaran sosial; MULO-B memberi porsi besar pada aljabar, geometri, dan ilmu alam, dan hanya lulusan B yang bisa melanjutkan ke pendidikan tinggi teknik. Pembagian itu meniru HBS-A dan HBS-B di Belanda, tetapi dengan bahasa pengantar dan guru yang disesuaikan dengan Hindia.
+Ada dua jurusan. MULO-A lebih banyak bahasa dan pelajaran sosial; MULO-B memberi porsi besar pada aljabar, geometri, dan ilmu alam, dan hanya lulusan B yang bisa melanjutkan ke pendidikan tinggi teknik. Pembagian itu meniru HBS-A dan HBS-B di Belanda, tetapi dengan bahasa pengantar dan guru yang disesuaikan dengan Hindia. Jurusan bukan sekadar urusan administratif: ia menentukan mata pelajaran yang diuji dan sekolah tinggi yang boleh dimasuki.
 
 ## Kurikulum dari ijazah
 
@@ -58,4 +58,4 @@ Kritik lain datang dari kalangan pengusaha dan perkebunan. Mereka menganggap MUL
 
 Setelah 1945, MULO menjadi SMP, dan masa belajarnya dipendekkan atau disesuaikan dengan sistem baru. Bangunan, meja, dan papan tulisnya dipakai terus; banyak SMP negeri pertama di kota-kota Indonesia menempati bekas MULO. Guru-gurunya menjadi pengajar pertama sekolah menengah republik, dan buku pelajarannya, yang masih berbahasa Belanda, dipakai sambil diterjemahkan.
 
-Yang bertahan paling lama adalah fungsinya sebagai saringan. Setiap jenjang menengah di Indonesia masih menentukan siapa yang boleh masuk sekolah lanjutan, dan masih memakai bahasa serta biaya sebagai penyaring halus. Sejarah MULO menunjukkan bahwa penambahan sekolah tidak otomatis memperluas kelas terdidik; ia hanya memperbesar kelompok yang bersaing untuk kursi yang jumlahnya tetap sedikit.
+Yang bertahan paling lama adalah fungsinya sebagai saringan. Setiap jenjang menengah di Indonesia masih menentukan siapa yang boleh masuk sekolah lanjutan, dan masih memakai bahasa serta biaya sebagai penyaring halus. Sejarah MULO menunjukkan bahwa penambahan sekolah tidak otomatis memperluas kelas terdidik; ia hanya memperbesar kelompok yang bersaing untuk kursi yang jumlahnya tetap sedikit, dan yang kalah bersaing biasanya berasal dari keluarga yang sama sekali tidak punya ijazah.

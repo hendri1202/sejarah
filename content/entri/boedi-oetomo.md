@@ -28,7 +28,7 @@ Kongres pertama diadakan di Yogyakarta pada 3 sampai 5 Oktober 1908. Saat itu su
 
 Para pelajar STOVIA menyerahkan kepemimpinan kepada orang yang lebih tua. Alasan resminya penghormatan; alasan praktisnya, mereka masih harus menyelesaikan studi. Keputusan itu menentukan watak organisasi: Boedi Oetomo dipimpin pegawai negeri dan bangsawan, bukan pemuda, dan karena itu bergerak hati-hati terhadap pemerintah.
 
-Kongres juga menolak usulan Wahidin agar organisasi mendirikan dana bantuan pendidikan. Penolakan itu mengejutkan, karena dana itulah gagasan asal pendirian. Alasannya, pengurus tidak ingin organisasi baru dibebani urusan keuangan sebelum punya anggota dan cabang yang stabil.
+Kongres juga menolak usulan Wahidin agar organisasi mendirikan dana bantuan pendidikan. Penolakan itu mengejutkan, karena dana itulah gagasan asal pendirian. Alasannya, pengurus tidak ingin organisasi baru dibebani urusan keuangan sebelum punya anggota dan cabang yang stabil. Wahidin kemudian mewujudkan gagasan itu lewat badan lain, dan baru pada 1910-an Boedi Oetomo mendirikan dana sendiri.
 
 :::note
 Pada Juli 1908, Boedi Oetomo memiliki 650 anggota, terdiri dari priyayi rendah dan pelajar. Pada akhir 1909 jumlahnya sekitar 10.000 dengan 40 cabang di Jawa.
@@ -48,9 +48,7 @@ Perpecahan pertama datang cepat. Pada rapat pengurus 9 September 1909 di Yogyaka
 
 Setelah itu, Soewardi Suryaningrat juga keluar. Keduanya kemudian mendirikan Indische Partij pada 1912. Perpecahan itu menandai garis yang bertahan lama: Boedi Oetomo memilih perbaikan bertahap di dalam sistem, sementara kelompok Tjipto memilih politik menentang sistem.
 
-## Sekolah dan dana
-
-Di bawah kepemimpinan Dirodjo pada 1911, organisasi ini mulai mendirikan sekolah. Tercatat tiga sekolah didirikan: satu di Solo dan dua di Yogyakarta. Sultan Hamengkubuwana VIII memberi tanah senilai 100.000 gulden dan hibah 45.000 gulden; dana bantuan pendidikan Darma Wara mendapat bantuan pemerintah 50.000 gulden.
+Perpecahan itu tidak menghentikan organisasi. Di bawah kepemimpinan Dirodjo pada 1911, Boedi Oetomo mulai mendirikan sekolah. Tercatat tiga sekolah didirikan: satu di Solo dan dua di Yogyakarta. Sultan Hamengkubuwana VIII memberi tanah senilai 100.000 gulden dan hibah 45.000 gulden; dana bantuan pendidikan Darma Wara mendapat bantuan pemerintah 50.000 gulden.
 
 Sekolah-sekolah itu kecil dan berbahasa Belanda, sehingga hanya melayani anak priyayi. Namun jumlahnya menunjukkan perubahan: organisasi yang semula hanya membahas kebudayaan sekarang mengelola lembaga. Model itu kemudian ditiru organisasi lain, terutama Muhammadiyah, yang membangun sekolah dalam jumlah jauh lebih besar.
 
@@ -60,7 +58,7 @@ Sekolah-sekolah itu kecil dan berbahasa Belanda, sehingga hanya melayani anak pr
 
 Setelah 1920, Boedi Oetomo kehilangan tenaga. Anggotanya menua, cabangnya berkurang, dan isu politik ditarik oleh partai-partai baru. Soetomo, yang kembali dari Belanda, mendirikan Indonesische Studieclub pada 1924 dan Partai Bangsa Indonesia pada 1930, yang lebih radikal daripada Boedi Oetomo.
 
-Pada Januari 1934 dibentuk komisi gabungan Boedi Oetomo–PBI untuk membahas peleburan. Kesepakatannya tercapai, dan pada kongres 24 sampai 26 Desember 1935 di Solo, Boedi Oetomo melebur ke dalam Partai Indonesia Raya (Parindra). Dengan itu berakhirlah organisasi yang selama 27 tahun menjadi sekolah politik bagi kaum priyayi.
+Pada Januari 1934 dibentuk komisi gabungan Boedi Oetomo–PBI untuk membahas peleburan. Kesepakatannya tercapai, dan pada kongres 24 sampai 26 Desember 1935 di Solo, Boedi Oetomo melebur ke dalam Partai Indonesia Raya (Parindra). Dengan itu berakhirlah organisasi yang selama 27 tahun menjadi sekolah politik bagi kaum priyayi, dan yang anggotanya kemudian memenuhi kursi administrasi di kantor-kantor pemerintah daerah.
 
 ## Warisan
 

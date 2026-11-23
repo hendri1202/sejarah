@@ -52,7 +52,7 @@ Simon menuntut Tirto dengan tuduhan penghinaan. Tirto sempat menang, tetapi sete
 
 ## Pailit dan tutup
 
-Tekanan politik dan keuangan akhirnya menghentikan surat kabar itu. Pemerintah mempersulit kerja sama iklan dan penjualan saham, sementara biaya cetak naik. Edisi terakhir yang tercatat terbit pada 3 Januari 1912. Pada 22 Agustus 1912, *Medan Prijaji* dinyatakan pailit dan ditutup; Tirto masih harus menghadapi tuntutan dan sempat disandera kreditornya.
+Tekanan politik dan keuangan akhirnya menghentikan surat kabar itu. Pemerintah mempersulit kerja sama iklan dan penjualan saham, sementara biaya cetak naik. Edisi terakhir yang tercatat terbit pada 3 Januari 1912. Pada 22 Agustus 1912, *Medan Prijaji* dinyatakan pailit dan ditutup; Tirto masih harus menghadapi tuntutan dan sempat disandera kreditornya, sebuah akhir yang mirip dengan nasib banyak surat kabar pribumi pada masa itu.
 
 Tanggal berakhirnya sering ditulis berbeda. Sebagian catatan populer menyebut 1917, tetapi arsip surat kabar yang bertanggal menunjukkan edisi terakhir pada awal 1912. Perbedaan itu penting karena mengubah gambaran tentang berapa lama pers pribumi bisa bertahan tanpa modal besar.
 
@@ -60,4 +60,4 @@ Tanggal berakhirnya sering ditulis berbeda. Sebagian catatan populer menyebut 19
 
 *Medan Prijaji* menutup dengan utang, tetapi membuka jalan. Setelah 1912 muncul *Sarotomo*, *Soeloeh Indonesia*, dan *Daulat Ra'jat*, semuanya mengaku melanjutkan model yang dirintis Tirto: surat kabar yang dimiliki pergerakan, ditulis untuk pembaca pribumi, dan tidak takut berperkara.
 
-Tirto meninggal pada 1918 dalam keadaan miskin. Ia kemudian disebut Bapak Pers Nasional, dan tanggal kelahiran *Medan Prijaji* dipakai sebagai titik awal jurnalisme advokasi di Indonesia. Namun warisannya lebih luas dari itu: ia menunjukkan bahwa pers pribumi bisa hidup dari pelanggan sendiri, dan bahwa kebebasan pers di Hindia selalu berbayar.
+Tirto meninggal pada 1918 dalam keadaan miskin. Ia kemudian disebut Bapak Pers Nasional, dan tanggal kelahiran *Medan Prijaji* dipakai sebagai titik awal jurnalisme advokasi di Indonesia. Namun warisannya lebih luas dari itu: ia menunjukkan bahwa pers pribumi bisa hidup dari pelanggan sendiri, dan bahwa kebebasan pers di Hindia selalu berbayar — dengan uang, dengan pengasingan, atau dengan kedua-duanya.

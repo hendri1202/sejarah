@@ -12,7 +12,7 @@ sources:
   - "M.C. Ricklefs, A History of Modern Indonesia since c. 1200 (2008)"
 ---
 
-Pada Sabtu malam, 22 Desember 1928, pendopo Dalem Jayadipuran di Yogyakarta dipenuhi perempuan yang datang dari berbagai kota. Kongres Perempuan Indonesia pertama dibuka, empat bulan setelah Sumpah Pemuda. Hadir lebih dari seribu orang dari 30 organisasi perempuan di 12 kota di Jawa dan Sumatera.
+Pada Sabtu malam, 22 Desember 1928, pendopo Dalem Jayadipuran di Yogyakarta dipenuhi perempuan yang datang dari berbagai kota. Kongres Perempuan Indonesia pertama dibuka, hampir dua bulan setelah Sumpah Pemuda. Hadir lebih dari seribu orang dari 30 organisasi perempuan di 12 kota di Jawa dan Sumatera.
 
 Ketua kongres adalah Ny. Sukonto. Di antara pembicara ada Siti Munjiyah dari Aisyiyah, yang berorasi tentang pendidikan perempuan dan agama. Pesertanya campuran: guru, istri pegawai, aktivis organisasi Islam, perkumpulan kebangsaan, dan klub perempuan di kota-kota kecil.
 
@@ -33,7 +33,7 @@ Perdebatan tentang perkawinan paling sensitif. Sebagian peserta mengusulkan agar
 Kehadiran organisasi Islam besar menentukan nada kongres. Aisyiyah, sayap perempuan Muhammadiyah, mengirim beberapa pembicara dan menekankan pentingnya pendidikan agama bagi anak perempuan. Perkumpulan perempuan dari lingkungan kebangsaan menekankan sekolah dan pekerjaan. Keduanya bisa duduk dalam satu kongres karena agenda yang dibahas — sekolah, kesehatan, perlindungan hukum — tidak menuntut kesepakatan teologis.
 
 :::note
-Kongres dihadiri lebih dari seribu orang dari 30 organisasi di 12 kota. Biaya kongres ditanggung iuran organisasi peserta dan sumbangan tokoh setempat, bukan subsidi pemerintah.
+Kongres dihadiri lebih dari seribu orang dari 30 organisasi di 12 kota. Angka itu berasal dari laporan panitia; tidak ada daftar hadir lengkap yang tersimpan, sehingga jumlah pastinya tidak bisa dipastikan.
 :::
 
 ## Hasil: PPPI dan tiga mosi
@@ -42,13 +42,15 @@ Kongres memutuskan mendirikan Perikatan Perkumpulan Perempuan Indonesia (PPPI), 
 
 Selain itu, kongres memutuskan mendirikan dana studi untuk anak perempuan yang tidak mampu membayar sekolah, memajukan kepanduan putri, dan mencegah perkawinan di bawah umur. Tiga mosi dikirim kepada pemerintah Hindia Belanda: menambah sekolah untuk anak perempuan, mewajibkan pemberian keterangan taklik pada pernikahan, dan mengadakan peraturan sokongan untuk janda serta anak yatim pegawai negeri.
 
+PPPI bekerja sebagai federasi: setiap organisasi anggota tetap mengurus sekolah dan kegiatannya sendiri, sementara PPPI menjadi tempat bertukar laporan dan menyusun tuntutan bersama. Karena tidak punya anggaran tetap, kegiatannya bergantung pada organisasi yang menjadi tuan rumah pertemuan berikutnya. Model itu membuat PPPI lentur, tetapi juga mudah melemah bila salah satu organisasi besar menarik diri.
+
 > Kongres ini tidak meminta hak pilih; ia meminta sekolah, perlindungan dalam perkawinan, dan jaminan bagi perempuan yang ditinggal mati suaminya.
 
 ## Perpecahan yang datang kemudian
 
 PPPI tidak bertahan sebagai organisasi tunggal. Pada 1930-an terjadi perdebatan tentang apakah federasi boleh terlibat dalam politik praktis, dan tentang hubungan dengan organisasi keagamaan. Sebagian anggota ingin PPPI mendukung tuntutan kemerdekaan secara terbuka; sebagian lain ingin tetap bergerak di bidang sosial dan pendidikan.
 
-Perpecahan itu mencerminkan perbedaan kepentingan di antara perempuan sendiri. Aktivis dari keluarga priyayi menekankan pendidikan dan hukum perkawinan; perempuan buruh menekankan upah dan jam kerja; perempuan Islam menekankan peran ibu dan agama. Kongres berhasil menyatukan mereka untuk tiga hari, tetapi tidak bisa menyatukan agenda untuk dua puluh tahun.
+Perpecahan itu mencerminkan perbedaan kepentingan di antara perempuan sendiri. Aktivis dari keluarga priyayi menekankan pendidikan dan hukum perkawinan; perempuan buruh menekankan upah dan jam kerja; perempuan Islam menekankan peran ibu dan agama. Kongres berhasil menyatukan mereka untuk tiga hari, tetapi tidak bisa menyatukan agenda untuk dua puluh tahun. Perbedaan itu tidak menghapus hasil kongres; ia hanya membuat federasi sulit berbicara dengan satu suara.
 
 ## Hari Ibu
 

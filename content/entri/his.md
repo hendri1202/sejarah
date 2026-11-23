@@ -27,7 +27,7 @@ Pemisahan itu tidak hanya soal bahasa. ELS dan HIS memakai kurikulum yang hampir
 
 Anak masuk HIS pada usia enam tahun tanpa taman kanak-kanak dan belajar tujuh tahun. Pelajarannya: bahasa Belanda lisan dan tulisan, bahasa Melayu, berhitung, ilmu bumi, sejarah, ilmu alam, menggambar, dan menyanyi. Bahasa Belanda bukan hanya mata pelajaran; ia dipakai untuk mengajar hampir semua mata pelajaran lain sejak kelas tiga.
 
-Naik kelas ditentukan ujian, bukan usia. Murid yang gagal dua kali harus keluar, dan karena biaya sekolah ditanggung orang tua, keluarga miskin jarang bisa mempertahankan anaknya sampai kelas tujuh. Di kota-kota, HIS menjadi sekolah bergengsi: anak pegawai, pedagang, dan priyayi berlomba masuk karena ijazahnya membuka pintu ke pekerjaan administratif.
+Naik kelas ditentukan ujian, bukan usia. Murid yang gagal dua kali harus keluar, dan karena biaya sekolah ditanggung orang tua, keluarga miskin jarang bisa mempertahankan anaknya sampai kelas tujuh. Ujian kenaikan kelas diadakan setiap tahun dengan soal tertulis dalam bahasa Belanda, dan nilai bahasa itulah yang paling menentukan. Di kota-kota, HIS menjadi sekolah bergengsi: anak pegawai, pedagang, dan priyayi berlomba masuk karena ijazahnya membuka pintu ke pekerjaan administratif.
 
 :::note
 Pada 1930 ada 786 sekolah berbahasa Belanda di Hindia Belanda, milik pemerintah, kotapraja, dan swasta, dengan sekitar 60 persen murid pribumi. Pada 1920 jumlahnya 382 sekolah, dengan murid pribumi sekitar separuh.

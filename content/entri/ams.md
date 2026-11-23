@@ -5,7 +5,7 @@ era: kolonial
 years: 1919–1942
 tags: [pendidikan, elite, kolonial]
 chapter: 17
-dek: Sekolah menengah atas pertama untuk pribumi, dibuka di Yogyakarta pada 1919, meluluskan lebih banyak pribumi dalam sepuluh tahun daripada HBS dalam enam puluh tahun
+dek: Sekolah menengah atas pertama untuk pribumi: dalam sepuluh tahun meluluskan lebih banyak pribumi daripada HBS dalam enam puluh tahun
 sources:
   - "M.C. Ricklefs, A History of Modern Indonesia since c. 1200 (2008)"
   - "H. Kroeskamp, Early Schoolmasters in a Developing Country (1974)"
@@ -32,7 +32,7 @@ Pembagian itu menentukan tujuan murid. Lulusan B bisa masuk sekolah tinggi tekni
 
 Pada 1922 AMS B Yogyakarta meluluskan angkatan pertamanya: 32 orang. Tiga belas di antaranya berkebangsaan Eropa, empat belas pribumi, dan lima keturunan Tionghoa. Hanya tiga orang perempuan. Dari 32 lulusan itu, dua belas langsung melanjutkan ke *Technische Hoogeschool* di Bandung, dan sebagian lainnya berangkat belajar ke Belanda.
 
-Komposisi itu penting karena menunjukkan dua hal sekaligus. Pertama, AMS memang membuka jalan bagi pribumi: hampir separuh lulusan pertamanya bukan orang Eropa. Kedua, jumlahnya sangat kecil. Tiga puluh dua orang untuk seluruh Hindia Belanda pada tahun ketiga berdirinya sekolah itu bukan perluasan pendidikan, melainkan pemilihan.
+Komposisi itu penting karena menunjukkan dua hal sekaligus. Pertama, AMS memang membuka jalan bagi pribumi: hampir separuh lulusan pertamanya bukan orang Eropa. Kedua, jumlahnya sangat kecil. Tiga puluh dua orang untuk seluruh Hindia Belanda pada tahun ketiga berdirinya sekolah itu bukan perluasan pendidikan, melainkan pemilihan. Tiga perempuan di antara mereka menandakan bahwa sekolah menengah atas bagi anak perempuan masih merupakan pengecualian.
 
 :::note
 Dalam sepuluh tahun pertama, AMS B Yogyakarta meluluskan 292 murid. Seratus enam puluh delapan di antaranya pribumi, sekitar 57,5 persen. Dalam enam puluh tahun lebih keberadaan HBS di Hindia Belanda, tercatat hanya 147 lulusan pribumi.

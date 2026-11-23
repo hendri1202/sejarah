@@ -36,7 +36,7 @@ Jumlahnya kecil. Selama delapan belas tahun berdiri, sekolah ini meluluskan 189 
 
 ## Karier yang terbatas
 
-Lulusan Rechtsschool tidak otomatis menjadi hakim. Jabatan hakim tetap dipegang orang Eropa, dan orang pribumi hanya bisa menjadi anggota Landraad dengan wewenang terbatas atau panitera. Beberapa lulusan menjadi jaksa pembantu, notaris, atau pegawai departemen kehakiman.
+Lulusan Rechtsschool tidak otomatis menjadi hakim. Jabatan hakim tetap dipegang orang Eropa, dan orang pribumi hanya bisa menjadi anggota Landraad dengan wewenang terbatas atau panitera. Beberapa lulusan menjadi jaksa pembantu, notaris, atau pegawai departemen kehakiman; yang paling beruntung mendapat jabatan di kota besar, sementara yang lain ditempatkan di kabupaten terpencil tanpa tambahan penghasilan.
 
 Batasan itu menimbulkan kekecewaan. Orang yang sudah belajar hukum Belanda selama bertahun-tahun tetap tidak boleh memutus perkara orang Eropa, dan gajinya lebih rendah daripada kolega Belanda dengan pekerjaan yang sama. Kekecewaan itu muncul dalam tulisan-tulisan pers pergerakan pada 1910-an, dan menjadi salah satu alasan mengapa kaum terdidik hukum kemudian banyak masuk politik.
 
@@ -58,6 +58,6 @@ Kritik atas pendekatan itu muncul pada 1920-an. Sarjana seperti Soepomo dan van 
 
 ## Warisan
 
-Setelah kemerdekaan, pendidikan hukum berkembang lewat fakultas hukum di berbagai universitas. Namun pola lama bertahan: sekolah hukum menghasilkan lebih banyak lulusan daripada jumlah jabatan yang tersedia, dan lulusan dari kota besar lebih mudah masuk ke lembaga negara daripada lulusan dari daerah.
+Setelah kemerdekaan, pendidikan hukum berkembang lewat fakultas hukum di berbagai universitas. Namun pola lama bertahan: sekolah hukum menghasilkan lebih banyak lulusan daripada jumlah jabatan yang tersedia, dan lulusan dari kota besar lebih mudah masuk ke lembaga negara daripada lulusan dari daerah. Banyak lulusan Rechtsschool yang kemudian menjadi panitera di kota kelahirannya dan bekerja di sana sampai pensiun.
 
-Sejarah Rechtsschool juga menjelaskan mengapa hukum kolonial diwarisi begitu utuh. Karena orang pribumi dilatih untuk menjalankan aturan, bukan untuk menantangnya, sistem itu bertahan setelah pemerintahan kolonial berakhir. Pertanyaan tentang siapa yang berhak menafsirkan hukum baru diajukan jauh kemudian, dan sebagian belum terjawab.
+Sejarah Rechtsschool juga menjelaskan mengapa hukum kolonial diwarisi begitu utuh. Karena orang pribumi dilatih untuk menjalankan aturan, bukan untuk menantangnya, sistem itu bertahan setelah pemerintahan kolonial berakhir. Pertanyaan tentang siapa yang berhak menafsirkan hukum baru diajukan jauh kemudian, dan sebagian belum terjawab — terutama tentang kedudukan hukum adat di dalam sistem hukum nasional yang dibangun setelah 1945.

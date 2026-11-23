@@ -46,18 +46,18 @@ Antara 1917 dan 1942 Balai Pustaka menerbitkan sekitar 2.000 judul. Pada 1930 sa
 
 Balai Pustaka menyensor. Naskah yang dianggap menghina pemerintah, mengajarkan Marxisme, atau menyinggung seks tidak diterbitkan. Beberapa penulis mengaku menerima surat dari penyunting yang meminta bagian tertentu dihapus, dan sebagian memilih menerbitkan sendiri.
 
-Kebijakan itu menimbulkan pasar bayangan yang disebut *bacaan liar*: roman picisan, pamflet, dan cerita detektif yang dicetak di percetakan kecil dan dijual di pasar. Pemerintah berusaha menekannya, tetapi gagal, karena harganya lebih murah dan isinya lebih menghibur daripada buku Balai Pustaka.
+Kebijakan itu menimbulkan pasar bayangan yang disebut *bacaan liar*: roman picisan, pamflet, dan cerita detektif yang dicetak di percetakan kecil dan dijual di pasar. Pemerintah berusaha menekannya, tetapi gagal, karena harganya lebih murah dan isinya lebih menghibur daripada buku Balai Pustaka. Beberapa penulis yang ditolak Balai Pustaka justru menjadi populer lewat jalur ini.
 
 > Balai Pustaka mencetak buku murah untuk rakyat, dan memilih dengan hati-hati apa yang boleh dibaca rakyat.
 
 ## Jumlah dan jangkauan
 
-Angka 2.000 judul dalam 25 tahun berarti sekitar 80 judul baru setahun. Jumlah itu kecil bila dibandingkan dengan kebutuhan sekolah, tetapi besar bila dibandingkan dengan penerbit pribumi yang modalnya terbatas. Sebagian besar buku dicetak dalam jumlah 2.000 sampai 5.000 eksemplar, dan cetak ulang hanya dilakukan bila stok habis.
+Angka 2.000 judul dalam 25 tahun berarti sekitar 80 judul baru setahun. Jumlah itu kecil bila dibandingkan dengan kebutuhan sekolah, tetapi besar bila dibandingkan dengan penerbit pribumi yang modalnya terbatas. Cetakan pertama biasanya hanya beberapa ribu eksemplar, dan cetak ulang dilakukan bila stok habis. Karena itu, buku yang laku keras bisa hilang dari pasaran selama bertahun-tahun sebelum dicetak lagi.
 
-Jangkauannya tidak merata. Perpustakaan Balai Pustaka terkonsentrasi di Jawa dan kota-kota besar di Sumatera; di luar Jawa, distribusi bergantung pada kapal dan kantor pos. Buku yang sampai di sekolah pedalaman sering dalam kondisi rusak, dan guru tidak punya waktu untuk mengurus peminjaman.
+Jangkauannya tidak merata. Perpustakaan Balai Pustaka terkonsentrasi di Jawa dan kota-kota besar di Sumatera; di luar Jawa, distribusi bergantung pada kapal dan kantor pos. Buku yang sampai di sekolah pedalaman sering dalam kondisi rusak, dan guru tidak punya waktu untuk mengurus peminjaman. Di beberapa tempat, buku lebih sering dipakai sebagai alat peraga daripada dibaca sampai habis.
 
 ## Setelah 1942
 
-Pada masa pendudukan Jepang, Balai Pustaka berganti nama menjadi *Gunseikanbu Kokumin Tosyokyoku*, biro pustaka pemerintah militer. Setelah 1945 lembaga itu kembali menjadi Balai Pustaka, lalu menjadi perusahaan negara, dan sekarang menjadi badan usaha milik negara.
+Pada masa pendudukan Jepang, Balai Pustaka berganti nama menjadi *Gunseikanbu Kokumin Tosyokyoku*, biro pustaka pemerintah militer. Setelah 1945 lembaga itu kembali menjadi Balai Pustaka, lalu menjadi perusahaan negara, dan sekarang menjadi badan usaha milik negara yang menerbitkan buku pelajaran serta buku umum.
 
 Warisan terbesarnya adalah bahasa. Sebelum 1917 tidak ada lembaga yang membakukan ejaan dan istilah Melayu secara sistematis untuk pasar luas. Balai Pustaka melakukannya, dan standar itu dipakai oleh sekolah, surat kabar, dan penerbit lain. Ketika bahasa Indonesia ditetapkan sebagai bahasa persatuan pada 1928, ia sudah punya buku, majalah, dan pembaca yang terbentuk oleh lembaga ini.

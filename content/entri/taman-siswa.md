@@ -52,8 +52,6 @@ Taman Siswa memimpin protes. Ki Hadjar mengeluarkan surat edaran dan menggerakka
 
 > Sekolah ini tidak meminta izin untuk mengajarkan budaya sendiri, dan justru karena itu pemerintah merasa perlu mengaturnya.
 
-## Angka dan batas
-
 Pada 1930, sekolah liar di seluruh Hindia Belanda menampung sekitar 130.000 murid, dua kali jumlah murid sekolah pemerintah. Angka itu menunjukkan besarnya kebutuhan pendidikan yang tidak dipenuhi pemerintah, sekaligus kecilnya proporsi anak yang bersekolah: 130.000 murid tetap sebagian kecil dari anak usia sekolah di pulau yang berpenduduk puluhan juta.
 
 Taman Siswa juga menghadapi kritik dari dalam. Sebagian anggotanya ingin organisasi ini masuk politik praktis, terutama setelah 1932 ketika banyak aktivis Partindo dan PNI Baru bergabung. Ki Hadjar menolak, dan berhasil mempertahankan Taman Siswa sebagai lembaga pendidikan. Perdebatan itu berulang setiap kali organisasi pendidikan menghadapi tawaran politik.

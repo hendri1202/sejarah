@@ -32,7 +32,7 @@ Jumlah anggota SI melonjak pada 1916 sampai 1919. Menurut klaim organisasi, pada
 Pemerintah kolonial bereaksi dengan dua cara. Pertama, mengakui SI sebagai badan hukum dan mengizinkannya mengirim wakil ke Volksraad pada 1917, yaitu Tjokroaminoto. Kedua, menolak mengakui cabang-cabang secara terpisah, sehingga SI pusat harus bertanggung jawab atas tindakan cabang yang radikal. Kedua kebijakan itu melemahkan SI dari dalam.
 
 :::note
-Klaim 2,5 juta anggota pada 1919 lebih besar daripada jumlah anggota organisasi mana pun di Hindia Belanda saat itu. Sejarawan menganggap angka itu sebagai klaim politik, bukan hasil pencatatan, karena banyak cabang tidak mengirim daftar anggota ke pusat.
+Klaim 2,5 juta anggota pada 1919 lebih besar daripada organisasi mana pun di Hindia saat itu. Sejarawan membacanya sebagai klaim politik, bukan hasil pencatatan, karena banyak cabang tidak mengirim daftar anggota ke pusat.
 :::
 
 ## Kongres Bandung 1916

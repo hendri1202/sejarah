@@ -40,6 +40,8 @@ Kongres menghasilkan sembilan butir putusan. Isinya antara lain: menyusun tata b
 
 Butir lain menyangkut pendidikan: bahasa Indonesia dijadikan mata pelajaran wajib di sekolah pribumi, dan diusulkan agar dipakai dalam rapat-rapat Volksraad. Usul terakhir itu segera dijalankan oleh Fraksi Nasional pimpinan Mohammad Husni Thamrin, yang menyatakan akan memakai bahasa Indonesia di Dewan Rakyat.
 
+Putusan-putusan itu tidak semuanya bisa dilaksanakan. Pemerintah kolonial tidak berkewajiban menjalankan hasil kongres, dan anggaran untuk institut bahasa tidak tersedia. Yang berjalan adalah bagian yang tidak memerlukan undang-undang: sekolah swasta dan surat kabar mulai memakai pedoman yang disepakati, dan guru-guru bahasa memakai rumusan kongres di kelas.
+
 ## Bahasa Melayu yang berubah
 
 Perdebatan paling tajam menyangkut asal bahasa. Sebagian peserta berpendapat bahasa Indonesia adalah bahasa Melayu Riau yang dipakai apa adanya; sebagian lain berpendapat ia sudah berubah karena dipakai oleh penutur di seluruh Nusantara. Ki Hadjar merumuskan jalan tengah: bahasa Indonesia berasal dari Melayu Riau, tetapi telah ditambah, diubah, dan dikurangi sesuai keperluan zaman.

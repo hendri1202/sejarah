@@ -12,7 +12,7 @@ sources:
   - "Sartono Kartodirdjo (ed.), Sejarah Nasional Indonesia V (1977)"
 ---
 
-Sabtu pagi, 3 Juli 1920, *Technische Hoogeschool te Bandoeng* dibuka di Barakgebouw B, sebuah bangunan bekas barak militer di Bandung. Gubernur jenderal tidak hadir, tetapi anggota Dewan Hindia, anggota Volksraad, dan para kepala keraton Jawa datang. Hari itu dinyatakan sebagai hari libur umum di Bandung; sekolah dan bank tutup.
+Sabtu pagi, 3 Juli 1920, *Technische Hoogeschool te Bandoeng* dibuka di Barakgebouw B, sebuah bangunan bekas barak militer di Bandung. Anggota Dewan Hindia, anggota Volksraad, para direktur departemen, dan kepala keraton Jawa datang. Hari itu dinyatakan sebagai hari libur umum di Bandung; sekolah dan bank tutup.
 
 Dua hari kemudian, 5 Juli 1920, kuliah pertama dimulai dengan 22 mahasiswa. Jumlah itu bertambah menjadi 28 mahasiswa reguler: 22 orang Eropa, dua di antaranya perempuan, dua orang pribumi, dan empat keturunan Tionghoa. Lima orang lain mendaftar sebagai pendengar untuk kuliah matematika dan fisika.
 
@@ -30,7 +30,7 @@ Kurikulumnya meniru TH Delft: matematika, mekanika, fisika, bahan bangunan, hidr
 
 Uang kuliah 200 gulden setahun, jumlah yang pada 1920 kira-kira setara biaya hidup beberapa bulan seorang juru tulis. Mahasiswa yang tidak mampu bisa meminta keringanan, tetapi beasiswa penuh jarang. Karena itu, mahasiswa pribumi di TH Bandung umumnya berasal dari keluarga yang sudah mapan.
 
-Dua mahasiswa perempuan di angkatan pertama adalah hal baru di Hindia: sekolah tinggi teknik di Belanda sendiri baru menerima perempuan beberapa tahun sebelumnya. Mereka belajar di kelas yang sama dengan laki-laki, mengikuti praktikum, dan menghadapi ujian yang sama. Kehadiran mereka tidak banyak diberitakan, tetapi tercatat dalam daftar mahasiswa dan menjadi penanda kecil bahwa sekolah ini bukan sekolah untuk satu jenis kelamin.
+Dua mahasiswa perempuan di angkatan pertama adalah hal baru di Hindia: perempuan di sekolah tinggi teknik masih sangat jarang pada 1920, baik di Hindia maupun di Belanda. Mereka belajar di kelas yang sama dengan laki-laki, mengikuti praktikum, dan menghadapi ujian yang sama. Kehadiran mereka tidak banyak diberitakan, tetapi tercatat dalam daftar mahasiswa dan menjadi penanda kecil bahwa sekolah ini bukan sekolah untuk satu jenis kelamin.
 
 :::note
 Pada tahun akademik pertama, 28 mahasiswa reguler membayar 200 gulden setahun. Dari jumlah itu, hanya dua orang pribumi; tiga mahasiswa keluar sebelum tahun pertama berakhir, termasuk satu-satunya mahasiswa pribumi di angkatan itu.

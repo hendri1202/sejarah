@@ -26,13 +26,13 @@ Tjipto Mangoenkoesoemo adalah dokter lulusan STOVIA yang menulis di *De Locomoti
 
 Program partai bertumpu pada satu gagasan: *Indië voor de Indiërs*, Hindia untuk orang Hindia. Yang dimaksud bukan hanya pribumi, tetapi semua orang yang lahir dan tinggal di Hindia, termasuk Indo-Eropa, Tionghoa, dan Arab. Partai menuntut kesetaraan hukum, pemerintahan sendiri, dan pemisahan Hindia dari Belanda.
 
-Gagasan itu radikal karena memindahkan garis konflik. Organisasi lain memperjuangkan "pribumi melawan Eropa"; Indische Partij memperjuangkan "penduduk Hindia melawan pemerintah kolonial". Dengan rumusan itu, orang Indo yang selama ini menjadi lapisan menengah bisa diajak bergabung.
+Gagasan itu radikal karena memindahkan garis konflik. Organisasi lain memperjuangkan "pribumi melawan Eropa"; Indische Partij memperjuangkan "penduduk Hindia melawan pemerintah kolonial". Dengan rumusan itu, orang Indo yang selama ini menjadi lapisan menengah bisa diajak bergabung, dan garis pemisahnya bukan lagi warna kulit melainkan tempat lahir serta kepentingan.
 
 ## Anggota dalam empat bulan
 
 Pertumbuhan partai ini cepat. Dalam waktu empat bulan setelah pembentukannya, ia mengklaim 25 cabang dan 5.775 anggota. Cabang Surabaya 827 orang, Semarang 1.375, Batavia 809, dan Bandung 740. Jumlah totalnya kemudian disebut sekitar 7.000, dengan sekitar 1.000 di antaranya pribumi.
 
-Angka itu besar untuk partai yang baru berdiri, tetapi harus dibaca sebagai tanda keresahan, bukan kekuatan terorganisasi. Banyak anggota bergabung setelah menghadiri rapat umum, tanpa membayar iuran atau memahami program. Partai belum punya mesin organisasi seperti SI atau Budi Utomo.
+Angka itu besar untuk partai yang baru berdiri, tetapi harus dibaca sebagai tanda keresahan, bukan kekuatan terorganisasi. Banyak anggota bergabung setelah menghadiri rapat umum, tanpa membayar iuran atau memahami program. Partai belum punya mesin organisasi seperti SI atau Budi Utomo, dan kasnya bergantung pada sumbangan beberapa tokoh di kota besar.
 
 :::note
 Pada rapat di Semarang, 18 September 1912, sekitar 300 orang datang mendengarkan pidato Douwes Dekker. Rapat umum seperti itu adalah cara kampanye baru di Hindia, dan pemerintah mengawasinya dengan curiga.
@@ -52,8 +52,6 @@ Artikel itu diterbitkan di *De Expres* pada Juli 1913. Pemerintah menuntut Soewa
 
 > Partai ini dibubarkan sebelum sempat memilih dewan, dan justru karena itu namanya diingat.
 
-## Pengasingan dan kembalinya
-
 Douwes Dekker kembali pada 1917, Soewardi pada 1918, dan Tjipto pada 1914 karena sakit. Setelah kembali, mereka menempuh jalan berbeda: Tjipto masuk politik dan kemudian menjadi anggota PNI; Soewardi mendirikan Taman Siswa pada 1922; Douwes Dekker mendirikan Ksatrian Instituut dan kemudian menolak bekerja sama dengan pemerintah.
 
 Indische Partij sendiri tidak bangkit. Insulinde melanjutkan sebagian kegiatannya, tetapi tidak pernah sebesar partai asalnya. Gagasan "Hindia untuk orang Hindia" tetap hidup dalam nama organisasi dan dalam debat tentang siapa yang termasuk bangsa Indonesia.
@@ -64,4 +62,4 @@ Kegagalan itu juga mengubah taktik pergerakan. Setelah 1913, organisasi baru leb
 
 Indische Partij penting karena tiga hal: ia partai pertama, ia menuntut kemerdekaan secara terbuka, dan ia mencoba menyatukan pribumi dengan Indo-Eropa. Ketiganya gagal dalam waktu kurang dari setahun, tetapi kegagalan itu menunjukkan batas ruang politik di Hindia Belanda.
 
-Bagi pemerintah kolonial, partai ini membuktikan bahwa pers dan rapat umum bisa menggerakkan massa lebih cepat daripada organisasi budaya. Sejak 1913, izin rapat dan sensor pers diperketat. Bagi pergerakan, pengasingan tiga tokohnya menjadi pelajaran bahwa tuntutan politik yang terbuka akan dijawab dengan kekuasaan, bukan dengan perundingan. Pelajaran itu diingat ketika partai-partai berikutnya memilih kata "kemerdekaan" dengan lebih hati-hati di dalam anggaran dasarnya.
+Bagi pemerintah kolonial, partai ini membuktikan bahwa pers dan rapat umum bisa menggerakkan massa lebih cepat daripada organisasi budaya. Sejak 1913, izin rapat dan sensor pers diperketat. Bagi pergerakan, pengasingan tiga tokohnya menjadi pelajaran bahwa tuntutan politik yang terbuka dijawab dengan kekuasaan, bukan perundingan — pelajaran yang membentuk gaya politik kaum pergerakan pada 1920-an dan 1930-an.

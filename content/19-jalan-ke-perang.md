@@ -97,7 +97,7 @@ Organisasi Islam tumbuh dengan cara lain. Muhammadiyah dan Nahdlatul Ulama memba
 
 ## Volksraad dan Petisi Soetardjo
 
-Di dalam sistem, jalan yang tersedia adalah dewan. Volksraad, yang dibuka pada 1918, beranggotakan enam puluh orang: separuhnya diangkat pemerintah, separuhnya dipilih melalui badan pemilih yang sempit. Ia hanya berwenang memberi nasihat dan mengajukan petisi; ia tidak bisa menjatuhkan pemerintah dan tidak bisa membuat undang-undang.
+Di dalam sistem, jalan yang tersedia adalah dewan. Volksraad yang dibuka pada 1918 beranggotakan tiga puluh sembilan orang: separuhnya diangkat pemerintah, separuhnya dipilih melalui badan pemilih yang sempit. Jumlahnya naik menjadi empat puluh delapan pada 1924 dan enam puluh pada 1939. Ia hanya berwenang memberi nasihat dan mengajukan petisi; ia tidak bisa menjatuhkan pemerintah dan tidak bisa membuat undang-undang.
 
 Pada 15 Juli 1936, Soetardjo Kartohadikusumo, seorang bangsawan Jawa dan ketua persatuan pegawai pamong praja, mengajukan petisi yang meminta Hindia dijanjikan kemerdekaan dalam kerangka persemakmuran Belanda, dengan parlemen yang dipilih rakyat dan langkah-langkah menuju pemerintahan sendiri dalam sepuluh tahun. Petisi itu kemudian didukung dua puluh enam anggota dewan dalam pemungutan suara, termasuk tokoh dari berbagai aliran.
 
