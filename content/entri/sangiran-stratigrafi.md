@@ -13,58 +13,50 @@ sources:
   - "UNESCO World Heritage Centre, Sangiran Early Man Site, nomor 593 (1996)"
 ---
 
-Di dinding Kali Cemoro, lapisan tanah berdiri seperti halaman buku yang disobek. Lempung hitam di bawah, kerikil padat di tengah, pasir bercampur batu apung di atas, lalu lahar. Setiap lapisan menghadap ke arah yang sama, dan setiap lapisan menyimpan tulang yang berbeda.
+Kali Cemoro memotong kubah Sangiran dari utara ke selatan, dan di dinding potongan itu lapisan tanah berdiri seperti halaman buku yang disobek. Lempung hitam di bawah, kerikil padat di tengah, pasir bercampur batu apung di atas, lalu lahar. Setiap lapisan menghadap ke arah yang sama, dan setiap lapisan menyimpan tulang yang berbeda.
 
-Sangiran bukan gua. Ia kubah tanah seluas 5.600 hektare di perbatasan Kabupaten Sragen dan Karanganyar, Jawa Tengah, yang terangkat oleh tekanan lempeng dan kemudian dibelah sungai. Tanpa pengangkatan itu, lapisan berumur juta tahun tetap terkubur. Tanpa sungai itu, tidak ada yang tersingkap. Kombinasi keduanya membuat Sangiran menjadi urutan stratigrafi hominin paling lengkap di Asia Tenggara, dan alasan situs ini masuk daftar Warisan Dunia pada 1996.
+Sangiran bukan gua. Ia kubah seluas 5.600 hektare di perbatasan Sragen dan Karanganyar, Jawa Tengah, yang terlipat naik oleh tumbukan lempeng lalu dibelah air. Tanpa pengangkatan itu, lapisan berumur juta tahun tetap terkubur; tanpa sungai itu, tidak ada yang tersingkap.
 
-## Kubah yang terbalik
+## Seratus sebelas meter lempung hitam
 
-Kubah Sangiran terbentuk sebagai antiklin: lapisan yang tadinya mendatar terlipat ke atas, lalu bagian puncaknya terkikis. Yang tersisa adalah cincin lapisan tua di tengah dan lapisan muda di tepi, seperti bawang yang dibelah. Kali Cemoro memotong cincin itu dari utara ke selatan, sehingga orang bisa berjalan menyusuri waktu dari dasar lembah ke atas bukit.
+Angka ketebalan di sini penting karena menjadi dasar semua penanggalan. Lempung hitam Formasi Sangiran — dulu disebut Pucangan — terukur sekitar 111,3 meter pada penampang yang diukur menyusuri Kali Cemoro. Di bawahnya, napal Formasi Kalibeng masih menyimpan foraminifera laut, tanda bahwa cekungan ini pernah menjadi dasar laut. Di atasnya Formasi Bapang, dulu Kabuh, mencapai sekitar 50 meter pasir sungai dengan urutan mengkasar ke atas dan beberapa lapis tuf vulkanik. Formasi Notopuro, endapan lahar, menutup urutan itu, lalu teras-teras sungai yang jauh lebih muda.
 
-Urutannya, dari bawah: Formasi Kalibeng dengan napal laut, lalu Formasi Sangiran — dulu disebut Pucangan — dengan lempung hitam yang mengandung moluska air tawar dan sisa laut, lalu Grenzbank, lalu Formasi Bapang — dulu Kabuh — dengan pasir fluvial dan pumis, lalu Formasi Notopuro dari lahar, dan akhirnya teras-teras sungai yang lebih muda.
+Nama-nama formasi itu berganti beberapa kali mengikuti tim peneliti yang berbeda, dan kekacauan nama adalah masalah nyata: artikel tahun 1970-an menyebut Pucangan untuk lapisan yang di artikel 1990-an disebut Sangiran. Hal yang sama terjadi pada Kabuh dan Bapang. Pembaca lama harus selalu memeriksa skema mana yang dipakai penulisnya.
 
-Total ketebalannya lebih dari seratus meter, mencakup sekitar 2,4 juta sampai 250.000 tahun lalu.
+## Kerikil yang menandai batas
 
-## Satu lapisan kerikil yang penting
+Grenzbank, "lapisan batas" dalam bahasa Jerman, hanya setebal beberapa meter dan terdiri dari kerikil, fragmen tulang, dan batu apung yang terpilah. Para ahli menghubungkannya dengan turunnya muka laut pada tahap isotop laut 22, ketika cekungan yang sebelumnya digenangi laut berubah menjadi dataran sungai.
 
-Grenzbank adalah lapisan setebal beberapa meter yang terdiri dari kerikil, fragmen tulang, dan batu apung yang terpilah rapi. Namanya berarti "lapisan batas" dalam bahasa Jerman, dan itulah fungsinya: ia menandai perubahan lingkungan besar, ketika laut yang sebelumnya menggenangi cekungan surut dan sungai mengambil alih.
+Bagi arkeolog, lapisan ini berguna sekaligus menipu. Kerikilnya mengandung fosil yang lebih tua yang terangkut dari bawah, sehingga tulang yang ditemukan di situ bisa jauh lebih tua daripada umur lapisannya. Sebagian besar fosil hominin Sangiran justru berasal dari Bapang di atasnya, dan bukan dari kerikil batas itu.
 
-Bagi arkeolog, Grenzbank adalah penanda yang berguna sekaligus jebakan. Ia mengandung fosil yang lebih tua yang terangkut dari lapisan bawah, sehingga fosil yang ditemukan di dalamnya bisa berasal dari masa yang jauh lebih awal daripada umur lapisannya. Sebagian besar fosil hominin Sangiran justru berasal dari Formasi Bapang di atasnya, bukan dari Grenzbank.
+## Nomor, bukan nama
 
-## Fosil yang diberi nomor
+Sangiran memberi nomor pada setiap temuan, dan nomor itu kini menjadi bahasa standar paleoantropologi Asia. Sangiran 2, atap tengkorak yang diangkat pada 1937, berkapasitas sekitar 800 sentimeter kubik — kecil untuk ukuran *Homo erectus*, dan karena itu diperkirakan perempuan. Sangiran 4, langit-langit mulut bergigi besar dari 1939, membuat von Koenigswald menamai *Meganthropus palaeojavanicus*.
 
-Sangiran memberi nomor pada setiap temuan, dan nomor itu sekarang menjadi bahasa standar paleoantropologi. Sangiran 2 adalah atap tengkorak yang ditemukan pada 1937. Sangiran 4 adalah langit-langit mulut dengan gigi-gigi besar yang diangkat pada 1939 dan membuat von Koenigswald menamai *Meganthropus palaeojavanicus*. Sangiran 17 adalah tengkorak paling lengkap yang pernah keluar dari Asia Timur: ditemukan seorang petani bernama Towikromo pada 1969, umurnya antara 1,3 dan 1,0 juta tahun, dan rongga otaknya sekitar 1.000 sentimeter kubik.
-
-Koleksi Balai Pelestarian mencatat lebih dari seratus spesimen, dan UNESCO menyebut lebih dari seratus individu — kira-kira separuh dari seluruh fosil *Homo erectus* yang dikenal di dunia. Angka itu mengesankan, tetapi perlu dibaca dengan hati-hati: banyak spesimen ditemukan warga saat mengolah sawah atau setelah hujan, lalu diserahkan atau dijual, sehingga posisi lapisannya tidak tercatat.
-
-## Zirkon dan pertengkaran 1,3 juta
-
-Selama dua dekade, buku teks menyebut kehadiran pertama hominin di Sangiran 1,5 juta tahun, bahkan 1,66 juta, berdasarkan penanggalan argon atas pumis. Angka itu berasal dari butir vulkanik yang bisa saja terlontar dari letusan jauh lebih tua daripada endapan yang menampungnya.
-
-Pada 2020, tim yang dipimpin Masayuki Matsu'ura menerbitkan hasil penggabungan fission-track dan uranium-lead atas butir zirkon dari lapisan yang sama. Hasilnya: kehadiran pertama hominin paling mungkin sekitar 1,3 juta tahun lalu, dan hampir pasti kurang dari 1,5 juta. Sebagian peneliti menerima angka itu; sebagian lain masih mempertahankan rentang lama karena sampel pumis dan zirkon bisa tercemar material yang lebih tua.
-
-Perdebatan itu tidak akademis belaka. Selisih 200.000 tahun menentukan apakah hominin tiba di Jawa sebelum atau sesudah garis pantai berubah, dan apakah mereka membawa alat yang sama dengan yang ditemukan di Cina selatan.
-
-Angka 1,3 juta juga bukan kata akhir. Pada 2022, tim yang dipimpin Laurent Husson memakai penanggalan nuklida kosmogenik pada endapan sungai dan menyimpulkan kehadiran hominin di Jawa sekitar 1,8 juta tahun lalu — lebih tua daripada semua perkiraan arkeolog. Argumennya bersandar pada laju erosi dan paparan permukaan, bukan pada butir vulkanik, sehingga tidak bisa dibandingkan langsung dengan hasil Matsu'ura. Sampai sekarang belum ada penanggalan yang disepakati bersama.
-
-## Alat tanpa kapak tangan
-
-Alat batu Sangiran sederhana: serpihan andesit, kapak penetak, dan serpihan dengan tepi yang dipakai. Tidak ada kapak tangan besar bermata dua seperti di Afrika. Dulu ketiadaan itu dibaca sebagai kemunduran budaya. Sekarang penjelasannya lebih sederhana: bahan baku di Jawa lebih cocok untuk menghasilkan serpihan tajam daripada kapak besar, dan sungai menyediakan kerakal andesit yang mudah dipukul.
-
-Geoffrey Pope pada 1980-an mengajukan hipotesis bambu: di hutan tropis, bambu lebih berguna daripada batu, dan alat bambu tidak meninggalkan jejak. Hipotesis itu tidak bisa dibuktikan, tetapi ia menjelaskan kesenjangan antara jumlah alat batu yang sedikit dan luas wilayah yang dihuni.
-
-Di Ngebung, sekitar tiga kilometer dari Krikilan, von Koenigswald pada 1934 menemukan konsentrasi serpihan dan tulang yang ia sebut lantai hunian. Penggalian ulang menunjukkan bahwa konsentrasi itu mungkin terbentuk oleh air, bukan oleh orang yang duduk mengerjakan batu di satu tempat.
+Sangiran 17 adalah tengkorak paling lengkap yang pernah keluar dari Asia Timur. Seorang petani dari Desa Pucung bernama Towikromo menemukannya pada 13 September 1969, lima meter di bawah Tuf Tengah Bapang, dan menjualnya sebelum benda itu sampai ke koleksi negara. Umurnya 0,7–0,8 juta tahun, dan kapasitas tengkoraknya 1.004 sentimeter kubik — angka yang diukur dengan beberapa metode pada tengkorak yang nyaris utuh.
 
 :::note
-Sangiran 17 ditemukan pada 1969, bukan oleh tim arkeologi, melainkan oleh Towikromo, seorang warga. Ia menjualnya, dan fosil itu berpindah tangan sebelum akhirnya masuk koleksi negara.
+Sangiran 17 ditemukan warga, bukan tim arkeologi, dan berpindah tangan sebelum dibeli negara. Konteks lapisannya direkonstruksi dari ingatan penemu dan dari sisa tanah yang menempel di tengkorak.
 :::
+
+## Tiga metode, tiga angka
+
+Umur lapisan bawah adalah pertengkaran tertua di paleoantropologi Asia. Penanggalan argon atas pumis memberi 1,66 juta tahun, dan angka itu dipakai buku teks selama dua dekade. Masalahnya, butir vulkanik bisa terlontar dari letusan yang jauh lebih tua daripada endapan yang menampungnya.
+
+Pada 2020, Masayuki Matsu'ura dan timnya memakai dua jam mineral sekaligus pada butir zirkon dari lapisan itu, yaitu fission-track dan uranium-lead; kesimpulannya, hominin paling mungkin sudah ada 1,3 juta tahun lalu. Pada 2022, tim Laurent Husson memakai nuklida kosmogenik pada endapan sungai dan mendapat 1,8 juta tahun. Kedua metode mengukur hal berbeda — butir mineral versus laju erosi permukaan — sehingga tidak bisa dibandingkan langsung. Sampai sekarang belum ada angka yang disepakati bersama.
+
+## Magnet 0,78 juta tahun
+
+Salah satu penanda paling kuat bukan mineral, melainkan arah medan magnet yang terekam di sedimen. Sekitar 0,78 juta tahun lalu, kutub magnet bumi berbalik dari Matuyama ke Brunhes, dan peristiwa itu terekam di dunia sebagai lapisan tipis dengan arah magnet terbalik.
+
+Di Sangiran, transisi itu ditemukan pada potongan setebal tujuh meter di sekitar Tuf Atas Formasi Bapang. Letaknya memberi pagar waktu: fosil yang berada di bawah transisi lebih tua daripada 0,78 juta tahun, yang di atas lebih muda. Pagar itu tidak memberi tanggal presisi, tetapi ia menahan angka-angka yang terlalu liar, dan itulah sebabnya magnetostratigrafi tetap dipakai meski metode radiometrik terus membaik.
 
 ## Situs yang dijaga sawah
 
-Sangiran hari ini bukan taman arkeologi yang berpagar. Ia adalah sawah, jalan kampung, rumah warga, dan empat klaster museum di Krikilan, Ngebung, Bukuran, dan Dayu. Balai Pelestarian mengurus 59,21 kilometer persegi, melakukan patroli, dan menyita fosil yang dijual.
+Sangiran hari ini bukan taman berpagar. Ia sawah, jalan kampung, rumah warga, dan empat klaster museum di Krikilan, Ngebung, Bukuran, dan Dayu. Balai Pelestarian mengurus 59,21 kilometer persegi, berpatroli, dan menyita fosil yang dijual.
 
-Masalahnya struktural. Fosil muncul setelah hujan, di tanah milik orang, dan harga "balung naga" di pasar pernah cukup tinggi untuk membuat penggalian malam menguntungkan. Setiap fosil yang keluar tanpa catatan mengurangi nilai ilmiah situs yang justru terkenal karena urutannya.
+Masalahnya struktural. Fosil muncul setelah hujan, di tanah milik orang, dan harga "balung naga" pernah cukup tinggi untuk membuat penggalian malam menguntungkan. Setiap fosil yang keluar tanpa catatan mengurangi nilai situs yang justru terkenal karena urutannya. UNESCO memasukkan Sangiran pada 1996 justru karena alasan itu: bukan karena satu fosil terkenal, melainkan karena irisan stratigrafinya nyaris tanpa jeda.
 
 > Sangiran tidak menyimpan satu jawaban. Ia menyimpan urutan pertanyaan, dan setiap lapisan menjawab dengan umur yang berbeda.
 
-Yang belum selesai: berapa umur lapisan paling bawah yang benar-benar mengandung hominin, berapa banyak spesies yang sebenarnya ada dalam koleksi yang disebut *Homo erectus* itu, dan apakah alat-alat sederhana di Bapang dibuat oleh penghuni tetap atau oleh kelompok yang datang dan pergi mengikuti musim.
+Yang belum selesai: berapa umur lapisan paling bawah yang benar-benar mengandung hominin, berapa banyak spesies yang tersembunyi di balik satu nama *Homo erectus*, dan apakah alat-alat sederhana di Bapang dibuat oleh penghuni tetap atau oleh kelompok yang datang dan pergi mengikuti musim.

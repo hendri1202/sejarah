@@ -13,60 +13,50 @@ sources:
   - "J. S. Furnivall, Netherlands India: A Study of Plural Economy (1939)"
 ---
 
-Pada 18 Mei 1918, di Weltevreden, Batavia, Gubernur Jenderal Van Limburg Stirum membuka sidang pertama Volksraad. Gedungnya bekas bangunan milik pemerintah di Jalan Pejambon, dan kursinya disusun untuk tiga puluh sembilan orang. Wakil pribumi duduk di sebelah wakil Eropa, Tionghoa, dan Arab; di antara mereka ada bangsawan, pegawai, pedagang, dan seorang wartawan bernama Abdul Muis.
+Pada 18 Mei 1918, di gedung bekas kantor pemerintah di Jalan Pejambon, Batavia, Gubernur Jenderal J.P. van Limburg Stirum membuka sidang pertama sebuah dewan bernama Volksraad. Kursinya tiga puluh sembilan: lima belas untuk pribumi, dua puluh tiga untuk orang Eropa dan Timur Asing, satu untuk ketua yang diangkat. Di antara mereka ada bangsawan, pegawai, pedagang, dan seorang wartawan bernama Abdul Muis.
 
-Dewan itu lahir dari undang-undang yang disahkan pada 16 Desember 1916, atas usul Menteri Urusan Jajahan T. B. Pleyte. Isinya sederhana: sebuah badan penasihat yang anggotanya sebagian dipilih dan sebagian diangkat. Tidak ada kewenangan membuat undang-undang, tidak ada hak menjatuhkan pemerintah, dan tidak ada jaminan bahwa nasihatnya akan didengar.
+Dewan itu lahir dari undang-undang yang disahkan 16 Desember 1916 atas usul Menteri Urusan Jajahan T.B. Pleyte. Isinya sederhana: badan penasihat, separuh anggotanya dipilih melalui dewan kota dan dewan kabupaten, separuh diangkat gubernur jenderal. Tidak ada hak membuat undang-undang, tidak ada hak menjatuhkan pemerintah, dan tidak ada jaminan bahwa nasihatnya didengar.
 
-## Tiga puluh sembilan kursi
+## Kawat setia yang ditolak
 
-Komposisi dewan itu mencerminkan koloni yang tidak setara. Setengah anggota dipilih melalui badan pemilih yang sempit—dewan kota, dewan kabupaten, dan perkumpulan yang diakui. Setengah lainnya diangkat oleh gubernur jenderal. Kursi pribumi lebih sedikit daripada jumlah penduduk pribumi, dan kursi Eropa lebih banyak daripada jumlah orang Eropa.
+Pemilihan pertama berlangsung pada 1917. Hasilnya mengecewakan gubernur jenderal: sebagian besar anggota pribumi yang terpilih adalah pegawai pemerintah, bukan tokoh pergerakan. Karena itu ia memakai hak angkatnya untuk memasukkan Tjokroaminoto dan Tjipto Mangoenkoesoemo, dua tokoh yang lebih radikal, dengan harapan mereka menjadi lebih jinak di dalam ruang sidang.
 
-Pemilihan pertama berlangsung pada 1917. Hasilnya mengecewakan gubernur jenderal: sebagian besar anggota pribumi yang terpilih adalah pegawai pemerintah, bukan tokoh pergerakan. Karena itu, ia memakai hak angkatnya untuk memasukkan Tjokroaminoto dan Tjipto Mangoenkoesoemo, dua tokoh yang lebih radikal, dengan harapan bisa "dijinakkan" di dalam dewan.
-
-Harapan itu tidak terwujud. Pada sidang pertama, usul untuk mengirim "kawat setia" kepada Ratu Belanda ditolak. Dewan juga memutuskan bahwa perdebatan boleh dilakukan dalam bahasa Melayu, keputusan yang membuka pintu bagi anggota yang tidak fasih berbahasa Belanda.
+Harapan itu tidak terwujud. Pada sidang-sidang pertama, usul mengirim telegram setia kepada Ratu Belanda ditolak dewan. Dewan juga memutuskan bahwa perdebatan boleh berlangsung dalam bahasa Melayu, keputusan yang membuka pintu bagi anggota yang tidak fasih berbahasa Belanda — dan yang membuat pidato dewan bisa dikutip pers pribumi.
 
 ## Janji November
 
-Pada November 1918, di tengah kekacauan politik di Eropa, Van Limburg Stirum berpidato di depan Volksraad dan menjanjikan reformasi pemerintahan yang luas. Ia menyebut perubahan dalam susunan dewan, perluasan hak pilih, dan langkah menuju pemerintahan sendiri.
+Pada November 1918, ketika kekuasaan kolonial di Eropa goyah, Van Limburg Stirum berpidato di depan dewan dan menjanjikan reformasi: susunan dewan yang baru, perluasan hak pilih, dan langkah menuju pemerintahan sendiri. Anggota dewan menjawab dengan mosi yang menuntut parlemen terpilih dengan hak membuat undang-undang, kerja sama dengan organisasi politik, dan pemerintahan baru yang bisa diterima dewan sebelum 1921.
 
-Anggota dewan menyambut janji itu dengan sebuah mosi yang menuntut pembentukan parlemen terpilih dengan hak membuat undang-undang, kerja sama dengan organisasi politik, dan pemerintahan baru yang bisa diterima dewan sebelum 1921. Pemerintah Belanda membentuk komisi untuk mempelajari mosi itu, lalu menolaknya pada 1920.
+Pemerintah Belanda membentuk komisi untuk mempelajari mosi itu, lalu menolaknya pada 1920. Abdul Muis mengundurkan diri pada 1921 karena menilai dewan itu tidak berguna; Agus Salim menggantikannya. Perdebatan tentang apakah duduk di dewan berarti bekerja sama dengan penjajah berlangsung selama dua dekade berikutnya.
 
-Penolakan itu dikenal sebagai "janji November" yang tidak ditepati. Abdul Muis mengundurkan diri pada 1921 karena menganggap dewan itu tidak berguna. Agus Salim menggantikannya, dan perdebatan tentang apakah ikut duduk di dewan berarti bekerja sama dengan penjajah berlangsung selama dua dekade.
+## Hak yang bertambah, kuasa yang tetap
 
-> Dewan itu bisa berbicara, tetapi tidak bisa memutuskan. Di koloni, perbedaan antara keduanya adalah perbedaan antara hidup dan mati.
+Pada 1925 dewan itu menjadi badan semilegislatif. Pada 1927 ia diberi hak ikut membentuk undang-undang, termasuk hak mengajukan rancangan dan mengubah anggaran. Gubernur jenderal tetap memegang veto dan tetap tidak bertanggung jawab kepada dewan.
 
-## 1927: ikut membuat undang-undang
-
-Pada 1927, kedudukan Volksraad berubah. Dewan itu diberi hak ikut membentuk undang-undang, termasuk hak mengajukan rancangan dan mengubah anggaran. Gubernur jenderal tetap memegang veto, dan ia tetap tidak bertanggung jawab kepada dewan.
-
-Perubahan itu penting secara prosedural, tetapi terbatas secara politik. Dewan bisa memperlambat atau mengubah rancangan, tetapi tidak bisa memaksa pemerintah. Anggaran bisa dipotong, tetapi tidak bisa dijatuhkan. Anggota pribumi bisa berpidato, tetapi suara mereka selalu minoritas.
-
-Pada tahun yang sama, Mohammad Husni Thamrin diangkat menjadi anggota. Ia mendirikan fraksi nasional yang menyatukan anggota pribumi dari berbagai aliran, dan memakai anggaran sebagai alat: setiap pos yang merugikan rakyat diperdebatkan, dan setiap kelebihan belanja ditanyakan.
+Jumlah kursinya juga naik: 48 pada 1924, 60 menjelang 1939, dengan pembagian terakhir 30 kursi pribumi, 25 Eropa, dan 5 untuk Timur Asing. Perbandingan pribumi dan Eropa tidak pernah mencerminkan perbandingan penduduk. Pada 1927 Mohammad Husni Thamrin masuk sebagai anggota, dan pada 1930 ia membentuk Nationale Fractie yang menyatukan anggota pribumi dari berbagai aliran. Thamrin memakai anggaran sebagai alat: setiap pos yang merugikan rakyat diperdebatkan, setiap kelebihan belanja ditanyakan, dan setiap jawaban menteri dicatat dalam *Handelingen van den Volksraad* — risalah yang sampai sekarang menjadi sumber utama untuk periode ini.
 
 :::note
-Jumlah anggota dewan bertambah dari 39 pada 1918 menjadi 48 pada 1924, lalu 60 pada 1939. Namun perbandingan kursi antara penduduk pribumi dan orang Eropa tidak pernah mencerminkan perbandingan jumlah penduduk.
+Jumlah anggota naik dari 39 pada 1918 menjadi 48 pada 1924 dan 60 pada 1939. Kursi pribumi bertambah, tetapi tidak pernah sebanding dengan jumlah penduduk pribumi di Hindia.
 :::
 
-## Petisi Soetardjo
+## Petisi 1936
 
-Pada 15 Juli 1936, Soetardjo Kartohadikusumo mengajukan petisi yang meminta Hindia dijanjikan kemerdekaan dalam kerangka persemakmuran Belanda, dengan parlemen yang dipilih rakyat dan langkah menuju pemerintahan sendiri dalam sepuluh tahun.
+Petisi itu masuk pada 15 Juli 1936. Penulisnya Soetardjo Kartohadikusumo, bangsawan Jawa yang memimpin persatuan pegawai pamong praja, dan isinya meminta sebuah konferensi: otonomi Hindia di dalam kerangka persemakmuran Belanda, parlemen yang dipilih rakyat, dan pemerintahan sendiri secara bertahap dalam sepuluh tahun.
 
-Petisi itu didukung dua puluh enam anggota dewan, termasuk tokoh dari berbagai aliran. Perdebatannya sengit. Pendukungnya berargumen bahwa menuntut kemerdekaan penuh berarti ditolak, sementara menuntut otonomi bertahap berarti mendapat sesuatu. Penentangnya, terutama dari kalangan nasionalis radikal, menyebut petisi itu sebagai pengakuan atas kedaulatan Belanda.
+Pemungutan suara berlangsung 29 September 1936. Petisi menang 26 lawan 20, dengan 15 abstain. Kemenangan itu hanya mungkin karena delapan anggota Eropa memilih bersama delapan belas anggota pribumi dan Timur Asing. Perdebatan di luar dewan lebih keras daripada di dalamnya: kaum nasionalis radikal menyebut petisi itu pengakuan atas kedaulatan Belanda, sementara pendukungnya berargumen bahwa menuntut kemerdekaan penuh hanya akan ditolak mentah-mentah.
 
-Pemerintah Belanda menjawab pada 16 November 1938: ditolak. Alasannya, Hindia belum siap, rakyatnya belum cukup terdidik, dan masalah itu harus dibicarakan setelah perang di Eropa selesai. Jawaban itu datang dua tahun setelah petisi diajukan, dan kurang dari setahun sebelum Jerman menyerang Polandia.
+Jawaban resmi datang lewat Keputusan Ratu Nomor 40, bertanggal 16 November 1938: ditolak. Alasannya, rakyat Hindia dinilai belum siap dan soal sebesar itu ditunda sampai perang Eropa usai. Jawaban itu keluar dua tahun setelah pemungutan suara, dan kurang dari sepuluh bulan sebelum Polandia diserang.
 
 ## Batas sebuah dewan
 
-Kegagalan petisi melahirkan GAPI—Gabungan Politik Indonesia—pada 1939, yang menyatukan organisasi politik dan sosial dalam satu tuntutan: Indonesia Berparlemen. Kampanye itu menarik perhatian, tetapi tidak mengubah struktur kekuasaan.
+Dari penolakan itu lahir GAPI — Gabungan Politik Indonesia — pada 1939. Organisasi ini menyatukan partai dan perkumpulan dalam satu tuntutan, Indonesia Berparlemen, dan berhasil menarik perhatian pers serta pemerintah. Struktur kekuasaan tidak bergeser sedikit pun.
 
-Ketika perang datang, Volksraad masih ada, tetapi tidak bisa memutuskan apa pun. Pada 1942, ketika Jepang mendekat, dewan itu dibubarkan bersama seluruh sistem kolonial. Anggotanya yang nasionalis kemudian masuk ke badan-badan baru yang dibentuk tentara pendudukan.
+Ketika Belanda jatuh pada Mei 1940, dewan itu kehilangan pemerintah yang membiayainya. Ketika Jepang mendekat pada 1942, dewan dibubarkan bersama seluruh sistem kolonial, dan sebagian anggotanya masuk ke badan-badan yang dibentuk tentara pendudukan.
+
+> Dewan itu bisa berbicara, tetapi tidak bisa memutuskan. Di koloni, perbedaan antara keduanya adalah perbedaan antara hidup dan mati.
 
 ## Warisan
 
-Volksraad adalah tempat pertama di Hindia di mana orang dari berbagai kelompok bisa berdebat di depan publik tentang anggaran, pajak, dan pendidikan. Ia melatih generasi politik yang kemudian memimpin Indonesia, dan memberi bahasa parlemen kepada gerakan nasional.
+Volksraad adalah tempat pertama di Hindia di mana orang dari berbagai kelompok berdebat di depan publik tentang anggaran, pajak, dan pendidikan. Ia melatih generasi politik yang kemudian memimpin Indonesia, dan memberi kosakata parlemen kepada gerakan nasional: fraksi, mosi, anggaran, interpelasi.
 
-Tetapi ia juga contoh dari sebuah institusi yang dirancang untuk tidak berkuasa. Ia bisa mengusulkan, mengkritik, dan mencatat, tetapi tidak bisa memerintah. Bagi sebagian orang, itu cukup untuk membangun tradisi; bagi yang lain, itu bukti bahwa jalan di dalam sistem tidak pernah menjadi jalan keluar.
-
-:::note
-Sidang Volksraad dicatat dalam *Handelingen van den Volksraad*, kini salah satu sumber utama untuk perdebatan politik Hindia 1918–1942.
-:::
+Tetapi ia juga contoh institusi yang dirancang untuk tidak berkuasa. Ia bisa mengusulkan, mengkritik, dan mencatat, tetapi tidak bisa memerintah. Gedungnya di Pejambon sekarang dipakai Kementerian Luar Negeri, dan risalah sidangnya tersimpan di perpustakaan — catatan panjang tentang sebuah dewan yang selalu bicara terlalu awal dan memutuskan terlalu lambat.

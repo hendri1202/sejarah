@@ -905,7 +905,7 @@ def build_entry(e, entries, chapters):
     <section class="sources"><h3 class="micro">Bacaan</h3><ol>{sources_html}</ol></section>
     <section class="next"><h3 class="micro">Lanjut</h3>
       <a href="arsip.html"><span class="micro">Arsip</span><span class="t">Semua artikel</span></a>
-      {ch_html and f'<a href="{ch["file"]}" style="margin-top:10px"><span class="micro">Bab induk</span><span class="t">{esc(ch["title"])}</span></a>'}
+      {ch_html and f'<a href="{ch["file"]}" style="margin-top:10px"><span class="micro">Bab terkait</span><span class="t">{esc(ch["title"])}</span></a>'}
     </section>
   </footer>
   {rel_block}

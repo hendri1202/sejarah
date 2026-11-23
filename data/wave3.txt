@@ -1,0 +1,155 @@
+# Gelombang 3 — 135 entri (9 penulis × 15)
+Format: id|judul|era|years|tags|chapter
+
+## A. Agama & organisasi
+walisongo|Wali Songo|kerajaan|abad ke-15–16|walisongo,islam,jawa|13
+nahdlatul-ulama|Nahdlatul Ulama|kolonial|1926–kini|nu,islam,organisasi|17
+islam-modernis|Islam Modernis dan Kaum Muda|kolonial|1900–1942|islam,modernisme,organisasi|17
+kristen-maluku|Kekristenan di Maluku|kolonial|1600–1942|kristen,maluku,misi|14
+katolik-flores|Katolik di Flores|kolonial|1850–1942|katolik,flores,misi|15
+hindu-bali|Hindu Bali|kerajaan|abad ke-11–kini|hindu,bali,agama|13
+buddha-nusantara|Buddha di Nusantara|kerajaan|abad ke-7–kini|buddha,candi,agama|12
+konghucu|Konghucu dan Komunitas Tionghoa|kolonial|1700–kini|konghucu,tionghoa,budaya|14
+kebatinan|Aliran Kebatinan|merdeka|1950–kini|kebatinan,budaya,agama|24
+ahmadiyah|Ahmadiyah di Indonesia|kolonial|1925–kini|ahmadiyah,islam,kontroversi|17
+mubaligh-muhammadiyah|Mubaligh Muhammadiyah|kolonial|1920–1942|muhammadiyah,dakwah,islam|17
+zending|Zending dan Misi Protestan|kolonial|1800–1942|zending,kristen,misi|15
+misi-katolik|Misi Katolik di Hindia|kolonial|1800–1942|katolik,misi,pendidikan|15
+pesantren-modern|Pesantren Modern|merdeka|1970–kini|pesantren,pendidikan,islam|26
+madrasah|Madrasah dan Sekolah Islam|kolonial|1900–kini|madrasah,islam,pendidikan|17
+
+## B. Budaya, seni, sastra
+raden-saleh|Raden Saleh|kolonial|1811–1880|seni-lukis,tokoh,kolonial|15
+affandi|Affandi|merdeka|1907–1990|seni-lukis,tokoh,modern|24
+batik-pekalongan|Batik Pekalongan|kolonial|1850–kini|batik,pekalongan,budaya|18
+tenun-ikat|Tenun Ikat Nusantara|kerajaan|abad ke-16–kini|tenun,budaya,ekonomi|14
+wayang-golek|Wayang Golek|kerajaan|abad ke-16–kini|wayang,sunda,budaya|13
+ketoprak|Ketoprak|kolonial|1900–kini|teater,jawa,budaya|17
+ludruk|Ludruk|kolonial|1900–kini|teater,jawa-timur,budaya|17
+gamelan|Gamelan|kerajaan|abad ke-8–kini|musik,gamelan,budaya|12
+keroncong|Keroncong|kolonial|1880–kini|musik,keroncong,budaya|18
+dangdut|Dangdut|merdeka|1970–kini|musik,dangdut,budaya|26
+film-1950an|Film Indonesia 1950-an|merdeka|1950–1965|film,budaya,1950|24
+angkatan-45|Angkatan 45|merdeka|1945–1955|sastra,angkatan-45,budaya|24
+chairil-anwar|Chairil Anwar|merdeka|1922–1949|sastra,puisi,tokoh|24
+sitor-situmorang|Sitor Situmorang|merdeka|1923–2014|sastra,puisi,tokoh|25
+wayang-orang|Wayang Orang|kerajaan|abad ke-18–kini|wayang,teater,jawa|13
+
+## C. Sains, teknologi, kesehatan
+bosscha|Observatorium Bosscha|kolonial|1923–kini|astronomi,lembang,ilmu|18
+eijkman|Lembaga Eijkman|kolonial|1888–kini|kedokteran,ilmu,batavia|17
+wabah-pes|Wabah Pes di Jawa|kolonial|1911–1934|wabah,kedokteran,jawa|18
+kolera-jawa|Kolera di Jawa|kolonial|1820–1900|wabah,kolera,jawa|15
+malaria|Malaria dan Pemberantasannya|kolonial|1900–1942|malaria,kesehatan,kolonial|18
+rumah-sakit-kolonial|Rumah Sakit Kolonial|kolonial|1800–1942|kesehatan,kota,kolonial|15
+radio-republik|Radio Republik Indonesia|merdeka|1945–kini|radio,media,1945|23
+telekomunikasi|Telekomunikasi Indonesia|merdeka|1960–kini|telekomunikasi,teknologi|26
+penerbangan-indonesia|Penerbangan Indonesia|merdeka|1949–kini|penerbangan,teknologi|24
+iptn|IPTN dan Industri Pesawat|merdeka|1976–kini|teknologi,industri,habibie|25
+bppt|BPPT dan Riset Terapan|merdeka|1978–kini|riset,teknologi|25
+vaksin|Vaksin dan Imunisasi|merdeka|1950–kini|kesehatan,vaksin|26
+gizi-buruk|Gizi Buruk dan Busung Lapar|merdeka|1950–2000|kesehatan,gizi,sosial|25
+sanitasi|Sanitasi dan Air Bersih|kolonial|1900–kini|kesehatan,kota,infrastruktur|18
+rumah-sakit-jiwa|Rumah Sakit Jiwa|kolonial|1880–1942|kesehatan,kedokteran,kolonial|17
+
+## D. Militer & konflik
+knil|KNIL|kolonial|1830–1950|militer,kolonial,knil|16
+marechaussee|Korps Marechaussee|kolonial|1890–1942|militer,aceh,kolonial|16
+tni|TNI: Kelahiran dan Doktrin|merdeka|1945–kini|militer,doktrin,1945|23
+operasi-seroja|Operasi Seroja|merdeka|1975–1999|militer,timor,operasi|25
+konflik-aceh-gam|GAM dan Konflik Aceh|merdeka|1976–2005|aceh,gam,konflik|26
+opm-papua|OPM dan Konflik Papua|merdeka|1965–kini|papua,opm,konflik|26
+konflik-sampit|Konflik Sampit|merdeka|2001|konflik,kalimantan,etnis|26
+konflik-poso|Konflik Poso|merdeka|1998–2007|konflik,sulawesi,agama|26
+konflik-maluku|Konflik Maluku 1999|merdeka|1999–2002|konflik,maluku,agama|26
+dom-aceh|Daerah Operasi Militer Aceh|merdeka|1989–1998|aceh,militer,ham|25
+penculikan-aktivis|Penculikan Aktivis 1998|merdeka|1997–1998|ham,militer,1998|25
+hansip|Hansip dan Pertahanan Sipil|merdeka|1962–kini|militer,sipil,orde-baru|24
+brimob|Brimob|merdeka|1946–kini|polisi,militer|23
+kopassus|Kopassus|merdeka|1952–kini|militer,operasi|24
+perang-sosial|Kekerasan Massa 1945–1965|merdeka|1945–1965|konflik,sosial,1950|24
+
+## E. Hukum & konstitusi
+uud-1945|UUD 1945|merdeka|1945–kini|konstitusi,hukum,1945|22
+konstitusi-ris|Konstitusi RIS|merdeka|1949–1950|konstitusi,ris,1949|23
+uuds-1950|UUDS 1950|merdeka|1950–1959|konstitusi,1950|24
+uu-kewarganegaraan|UU Kewarganegaraan|merdeka|1946–kini|hukum,kewarganegaraan|24
+uu-pers|UU Pers dan Kebebasan Pers|merdeka|1966–kini|hukum,pers,kebebasan|26
+uu-antikorupsi|UU Antikorupsi|merdeka|1999–kini|hukum,korupsi|26
+uu-ite|UU ITE|merdeka|2008–kini|hukum,digital,kebebasan|26
+uu-cipta-kerja|UU Cipta Kerja|merdeka|2020–kini|hukum,ekonomi,buruh|26
+uu-pertanahan|UU Pokok Agraria|merdeka|1960–kini|hukum,tanah,agraria|24
+mahkamah-agung|Mahkamah Agung|merdeka|1945–kini|hukum,peradilan|24
+mahkamah-konstitusi|Mahkamah Konstitusi|merdeka|2003–kini|hukum,konstitusi|26
+komisi-yudisial|Komisi Yudisial|merdeka|2005–kini|hukum,peradilan|26
+peradilan-adat|Peradilan Adat|kolonial|1800–kini|hukum,adat,kolonial|15
+hukum-islam-aceh|Qanun dan Hukum Islam Aceh|merdeka|2001–kini|hukum,islam,aceh|26
+pidana-mati|Hukuman Mati|merdeka|1945–kini|hukum,pidana,ham|26
+
+## F. Lingkungan & iklim
+deforestasi-kalimantan|Deforestasi Kalimantan|merdeka|1967–kini|hutan,lingkungan,kalimantan|25
+kebakaran-gambut|Kebakaran Gambut|merdeka|1997–kini|gambut,kebakaran,lingkungan|26
+sawit|Kelapa Sawit|merdeka|1911–kini|sawit,ekonomi,lingkungan|26
+hutan-jati|Hutan Jati Jawa|kolonial|1800–1942|hutan,jati,kolonial|15
+taman-nasional|Taman Nasional Indonesia|merdeka|1980–kini|konservasi,taman-nasional|25
+konservasi|Konservasi dan Spesies Terancam|kolonial|1900–kini|konservasi,spesies,lingkungan|18
+sampah-jakarta|Sampah Jakarta|merdeka|1970–kini|sampah,kota,lingkungan|26
+polusi-udara|Polusi Udara Jakarta|merdeka|1990–kini|polusi,kota,kesehatan|26
+tambang-timah-laut|Tambang Timah Laut Bangka|merdeka|1990–kini|tambang,bangka,laut|26
+terumbu-karang|Terumbu Karang Indonesia|merdeka|1970–kini|laut,terumbu,lingkungan|26
+mangrove|Mangrove dan Pesisir|merdeka|1980–kini|mangrove,pesisir,lingkungan|26
+el-nino|El Nino dan Kekeringan|kolonial|1877–kini|iklim,el-nino,pertanian|19
+perubahan-iklim|Perubahan Iklim di Indonesia|merdeka|1990–kini|iklim,lingkungan|26
+energi-terbarukan|Energi Terbarukan|merdeka|2010–kini|energi,iklim|26
+tambang-nikel|Nikel dan Industri Baterai|merdeka|2010–kini|tambang,nikel,ekonomi|26
+
+## G. Revolusi & diplomasi 1945–1950
+bersiap|Masa Bersiap|merdeka|1945–1946|revolusi,1945,kekerasan|23
+nica|NICA di Indonesia|merdeka|1945–1949|belanda,revolusi,1945|23
+van-mook|Hubertus van Mook|merdeka|1894–1965|diplomasi,belanda,tokoh|23
+renville|Perjanjian Renville|merdeka|1948|diplomasi,1948|23
+roem-royen|Roem-Royen|merdeka|1949|diplomasi,1949|23
+serangan-umum-1949|Serangan Umum 1 Maret 1949|merdeka|1949|militer,yogyakarta,1949|23
+negara-pasundan|Negara Pasundan|merdeka|1948–1950|federal,1948,jawa-barat|23
+negara-indonesia-timur|Negara Indonesia Timur|merdeka|1946–1950|federal,1946,sulawesi|23
+negara-sumatera-timur|Negara Sumatera Timur|merdeka|1947–1950|federal,1947,sumatra|23
+konferensi-inter-indonesia|Konferensi Inter-Indonesia|merdeka|1949|diplomasi,federal,1949|23
+knil-dibubarkan|Pembubaran KNIL|merdeka|1950|militer,1950,apris|24
+apris|APRIS dan Integrasi Tentara|merdeka|1949–1950|militer,1950,apris|24
+sekutu-di-jawa|Sekutu di Jawa 1945–1946|merdeka|1945–1946|sekutu,1945,revolusi|23
+evakuasi-repatriasi|Evakuasi dan Repatriasi|merdeka|1945–1949|repatriasi,1945,belanda|23
+plebisit-wilayah|Klaim dan Sengketa Wilayah|merdeka|1945–1949|diplomasi,wilayah,1949|23
+
+## H. Politik 1950–1965
+kabinet-natsir|Kabinet Natsir|merdeka|1950–1951|kabinet,1950|24
+kabinet-sukiman|Kabinet Sukiman|merdeka|1951–1952|kabinet,1951|24
+kabinet-wilopo|Kabinet Wilopo|merdeka|1952–1953|kabinet,1952|24
+kabinet-ali|Kabinet Ali Sastroamidjojo|merdeka|1953–1955|kabinet,1953|24
+masyumi|Masyumi|merdeka|1945–1960|partai,islam,1950|24
+pni|PNI|merdeka|1946–1973|partai,nasionalis,1950|24
+nu-partai|NU sebagai Partai Politik|merdeka|1952–1973|partai,islam,1950|24
+pki-1950an|PKI 1950-an|merdeka|1948–1965|partai,komunis,1950|24
+angkatan-darat-1952|Peristiwa 17 Oktober 1952|merdeka|1952|militer,politik,1952|24
+demokrasi-terpimpin|Demokrasi Terpimpin|merdeka|1959–1965|politik,soekarno,1959|24
+nasakom|Nasakom|merdeka|1960–1965|politik,ideologi|24
+manipol-usdek|Manipol USDEK|merdeka|1960|politik,ideologi,1960|24
+ekonomi-terpimpin|Ekonomi Terpimpin|merdeka|1959–1965|ekonomi,politik,1960|24
+dewan-nasional|Dewan Nasional|merdeka|1957–1959|politik,lembaga|24
+partai-katolik|Partai Katolik|merdeka|1945–1973|partai,katolik,1950|24
+
+## I. Orde Baru & Reformasi
+repelita|Repelita|merdeka|1969–1994|pembangunan,ekonomi,orde-baru|25
+pertamina-krisis|Krisis Pertamina 1975|merdeka|1975|ekonomi,pertamina,1975|25
+bulog|Bulog dan Beras|merdeka|1967–kini|pangan,beras,lembaga|25
+bimas|Bimas dan Revolusi Hijau|merdeka|1965–1985|pertanian,pangan,orde-baru|25
+transmigrasi|Transmigrasi|merdeka|1905–kini|migrasi,pemerintah,sosial|25
+keluarga-berencana|Keluarga Berencana|merdeka|1970–kini|kependudukan,kesehatan|25
+golkar|Golkar|merdeka|1964–kini|partai,orde-baru,pemilu|25
+dwi-fungsi-abri|Dwifungsi ABRI|merdeka|1966–1998|militer,politik,orde-baru|25
+pemilu-1977|Pemilu 1977|merdeka|1977|pemilu,orde-baru|25
+pemilu-1992|Pemilu 1992|merdeka|1992|pemilu,orde-baru|25
+petisi-50|Petisi 50|merdeka|1980|oposisi,orde-baru,1980|25
+kerusuhan-mei-1998|Kerusuhan Mei 1998|merdeka|1998|kerusuhan,1998,ham|25
+trisakti|Tragedi Trisakti|merdeka|1998|1998,ham,mahasiswa|25
+gerakan-reformasi|Gerakan Reformasi|merdeka|1998|reformasi,1998,politik|25
+reformasi-habibie|Reformasi Habibie|merdeka|1998–1999|reformasi,habibie,1999|25

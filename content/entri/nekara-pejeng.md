@@ -12,60 +12,52 @@ sources:
   - "Georgius Everhardus Rumphius, D'Amboinsche Rariteitkamer (1705)"
 ---
 
-Di dalam Pura Penataran Sasih, Desa Pejeng, Kecamatan Tampaksiring, Gianyar, ada sebuah genderang perunggu yang tidak dimainkan lagi. Tingginya 186,6 sentimeter, garis tengah bidang pukulnya 160 sentimeter, dan tepi bidang pukulnya menjorok keluar sekitar 25 sentimeter dari badan. Orang Bali menyebutnya Bulan Pejeng.
+Di halaman Pura Penataran Sasih, Desa Pejeng, Kecamatan Tampaksiring, Gianyar, berdiri sebuah genderang perunggu yang tidak lagi dipukul. Garis tengah bidang pukulnya 160 sentimeter, tingginya 186,6 sentimeter, dan bibir bidang pukul menjorok sekitar 25 sentimeter keluar dari badan. Orang Bali menyebutnya Bulan Pejeng; katalog lama menyebutnya "moko raksasa".
 
-Ukuran itu membuatnya menjadi nekara terbesar yang masih tersimpan di Asia. Untuk mengangkatnya saja dibutuhkan belasan orang, dan untuk menuangnya dibutuhkan bengkel yang jauh lebih besar daripada bengkel pembuat kapak atau gelang.
+Benda itu masih di tempat yang sama ketika pertama kali dilaporkan ke orang Eropa. Ia tidak pernah dipindahkan ke museum, tidak pernah masuk daftar inventaris kolonial, dan sampai sekarang diberi sesajen oleh pengurus pura. Karena itu kondisinya bergantung pada kelembapan, asap dupa, dan tangan-tangan yang merawatnya setiap hari.
 
-## Bulan yang jatuh
+## Roda bulan yang jatuh
 
-Nama Bulan Pejeng berasal dari legenda. Menurut cerita yang dicatat para penulis Bali pada abad ke-19, benda itu adalah roda kereta bulan yang jatuh ke bumi. Karena permukaannya memantulkan cahaya, orang menganggapnya bulan yang tersangkut di pohon.
+Nama Bulan Pejeng berasal dari cerita, bukan dari catatan. Menurut versi yang dicatat penulis Bali abad ke-19, benda itu adalah roda kereta bulan yang jatuh ke bumi. Permukaannya memantulkan cahaya, dan orang mengira bulan tersangkut di pohon.
 
-Legenda itu tidak menjelaskan asal benda, tetapi menjelaskan cara orang memperlakukannya: sebagai benda suci, bukan sebagai artefak. Nekara itu disimpan di pura, diberi sesajen, dan tidak dipindahkan ke museum. Sampai sekarang ia berada di tempat yang sama ketika pertama kali dilaporkan ke orang Eropa.
+Satu versi menambahkan pencuri: seorang lelaki memanjat pohon untuk mengambil benda yang bersinar itu, lalu buang air kecil ke atasnya sampai cahayanya padam. Genderang itu jatuh, dan retakan di badannya dijelaskan sebagai akibat perbuatan itu. Cerita semacam ini bukan etnografi; ia cara sebuah kampung menjelaskan benda yang sudah ada jauh sebelum ingatan mereka.
 
-Laporan itu datang dari Georgius Everhardus Rumphius pada 1705, dalam *D'Amboinsche Rariteitkamer*. Rumphius tidak pernah ke Bali; ia mencatat cerita dari pelaut dan pedagang yang singgah di Ambon. Dalam catatannya, genderang itu digambarkan sebagai benda besar dari tembaga yang disimpan di sebuah kuil.
+Laporan tertulis paling awal datang dari Georgius Everhardus Rumphius pada 1705, dalam *D'Amboinsche Rariteitkamer*. Rumphius tidak pernah ke Bali. Ia mencatat cerita dari pelaut dan pedagang yang singgah di Ambon, dan dalam catatannya genderang itu digambarkan sebagai benda besar dari tembaga yang disimpan di sebuah kuil.
 
 :::note
-Nekara Pejeng tidak pernah masuk museum. Ia tetap di Pura Penataran Sasih, dan karena itu kondisinya bergantung pada kelembapan, asap dupa, dan perawatan sehari-hari oleh pengurus pura.
+Nekara Pejeng tidak pernah masuk museum. Ia tetap di Pura Penataran Sasih, dan karena itu tidak pernah ditimbang, difoto dengan standar katalog, atau diuji komposisi logamnya tanpa izin pemangku.
 :::
 
-## Heger dan Pejeng
+## Heger, Pejeng, dan moko
 
-Nekara perunggu Asia Tenggara dibagi menjadi beberapa tipe. Tipe Heger I, dinamai menurut nama ahli Jerman yang mendeskripsikannya, adalah nekara Dong Son dari Vietnam utara: tinggi, bidang pukul menjorok jauh, dan hiasan penuh gambar perahu, burung, serta barisan orang menari.
+Nekara perunggu Asia Tenggara pertama kali diurutkan oleh Franz Heger dalam buku besarnya tentang genderang logam pada 1902. Tipe Heger I — genderang Dong Son dari Vietnam utara — tinggi, bidang pukulnya menjorok jauh, dan hiasannya penuh gambar perahu, burung, serta barisan orang menari.
 
-Nekara Pejeng berbeda. Badannya lebih ramping, bidang pukulnya tidak menjorok sejauh tipe Dong Son, dan hiasannya lebih geometris: bintang di tengah, pita garis, dan pola anyaman. Yang paling penting, bidang pukulnya dicetak sebagai lempeng terpisah lalu ditempelkan ke badan.
+Nekara Pejeng masuk keluarga yang berbeda. Badannya lebih ramping, bidang pukulnya tidak menjorok sejauh Dong Son, dan hiasannya lebih geometris: bintang di tengah, pita garis, pola anyaman, dan wajah-wajah kecil di antara pegangan. D.D. Bintarti membagi genderang kecil — moko — menjadi empat tipe, dan menempatkan yang berwajah manusia sebagai tipe Pejeng.
 
-Perbedaan teknik itu menunjukkan bahwa nekara Pejeng bukan barang impor dari Vietnam, melainkan hasil bengkel lokal yang mengembangkan caranya sendiri. Cetakan batu untuk nekara ditemukan di Manuaba, tidak jauh dari Pejeng, dan menjadi bukti bahwa produksi pernah berlangsung di Bali.
+Sebaran moko menjelaskan sesuatu yang tidak bisa dijelaskan oleh satu situs. Genderang kecil ditemukan di Bali, Alor, Flores, Nusa Tenggara, Maluku, dan tepi Danau Sentani di Papua. Di Alor, moko masih dipakai sebagai mas kawin, dan jumlahnya menentukan harga seorang perempuan. Benda yang di Bali menjadi pusaka pura, di Alor menjadi alat tukar; fungsinya berubah menurut siapa yang memilikinya.
 
-## Menuang bidang pukul 160 sentimeter
+## Dua bagian, satu tuangan
 
-Membuat nekara sebesar itu bukan pekerjaan satu orang. Cetakan tanah liat dua bagian disiapkan, dengan inti liat di tengah untuk membentuk rongga. Perunggu cair dituang di antara cetakan dan inti, lalu didinginkan perlahan supaya tidak retak.
+Membuat genderang sebesar itu bukan pekerjaan satu orang. Cetakan lilin ditutup tanah liat, lilinnya dilelehkan, dan perunggu cair dituang ke rongga yang tersisa — metode *cire perdue*, hilang lilin. Untuk nekara Pejeng, badan dan bidang pukul dicetak sebagai dua bagian, lalu disatukan sebelum logam mendingin.
 
-Untuk bidang pukul selebar 160 sentimeter, cetakan tunggal akan terlalu besar dan terlalu rapuh. Karena itu pengrajin Pejeng mencetak bidang pukul secara terpisah, mungkin dengan cetakan datar, lalu menempelkannya ke badan yang sudah jadi. Sambungannya tidak terlihat dari luar, tetapi bisa dikenali dari pola retak dan perbedaan ketebalan.
+Alasannya praktis. Cetakan tunggal selebar 160 sentimeter terlalu besar dan terlalu rapuh untuk ditangani; dengan dua bagian, bidang pukul bisa dicetak datar dan ditempelkan ke badan yang sudah jadi. Sambungannya tidak terlihat dari luar, tetapi bisa dikenali dari pola retak dan perbedaan ketebalan logam.
 
-Kegagalan pada satu tahap berarti seluruh logam harus dilebur ulang. Karena itu nekara besar bukan hanya bukti keterampilan, melainkan bukti modal: bahan yang cukup, tenaga kerja yang cukup, dan waktu yang cukup untuk mencoba berkali-kali.
+Bukti bengkelnya ada di darat. Cetakan dari batu untuk menuang genderang pernah ditemukan di Manuaba, beberapa kilometer dari pura, dan sebuah genderang Pejeng yang patah — ditemukan kemudian di Bali — diperkirakan setinggi 86 sentimeter ketika utuh. Artinya, di pulau itu pernah ada produksi dengan ukuran berbeda, bukan hanya satu benda ajaib yang jatuh dari langit.
 
-## Timah yang menyeberang laut
+Kalau satu tahap gagal, seluruh logam kembali ke kuali. Karena itu nekara besar bukan hanya bukti keterampilan, melainkan bukti modal: bahan yang cukup, tenaga yang cukup, dan waktu untuk mencoba berkali-kali.
 
-Perunggu yang baik menuntut campuran sekitar sepuluh bagian tembaga dan satu bagian timah. Tembaga tersedia di beberapa tempat di Nusantara, tetapi timah hanya di sedikit tempat: Bangka, Semenanjung Malaya, dan sebagian Thailand.
+## Timah yang tidak ada di Bali
 
-Tidak ada timah di Bali. Berarti bahan itu harus sampai ke Pejeng, entah sebagai logam batangan atau sebagai benda jadi yang dilebur ulang. Jalurnya mungkin melalui Jawa bagian utara, lalu Bali utara, lalu turun ke Gianyar.
+Resep perunggu yang baik kira-kira sepuluh banding satu: tembaga sepuluh bagian, timah satu bagian. Tembaga bisa didapat dari sejumlah daerah di Nusantara; timah hanya dari beberapa sumber, yaitu Bangka, Semenanjung Malaya, dan sebagian Thailand.
 
-Kehadiran nekara karena itu membuktikan dua hal sekaligus: bengkel lokal yang mampu mencetak logam besar, dan jaringan dagang yang mampu mendatangkan bahan dari jarak ratusan kilometer.
+Tidak ada timah di Bali. Bahan itu harus sampai ke Pejeng, entah sebagai batangan, entah sebagai barang jadi yang kemudian dicairkan lagi. Jalurnya mungkin melalui Jawa bagian utara, lalu Bali utara, lalu turun ke Gianyar. Kehadiran nekara karena itu membuktikan dua hal sekaligus: bengkel lokal yang mampu mencetak logam besar, dan jaringan dagang yang mendatangkan bahan dari jarak ratusan kilometer.
 
 > Sebuah genderang tidak dibunyikan untuk didengar di satu desa. Ia dibunyikan untuk memberi tahu desa lain bahwa seseorang sudah menjadi penting.
 
-## Moko, nekara, dan harga pengantin
+## Umur tanpa karbon
 
-Nekara tidak hanya ditemukan di Bali. Contoh-contoh kecil ditemukan di Sumatra, Jawa, Nusa Tenggara, Maluku, dan bahkan di tepi Danau Sentani, Papua. Di Alor, genderang perunggu kecil yang disebut moko masih dipakai sebagai mas kawin sampai sekarang.
+Penanggalan nekara Pejeng tidak pernah pasti. Logam tidak mengandung karbon, jadi radiokarbon tidak bisa dipakai; yang tersisa hanya gaya hias, perbandingan dengan genderang lain, dan konteks temuan di sekitar pura.
 
-Fungsi aslinya diperdebatkan. Sebagian peneliti menyebutnya alat musik, sebagian wadah suci, sebagian simbol kekuasaan, dan sebagian bekal kubur. Di beberapa situs, nekara ditemukan terpendam tanpa tulang, seolah sengaja disimpan atau disembunyikan.
+Sebagian ahli menempatkannya pada abad ke-1 sampai ke-2 Masehi, sezaman dengan puncak produksi genderang di Asia Tenggara. Sebagian lain memberi rentang 2.000 sampai 2.300 tahun lalu dengan alasan perbedaan gaya. Selisih beberapa abad itu penting: ia menentukan apakah benda ini sezaman dengan jaringan pelabuhan awal di Jawa dan Sumatra, atau datang sesudahnya.
 
-Yang paling mungkin: fungsinya berubah menurut tempat. Benda yang sama bisa menjadi genderang dalam upacara, pusaka keluarga, alat tukar, dan benda suci, tergantung siapa yang memilikinya.
-
-## Umur yang masih diperdebatkan
-
-Penanggalan nekara Pejeng tidak pernah pasti. Sebagian ahli menempatkannya pada abad ke-1 sampai ke-2 Masehi, sezaman dengan puncak produksi nekara di Asia Tenggara. Sebagian lain memberi rentang 2.000 sampai 2.300 tahun lalu, dengan alasan perbedaan gaya dan konteks temuan.
-
-Tidak ada penanggalan radiokarbon yang bisa dipakai, karena logam tidak mengandung karbon. Umur ditentukan dari gaya hias, perbandingan dengan nekara lain, dan konteks temuan di sekitar pura — semuanya tidak langsung.
-
-Yang tersisa adalah sebuah benda besar di ruang gelap, dengan permukaan yang sudah hijau dan beberapa bagian yang pernah retak. Ia tidak memberi tanggal, tetapi ia memberi bukti bahwa di Bali, sebelum prasasti pertama, sudah ada orang yang sanggup menggerakkan ratusan kilogram logam untuk sesuatu yang tidak bisa dimakan.
+Yang tersisa adalah sebuah benda besar di ruang gelap, permukaannya sudah hijau, dan beberapa bagian pernah retak. Ia tidak memberi tanggal, tetapi ia memberi bukti bahwa di Bali, sebelum prasasti pertama, sudah ada orang yang sanggup menggerakkan ratusan kilogram logam untuk sesuatu yang tidak bisa dimakan.

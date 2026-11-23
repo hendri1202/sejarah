@@ -13,44 +13,48 @@ sources:
   - "Museum Nasional Indonesia, koleksi prasasti D.2a–D.2g"
 ---
 
-Empat dari tujuh yupa Kutai ditemukan pada 1879 di Bukit Brubus, pedalaman Kutai Barat, Kalimantan Timur. Tiga sisanya menyusul di kawasan Muara Kaman, tidak jauh dari tepi Sungai Mahakam. Semuanya batu andesit, sebagian sudah patah, dan hanya empat yang tulisannya masih dapat dibaca. Yupa tertinggi memuat delapan baris; yang lain berbeda-beda, ada yang mencapai dua belas baris. Hurufnya Pallawa, bahasanya Sanskerta, dan metrumnya *anustubh*—empat baris pendek per bait, pola yang sama dengan syair upacara di India selatan.
+Empat batu pertama ditemukan pada 1879 di lereng Bukit Beubus, dekat Muara Kaman, pedalaman Sungai Mahakam. Tiga sisanya menyusul kemudian, dan penemuan terakhir baru tercatat menjelang 1940. Semuanya andesit dan sebagian sudah patah; batu yang masih utuh tingginya sekitar satu meter. Pada satu batu terbaca dua belas baris, pada batu lain lebih pendek, dan hanya empat yang tulisannya masih bisa diikuti.
 
-Batu-batu itu tidak ditemukan di dalam reruntuhan kota. Tidak ada fondasi candi, tidak ada tembikar istana, tidak ada gerbang. Yang tersisa hanya batu, dan batu itu pun menurut laporan pertama abad ke-19 sudah tidak berada di tempat aslinya. Inilah masalah pertama Kutai: kita memiliki dokumen upacara yang sangat rapi, tetapi tidak memiliki kotanya.
+Hurufnya Pallawa, bahasanya Sanskerta, dan metrumnya *anustubh* — bait empat baris pendek yang lazim dalam syair keagamaan India. Tidak ada gambar, tidak ada relief, tidak ada lambang kerajaan. Yang ada hanya huruf yang dipahat rapi pada batu yang harus diangkut dari tempat lain.
 
-## Tujuh batu, empat terbaca
+## Dua puluh ribu sapi
 
-Tiga yupa terlalu aus untuk dibaca. Empat yang tersisa kini disimpan di Museum Nasional dengan nomor inventaris D.2a sampai D.2g, dan teksnya saling melengkapi. Yupa I memuat silsilah paling lengkap: Kundungga, lalu Aswawarman, lalu Mulawarman. Yupa II dan IV memuji kedermawanan Mulawarman. Yupa III menyebut tanah dan lampu minyak yang diserahkan. Tidak ada satu pun yang menyebut nama "Kutai"; nama itu baru dipakai berabad-abad kemudian oleh kerajaan di wilayah yang sama, yang mengaku keturunan mereka.
+Yupa keempat memuat kalimat yang paling sering dikutip: raja memberi dua puluh ribu ekor sapi kepada para brahmana "yang seperti api", di sebuah tanah suci bernama Waprakeswara. Yupa pertama menyebut emas dalam jumlah besar; yupa ketiga menyebut tanah di Tillaparvata dan lampu-lampu minyak yang diserahkan.
 
-Yupa adalah tiang kurban, bukan batu peringatan biasa. Ia didirikan untuk menandai selesainya sebuah *yajna*, upacara korban yang dilakukan raja bersama para brahmana. Karena itu kosakatanya penuh istilah teknis: *dāna* (pemberian), *puṇya* (jasa), *yūpa* (tiang), *dvija* (dua kali lahir, sebutan untuk brahmana). Pembaca modern cenderung melihat angka sapi sebagai data ekonomi. Bagi penulisnya, angka itu adalah ukuran jasa, bukan ukuran peternakan.
+Angka 20.000 itu tidak masuk akal sebagai laporan peternakan. Populasi sebesar itu menuntut padang rumput dan jaringan pengangkutan yang tidak meninggalkan jejak arkeologis apa pun di sekitar Mahakam. Para epigraf membacanya sebagai bilangan simbolis: kelipatan besar yang menyatakan kebesaran pemberi, bukan hasil sensus.
 
-## 20.000 sapi dan emas
+Kosakatanya juga menunjukkan hal lain. Kata *dāna* (pemberian), *puṇya* (jasa), *dvija* (dua kali lahir, sebutan brahmana), dan *yūpa* (tiang) berasal dari bahasa ritual, bukan bahasa pasar. Pembaca modern melihat angka sapi sebagai data ekonomi; penulisnya melihatnya sebagai ukuran jasa, dan jasa hanya bisa dihitung dengan bahasa kitab.
 
-Yupa IV menyebut *vinsatir ggosahasrikam*: dua puluh ribu sapi. Yupa I menyebut upacara "emas amat banyak". Yupa II menyamakan pemberian Mulawarman dengan pohon kalpa, pohon yang memberi segala keinginan, ditambah tanah yang dihadiahkan. Yupa III menyebut tanah di Tillaparvata dan lampu-lampu minyak.
+## Tiga nama, tiga gelar
 
-Dua puluh ribu ekor sapi di pedalaman Borneo abad ke-4 adalah angka yang sulit dipercaya sebagai laporan peternakan. Populasi ternak sebesar itu membutuhkan padang rumput dan jaringan pengangkutan yang tidak meninggalkan jejak arkeologis apa pun. Para epigraf umumnya membaca angka itu sebagai bilangan simbolis: kelipatan besar yang menunjukkan kebesaran raja, bukan hasil sensus.
+Yupa pertama adalah satu-satunya sumber tertulis tentang urutan penguasa. Kundungga disebut *vangsakerta* — "pembuat keluarga", atau pendiri wangsa — tanpa gelar *rāja*. Aswawarman dibandingkan dengan Ansuman, dewa matahari, dan digambarkan menumbuhkan keluarga besar. Mulawarman, generasi ketiga, disebut *rājendra*, raja dari segala raja, dan dialah yang memimpin upacara kurban.
+
+Perhatikan tangganya. Kundungga belum memakai gelar India sama sekali. Aswawarman memakai kiasan matahari. Mulawarman memakai gelar kerajaan penuh. Dalam tiga baris silsilah, sebuah keluarga lokal berubah menjadi wangsa yang sah menurut kosmologi India, tanpa satu pun daftar penaklukan atau wilayah. Tidak ada nama ibu kota, tidak ada nama sungai, dan tidak ada tarikh yang dipahat; yang tersisa hanya silsilah dan hadiah.
+
+:::note
+Kata *vangsakerta* pada yupa pertama berarti "pembuat keluarga", bukan "raja". Kundungga adalah kepala lokal yang belum memakai gelar India; gelar itu baru muncul pada generasi ketiga.
+:::
+
+## Tiang kurban, bukan tugu
+
+Yupa bukan batu peringatan biasa. Dalam ritual Veda, *yūpa* adalah tiang tempat hewan kurban diikat, dan mendirikannya menandai selesainya sebuah *yajna*. Karena itu batu-batu Kutai bukan "prasasti pendirian kerajaan" seperti dibaca buku pelajaran, melainkan dokumen upacara: catatan bahwa seorang raja telah memberi, dan bahwa pemberiannya diterima.
+
+Yang menulis hampir pasti para penerima. Brahmana yang menguasai aksara dan bahasa dewa itu menyusun bait, memilih kata, dan memahatkannya. Prasasti tertua Indonesia yang masih terbaca adalah dokumen yang dibuat oleh pihak yang diberi hadiah, bukan oleh pihak yang memberi. Di dalamnya, raja dibandingkan dengan matahari, dan kekuasaannya dinyatakan sah karena telah memberi kepada orang suci.
 
 > Angka dua puluh ribu bukan data peternakan; ia adalah cara mengatakan bahwa raja memberi lebih banyak daripada yang bisa dihitung.
 
-Yang lebih penting adalah arah transaksinya. Raja memberi kepada brahmana; brahmana, yang menguasai aksara dan bahasa dewa, mendirikan batu dan menuliskan bahwa raja itu sah. Yupa IV bahkan menyebut tanah *vaprakesvara*, sebuah tempat yang tidak dapat diidentifikasi sampai sekarang. Tidak ada batas, tidak ada peta, tidak ada saksi. Yang ada hanya nama tempat yang hanya muncul sekali dalam seluruh epigrafi Nusantara.
+## Kota yang tidak ada
 
-## Tiga generasi
+Tidak ada fondasi candi di Muara Kaman, tidak ada tembikar istana, tidak ada gerbang. Yang tersisa hanya batu, dan batu itu pun menurut laporan abad ke-19 sudah berpindah dari tempat pendiriannya. Sebagian yupa kini disimpan di Museum Nasional dengan nomor D.2, sebagian lagi di Museum Mulawarman di Tenggarong, bekas istana kesultanan Kutai.
 
-Yupa I adalah satu-satunya sumber tertulis tentang urutan penguasa. Kundungga disebut *vangsakerta*, "pembuat keluarga" atau "pendiri wangsa"—bukan *rāja*, bukan *maharāja*. Aswawarman disebut "seperti Ansuman", dewa matahari, dan digambarkan menumbuhkan keluarga besar. Mulawarman, generasi ketiga, disebut *rājendra*, raja dari segala raja, dan dialah yang memimpin upacara korban itu.
+Waprakeswara sendiri tidak pernah ditemukan. Kata itu hanya muncul di prasasti ini, dan para ahli menduga kata itu menunjuk tempat pemujaan Siwa — *vapra* berarti tanggul atau timbunan, *īśvara* berarti tuan — tetapi tidak ada bangunan, arca, atau lingga yang bisa dihubungkan dengannya.
 
-Perhatikan gelar yang naik dari satu generasi ke generasi berikutnya. Kundungga belum memakai gelar India. Aswawarman memakai kiasan matahari. Mulawarman memakai gelar kerajaan penuh. Dalam tiga baris silsilah, sebuah keluarga lokal berubah menjadi wangsa yang sah menurut kosmologi India. Tidak ada bukti penaklukan, tidak ada daftar wilayah, tidak ada prasasti yang memerintahkan rakyat membayar pajak. Yang ada hanya hadiah, gelar, dan batu.
+Nama "Kutai" juga tidak dipahat di batu mana pun. Nama itu dipakai berabad-abad kemudian oleh kesultanan di wilayah yang sama, yang mengaku keturunannya, dan baru pada abad ke-20 menjadi nama kabupaten. Arkeolog menyebut kompleks ini Kutai karena letaknya, bukan karena isinya.
 
-:::note
-Kata *vangsakerta* pada Yupa I berarti "pembuat keluarga", bukan "raja". Kundungga adalah kepala lokal yang belum memakai gelar India; gelar itu baru muncul pada Mulawarman.
-:::
-
-## Nama yang tidak ada
-
-Kutai adalah nama kabupaten, bukan nama yang dipahat di batu. Prasasti itu tidak menyebut nama kerajaan, tidak menyebut ibu kota, dan tidak menyebut batas wilayah. Arkeolog menyebut kompleks ini "Kutai" karena letaknya, bukan karena isinya. Bahkan lokasi Muara Kaman sebagai pusat kekuasaan pun hanya dugaan: tidak ada permukiman yang digali secara luas di sekitarnya.
-
-Yang bisa dibuktikan hanyalah bahwa pada suatu waktu di pertengahan pertama milenium, sekelompok orang di Mahakam mampu mendatangkan batu andesit seberat ratusan kilogram, memanggil brahmana yang bisa menulis Sanskerta, dan menyelenggarakan upacara korban berskala besar. Kemampuan itu menunjukkan jaringan pelayaran dan perdagangan, karena batu andesit tidak tersedia di tepi sungai itu dan brahmana tidak lahir di pedalaman Borneo.
+Yang bisa dibuktikan hanyalah kemampuan teknis dan logistik: mendatangkan batu andesit seberat ratusan kilogram ke tepi sungai, memanggil orang yang bisa menulis Sanskerta, dan menggelar upacara berskala besar. Kemampuan itu menunjukkan jaringan pelayaran, karena batu andesit tidak tersedia di tepi Mahakam dan brahmana tidak lahir di pedalaman Borneo.
 
 ## Selisih satu abad
 
-Tanggalnya diperdebatkan. Paleografi huruf Pallawa yang dipakai mirip dengan prasasti India abad ke-4, dan itulah dasar penanggalan "abad ke-4" yang dipakai buku pelajaran. Sejumlah epigraf menggesernya ke abad ke-5 dengan alasan bentuk huruf di Nusantara bergerak lebih lambat daripada di India. Selisih satu abad itu bukan perkara kecil: ia menentukan apakah Kutai adalah kerajaan beraksara India pertama di Nusantara, atau hanya salah satu dari beberapa yang tumbuh hampir bersamaan di Sumatra, Jawa, dan Kalimantan.
+Tanggalnya diperdebatkan. Bentuk huruf Pallawa pada batu-batu ini paling dekat dengan prasasti India dari abad ke-4, dan dari kemiripan itulah buku pelajaran mengambil angkanya. Sejumlah epigraf menggesernya ke abad ke-5 karena bentuk huruf di Nusantara bergerak lebih lambat daripada di India.
 
-Yang tidak pernah selesai adalah pertanyaan tentang bentuk kekuasaannya. Apakah Mulawarman memerintah sebuah negara dengan birokrasi, atau hanya sebuah chiefdom di tepi sungai yang mampu menggelar satu upacara besar? Tanpa kota, tanpa pajak, tanpa batas, kata "kerajaan" menjadi terlalu besar untuk tujuh batu di tepi Mahakam.
+Selisih itu bukan perkara kecil. Ia menentukan apakah Kutai layak disebut kerajaan India pertama di Nusantara, atau hanya satu dari beberapa yang tumbuh hampir bersamaan di Sumatra, Jawa, dan Kalimantan. Yang tidak pernah selesai adalah pertanyaan tentang bentuk kekuasaannya: negara dengan birokrasi, atau chiefdom di tepi sungai yang mampu menggelar satu upacara besar? Tanpa kota, tanpa pajak, tanpa batas, kata "kerajaan" menjadi terlalu besar untuk tujuh batu di tepi Mahakam.
