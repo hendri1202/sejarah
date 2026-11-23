@@ -13,60 +13,48 @@ sources:
   - "J. S. Furnivall, Netherlands India: A Study of Plural Economy (1939)"
 ---
 
-Pada 1907, di Bandung, Tirto Adhi Soerjo menerbitkan *Medan Prijaji*. Surat kabar itu ditulis dalam bahasa Melayu, dicetak di atas kertas murah, dan dijual kepada pembaca pribumi: guru, juru tulis, pedagang, dan pegawai rendah. Isinya bukan berita istana atau pidato gubernur jenderal, tetapi keluhan tentang pegawai yang korup, bangsawan yang menjual tanah rakyat, dan pedagang kecil yang dipungut biaya tidak resmi.
+Pada 1 Januari 1907, nomor pertama *Medan Prijaji* keluar dari sebuah percetakan kecil di Bandung. Penerbitnya, Tirto Adhi Soerjo, baru saja kehilangan *Soenda Berita* yang ia dirikan pada 1903; kali ini ia memilih nama yang menyatakan ambisinya sendiri: medan bagi para priyayi, tempat mereka berdebat. Iklan di halaman belakang, dan harga yang masih terjangkau oleh guru desa serta juru tulis kecamatan.
 
-*Medan Prijaji* bukan surat kabar Melayu pertama, tetapi ia yang pertama dikelola orang pribumi untuk pembaca pribumi. Sebelumnya, surat kabar berbahasa Melayu diterbitkan oleh orang Eropa atau Tionghoa untuk pembaca pedagang, dengan berita pelayaran, harga barang, dan iklan lelang.
+Isinya bukan berita istana. Tirto menulis tentang bangsawan yang menyewakan tanah desa kepada pabrik gula, tentang pungutan yang tidak pernah masuk kas negara, tentang potongan upah yang tidak dijelaskan. Nada tulisannya bukan permohonan, melainkan dakwaan. Pembaca yang tidak pernah melihat ruang pengadilan tiba-tiba tahu bahwa seorang bupati bisa salah.
 
-## Bintang Hindia dan bahasa Melayu
+## Dari Soenda Berita ke Medan Prijaji
 
-Pada 1902, *Bintang Hindia* mulai terbit di Amsterdam, didirikan oleh kaum terpelajar pribumi yang belajar di Belanda. Majalah itu kemudian pindah ke Bandung, dan menjadi salah satu bacaan pertama yang membicarakan "bangsa Hindia" sebagai kesatuan.
+*Soenda Berita* lahir di Bandung pada 1903 dan berhenti beberapa tahun kemudian, sebagian karena modalnya habis. Pengalaman itu mengajar Tirto dua hal: surat kabar pribumi tidak bisa hidup hanya dari langganan, dan penerbit yang tidak punya percetakan sendiri selalu bergantung pada orang lain. *Medan Prijaji* karena itu dikelola sebagai perusahaan, dengan iklan sebagai sumber pendapatan utama.
 
-Bahasa Melayu dipilih bukan karena politik, tetapi karena pasar. Ia bahasa dagang yang dipahami di hampir semua pelabuhan Nusantara, dan tidak menuntut pendidikan Belanda. Seorang pedagang di Makassar bisa membaca surat kabar yang dicetak di Batavia, dan seorang guru di Padang bisa menulis surat kepada redaksi di Surabaya.
+Perusahaan itu tidak menyelamatkannya dari hukum. Tirto dituntut berulang kali — penghinaan pejabat, fitnah, pelanggaran aturan cetak — dan biaya pengacara serta denda lebih besar daripada laba percetakan. Nomor terakhir keluar pada Januari 1912. Ia meninggal pada 1918, enam tahun setelah surat kabarnya berhenti.
 
-Karena itu, pers Melayu tumbuh lebih cepat daripada pers Belanda. Ia lebih murah, lebih mudah dibaca, dan lebih dekat dengan kehidupan pembacanya. Pada 1910-an, surat kabar Melayu terbit di hampir setiap kota besar di Jawa dan Sumatra.
+## Melayu pasar, bukan Melayu sekolah
 
-## Sin Po dan pasar Tionghoa
+Bahasa yang dipakai pers bukan bahasa yang diajarkan di sekolah. Pemerintah punya versi bakunya sendiri; setelah Balai Pustaka berdiri pada 1917, ia mencetak buku pelajaran, terjemahan, dan roman dengan ejaan serta kosakata yang dirapikan. Pers tidak menunggu itu. Halaman surat kabar memakai campuran Melayu dagang, istilah administrasi Belanda, kata Arab, dan serapan Tionghoa seperti *kongsi* dan *tauke*.
 
-Pers Tionghoa-Melayu lebih besar lagi. *Perniagaan* terbit di Batavia pada 1907, dan *Sin Po* mulai terbit pada 1910. Keduanya memakai bahasa Melayu pasar, memuat iklan, berita dagang, dan tulisan tentang diskriminasi yang dialami orang Tionghoa.
+Campuran itu bukan kemalasan, melainkan syarat pembaca. Seorang pedagang di Makassar, seorang guru di Padang, dan seorang kasir toko di Surabaya tidak punya latar sekolah yang sama, tetapi mereka mengerti kalimat pendek yang sama. Karena itu pers Melayu bisa tumbuh tanpa menunggu sistem pendidikan kolonial selesai dibangun.
 
-*Sin Po* menjadi surat kabar dengan sirkulasi terbesar di Hindia pada 1920-an dan 1930-an. Ia punya jaringan koresponden, memuat berita internasional, dan menerbitkan cerita bersambung yang dibaca keluarga di rumah. Pada masa pergerakan, ia juga memuat tulisan politik yang tidak dimuat surat kabar Belanda.
+Pers juga hidup dari iklan, dan iklan menentukan siapa yang boleh marah. Pada Februari 1912, pedagang Arab dan pribumi di Batavia menolak memasang iklan di sebuah surat kabar Tionghoa. Dari boikot itu lahir *Oetoesan Hindia*, yang dipimpin Tjokroaminoto dan menjadi corong Sarekat Islam — sebuah surat kabar yang bermula dari sengketa ruang iklan, bukan dari kongres.
 
-Pembacanya bukan hanya orang Tionghoa. Orang pribumi yang bisa membaca Melayu juga membeli *Sin Po*, dan di kampung-kampung, surat kabar itu dibaca bersama di warung kopi. Satu lembar bisa dibaca sepuluh orang, dan berita yang penting didiskusikan lebih lama daripada waktu yang dibutuhkan untuk membacanya.
+## Sin Po dan edisi mingguan
 
-:::note
-Pada 1930-an, sirkulasi surat kabar Melayu terbesar mencapai puluhan ribu lembar per hari. Angka itu kecil dibandingkan penduduk Hindia yang 60 juta, tetapi besar dibandingkan jumlah orang yang bisa membaca bahasa Belanda.
-:::
+*Perniagaan* muncul di Batavia pada 1907 dengan tiga editor mudanya: Lauw Giok Lan, Tio Ie Soei, dan Thio Tjin Boen. Tiga tahun berselang, 1 Oktober 1910, Lauw bersama Yoe Sin Gie menerbitkan *Sin Po* sebagai mingguan. Sejak 1912 ia menjadi harian, dan pada 1922 Ang Jan Goan masuk ke dewan redaksi lalu membuka edisi Jawa Timur di Surabaya dengan Lim Bok Sioe sebagai pemimpin.
 
-## Bahasa yang menjadi politik
+Yang membuat *Sin Po* besar bukan hanya berita politiknya, tetapi jaringan distribusinya. Ia menerbitkan edisi mingguan untuk pelanggan di luar kota dan luar Jawa; kepala surat tahun 1923 mencantumkan langganan tiga bulan seharga tiga gulden di Hindia dan empat gulden di luar Hindia. Halaman dalamnya memuat cerita bersambung terjemahan, resep, iklan sepeda, dan obat — hiburan yang membuat orang membeli surat kabar setiap pekan, bukan hanya ketika ada berita besar. Pada 1928, *Sin Po* juga yang mencetak syair "Indonesia Raya" dua minggu setelah kongres pemuda, ketika kata itu belum resmi di mana pun.
 
-Bahasa Melayu di pers bukan bahasa baku sekolah. Ia bahasa campuran: Melayu pasar, istilah Belanda, kata Arab, dan ungkapan Tionghoa. Karena itu, ia bisa dipakai oleh orang dari latar belakang berbeda tanpa harus melewati sekolah kolonial.
+## Perempuan di halaman surat kabar
 
-Di halaman surat kabar, kata "Indonesia" mulai dipakai sebagai nama bagi seluruh kepulauan, bukan hanya nama geografi. Istilah itu dipopulerkan oleh kaum terpelajar, tetapi pers Melayu yang membuatnya beredar. Pada 1928, Sumpah Pemuda menyebut "bahasa Indonesia" sebagai bahasa persatuan; nama itu sudah lama dipakai di halaman iklan dan tajuk rencana.
+Pada 1 Juni 1908, Tirto menerbitkan *Poetri Hindia*, lembaran yang ditulis untuk dan sebagian oleh perempuan: tentang sekolah, perkawinan muda, dan pekerjaan. Empat tahun kemudian di Bukittinggi, Roehana Koeddoes memimpin *Soenting Melajoe*, surat kabar Melayu yang redaksinya perempuan dan pembacanya murid sekolah dan istri pedagang. Keduanya kecil dan berumur pendek, tetapi keduanya membuktikan bahwa pasar pembaca perempuan cukup untuk membiayai satu nomor.
 
-Pers juga menjadi tempat organisasi politik memperkenalkan diri. Sarekat Islam, Muhammadiyah, dan Indische Partij memakai surat kabar untuk mengumumkan rapat, menerbitkan program, dan membalas serangan lawan. Tanpa pers, organisasi itu tidak bisa tumbuh secepat itu.
+## Delik pers dan bredel
 
-> Satu lembar surat kabar dibaca sepuluh orang, dan dari warung kopi ia masuk ke rapat-rapat yang tidak pernah diliput.
+Pemerintah kolonial tidak perlu melarang pers; ia cukup membuat menulis menjadi mahal. Pasal 154 sampai 157 Kitab Hukum Pidana kolonial menghukum penyebaran kebencian terhadap pemerintah, dan rumusannya cukup longgar untuk menjerat tajuk rencana tentang pajak. Setelah 7 September 1931, ada alat baru: *Persbreidel Ordonnantie*, dimuat dalam Staatsblad 1931 Nomor 394, yang memberi gubernur jenderal hak menangguhkan surat kabar dan percetakan tanpa pengadilan.
 
-## Sensor dan pengadilan
+Penangguhan tidak selalu mematikan. Redaksi yang dibredel berpindah nama, meminjam percetakan lain, dan kembali terbit dalam hitungan minggu; karena itu pemerintah juga menuntut orangnya, bukan hanya penerbitnya. Di ruang sidang, penulis membacakan tulisannya sendiri sebagai pembelaan, dan surat kabar lain melaporkan jalannya perkara. Hukumannya menjadi bahan bacaan berikutnya.
 
-Pemerintah kolonial tidak membiarkan pers bebas. Ada delik pers yang bisa dipakai untuk menuntut penulis dan penerbit, dan ada izin cetak yang bisa dicabut. Tirto Adhi Soerjo dituntut berkali-kali, dan *Medan Prijaji* akhirnya berhenti terbit.
+## Yang tidak tersimpan
 
-Pada 1931, pemerintah mengeluarkan *persbreidel*, peraturan yang memberi gubernur jenderal hak menangguhkan surat kabar yang dianggap mengganggu ketertiban. Penangguhan bisa berlaku berbulan-bulan, dan selama itu penerbit kehilangan pendapatan serta pembaca.
+Pada 1940 ada lebih dari seratus terbitan berkala berbahasa Melayu di Hindia, sebagian besar mingguan dengan tiras beberapa ratus lembar. Angka melek huruf pribumi 6,4 persen pada 1930, dan perempuan hanya 2,2 persen; surat kabar dibaca bergiliran di warung, dibacakan di surau, dan dikutip dalam surat. Pengaruhnya tidak diukur dari penjualan, tetapi dari berapa kali satu kalimat diulang oleh orang yang tidak membelinya.
 
-Hukuman itu tidak selalu efektif. Surat kabar yang ditangguhkan bisa berganti nama, dan penulisnya bisa memakai nama samaran. Di pengadilan, tuntutan pers sering menjadi panggung politik: penulis membacakan tulisannya di depan hakim, dan surat kabar lain melaporkan jalannya sidang.
-
-## Angka dan batas
-
-Pada 1940, ada lebih dari seratus surat kabar dan majalah berbahasa Melayu di Hindia. Sebagian besar terbit mingguan, dengan tiras beberapa ratus lembar. Yang besar, seperti *Sin Po* dan *Pewarta Surabaya*, punya tiras puluhan ribu dan jaringan distribusi antarpulau.
-
-Namun pers Melayu tetap terbatas oleh melek huruf. Pada 1930, hanya sekitar 6,4 persen penduduk pribumi bisa membaca dan menulis. Surat kabar dibaca oleh minoritas, dan pengaruhnya bekerja melalui pembacaan bersama, cerita lisan, dan kutipan yang diteruskan dari mulut ke mulut.
-
-## Warisan
-
-Pers Melayu-Tionghoa meninggalkan bahasa pers Indonesia: kalimat pendek, kata serapan, dan gaya laporan yang langsung. Ia juga meninggalkan tradisi surat pembaca, tajuk rencana, dan kritik yang ditujukan kepada pemerintah.
-
-Banyak arsipnya hilang. Kertas murah, iklim lembap, dan penggusuran kantor redaksi membuat koleksi surat kabar Melayu tersebar dan tidak lengkap. Yang tersisa sebagian besar ada di Perpustakaan Nasional dan di Belanda, dan sebagian lagi hanya dikenal dari kutipan.
+Arsipnya justru rapuh. Kertas murah, udara lembap, dan kantor redaksi yang berpindah atau digusur membuat koleksi surat kabar Melayu tersebar dan bolong. Sebagian besar yang selamat ada di Perpustakaan Nasional dan di Belanda; pada 2018, Monash University mendigitalkan edisi mingguan *Sin Po*, dan untuk banyak terbitan lain yang tersisa hanyalah kutipan di surat kabar pesaing.
 
 :::note
-Medan Prijaji berhenti terbit pada 1912 setelah berkali-kali dituntut. Tirto Adhi Soerjo meninggal pada 1918 tanpa melihat pers Melayu menjadi industri besar.
+*Medan Prijaji* tutup pada Januari 1912 setelah lima tahun dan beberapa kali dituntut. Tirto Adhi Soerjo meninggal pada 1918, dan baru pada 2006 ia dinyatakan sebagai Pahlawan Nasional.
 :::
+
+> Surat kabar Melayu tidak lahir dari ruang kuliah. Ia lahir dari warung kopi, dari iklan obat, dan dari utang percetakan yang harus dibayar sebelum nomor berikutnya terbit.

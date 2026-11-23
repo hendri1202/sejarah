@@ -13,7 +13,7 @@ sources:
   - "Badan Perencanaan Pembangunan Nasional, Rencana Induk Ibu Kota Nusantara"
 ---
 
-Pada 26 Agustus 2019, Presiden Joko Widodo berdiri di depan sidang paripurna DPR dan mengumumkan bahwa ibu kota Indonesia akan pindah ke Kalimantan Timur. Kalimatnya singkat, tanpa peta, tanpa nama tempat. Dua tahun kemudian, kawasan di Kabupaten Penajam Paser Utara dan Kutai Kartanegara itu diberi nama Nusantara, dan pada Februari 2022 undang-undangnya disahkan.
+Pada 26 Agustus 2019, Presiden Joko Widodo berdiri di depan sidang paripurna DPR dan mengumumkan bahwa ibu kota akan pindah ke Kalimantan Timur. Kalimatnya singkat, tanpa peta, tanpa nama tempat. Dua setengah tahun kemudian, 17 Januari 2022, Kepala Bappenas Suharso Monoarfa menyebut nama yang dipilih: Nusantara. DPR mengesahkan rancangannya dalam rapat paripurna dua hari kemudian, dan pada 15 Februari 2022 presiden menandatangani UU Nomor 3 Tahun 2022 — 43 hari setelah panitia khusus dibentuk.
 
 ## Alasan yang disebut tiga
 
@@ -27,21 +27,19 @@ Perkiraan biaya total pada 2022 adalah Rp 466 triliun. Pemerintah menyatakan han
 
 Pada praktiknya, uang negara tetap menjadi tulang punggung. Untuk periode 2025–2029, pemerintah mengalokasikan Rp 48,8 triliun dari APBN, dan anggaran Otorita IKN pada 2026 sebesar Rp 6,2 triliun. Sebelumnya, pada 2022–2024, belanja infrastruktur dasar mencapai puluhan triliun rupiah, termasuk untuk istana negara, gedung kementerian, dan jalan akses.
 
-Investasi swasta tidak datang secepat yang dijanjikan. Beberapa investor membangun hotel, mal, dan perumahan, tetapi sebagian besar menunggu kepastian tentang siapa yang akan tinggal di sana. Tanpa pegawai negeri, tidak ada penyewa; tanpa penyewa, tidak ada yang mau membangun lebih dulu. Itu adalah masalah ayam dan telur yang sampai sekarang belum terpecahkan.
+Investasi swasta tidak datang secepat yang dijanjikan. Pemerintah menawarkan paket yang di atas kertas sulit ditolak: tax holiday sampai 30 tahun untuk proyek infrastruktur, tarif pemanfaatan lahan yang dimulai dari nol rupiah bagi pelaku usaha perintis, dan perizinan terpusat lewat PP 12/2023. Yang lebih dulu berdiri justru hotel dan apartemen kecil di sekitar kawasan inti. Pembangunan besar menunggu penghuni tetap, karena tanpa pegawai negeri tidak ada penyewa, dan tanpa penyewa tidak ada yang berani menanam modal lebih awal.
 
 :::note
-Per September 2026, 1.803 aparatur sipil negara dan personel pertahanan sudah pindah ke Nusantara. Target pemerintah adalah 9.500 orang pada 2029, dan target itu sendiri sudah diturunkan dari rencana awal.
+Per September 2026, penghuni tetap Nusantara berjumlah 1.803 orang — ASN dan personel pertahanan. Itu seperlima dari 9.500 yang dijanjikan untuk 2029, angka yang sejak awal sudah lebih kecil daripada rencana pertama.
 :::
 
 ## Istana yang siap, ASN yang belum
 
-Upacara 17 Agustus 2024 digelar di Nusantara, dan istana negara sudah bisa dipakai. Beberapa gedung kementerian berdiri, kawasan legislatif dibangun, dan jalan utama menghubungkan kawasan inti dengan jalan tol Balikpapan–Samarinda. Secara fisik, tahap pertama hampir selesai.
+Upacara 17 Agustus 2024 digelar di Nusantara. Istana Garuda, karya pematung Nyoman Nuarta, sudah berdiri di Kawasan Inti Pusat Pemerintahan: bentang sayap 177 meter, tinggi 77 meter, diselubungi 4.650 bilah yang dipasang satu per satu sampai topping off pada Juli 2024. Beberapa gedung kementerian berdiri, kawasan legislatif dibangun, dan jalan utama menghubungkan kawasan inti dengan jalan tol Balikpapan–Samarinda.
 
-Kepemimpinan proyek juga berganti. Pada 2024, kepala Otorita IKN pertama, Bambang Susantono, mengundurkan diri bersama wakilnya, dan Basuki Hadimuljono — mantan menteri pekerjaan umum yang membangun sebagian besar infrastruktur dasarnya — mengambil alih. Pergantian itu menunjukkan bahwa Nusantara bukan proyek satu lembaga, melainkan proyek yang bergantung pada presiden yang sedang menjabat.
+Kepemimpinan proyek juga berganti. Pada 3 Juni 2024, kepala Otorita IKN pertama, Bambang Susantono, mengundurkan diri bersama wakilnya; Basuki Hadimuljono — menteri pekerjaan umum yang membangun sebagian besar infrastruktur dasarnya — langsung ditunjuk sebagai pelaksana tugas. Pergantian itu menunjukkan bahwa Nusantara bukan proyek satu lembaga, melainkan proyek yang bergantung pada presiden yang sedang menjabat.
 
-Pemindahan manusia berjalan jauh lebih lambat. Rencana awal memindahkan puluhan ribu ASN pada 2024; kenyataannya, pada September 2026 baru 1.803 orang yang benar-benar pindah, termasuk personel pertahanan. Sebagian kementerian menunda karena rumah dinas belum siap, sekolah belum tersedia, dan keluarga enggan meninggalkan Jakarta.
-
-Menteri Pendayagunaan Aparatur Negara menyebut pemindahan dilakukan bertahap, dengan prioritas kementerian yang berkaitan langsung dengan pembangunan, seperti pekerjaan umum, pertanahan, dan perhubungan. Tetapi setiap penundaan menambah biaya perawatan kawasan yang sudah dibangun, dan Otorita IKN sendiri harus menghemat anggaran perawatan.
+Pemindahan manusia berjalan jauh lebih lambat. Rencana awal memindahkan puluhan ribu ASN pada 2024; kenyataannya, dua tahun kemudian yang benar-benar bermukim belum sampai dua ribu orang. Sebagian kementerian menunda karena rumah dinas belum siap, sekolah belum tersedia, dan keluarga enggan meninggalkan Jakarta. Menteri Pendayagunaan Aparatur Negara menyebut pemindahan dilakukan bertahap, dengan prioritas kementerian yang berkaitan langsung dengan pembangunan, seperti pekerjaan umum, pertanahan, dan perhubungan.
 
 ## Kritik dari dua arah
 
@@ -55,7 +53,7 @@ Kritik ketiga lebih politis: proyek ini dimulai oleh satu presiden, dan kelanjut
 
 ## Jakarta tidak menunggu
 
-Sementara Nusantara dibangun, Jakarta terus berubah. Penurunan tanah di Jakarta Utara berlanjut, dan proyek tanggul laut raksasa yang dimulai pada 2014 belum selesai. Beberapa bagiannya terhenti karena pembebasan tanah dan sengketa kewenangan antara pemerintah pusat dan daerah.
+Sementara Nusantara dibangun, Jakarta tetap turun. Di beberapa kelurahan Jakarta Utara, tanah sudah berada di bawah muka laut, dan penyedotan air tanah membuat penurunannya berlanjut beberapa sentimeter setiap tahun. Tanggul laut dicanangkan pada 9 Oktober 2014 dengan penancapan tiang baja pertama, tetapi sampai 2026 belum menjadi dinding utuh: pembebasan lahan, perebutan kewenangan antara Kementerian PUPR dan pemerintah provinsi, serta pergantian gubernur membuat pekerjaan berhenti dan dimulai lagi beberapa kali.
 
 Ironinya, pemindahan ibu kota tidak mengurangi kebutuhan Jakarta akan perlindungan. Kalau kota itu tetap menjadi pusat bisnis dan perdagangan, jutaan orang akan tetap tinggal di sana, dan masalah banjir, macet, dan udara kotor tidak hilang hanya karena kantor presiden pindah.
 

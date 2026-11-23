@@ -21,17 +21,19 @@ Otonomi khusus lahir dari tekanan yang meningkat setelah Soeharto jatuh. Pada 19
 
 Jakarta menjawab dengan otonomi, bukan referendum. Bagi pusat, otonomi adalah cara menahan tuntutan merdeka tanpa harus mengakui bahwa tuntutan itu punya dasar politik. Undang-undang 2001 memberi Papua kewenangan yang lebih luas daripada provinsi lain: mengatur pendidikan, kesehatan, pertanian, dan sebagian perizinan. Yang paling penting secara simbolik adalah Majelis Rakyat Papua, lembaga yang beranggotakan wakil adat, agama, dan perempuan, dengan hak untuk menolak calon gubernur.
 
+Lembaga itu tidak langsung bekerja. Peraturan pelaksanaannya baru keluar pada 2004, dan 42 anggotanya dilantik oleh Menteri Dalam Negeri pada 31 Oktober 2005 — hampir empat tahun setelah undang-undangnya berlaku. Jeda itu menjelaskan banyak hal tentang bagaimana otonomi dijalankan: kewenangan diberikan lebih dulu, prosedurnya menyusul.
+
 Dana otonomi khusus menjadi inti kesepakatan. Besarnya 2 persen dari DAU nasional, dan berlaku selama 20 tahun, dari 2002 sampai 2021. Uang itu tidak masuk ke kabupaten secara otomatis, melainkan dikelola pemerintah provinsi dan kabupaten dengan prioritas yang ditetapkan sendiri.
 
 ## Uang yang tidak menjadi sekolah
 
-Pada 2021, undang-undang baru memperpanjang dana otonomi khusus menjadi 2,25 persen DAU untuk 20 tahun berikutnya, ditambah dana tambahan untuk infrastruktur. Pemerintah menyebutnya "Otsus Plus". Kritiknya sama seperti sebelumnya: uang mengalir, tetapi indikator pembangunan tidak bergerak secepat anggaran.
+Antara 2002 dan 2021, Kementerian Keuangan mencatat lebih dari Rp 138 triliun dana otonomi khusus dan dana tambahan infrastruktur mengalir ke Papua dan Papua Barat. Pada 2021, undang-undang baru memperpanjang dana itu menjadi 2,25 persen dari plafon DAU untuk dua puluh tahun berikutnya, ditambah dana tambahan untuk infrastruktur. Pemerintah menyebutnya "Otsus Plus"; DPR mengesahkannya pada 15 Juli 2021, dan alokasinya pada 2022 saja mencapai sekitar Rp 8,5 triliun.
 
-Angka kemiskinan di Papua tetap yang tertinggi di Indonesia. Pada 2024, lebih dari seperempat penduduk provinsi Papua hidup di bawah garis kemiskinan, dan di Provinsi Papua Pegunungan angkanya lebih tinggi lagi. Angka kematian ibu, akses air bersih, dan angka putus sekolah juga tertinggal jauh dari rata-rata nasional.
+Angka kemiskinan di Papua tetap yang tertinggi di Indonesia. Pada 2024, hampir tiga puluh persen penduduk Provinsi Papua Pegunungan hidup di bawah garis kemiskinan, dibandingkan 8,57 persen secara nasional. Angka kematian ibu, akses air bersih, dan angka putus sekolah juga tertinggal jauh dari rata-rata nasional.
 
 Penyebabnya tidak tunggal. Sebagian dana habis untuk biaya administrasi dan perjalanan dinas; sebagian tercecer dalam proyek yang tidak selesai; sebagian lagi menjadi objek korupsi. Beberapa bupati dan gubernur Papua pernah ditangkap KPK, termasuk dalam kasus dana otonomi khusus. Jarak antara Jayapura dan distrik di pegunungan juga membuat pengawasan hampir mustahil.
 
-Ada masalah struktural yang lebih dalam. Dana otonomi khusus masuk ke anggaran provinsi dan kabupaten, lalu bersaing dengan belanja rutin yang sudah ada. Gaji pegawai, perjalanan dinas, dan biaya kantor menyerap porsi besar sebelum uang itu sampai ke sekolah atau puskesmas. Karena tidak ada hukuman bagi daerah yang gagal membelanjakan, dana yang tidak terserap sering dikembalikan ke kas negara pada akhir tahun, bukan dialihkan ke program lain.
+Ada masalah struktural yang lebih dalam. Dana otonomi khusus masuk ke anggaran provinsi dan kabupaten, lalu bersaing dengan belanja rutin yang sudah ada. Gaji pegawai, perjalanan dinas, dan biaya kantor menyerap porsi besar sebelum uang itu sampai ke sekolah atau puskesmas. Karena tidak ada hukuman bagi daerah yang gagal membelanjakan, dana yang tidak terserap sering dikembalikan ke kas negara pada akhir tahun, bukan dialihkan ke program lain. Ketergantungan pada transfer juga melemahkan inisiatif lokal: lebih dari delapan puluh persen APBD provinsi berasal dari pusat, sehingga gubernur lebih sibuk mengurus Jakarta daripada membangun penerimaan sendiri.
 
 :::note
 Dana otonomi khusus awalnya 2 persen DAU (2002–2021), lalu 2,25 persen DAU untuk 2022–2041. Totalnya puluhan triliun rupiah, tetapi Papua tetap provinsi dengan kemiskinan tertinggi di Indonesia.
@@ -39,7 +41,7 @@ Dana otonomi khusus awalnya 2 persen DAU (2002–2021), lalu 2,25 persen DAU unt
 
 ## Pemekaran 2022
 
-Pada 2022, pemerintah dan DPR membentuk empat provinsi baru di Papua: Papua Selatan, Papua Tengah, Papua Pegunungan, dan Papua Barat Daya. Jumlah provinsi di Indonesia naik dari 34 menjadi 38, dan keempatnya dibentuk dalam satu paket undang-undang pada Juli 2022.
+Pada 25 Juli 2022, presiden menandatangani tiga undang-undang sekaligus: UU 14/2022 membentuk Papua Selatan, UU 15/2022 membentuk Papua Tengah, dan UU 16/2022 membentuk Papua Pegunungan. Provinsi keempat, Papua Barat Daya, menyusul lewat UU 29/2022 yang disahkan DPR pada 17 November 2022. Tiga provinsi pertama dilantik Menteri Dalam Negeri pada 11 November 2022; jumlah provinsi di Indonesia naik dari 34 menjadi 38.
 
 Alasannya pelayanan: jarak dari Merauke ke Jayapura lebih jauh daripada Jakarta ke Singapura, dan banyak distrik tidak pernah melihat gubernur. Pemekaran diharapkan memperpendek rantai birokrasi dan mempercepat anggaran sampai ke kabupaten. Pendukungnya menyebutnya sebagai koreksi atas otonomi yang terlalu terpusat di Jayapura.
 
@@ -51,12 +53,12 @@ Otonomi tidak menghentikan konflik bersenjata. Kelompok separatis yang menamakan
 
 Kekerasan sipil berulang. Pada Desember 2014, empat siswa tewas ditembak di Paniai. Pada Desember 2018, kelompok bersenjata menewaskan 31 pekerja jalan di Nduga, dan ribuan warga mengungsi. Pada September 2020, pendeta Yeremia Zanambani ditembak mati di Intan Jaya; penyelidikan sipil dan militer tidak pernah mencapai kesimpulan yang diterima semua pihak.
 
-Ketegangan etnis dan politik juga meningkat. Pada Agustus 2019, kerusuhan pecah di Jayapura dan beberapa kota setelah mahasiswa Papua diperlakukan kasar di Surabaya. Pemerintah memblokir internet di Papua selama beberapa hari, dan blokir itu dikritik sebagai pembatasan yang tidak proporsional.
+Ketegangan etnis dan politik juga meningkat. Pada 19 Agustus 2019, demonstrasi di Jayapura dan sejumlah kota lain berubah menjadi kerusuhan, dipicu laporan bahwa mahasiswa Papua di Surabaya dikumpulkan, dilempari, dan dicaci dengan sebutan rasis. Pemerintah memperlambat dan memblokir internet di Papua serta Papua Barat sampai awal September 2019; pada 2020, Pengadilan Tata Usaha Negara Jakarta menyatakan bahwa pemblokiran itu melanggar hukum.
 
 > Otonomi memberi Papua uang dan kewenangan, tetapi tidak memberi jawaban atas pertanyaan yang paling lama: siapa yang berhak menentukan masa depan tanah itu.
 
 ## Yang belum dijawab
 
-Sampai 2026, otonomi khusus Papua berusia seperempat abad. Yang berubah: jumlah provinsi, besaran transfer, dan jumlah pejabat Papua di pemerintahan. Yang tidak berubah: kemiskinan, ketergantungan pada dana pusat, dan konflik bersenjata yang menelan korban sipil setiap tahun. Ketergantungan itu juga melemahkan inisiatif lokal: daerah menunggu transfer, bukan mengembangkan sumber pendapatan sendiri.
+Sampai 2026, otonomi khusus Papua berusia seperempat abad. Yang berubah: jumlah provinsi, besaran transfer, dan jumlah pejabat Papua di pemerintahan. Yang tidak berubah: kemiskinan, ketergantungan pada dana pusat, dan konflik bersenjata yang menelan korban sipil setiap tahun.
 
-Pemerintah menawarkan jalan lain: investasi, jalan Trans-Papua, dan program makanan bergizi. Kritiknya, pembangunan itu sering datang bersama aparat keamanan, dan bagi warga di pegunungan, jalan baru bisa berarti pasar yang lebih cepat atau pos militer yang lebih dekat. Sampai sekarang, belum ada mekanisme yang bisa memisahkan keduanya, dan belum ada perundingan baru yang melibatkan semua pihak yang bertikai.
+Pemerintah menawarkan jalan lain: investasi, jalan Trans-Papua, dan program makanan bergizi. Kritiknya, pembangunan itu sering datang bersama aparat keamanan, dan bagi warga di pegunungan, jalan baru bisa berarti pasar yang lebih cepat atau pos militer yang lebih dekat. Tambang Freeport di Mimika, yang sahamnya 51 persen dipegang negara sejak 2018, menjadi contoh paling jelas: ia menyumbang pendapatan besar bagi negara dan kabupaten, tetapi juga menjadi sumber sengketa tanah, lingkungan, dan keamanan. Sampai sekarang, belum ada mekanisme yang bisa memisahkan pembangunan dari aparat yang menjaganya, dan belum ada perundingan baru yang melibatkan semua pihak yang bertikai.
