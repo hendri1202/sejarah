@@ -236,6 +236,62 @@
     });
   });
 
+  /* ——— arsip artikel ——— */
+  var arcList = $("[data-arc-list]");
+  if (arcList && window.KRONIK_ENTRIES) {
+    var all = window.KRONIK_ENTRIES.slice();
+    var state = { era: "semua", q: "", tag: "", shown: 0 };
+    var PAGE = 60;
+    var tagSel = $("[data-arc-tag]");
+    var counter = $("[data-arc-count]");
+    var moreBtn = $("[data-arc-more]");
+    var tags = {};
+    all.forEach(function (e) { (e.g || []).forEach(function (t) { tags[t] = (tags[t] || 0) + 1; }); });
+    if (tagSel) {
+      Object.keys(tags).sort().forEach(function (t) {
+        var o = doc.createElement("option");
+        o.value = t; o.textContent = t + " (" + tags[t] + ")";
+        tagSel.appendChild(o);
+      });
+      tagSel.addEventListener("change", function () { state.tag = tagSel.value; state.shown = 0; paint(); });
+    }
+    function match(e) {
+      if (state.era !== "semua" && e.e !== state.era) return false;
+      if (state.tag && (e.g || []).indexOf(state.tag) === -1) return false;
+      if (state.q) {
+        var hay = (e.t + " " + e.y + " " + e.d + " " + (e.g || []).join(" ")).toLowerCase();
+        if (hay.indexOf(state.q) === -1) return false;
+      }
+      return true;
+    }
+    function paint() {
+      var hits = all.filter(match);
+      if (state.shown === 0) state.shown = PAGE;
+      var slice = hits.slice(0, state.shown);
+      arcList.innerHTML = slice.map(function (e) {
+        var part = e.e;
+        return '<li><a href="artikel/' + e.i + '.html"><span class="y">' + e.y +
+          '</span><span class="t">' + e.t + '</span><span class="e">' + part + '</span></a></li>';
+      }).join("") || '<li style="padding:18px 0;color:var(--muted)">Tidak ada artikel yang cocok.</li>';
+      if (counter) counter.textContent = hits.length + " artikel";
+      if (moreBtn) moreBtn.parentNode.style.display = hits.length > state.shown ? "" : "none";
+    }
+    var q = $("[data-arc-q]");
+    if (q) {
+      q.addEventListener("input", function () {
+        state.q = q.value.trim().toLowerCase(); state.shown = 0; paint();
+      });
+    }
+    $$("[data-era]").forEach(function (b) {
+      b.addEventListener("click", function () {
+        $$("[data-era]").forEach(function (x) { x.setAttribute("aria-pressed", x === b ? "true" : "false"); });
+        state.era = b.getAttribute("data-era"); state.shown = 0; paint();
+      });
+    });
+    if (moreBtn) moreBtn.addEventListener("click", function () { state.shown += PAGE; paint(); });
+    paint();
+  }
+
   /* ——— sorot bab aktif di laci ——— */
   var here = location.pathname.split("/").pop();
   $$(".drawer a").forEach(function (a) {

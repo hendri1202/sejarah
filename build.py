@@ -132,7 +132,9 @@ def read_frontmatter(raw: str):
                     k = k.strip()
                     v = v.strip()
                     current_key = k
-                    if v:
+                    if v.startswith("[") and v.endswith("]"):
+                        meta[k] = [x.strip().strip('"').strip("'") for x in v[1:-1].split(",") if x.strip()]
+                    elif v:
                         meta[k] = v.strip('"').strip("'")
                     else:
                         meta[k] = []
@@ -166,6 +168,33 @@ def load_chapters():
         })
     chapters.sort(key=lambda c: c["num"])
     return chapters
+
+
+ENTRY_DIR = CONTENT / "entri"
+
+
+def load_entries():
+    entries = []
+    for path in sorted(ENTRY_DIR.glob("*.md")):
+        meta, body = read_frontmatter(path.read_text(encoding="utf-8"))
+        if not meta.get("id"):
+            continue
+        tags = meta.get("tags", []) or []
+        if isinstance(tags, str):
+            tags = [t.strip() for t in tags.split(",") if t.strip()]
+        entries.append({
+            "id": str(meta["id"]).strip(),
+            "title": meta.get("title", "Tanpa judul"),
+            "era": meta.get("era", "bumi").strip(),
+            "years": meta.get("years", ""),
+            "tags": [t.strip().lower() for t in tags if t.strip()],
+            "chapter": int(meta.get("chapter", 0) or 0),
+            "dek": meta.get("dek", ""),
+            "sources": [x for x in (meta.get("sources", []) or []) if x],
+            "body": body,
+            "words": len(re.findall(r"\w+", body)),
+        })
+    return entries
 
 
 def md_to_html(text: str) -> str:
@@ -384,6 +413,7 @@ def masthead(current=""):
     <div class="masthead__spacer"></div>
     <div class="tools">
       <button class="tool" type="button" data-drawer-open aria-controls="daftar-isi">Isi</button>
+      <a class="tool" href="arsip.html">Arsip</a>
       <button class="tool" type="button" data-search-open>Cari <kbd>/</kbd></button>
       <button class="tool" type="button" data-theme-toggle aria-pressed="false">Malam</button>
     </div>
@@ -416,6 +446,7 @@ def drawer(chapters):
   </div>
   {"".join(blocks)}
   <div class="drawer__part"><span class="micro">Rujukan</span><ol>
+    <li><a href="arsip.html"><span class="n">→</span><span>Arsip artikel</span></a></li>
     <li><a href="kronologi.html"><span class="n">→</span><span>Kronologi lengkap</span></a></li>
     {fig_drawer}
     <li><a href="glosarium.html"><span class="n">→</span><span>Glosarium</span></a></li>
@@ -446,6 +477,7 @@ def footer():
     <a class="foot__mark" href="index.html">Kronik</a>
     <span class="micro">26 bab · 6 bagian · Edisi {BULAN[date.today().month - 1]} {date.today().year}</span>
     <nav>
+      <a class="micro" href="arsip.html">Arsip</a>
       <a class="micro" href="kronologi.html">Kronologi</a>
       {fig_link}
       <a class="micro" href="glosarium.html">Glosarium</a>
@@ -455,7 +487,7 @@ def footer():
 </footer>"""
 
 
-def page(title, desc, body, url="", cls=""):
+def page(title, desc, body, url="", cls="", base=""):
     full_title = title if title.startswith("Kronik") else f"{title} — Kronik"
     return f"""<!doctype html>
 <html lang="id">
@@ -474,6 +506,7 @@ def page(title, desc, body, url="", cls=""):
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 {f'<link rel="canonical" href="{SITE_URL}{url}">' if url else ''}
+{f'<base href="{base}">' if base else ''}
 <link rel="icon" href="{FAVICON}">
 {FONTS}
 <link rel="stylesheet" href="assets/style.css">
@@ -483,6 +516,7 @@ def page(title, desc, body, url="", cls=""):
 <a class="skip" href="#isi">Lompat ke isi</a>
 {body}
 <script src="assets/index-data.js"></script>
+<script src="assets/entries-data.js"></script>
 <script src="assets/app.js"></script>
 </body>
 </html>
@@ -491,7 +525,7 @@ def page(title, desc, body, url="", cls=""):
 
 # ————————————————————————— halaman —————————————————————————
 
-def build_index(chapters):
+def build_index(chapters, entries=None):
     part_blocks = []
     for part in PARTS:
         items = [c for c in chapters if c["part"] == part["key"]]
@@ -543,7 +577,12 @@ def build_index(chapters):
         ],
     )
 
-    total_words = sum(c["words"] for c in chapters)
+    entries = entries or []
+    total_words = sum(c["words"] for c in chapters) + sum(e["words"] for e in entries)
+    stats = f"{len(chapters)} bab"
+    if entries:
+        stats += f" · {len(entries)} artikel arsip"
+    stats += f" · 6 bagian · ± {word_range(total_words)} kata"
 
     body = f"""{masthead()}
 {drawer(chapters)}
@@ -551,7 +590,7 @@ def build_index(chapters):
 <section class="hero wrap">
   <div class="hero__top">
     <span class="micro micro--ink">Arsip sejarah · Edisi 01</span>
-    <span class="micro micro--ink">{len(chapters)} bab · 6 bagian · ± {word_range(total_words)} kata</span>
+    <span class="micro micro--ink">{stats}</span>
   </div>
   <h1>Dari debu bintang<em>sampai proklamasi.</em></h1>
   <div class="hero__lede">
@@ -616,7 +655,7 @@ def build_index(chapters):
                 body, url="", cls="page-home")
 
 
-def build_chapter(ch, chapters):
+def build_chapter(ch, chapters, entries=None):
     part = PART_BY_KEY[ch["part"]]
     idx = chapters.index(ch)
     prev_ch = chapters[idx - 1] if idx > 0 else None
@@ -642,6 +681,16 @@ def build_chapter(ch, chapters):
     next_html += '<a href="index.html#daftar" style="margin-top:10px"><span class="micro">Daftar isi</span><span class="t">Semua bab</span></a>'
 
     body_html = md_to_html(ch["body"])
+    rel_entries = [e for e in (entries or []) if e["chapter"] == ch["num"]][:12]
+    rel_items = "".join(
+        f'<li><a href="artikel/{e["id"]}.html"><span class="r-t">{esc(e["title"])}</span>'
+        f'<span class="r-e">{esc(e["years"])}</span></a></li>' for e in rel_entries
+    )
+    related_block = (
+        f'<section class="related"><h2 class="micro">Artikel terkait bab ini</h2>'
+        f'<ul>{rel_items}</ul>'
+        f'<p style="margin:14px 0 0"><a class="micro" href="arsip.html">Buka arsip lengkap →</a></p></section>'
+    ) if rel_items else ""
     toc_items = "".join(
         f'<li><a href="#{t["id"]}">{esc(t["name"])}</a></li>'
         for t in (md_to_html.last_toc or []) if t.get("level") == 2
@@ -686,6 +735,7 @@ def build_chapter(ch, chapters):
       {next_html}
     </section>
   </footer>
+  {related_block}
 </article>
 </main>
 {footer()}
@@ -800,6 +850,129 @@ def norm_years(life: str) -> str:
     return life
 
 
+def entry_related(e, entries, limit=6):
+    scored = []
+    for x in entries:
+        if x["id"] == e["id"]:
+            continue
+        overlap = len(set(x["tags"]) & set(e["tags"]))
+        if overlap:
+            scored.append((overlap, x["words"], x))
+    scored.sort(key=lambda r: (-r[0], -r[1]))
+    return [r[2] for r in scored[:limit]]
+
+
+def build_entry(e, entries, chapters):
+    part = PART_BY_KEY.get(e["era"], {"num": "", "title": e["era"].title()})
+    ch = next((c for c in chapters if c["num"] == e["chapter"]), None)
+    body_html = md_to_html(e["body"])
+    minutes = max(2, round(e["words"] / 210))
+    tags_html = "".join(
+        f'<a class="etag" href="topik/{slug_id(t)}.html">#{esc(t)}</a>' for t in e["tags"]
+    )
+    related = entry_related(e, entries)
+    rel_html = "".join(
+        f'<li><a href="artikel/{r["id"]}.html"><span class="r-t">{esc(r["title"])}</span>'
+        f'<span class="r-e">{esc(r["years"])}</span></a></li>'
+        for r in related
+    )
+    rel_block = (f'<section class="related"><h2 class="micro">Artikel terkait</h2><ul>{rel_html}</ul></section>'
+                 if rel_html else "")
+    ch_html = (f'<a href="{ch["file"]}">Bab {ch["num"]:02d} · {esc(ch["title"])}</a>' if ch else "")
+    sources_html = "".join(f"<li>{esc(x)}</li>" for x in e["sources"]) or "<li>—</li>"
+
+    body = f"""{masthead()}
+{drawer(chapters)}
+<main id="isi">
+<article class="chapter wrap page-entry">
+  <header class="chapter__head">
+    <div class="chapter__kicker">
+      <a class="micro" href="arsip.html">Arsip</a>
+      <span class="micro">{esc(part["title"])} · {esc(e["years"])}</span>
+    </div>
+    <h1>{esc(e["title"])}</h1>
+    <p class="chapter__dek">{esc(e["dek"])}</p>
+    <div class="chapter__meta">
+      <span class="micro">{word_range(e["words"])} kata · ± {minutes} menit</span>
+      <div class="etags">{tags_html}</div>
+      <span class="micro" style="margin-left:auto">{ch_html}</span>
+    </div>
+  </header>
+  <div class="layout">
+    <div class="prose">{body_html}</div>
+  </div>
+  <footer class="chapter__end">
+    <section class="sources"><h3 class="micro">Bacaan</h3><ol>{sources_html}</ol></section>
+    <section class="next"><h3 class="micro">Lanjut</h3>
+      <a href="arsip.html"><span class="micro">Arsip</span><span class="t">Semua artikel</span></a>
+      {ch_html and f'<a href="{ch["file"]}" style="margin-top:10px"><span class="micro">Bab induk</span><span class="t">{esc(ch["title"])}</span></a>'}
+    </section>
+  </footer>
+  {rel_block}
+</article>
+</main>
+{footer()}
+{search_panel()}"""
+    return page(e["title"], e["dek"] or f"Artikel Kronik: {e['title']}", body,
+                url=f"artikel/{e['id']}.html", cls="page-entry", base="../")
+
+
+def build_archive(entries, chapters):
+    body = f"""{masthead()}
+{drawer(chapters)}
+<main id="isi">
+<section class="wrap">
+  <header class="page-head">
+    <div class="chapter__kicker"><span class="micro">Arsip</span><span class="micro" data-arc-count>{len(entries)} artikel</span></div>
+    <h1>Arsip</h1>
+    <p>Semua entri di luar dua puluh enam bab: satu artikel untuk satu peristiwa, satu situs, satu tokoh,
+    atau satu kebijakan. Saring menurut bagian, topik, atau kata kunci.</p>
+  </header>
+</section>
+<div class="wrap">
+  <div class="filters" data-arc-filters style="top:58px">
+    <button class="chip" type="button" data-era="semua" aria-pressed="true">Semua</button>
+    {"".join(f'<button class="chip" type="button" data-era="{p["key"]}" aria-pressed="false">{p["title"]}</button>' for p in PARTS)}
+  </div>
+  <div class="arc-search">
+    <input type="search" placeholder="Cari di arsip: Tambora, Diponegoro, rempah…" aria-label="Cari arsip" data-arc-q>
+    <select data-arc-tag aria-label="Saring topik"><option value="">Semua topik</option></select>
+  </div>
+  <ol class="arc-list" data-arc-list></ol>
+  <p class="arc-more"><button class="tool" type="button" data-arc-more>Muat lebih banyak</button></p>
+</section>
+</main>
+{footer()}
+{search_panel()}"""
+    return page("Arsip", "Arsip artikel Kronik: peristiwa, situs, tokoh, dan kebijakan.", body,
+                url="arsip.html", cls="page-archive")
+
+
+def build_tag(tag, items, chapters):
+    rows = "".join(
+        f'<li><a href="artikel/{e["id"]}.html"><span class="n">{esc(e["years"])}</span>'
+        f'<span class="t">{esc(e["title"])}</span><span class="lead"></span>'
+        f'<span class="d">{PART_BY_KEY.get(e["era"], {"title": e["era"]}).get("title", e["era"])}</span></a></li>'
+        for e in sorted(items, key=lambda x: x["title"])
+    )
+    body = f"""{masthead()}
+{drawer(chapters)}
+<main id="isi">
+<section class="wrap">
+  <header class="page-head">
+    <div class="chapter__kicker"><a class="micro" href="arsip.html">Arsip</a><span class="micro">{len(items)} artikel</span></div>
+    <h1>#{esc(tag)}</h1>
+    <p>Semua entri yang ditandai topik ini.</p>
+  </header>
+  <ol class="chapters" style="margin-top:28px">{rows}</ol>
+</section>
+</main>
+{footer()}
+{search_panel()}"""
+    return page(f"Topik: {tag}", f"Artikel bertopik {tag} di Kronik.", body,
+                url=f"topik/{slug_id(tag)}.html", cls="page-tag", base="../")
+
+
 def build_figures(figures, chapters):
     by_num = {c["num"]: c for c in chapters}
     groups = []
@@ -878,6 +1051,12 @@ def build_about(chapters):
       <p>Catatan di tepi halaman — yang bergaris atas tipis — bukan hiasan: isinya angka pembanding, koreksi,
       atau versi lain dari cerita yang sedang dibaca.</p>
 
+      <h2>Dua lapis: bab dan arsip</h2>
+      <p>Dua puluh enam bab adalah narasi panjang yang dibaca berurutan. Di luarnya ada arsip: entri pendek
+      yang masing-masing membahas satu peristiwa, satu situs, satu tokoh, atau satu kebijakan. Entri tidak
+      mengulang bab; ia memperdalam satu bagian, sering dengan angka dan nama yang tidak muat di narasi.
+      Setiap entri menunjuk balik ke bab induknya, dan setiap bab punya daftar entri terkait di ujungnya.</p>
+
       <h2>Soal akurasi</h2>
       <p>Sejarah punya dua jenis ketidakpastian. Yang pertama teknis: umur batuan, ukuran populasi, jumlah
       korban. Untuk hal seperti ini, situs ini memakai rentang dan menyebut bahwa itu perkiraan. Yang kedua
@@ -951,7 +1130,7 @@ def build_404(chapters):
     return page("Tidak ditemukan", "Halaman tidak ditemukan.", body, cls="page-404")
 
 
-def build_search_index(chapters):
+def build_search_index(chapters, entry_list=None):
     entries = []
     for c in chapters:
         part = PART_BY_KEY[c["part"]]
@@ -990,6 +1169,15 @@ def build_search_index(chapters):
             })
     except Exception as exc:  # noqa: BLE001
         print("  ! glosarium dilewati:", exc)
+    for e in (entry_list or []):
+        part = PART_BY_KEY.get(e["era"], {"title": e["era"].title()})
+        entries.append({
+            "t": e["title"],
+            "k": "Arsip · " + part["title"],
+            "u": f"artikel/{e['id']}.html",
+            "d": e["years"],
+            "x": e["dek"] + " " + " ".join(e["tags"]) + " " + " ".join(e["tags"]),
+        })
     if HAS_FIGURES:
         try:
             figs = json.loads((DATA / "figures.json").read_text(encoding="utf-8"))
@@ -1033,27 +1221,54 @@ def main():
         raise SystemExit("Tidak ada bab di content/")
     print(f"  {len(chapters)} bab")
 
-    (OUT / "index.html").write_text(build_index(chapters), encoding="utf-8")
+    entries = load_entries()
+    if entries:
+        (OUT / "artikel").mkdir()
+        (OUT / "topik").mkdir()
+    (OUT / "index.html").write_text(build_index(chapters, entries), encoding="utf-8")
     for ch in chapters:
-        (OUT / ch["file"]).write_text(build_chapter(ch, chapters), encoding="utf-8")
+        (OUT / ch["file"]).write_text(build_chapter(ch, chapters, entries), encoding="utf-8")
     (OUT / "kronologi.html").write_text(build_timeline(chapters), encoding="utf-8")
     (OUT / "glosarium.html").write_text(build_glossary(chapters), encoding="utf-8")
     if HAS_FIGURES:
         (OUT / "tokoh.html").write_text(build_figures(figures, chapters), encoding="utf-8")
+    if entries:
+        for e in entries:
+            (OUT / "artikel" / f"{e['id']}.html").write_text(build_entry(e, entries, chapters), encoding="utf-8")
+        (OUT / "arsip.html").write_text(build_archive(entries, chapters), encoding="utf-8")
+        tags = {}
+        for e in entries:
+            for t in e["tags"]:
+                tags.setdefault(t, []).append(e)
+        for t, items in tags.items():
+            (OUT / "topik" / f"{slug_id(t)}.html").write_text(build_tag(t, items, chapters), encoding="utf-8")
+        print(f"  {len(entries)} entri arsip · {len(tags)} topik")
     (OUT / "tentang.html").write_text(build_about(chapters), encoding="utf-8")
     (OUT / "404.html").write_text(build_404(chapters), encoding="utf-8")
 
-    urls = ["", "kronologi.html", "glosarium.html", "tentang.html"] + [c["file"] for c in chapters]
+    urls = ["", "arsip.html", "kronologi.html", "glosarium.html", "tentang.html"] + [c["file"] for c in chapters]
     today = date.today().isoformat()
     sitemap = ['<?xml version="1.0" encoding="UTF-8"?>',
                '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+    if entries:
+        urls += [f"artikel/{e['id']}.html" for e in entries]
+        all_tags = sorted({t for e in entries for t in e["tags"]})
+        urls += [f"topik/{slug_id(t)}.html" for t in all_tags]
+    if HAS_FIGURES:
+        urls.append("tokoh.html")
     for u in urls:
         sitemap.append(f"<url><loc>{SITE_URL}{u}</loc><lastmod>{today}</lastmod></url>")
     sitemap.append("</urlset>")
     (OUT / "sitemap.xml").write_text("\n".join(sitemap), encoding="utf-8")
     (OUT / "robots.txt").write_text("User-agent: *\nAllow: /\nSitemap: " + SITE_URL + "sitemap.xml\n", encoding="utf-8")
 
-    n = build_search_index(chapters)
+    slim = [{"i": e["id"], "t": e["title"], "e": e["era"], "y": e["years"],
+             "g": e["tags"], "d": e["dek"], "w": e["words"]} for e in entries]
+    (OUT / "assets" / "entries-data.js").write_text(
+        "window.KRONIK_ENTRIES=" + json.dumps(slim, ensure_ascii=False, separators=(",", ":")) + ";\n",
+        encoding="utf-8")
+
+    n = build_search_index(chapters, entries if entries else None)
     print(f"  indeks pencarian: {n} entri")
 
     total = sum(c["words"] for c in chapters)
