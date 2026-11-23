@@ -61,7 +61,7 @@ Di Gesher Benot Ya'aqov, Israel utara, lapisan berumur 790.000 tahun menyimpan k
 
 Yang masih diperdebatkan adalah seberapa rutin. Api untuk memasak, menghangatkan, dan mengusir hewan baru menjadi umum jauh kemudian, dan sebagian peneliti berargumen bahwa bukti sebelum 400.000 tahun lalu terlalu jarang untuk disebut "penguasaan".
 
-Contoh bagaimana bukti bisa berubah datang dari Schöningen, Jerman. Pada 1995, delapan tombak kayu ditemukan bersama tulang kuda yang dibantai. Selama tiga dekade, umurnya diperkirakan 380.000 sampai 400.000 tahun. Sebuah studi pada 2026 merevisinya menjadi sekitar 200.000 tahun — lebih muda 100.000 tahun daripada perkiraan lama. Tombak itu tetap yang tertua dan terlengkap dari jenisnya, tetapi pembuatnya hidup lebih dekat ke zaman Neanderthal awal daripada yang selama ini dibayangkan.
+Contoh bagaimana bukti bisa berubah datang dari Schöningen, Jerman. Pada 1995, delapan tombak kayu ditemukan bersama tulang kuda yang dibantai. Selama tiga dekade, umurnya diperkirakan 380.000 sampai 400.000 tahun. Sebuah studi pada 2025 merevisinya menjadi sekitar 200.000 tahun — lebih muda 100.000 tahun daripada perkiraan lama — meski makalah lain pada 2026 masih mempertahankan angka 300.000. Tombak itu tetap yang tertua dan terlengkap dari jenisnya, tetapi pembuatnya hidup lebih dekat ke zaman Neanderthal awal daripada yang selama ini dibayangkan.
 
 ## Otak, tenggorokan, kata
 
