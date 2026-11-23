@@ -4,7 +4,7 @@ slug: voc
 part: kolonial
 title: Perusahaan dengan Pasukan Sendiri
 dek: Berawal dari harga lada di Amsterdam, berakhir dengan utang 134 juta gulden dan sebuah koloni yang diwarisi negara
-span: 1602 – 1799
+span: 1596 – 1799
 dates:
   - "1596|Armada Houtman berlabuh di Banten"
   - "1619|Batavia berdiri di atas reruntuhan Jayakarta"
