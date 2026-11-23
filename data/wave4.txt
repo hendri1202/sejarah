@@ -1,0 +1,155 @@
+# Gelombang 4 — 135 entri (9 penulis × 15)
+Format: id|judul|era|years|tags|chapter
+
+## A. Kesultanan & kerajaan daerah
+kesultanan-deli|Kesultanan Deli|kolonial|1632–1946|deli,sumatra-utara,kesultanan|15
+kesultanan-langkat|Kesultanan Langkat|kolonial|1568–1946|langkat,sumatra-utara,kesultanan|15
+kesultanan-serdang|Kesultanan Serdang|kolonial|1723–1946|serdang,sumatra-utara,kesultanan|15
+kesultanan-asahan|Kesultanan Asahan|kolonial|1630–1946|asahan,sumatra-utara,kesultanan|15
+kerajaan-indragiri|Kerajaan Indragiri|kerajaan|1298–1945|indragiri,riau,kerajaan|14
+kerajaan-kuantan-singingi|Kerajaan Kuantan Singingi|kerajaan|abad ke-16–19|kuantan,riau,kerajaan|14
+kerajaan-pelalawan|Kerajaan Pelalawan|kerajaan|1725–1946|pelalawan,riau,kerajaan|14
+kerajaan-lingga|Kerajaan Lingga|kerajaan|1824–1911|lingga,riau,kerajaan|14
+kerajaan-mempawah|Kerajaan Mempawah|kerajaan|1740–1950|mempawah,kalimantan,kerajaan|14
+kerajaan-sintang|Kerajaan Sintang|kerajaan|abad ke-14–19|sintang,kalimantan,kerajaan|14
+kerajaan-landak|Kerajaan Landak|kerajaan|1292–1950|landak,kalimantan,kerajaan|14
+kerajaan-sukadana|Kerajaan Sukadana|kerajaan|abad ke-14–18|sukadana,kalimantan,kerajaan|14
+kerajaan-tayan|Kerajaan Tayan|kerajaan|abad ke-17–20|tayan,kalimantan,kerajaan|14
+kerajaan-kota-waringin|Kerajaan Kota Waringin|kerajaan|abad ke-14–19|kota-waringin,kalimantan,kerajaan|14
+kerajaan-kubu|Kerajaan Kubu|kerajaan|1771–1958|kubu,kalimantan,kerajaan|14
+
+## B. Tokoh kolonial
+jan-pieterszoon-coen|Jan Pieterszoon Coen|kolonial|1587–1629|voc,tokoh,batavia|14
+herman-willem-daendels|Herman Willem Daendels|kolonial|1762–1818|daendels,jalan,tokoh|15
+thomas-stamford-raffles|Thomas Stamford Raffles|kolonial|1781–1826|raffles,jawa,britania|15
+johannes-van-den-bosch|Johannes van den Bosch|kolonial|1780–1844|tanam-paksa,tokoh,kolonial|15
+joannes-van-heutsz|Joannes van Heutsz|kolonial|1851–1924|aceh,tokoh,kolonial|16
+christiaan-snouck-hurgronje|Christiaan Snouck Hurgronje|kolonial|1857–1936|islam,aceh,tokoh|16
+raymond-westerling|Raymond Westerling|merdeka|1919–1987|apra,militer,1946|23
+bonifacius-van-der-capellen|Van der Capellen|kolonial|1778–1848|kolonial,tokoh,kebijakan|15
+eduard-douwes-dekker|Eduard Douwes Dekker|kolonial|1820–1887|multatuli,sastra,kolonial|15
+tjipto-mangoenkoesoemo|Tjipto Mangoenkoesoemo|kolonial|1886–1943|indische-partij,tokoh,politik|17
+suwardi-suryaningrat|Suwardi Suryaningrat|kolonial|1889–1959|indische-partij,pendidikan,tokoh|17
+wahidin-sudirohusodo|Wahidin Sudirohusodo|kolonial|1852–1917|boedi-oetomo,pendidikan,tokoh|17
+dewi-sartika|Dewi Sartika|kolonial|1884–1947|pendidikan,perempuan,tokoh|17
+agus-salim|Agus Salim|kolonial|1884–1954|politik,islam,diplomasi|17
+soetardjo|Soetardjo Kartohadikusumo|kolonial|1890–1976|petisi,politik,volksraad|19
+
+## C. Tokoh pergerakan & revolusi
+sjafruddin-prawiranegara|Sjafruddin Prawiranegara|merdeka|1911–1989|pdri,ekonomi,politik|23
+muhammad-natsir|Muhammad Natsir|merdeka|1908–1993|masyumi,islam,politik|24
+d-n-aidit|D.N. Aidit|merdeka|1923–1965|pki,politik,1965|24
+musso|Musso|merdeka|1897–1948|pki,madiun,1948|24
+kartosuwiryo|Sekarmadji Maridjan Kartosuwiryo|merdeka|1905–1962|di-tii,islam,pemberontakan|24
+kahar-muzakkar|Kahar Muzakkar|merdeka|1921–1965|di-tii,sulawesi,pemberontakan|24
+andi-aziz|Andi Aziz|merdeka|1924–1999|makassar,pemberontakan,1950|24
+alex-kawilarang|Alex Kawilarang|merdeka|1919–2000|militer,permesta,tokoh|24
+sam-ratulangi|Sam Ratulangi|merdeka|1890–1949|sulawesi,politik,tokoh|23
+robert-wolter-mongisidi|Robert Wolter Mongisidi|merdeka|1925–1949|sulawesi,gerilya,tokoh|23
+sayuti-melik|Sayuti Melik|merdeka|1908–1989|proklamasi,pers,1945|22
+fatmawati|Fatmawati|merdeka|1923–1980|proklamasi,perempuan,1945|22
+latief-hendraningrat|Latief Hendraningrat|merdeka|1911–1983|proklamasi,militer,1945|22
+abdul-haris-nasution|A.H. Nasution|merdeka|1918–2000|militer,doktrin,tokoh|25
+oerip-soemohardjo|Oerip Soemohardjo|merdeka|1893–1948|militer,tni,tokoh|23
+
+## D. Pertempuran & pemberontakan 1945–1950
+pertempuran-ambarawa|Pertempuran Ambarawa|merdeka|1945|perang,ambarawa,1945|23
+pertempuran-medan-area|Pertempuran Medan Area|merdeka|1945|perang,medan,1945|23
+puputan-margarana|Puputan Margarana|merdeka|1946|perang,bali,1946|23
+pertempuran-lima-hari-semarang|Pertempuran Lima Hari Semarang|merdeka|1945|perang,semarang,1945|23
+pertempuran-kotabaru|Pertempuran Kotabaru|merdeka|1945|perang,yogyakarta,1945|23
+pertempuran-manado|Pertempuran Manado|merdeka|1946|perang,sulawesi,1946|23
+pertempuran-palembang-1945|Pertempuran Palembang 1945|merdeka|1945|perang,palembang,1945|23
+pertempuran-balikpapan-1945|Pertempuran Balikpapan 1945|merdeka|1945|perang,kalimantan,1945|23
+pertempuran-makassar-1945|Pertempuran Makassar 1945|merdeka|1945|perang,makassar,1945|23
+pertempuran-cirebon-1945|Pertempuran Cirebon 1945|merdeka|1945|perang,cirebon,1945|23
+pertempuran-sukabumi-1945|Pertempuran Sukabumi 1945|merdeka|1945|perang,jawa-barat,1945|23
+pemberontakan-apra|Pemberontakan APRA|merdeka|1950|apra,bandung,1950|24
+pemberontakan-andi-aziz|Pemberontakan Andi Aziz|merdeka|1950|makassar,pemberontakan,1950|24
+peristiwa-madiun-1948|Peristiwa Madiun 1948|merdeka|1948|pki,madiun,1948|23
+darul-islam-awal|Darul Islam 1948–1962|merdeka|1948–1962|di-tii,islam,pemberontakan|24
+
+## E. Ekonomi modern & BUMN
+bumn|BUMN dan Ekonomi Negara|merdeka|1960–kini|bumn,ekonomi,negara|25
+pln|PLN dan Listrik Nasional|merdeka|1945–kini|listrik,bumn,infrastruktur|26
+telkom|Telkom dan Jaringan Telepon|merdeka|1965–kini|telekomunikasi,bumn|26
+garuda-indonesia|Garuda Indonesia|merdeka|1949–kini|penerbangan,bumn|24
+bank-mandiri|Bank Mandiri|merdeka|1998–kini|bank,bumn,1998|26
+bri|Bank Rakyat Indonesia|merdeka|1895–kini|bank,bumn,umkm|26
+bni|Bank Negara Indonesia|merdeka|1946–kini|bank,bumn,1946|23
+bank-indonesia|Bank Indonesia|merdeka|1953–kini|bank-sentral,moneter|24
+bursa-efek-indonesia|Bursa Efek Indonesia|merdeka|1977–kini|pasar-modal,ekonomi|25
+industri-manufaktur|Industri Manufaktur|merdeka|1970–kini|industri,ekonomi|25
+pariwisata-bali|Pariwisata Bali|merdeka|1969–kini|pariwisata,bali,ekonomi|25
+ekonomi-digital|Ekonomi Digital|merdeka|2010–kini|digital,e-commerce,ekonomi|26
+umkm|UMKM dan Ekonomi Rakyat|merdeka|1945–kini|umkm,ekonomi,kredit|26
+utang-luar-negeri|Utang Luar Negeri|merdeka|1966–kini|utang,fiskal,ekonomi|26
+krisis-1998|Krisis Ekonomi 1998|merdeka|1997–1999|krisis,ekonomi,1998|25
+
+## F. Budaya pop & olahraga
+koes-plus|Koes Plus|merdeka|1969–kini|musik,pop,budaya|25
+god-bless|God Bless|merdeka|1973–kini|musik,rock,budaya|25
+iwan-fals|Iwan Fals|merdeka|1961–kini|musik,protes,budaya|26
+slank|Slank|merdeka|1983–kini|musik,pop,budaya|26
+musik-1990an|Musik Indonesia 1990-an|merdeka|1990–2000|musik,budaya,1990|26
+badminton-indonesia|Bulu Tangkis Indonesia|merdeka|1958–kini|olahraga,badminton,prestasi|25
+thomas-cup-1958|Thomas Cup 1958|merdeka|1958|olahraga,badminton,1958|24
+sepak-bola-indonesia|Sepak Bola Indonesia|merdeka|1930–kini|olahraga,sepakbola,pssi|24
+persib-persija|Persib dan Persija|merdeka|1930–kini|olahraga,suporter,klub|26
+asian-games-1962|Asian Games 1962|merdeka|1962|olahraga,1962,jakarta|24
+ganefo-1963|Ganefo 1963|merdeka|1963|olahraga,1963,soekarno|24
+sinetron-indonesia|Sinetron Indonesia|merdeka|1990–kini|televisi,budaya,hiburan|26
+film-1980an|Film Indonesia 1980-an|merdeka|1980–1990|film,budaya,1980|25
+sastra-2000an|Sastra Indonesia 2000-an|merdeka|2000–kini|sastra,budaya,2000|26
+komik-indonesia|Komik Indonesia|merdeka|1950–kini|komik,budaya,media|25
+
+## G. Media, teknologi, internet
+tvri|TVRI|merdeka|1962–kini|televisi,media,1962|24
+radio-swasta|Radio Swasta Indonesia|merdeka|1966–kini|radio,media,swasta|25
+pers-orde-baru|Pers Orde Baru|merdeka|1966–1998|pers,orde-baru,media|25
+internet-indonesia|Internet di Indonesia|merdeka|1994–kini|internet,teknologi,media|26
+warnet|Warnet dan Warung Internet|merdeka|1997–2010|internet,warnet,1990|26
+telepon-seluler|Telepon Seluler|merdeka|1989–kini|telepon,teknologi,seluler|26
+satelit-palapa|Satelit Palapa|merdeka|1976–kini|satelit,teknologi,1976|25
+e-commerce|E-commerce Indonesia|merdeka|2010–kini|e-commerce,digital,ekonomi|26
+media-sosial-indonesia|Media Sosial Indonesia|merdeka|2008–kini|media-sosial,digital,politik|26
+televisi-swasta|Televisi Swasta|merdeka|1989–kini|televisi,media,swasta|25
+pers-reformasi|Pers Reformasi|merdeka|1998–kini|pers,reformasi,media|26
+jurnalisme-data|Jurnalisme Data|merdeka|2010–kini|jurnalisme,data,media|26
+hoaks-politik|Hoaks dan Politik Digital|merdeka|2014–kini|hoaks,digital,politik|26
+startup-indonesia|Startup Indonesia|merdeka|2010–kini|startup,digital,ekonomi|26
+fintech|Fintech dan Pembayaran Digital|merdeka|2015–kini|fintech,digital,ekonomi|26
+
+## H. Kasus hukum & HAM
+marsinah|Kasus Marsinah|merdeka|1993|ham,buruh,1993|25
+munir|Kasus Munir|merdeka|2004|ham,2004,penerbangan|26
+bibit-chandra|Kasus Bibit-Chandra|merdeka|2009–2010|hukum,kpk,2009|26
+blbi|BLBI dan Krisis Perbankan|merdeka|1997–2000|blbi,bank,krisis|25
+century|Kasus Bank Century|merdeka|2008–2010|bank,krisis,2008|26
+e-ktp|Korupsi e-KTP|merdeka|2011–2017|korupsi,hukum,2011|26
+jiwasraya|Kasus Jiwasraya|merdeka|2018–2020|asuransi,korupsi,2018|26
+asabri|Kasus Asabri|merdeka|2019–2021|asuransi,korupsi,2019|26
+talangsari|Peristiwa Talangsari|merdeka|1989|ham,lampung,1989|25
+wasior-wamena|Wasior dan Wamena|merdeka|2001–2003|papua,ham,2001|26
+komnas-ham|Komnas HAM|merdeka|1993–kini|ham,lembaga,1993|25
+pengadilan-ham-adhoc|Pengadilan HAM Ad Hoc|merdeka|2000–kini|ham,pengadilan,hukum|26
+kasus-sampang|Kasus Sampang|merdeka|2012|konflik,agama,madura|26
+kasus-rempang|Kasus Rempang|merdeka|2023|tanah,konflik,kepulauan-riau|26
+sengketa-tanah|Sengketa Tanah dan Agraria|merdeka|1945–kini|tanah,agraria,konflik|24
+
+## I. Kota & pariwisata modern
+jakarta-modern|Jakarta Modern|merdeka|1950–kini|kota,jakarta,modern|26
+surabaya-modern|Surabaya Modern|merdeka|1950–kini|kota,surabaya,modern|26
+bandung-modern|Bandung Modern|merdeka|1950–kini|kota,bandung,modern|26
+bali-pariwisata|Bali dan Industri Pariwisata|merdeka|1969–kini|pariwisata,bali,ekonomi|26
+yogyakarta-pariwisata|Yogyakarta dan Pariwisata|merdeka|1970–kini|pariwisata,yogyakarta,budaya|26
+borobudur-pariwisata|Borobudur dan Pariwisata|merdeka|1970–kini|pariwisata,borobudur,unesco|26
+labuan-bajo|Labuan Bajo|merdeka|2010–kini|pariwisata,flores,komodo|26
+danau-toba-pariwisata|Danau Toba dan Pariwisata|merdeka|2015–kini|pariwisata,toba,sumatra|26
+bromo-tengger|Bromo-Tengger-Semeru|merdeka|1980–kini|pariwisata,taman-nasional,jawa-timur|26
+raja-ampat|Raja Ampat|merdeka|2000–kini|pariwisata,papua,laut|26
+wakatobi|Wakatobi|merdeka|1996–kini|pariwisata,sulawesi,laut|26
+mandalika|Mandalika|merdeka|2015–kini|pariwisata,lombok,investasi|26
+likupang|Likupang|merdeka|2019–kini|pariwisata,sulawesi-utara|26
+morotai|Morotai|merdeka|2015–kini|pariwisata,maluku-utara,sejarah|26
+tanjung-lesung|Tanjung Lesung|merdeka|2015–kini|pariwisata,banten,investasi|26
