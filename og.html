@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<title>Kronik — gambar pratinjau</title>
+<link rel="stylesheet" href="docs/assets/fonts.css">
+<style>
+  html,body{margin:0;height:630px;overflow:hidden}
+  body{
+    background:#f2ebdb;color:#1a1610;
+    font-family:"Source Serif 4",Georgia,serif;
+    display:flex;flex-direction:column;
+    padding:44px 56px 40px;box-sizing:border-box;
+    position:relative;
+  }
+  body::after{
+    content:"";position:absolute;inset:0;pointer-events:none;opacity:.5;
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='3'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='180' height='180' filter='url(%23n)' opacity='.05'/%3E%3C/svg%3E");
+  }
+  .top{display:flex;justify-content:space-between;align-items:baseline;border-top:2px solid #1a1610;padding-top:12px}
+  .micro{font-family:"JetBrains Mono",monospace;font-size:13px;letter-spacing:.18em;text-transform:uppercase;color:#625746}
+  .brand{font-family:"Instrument Serif",Georgia,serif;font-size:34px;letter-spacing:.04em;line-height:1}
+  .brand i{font-style:normal;font-family:"JetBrains Mono",monospace;font-size:11px;letter-spacing:.22em;color:#625746;margin-left:12px}
+  h1{
+    font-family:"Instrument Serif",Georgia,serif;font-weight:400;
+    font-size:118px;line-height:.92;letter-spacing:-.03em;margin:52px 0 0;max-width:15ch;
+  }
+  h1 em{display:block;font-style:italic;font-size:.56em;color:#9c3a1f;margin-top:14px;letter-spacing:-.01em}
+  .foot{margin-top:auto;display:flex;justify-content:space-between;align-items:flex-end;
+        border-top:1px solid #c8b99c;padding-top:14px}
+  .rule{width:120px;height:6px;background:#dfd2b8;margin-bottom:16px}
+  .rule span{display:block;width:8px;height:6px;background:#9c3a1f;margin-left:96px}
+</style>
+</head>
+<body>
+  <div class="top">
+    <span class="brand">Kronik<i>Sejarah Nusantara &amp; Dunia</i></span>
+    <span class="micro">26 bab · 6 bagian · 13,8 miliar tahun</span>
+  </div>
+  <h1>Dari debu bintang<em>sampai proklamasi.</em></h1>
+  <div class="foot">
+    <span class="micro">Bumi · Manusia · Kerajaan · Kolonial · Jepang · Merdeka</span>
+    <div class="rule"><span></span></div>
+  </div>
+</body>
+</html>

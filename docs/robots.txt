@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hendri1202.github.io/sejarah/sitemap.xml

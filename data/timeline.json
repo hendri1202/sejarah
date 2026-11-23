@@ -1,0 +1,1122 @@
+[
+  {
+    "year": -13800000000,
+    "when": "13,8 miliar tahun lalu",
+    "title": "Dentuman Besar",
+    "blurb": "Alam semesta mengembang dari keadaan sangat panas dan padat; radiasi latar gelombang mikro menjadi buktinya.",
+    "cat": "bumi"
+  },
+  {
+    "year": -13600000000,
+    "when": "13,6 miliar tahun lalu",
+    "title": "Bintang pertama menyala",
+    "blurb": "Gas hidrogen dan helium memadat menjadi bintang raksasa, mengakhiri masa gelap kosmik.",
+    "cat": "bumi"
+  },
+  {
+    "year": -4600000000,
+    "when": "4,6 miliar tahun lalu",
+    "title": "Matahari dan Tata Surya terbentuk",
+    "blurb": "Awan gas dan debu runtuh menjadi Matahari; cakram di sekitarnya menyusun planet-planet.",
+    "cat": "bumi"
+  },
+  {
+    "year": -4540000000,
+    "when": "4,54 miliar tahun lalu",
+    "title": "Bumi terbentuk",
+    "blurb": "Planetesimal bertumbukan dan menyatu; panas benturan serta peluruhan radioaktif membuat Bumi cair.",
+    "cat": "bumi"
+  },
+  {
+    "year": -4510000000,
+    "when": "4,51 miliar tahun lalu",
+    "title": "Bulan terbentuk",
+    "blurb": "Tumbukan benda seukuran Mars melempar materi ke orbit, lalu materi itu menyatu menjadi Bulan.",
+    "cat": "bumi"
+  },
+  {
+    "year": -4400000000,
+    "when": "4,4 miliar tahun lalu",
+    "title": "Kerak tertua dan air pertama",
+    "blurb": "Zirkon di Australia berumur 4,4 miliar tahun; samudra mungkin sudah ada sejak masa ini.",
+    "cat": "bumi"
+  },
+  {
+    "year": -4000000000,
+    "when": "4 miliar tahun lalu",
+    "title": "Bumi Hadean",
+    "blurb": "Kerak bumi terus dihantam benda langit; atmosfer tanpa oksigen bebas dan suhu sangat ekstrem.",
+    "cat": "bumi"
+  },
+  {
+    "year": -3800000000,
+    "when": "3,8 miliar tahun lalu",
+    "title": "Jejak kehidupan tertua",
+    "blurb": "Rasio isotop karbon di batuan Isua, Greenland, ditafsirkan sebagai sisa aktivitas makhluk hidup.",
+    "cat": "bumi"
+  },
+  {
+    "year": -3500000000,
+    "when": "3,5 miliar tahun lalu",
+    "title": "Stromatolit dan bakteri",
+    "blurb": "Lapisan mikroba di perairan dangkal membentuk stromatolit, fosil tertua yang tersusun jelas.",
+    "cat": "bumi"
+  },
+  {
+    "year": -2400000000,
+    "when": "2,4 miliar tahun lalu",
+    "title": "Peristiwa Oksidasi Besar",
+    "blurb": "Sianobakteri memenuhi atmosfer dengan oksigen; besi teroksidasi mengendap di dasar lautan.",
+    "cat": "bumi"
+  },
+  {
+    "year": -1800000000,
+    "when": "1,8 miliar tahun lalu",
+    "title": "Sel eukariota muncul",
+    "blurb": "Sel berinti muncul, kemungkinan lewat penelanan bakteri purba yang menjadi mitokondria.",
+    "cat": "bumi"
+  },
+  {
+    "year": -1000000000,
+    "when": "1 miliar tahun lalu",
+    "title": "Organisme bersel banyak",
+    "blurb": "Alga dan hewan sederhana berkoloni; reproduksi seksual mempercepat keragaman genetik.",
+    "cat": "bumi"
+  },
+  {
+    "year": -720000000,
+    "when": "720 juta tahun lalu",
+    "title": "Bumi Bola Salju",
+    "blurb": "Zaman es ekstrem membekukan permukaan hingga khatulistiwa; kehidupan bertahan di kantong air.",
+    "cat": "bumi"
+  },
+  {
+    "year": -541000000,
+    "when": "541 juta tahun lalu",
+    "title": "Ledakan Kambrium",
+    "blurb": "Dalam waktu geologis singkat muncul hampir semua filum hewan dengan kerangka keras.",
+    "cat": "bumi"
+  },
+  {
+    "year": -470000000,
+    "when": "470 juta tahun lalu",
+    "title": "Tumbuhan naik ke darat",
+    "blurb": "Lumut dan tumbuhan kecil pertama menutupi daratan, mengubah tanah dan komposisi atmosfer.",
+    "cat": "bumi"
+  },
+  {
+    "year": -450000000,
+    "when": "450 juta tahun lalu",
+    "title": "Kepunahan Ordovisium-Silur",
+    "blurb": "Pendinginan global dan penurunan muka laut memicu salah satu kepunahan massal terbesar.",
+    "cat": "bumi"
+  },
+  {
+    "year": -375000000,
+    "when": "375 juta tahun lalu",
+    "title": "Hutan pertama dan tetrapoda",
+    "blurb": "Hutan purba tumbuh luas; ikan bertulang mulai merangkak ke darat sebagai tetrapoda awal.",
+    "cat": "bumi"
+  },
+  {
+    "year": -252000000,
+    "when": "252 juta tahun lalu",
+    "title": "Kepunahan Permian-Trias",
+    "blurb": "Letusan besar di Siberia memanaskan bumi; sekitar 80 persen spesies laut musnah.",
+    "cat": "bumi"
+  },
+  {
+    "year": -230000000,
+    "when": "230 juta tahun lalu",
+    "title": "Dinosaurus pertama",
+    "blurb": "Reptil kecil bipedal muncul di benua Pangaea; mamalia awal sudah hidup di celahnya.",
+    "cat": "bumi"
+  },
+  {
+    "year": -201000000,
+    "when": "201 juta tahun lalu",
+    "title": "Kepunahan Trias-Jura",
+    "blurb": "Letusan vulkanik besar membuka jalan bagi dinosaurus menguasai daratan.",
+    "cat": "bumi"
+  },
+  {
+    "year": -180000000,
+    "when": "180 juta tahun lalu",
+    "title": "Pangaea mulai terbelah",
+    "blurb": "Benua raksasa pecah; Samudra Atlantik mulai terbuka di antara Amerika dan Afrika.",
+    "cat": "bumi"
+  },
+  {
+    "year": -66000000,
+    "when": "66 juta tahun lalu",
+    "title": "Asteroid menghapus dinosaurus",
+    "blurb": "Benda selebar sekitar 10 km menghantam Chicxulub; debu memblokir sinar matahari.",
+    "cat": "bumi"
+  },
+  {
+    "year": -56000000,
+    "when": "56 juta tahun lalu",
+    "title": "Maksimum Termal Paleosen-Eosen",
+    "blurb": "Suhu global melonjak cepat setelah karbon dalam jumlah besar masuk ke atmosfer.",
+    "cat": "bumi"
+  },
+  {
+    "year": -50000000,
+    "when": "50 juta tahun lalu",
+    "title": "Himalaya mulai terangkat",
+    "blurb": "Lempeng India menabrak Asia; pengangkatan pegunungan mengubah iklim dan pola muson.",
+    "cat": "bumi"
+  },
+  {
+    "year": -34000000,
+    "when": "34 juta tahun lalu",
+    "title": "Antartika membeku",
+    "blurb": "Pemisahan benua dan penurunan karbon dioksida memunculkan lapisan es permanen pertama.",
+    "cat": "bumi"
+  },
+  {
+    "year": -7000000,
+    "when": "7 juta tahun lalu",
+    "title": "Garis kera dan manusia memisah",
+    "blurb": "Menurut genetika, leluhur manusia dan simpanse berpisah sekitar 7 juta tahun lalu.",
+    "cat": "manusia"
+  },
+  {
+    "year": -6500000,
+    "when": "6,5 juta tahun lalu",
+    "title": "Sahelanthropus tchadensis",
+    "blurb": "Fosil di Chad menunjukkan primata yang mungkin sudah berjalan tegak di tepi danau purba.",
+    "cat": "manusia"
+  },
+  {
+    "year": -6000000,
+    "when": "6 juta tahun lalu",
+    "title": "Savana Afrika meluas",
+    "blurb": "Iklim mengering dan hutan menyusut; hominin awal beradaptasi di lanskap terbuka.",
+    "cat": "bumi"
+  },
+  {
+    "year": -5300000,
+    "when": "5,3 juta tahun lalu",
+    "title": "Krisis Garam Messina",
+    "blurb": "Laut Mediterania nyaris mengering dan meninggalkan lapisan garam tebal di dasarnya.",
+    "cat": "bumi"
+  },
+  {
+    "year": -4400000,
+    "when": "4,4 juta tahun lalu",
+    "title": "Ardipithecus ramidus",
+    "blurb": "Hominin Ethiopia ini berjalan tegak namun masih lincah memanjat pohon.",
+    "cat": "manusia"
+  },
+  {
+    "year": -3700000,
+    "when": "3,7 juta tahun lalu",
+    "title": "Jejak kaki Laetoli",
+    "blurb": "Jejak tiga individu di abu vulkanik Tanzania menjadi bukti bipedalisme paling tua.",
+    "cat": "manusia"
+  },
+  {
+    "year": -3200000,
+    "when": "3,2 juta tahun lalu",
+    "title": "Lucy ditemukan",
+    "blurb": "Kerangka Australopithecus afarensis 40 persen lengkap digali di Hadar, Ethiopia, pada 1974.",
+    "cat": "manusia"
+  },
+  {
+    "year": -2600000,
+    "when": "2,6 juta tahun lalu",
+    "title": "Zaman Es Pleistosen",
+    "blurb": "Lapisan es belahan utara tumbuh dan surut bergantian dalam puluhan siklus.",
+    "cat": "bumi"
+  },
+  {
+    "year": -2600000,
+    "when": "2,6 juta tahun lalu",
+    "title": "Perkakas batu pertama",
+    "blurb": "Serpihan batu tajam dari Gona, Ethiopia, menandai awal tradisi Oldowan.",
+    "cat": "manusia"
+  },
+  {
+    "year": -2000000,
+    "when": "2 juta tahun lalu",
+    "title": "Homo habilis",
+    "blurb": "Spesies dengan otak lebih besar dan tangan cekatan muncul di Afrika Timur.",
+    "cat": "manusia"
+  },
+  {
+    "year": -1800000,
+    "when": "1,8 juta tahun lalu",
+    "title": "Homo erectus keluar Afrika",
+    "blurb": "Hominin bertubuh modern mencapai Dmanisi di Georgia, jauh sebelum manusia modern menyebar.",
+    "cat": "manusia"
+  },
+  {
+    "year": -1000000,
+    "when": "1 juta tahun lalu",
+    "title": "Api mulai dikuasai",
+    "blurb": "Arang dan tulang terbakar di Gua Wonderwerk, Afrika Selatan, menunjukkan pengendalian api.",
+    "cat": "manusia"
+  },
+  {
+    "year": -780000,
+    "when": "780.000 tahun lalu",
+    "title": "Pembalikan medan magnet terakhir",
+    "blurb": "Medan magnet bumi berbalik; jejaknya terekam di batuan sebagai peralihan Brunhes-Matuyama.",
+    "cat": "bumi"
+  },
+  {
+    "year": -400000,
+    "when": "400.000 tahun lalu",
+    "title": "Neanderthal muncul",
+    "blurb": "Populasi di Eropa dan Asia Barat beradaptasi dengan iklim dingin dan berburu hewan besar.",
+    "cat": "manusia"
+  },
+  {
+    "year": -315000,
+    "when": "315.000 tahun lalu",
+    "title": "Homo sapiens tertua",
+    "blurb": "Fosil Jebel Irhoud di Maroko berumur sekitar 315.000 tahun dan berwajah modern.",
+    "cat": "manusia"
+  },
+  {
+    "year": -75000,
+    "when": "75.000 tahun lalu",
+    "title": "Oker dan manik-manik",
+    "blurb": "Gua Blombos di Afrika Selatan menyimpan oker bergores dan manik dari kulit kerang.",
+    "cat": "manusia"
+  },
+  {
+    "year": -74000,
+    "when": "74.000 tahun lalu",
+    "title": "Letusan Toba",
+    "blurb": "Supererupsi Toba menyelimuti sebagian Asia dengan abu dan menekan populasi manusia.",
+    "cat": "bumi"
+  },
+  {
+    "year": -70000,
+    "when": "70.000 tahun lalu",
+    "title": "Migrasi besar keluar Afrika",
+    "blurb": "Gelombang yang menurunkan populasi non-Afrika menyebar lewat Asia dan mencapai Australia.",
+    "cat": "manusia"
+  },
+  {
+    "year": -65000,
+    "when": "65.000 tahun lalu",
+    "title": "Penyeberangan ke Sahul",
+    "blurb": "Manusia modern menyeberangi laut dalam Wallacea menuju Australia, melewati Nusantara.",
+    "cat": "nusantara"
+  },
+  {
+    "year": -45500,
+    "when": "45.500 tahun lalu",
+    "title": "Lukisan gua Sulawesi",
+    "blurb": "Cap tangan dan babi purba di Leang Tedongnge termasuk seni figuratif tertua di dunia.",
+    "cat": "manusia"
+  },
+  {
+    "year": -40000,
+    "when": "40.000 tahun lalu",
+    "title": "Manusia modern di Eropa",
+    "blurb": "Homo sapiens tiba; Neanderthal bertahan beberapa ribu tahun lalu punah.",
+    "cat": "manusia"
+  },
+  {
+    "year": -12000,
+    "when": "12.000 tahun lalu",
+    "title": "Zaman es berakhir",
+    "blurb": "Gletser mundur, permukaan laut naik, dan zaman Holosen dimulai.",
+    "cat": "bumi"
+  },
+  {
+    "year": -11500,
+    "when": "11.500 tahun lalu",
+    "title": "Göbekli Tepe",
+    "blurb": "Bangunan batu berukir di Turki didirikan pemburu-pengumpul sebelum pertanian tetap.",
+    "cat": "manusia"
+  },
+  {
+    "year": -11000,
+    "when": "11.000 tahun lalu",
+    "title": "Revolusi Neolitik",
+    "blurb": "Pertanian dan peternakan muncul di Timur Tengah, mengubah cara hidup manusia menetap.",
+    "cat": "manusia"
+  },
+  {
+    "year": -8000,
+    "when": "8.000 tahun lalu",
+    "title": "Sundaland tenggelam",
+    "blurb": "Naiknya laut menenggelamkan jembatan darat Asia-Papua dan memisahkan pulau-pulau Nusantara.",
+    "cat": "bumi"
+  },
+  {
+    "year": -3200,
+    "when": "3.200 SM",
+    "title": "Tulisan pertama",
+    "blurb": "Aksara paku Sumeria di Uruk dipakai mencatat barang dan upah, menandai awal sejarah tertulis.",
+    "cat": "manusia"
+  },
+  {
+    "year": -2500,
+    "when": "2.500 SM",
+    "title": "Migrasi Austronesia",
+    "blurb": "Penutur Austronesia dari Taiwan menyebar ke Filipina lalu Nusantara, membawa pertanian.",
+    "cat": "nusantara"
+  },
+  {
+    "year": -1200,
+    "when": "1.200 SM",
+    "title": "Zaman Besi",
+    "blurb": "Teknik melebur besi menyebar dan mengubah pertanian, senjata, serta perdagangan.",
+    "cat": "manusia"
+  },
+  {
+    "year": -1000,
+    "when": "1.000 SM",
+    "title": "Nekara perunggu masuk",
+    "blurb": "Genderang perunggu budaya Dong Son tiba lewat jalur dagang dan menjadi lambang status.",
+    "cat": "nusantara"
+  },
+  {
+    "year": -400,
+    "when": "400 SM",
+    "title": "Budaya Buni",
+    "blurb": "Pesisir Jawa Barat mengenal tembikar halus dan logam, salah satu budaya prasejarah penting.",
+    "cat": "nusantara"
+  },
+  {
+    "year": 400,
+    "when": "sekitar 400",
+    "title": "Kerajaan Kutai",
+    "blurb": "Prasasti Yupa berhuruf Pallawa di Kalimantan Timur menyebut Raja Mulawarman dan sedekah sapi.",
+    "cat": "nusantara"
+  },
+  {
+    "year": 414,
+    "when": "414",
+    "title": "Catatan Fa-Hien",
+    "blurb": "Biksu Tiongkok singgah di Ye-po-ti, kemungkinan Jawadwipa, dalam perjalanan ke India.",
+    "cat": "nusantara"
+  },
+  {
+    "year": 450,
+    "when": "450",
+    "title": "Tarumanagara",
+    "blurb": "Prasasti Ciaruteun dan Tugu menyebut Raja Purnawarman yang membangun saluran irigasi.",
+    "cat": "nusantara"
+  },
+  {
+    "year": 644,
+    "when": "644",
+    "title": "Kerajaan Melayu",
+    "blurb": "Utusan Mo-lo-yu ke Tiongkok mencatat kerajaan Melayu di Sumatra bagian tengah.",
+    "cat": "nusantara"
+  },
+  {
+    "year": 683,
+    "when": "683",
+    "title": "Prasasti Kedukan Bukit",
+    "blurb": "Batu bertanggal 683 menjadi bukti tertua kerajaan Sriwijaya di tepi Sungai Musi.",
+    "cat": "nusantara"
+  },
+  {
+    "year": 780,
+    "when": "sekitar 780",
+    "title": "Borobudur dibangun",
+    "blurb": "Dinasti Sailendra membangun mandala batu terbesar di dunia di dataran Kedu, Jawa Tengah.",
+    "cat": "nusantara"
+  },
+  {
+    "year": 856,
+    "when": "856",
+    "title": "Candi Prambanan",
+    "blurb": "Candi Siwa setinggi 47 meter didirikan, kemungkinan menandai kembalinya wangsa Sanjaya.",
+    "cat": "nusantara"
+  },
+  {
+    "year": 929,
+    "when": "929",
+    "title": "Pusat Mataram pindah ke timur",
+    "blurb": "Mpu Sindok memindahkan kekuasaan ke sekitar Jombang setelah rangkaian bencana dan konflik.",
+    "cat": "nusantara"
+  },
+  {
+    "year": 932,
+    "when": "932",
+    "title": "Kerajaan Sunda",
+    "blurb": "Prasasti Kebonkopi II menyebut kerajaan Sunda di Jawa Barat dengan rajanya.",
+    "cat": "nusantara"
+  },
+  {
+    "year": 1019,
+    "when": "1019",
+    "title": "Airlangga naik takhta",
+    "blurb": "Airlangga menyatukan kembali Jawa Timur setelah keruntuhan Mataram Kuno.",
+    "cat": "nusantara"
+  },
+  {
+    "year": 1157,
+    "when": "1157",
+    "title": "Kakawin Bharatayuddha",
+    "blurb": "Mpu Sedah dan Panuluh menulis kisah perang Pandawa dan Kurawa dalam bahasa Jawa Kuno.",
+    "cat": "nusantara"
+  },
+  {
+    "year": 1222,
+    "when": "1222",
+    "title": "Ken Arok dan Singasari",
+    "blurb": "Pemberontakan Ken Arok mengakhiri Kadiri dan melahirkan dinasti Singasari.",
+    "cat": "nusantara"
+  },
+  {
+    "year": 1275,
+    "when": "1275",
+    "title": "Ekspedisi Pamalayu",
+    "blurb": "Kertanegara mengirim pasukan ke Sumatra, menandai ambisi maritim Singasari.",
+    "cat": "nusantara"
+  },
+  {
+    "year": 1293,
+    "when": "1293",
+    "title": "Majapahit berdiri",
+    "blurb": "Raden Wijaya mendirikan Majapahit setelah mengusir pasukan Yuan dari Jawa.",
+    "cat": "nusantara"
+  },
+  {
+    "year": 1297,
+    "when": "1297",
+    "title": "Nisan Malik al-Saleh",
+    "blurb": "Batu nisan Sultan Pasai pertama menandai kerajaan Islam tertua di Nusantara.",
+    "cat": "nusantara"
+  },
+  {
+    "year": 1336,
+    "when": "1336",
+    "title": "Sumpah Palapa",
+    "blurb": "Gajah Mada bersumpah menundukkan Nusantara di bawah Majapahit sebelum menikmati rempah.",
+    "cat": "nusantara"
+  },
+  {
+    "year": 1365,
+    "when": "1365",
+    "title": "Negarakertagama",
+    "blurb": "Prapanca menulis kakawin yang menjadi sumber utama sejarah Majapahit.",
+    "cat": "nusantara"
+  },
+  {
+    "year": 1406,
+    "when": "1406",
+    "title": "Perang Paregreg",
+    "blurb": "Perang saudara antara Wikramawardhana dan Bhre Wirabhumi melemahkan Majapahit.",
+    "cat": "nusantara"
+  },
+  {
+    "year": 1450,
+    "when": "1450",
+    "title": "Mesin cetak Gutenberg",
+    "blurb": "Huruf logam lepas memungkinkan buku diperbanyak murah dan gagasan menyebar cepat.",
+    "cat": "manusia"
+  },
+  {
+    "year": 1475,
+    "when": "sekitar 1475",
+    "title": "Masjid Agung Demak",
+    "blurb": "Masjid kayu beratap tumpang dibangun, salah satu pusat penyebaran Islam di Jawa.",
+    "cat": "nusantara"
+  },
+  {
+    "year": 1511,
+    "when": "1511",
+    "title": "Portugis merebut Malaka",
+    "blurb": "Albuquerque menguasai pusat perdagangan rempah dan memicu perlawanan penguasa lokal.",
+    "cat": "kolonial"
+  },
+  {
+    "year": 1527,
+    "when": "1527",
+    "title": "Majapahit runtuh",
+    "blurb": "Pasukan Demak menaklukkan Daha; tanggal 1478 yang populer dianggap keliru sejarawan.",
+    "cat": "nusantara"
+  },
+  {
+    "year": 1596,
+    "when": "1596",
+    "title": "De Houtman di Banten",
+    "blurb": "Ekspedisi Belanda pertama mendarat di Banten; hubungan dagang berakhir ricuh.",
+    "cat": "kolonial"
+  },
+  {
+    "year": 1602,
+    "when": "1602",
+    "title": "VOC didirikan",
+    "blurb": "Negara Belanda memberi octrooi: monopoli dagang dan hak berperang di Asia selama 21 tahun.",
+    "cat": "kolonial"
+  },
+  {
+    "year": 1605,
+    "when": "1605",
+    "title": "Gowa-Tallo masuk Islam",
+    "blurb": "Sultan Alauddin memeluk Islam dan menjadikan Gowa kekuatan maritim di Indonesia timur.",
+    "cat": "nusantara"
+  },
+  {
+    "year": 1607,
+    "when": "1607",
+    "title": "Iskandar Muda berkuasa",
+    "blurb": "Aceh mencapai puncak kekuatan maritim dan menguasai jalur dagang di Selat Malaka.",
+    "cat": "nusantara"
+  },
+  {
+    "year": 1613,
+    "when": "1613",
+    "title": "Sultan Agung naik takhta",
+    "blurb": "Mataram Islam tumbuh menjadi kekuatan agraris terbesar di Jawa di bawah Sultan Agung.",
+    "cat": "nusantara"
+  },
+  {
+    "year": 1619,
+    "when": "1619",
+    "title": "Batavia didirikan",
+    "blurb": "Jan Pieterszoon Coen merebut Jayakarta dan menjadikannya pusat kekuasaan VOC.",
+    "cat": "kolonial"
+  },
+  {
+    "year": 1628,
+    "when": "1628",
+    "title": "Serangan Mataram ke Batavia",
+    "blurb": "Pasukan Sultan Agung mengepung Batavia; logistik dan penyakit mematahkan serangan.",
+    "cat": "kolonial"
+  },
+  {
+    "year": 1641,
+    "when": "1641",
+    "title": "VOC mengambil Malaka",
+    "blurb": "Setelah mengepung bersama Johor, VOC merebut Malaka dari tangan Portugis.",
+    "cat": "kolonial"
+  },
+  {
+    "year": 1667,
+    "when": "1667",
+    "title": "Perjanjian Bongaya",
+    "blurb": "Gowa-Tallo tunduk pada VOC; Makassar kehilangan peran sebagai pelabuhan bebas.",
+    "cat": "kolonial"
+  },
+  {
+    "year": 1687,
+    "when": "1687",
+    "title": "Principia Newton",
+    "blurb": "Hukum gerak dan gravitasi memberi kerangka matematis bagi ilmu alam modern.",
+    "cat": "manusia"
+  },
+  {
+    "year": 1740,
+    "when": "1740",
+    "title": "Pembantaian Tionghoa Batavia",
+    "blurb": "Ketegangan ekonomi memicu pembunuhan massal; sekitar 10.000 orang tewas.",
+    "cat": "kolonial"
+  },
+  {
+    "year": 1755,
+    "when": "1755",
+    "title": "Perjanjian Giyanti",
+    "blurb": "Mataram dibelah menjadi Surakarta dan Yogyakarta lewat campur tangan VOC.",
+    "cat": "kolonial"
+  },
+  {
+    "year": 1799,
+    "when": "1799",
+    "title": "VOC bubar",
+    "blurb": "Utang dan korupsi menghabiskan VOC; asetnya diambil alih pemerintah Belanda.",
+    "cat": "kolonial"
+  },
+  {
+    "year": 1811,
+    "when": "1811",
+    "title": "Inggris menguasai Jawa",
+    "blurb": "Raffles memerintah lima tahun dan memperkenalkan sensus serta reformasi tanah.",
+    "cat": "kolonial"
+  },
+  {
+    "year": 1815,
+    "when": "1815",
+    "title": "Letusan Tambora",
+    "blurb": "Letusan terbesar dalam sejarah tercatat; abunya memicu tahun tanpa musim panas di Eropa.",
+    "cat": "bumi"
+  },
+  {
+    "year": 1817,
+    "when": "1817",
+    "title": "Perang Pattimura",
+    "blurb": "Pemberontakan di Saparua menentang monopoli rempah; Pattimura dihukum gantung.",
+    "cat": "kolonial"
+  },
+  {
+    "year": 1825,
+    "when": "1825",
+    "title": "Perang Jawa",
+    "blurb": "Perlawanan Diponegoro berlangsung lima tahun dan menewaskan puluhan ribu orang.",
+    "cat": "kolonial"
+  },
+  {
+    "year": 1830,
+    "when": "1830",
+    "title": "Cultuurstelsel diberlakukan",
+    "blurb": "Pemerintah kolonial mewajibkan petani menanam komoditas ekspor untuk kas Belanda.",
+    "cat": "kolonial"
+  },
+  {
+    "year": 1837,
+    "when": "1837",
+    "title": "Perang Padri berakhir",
+    "blurb": "Benteng Bonjol jatuh; Tuanku Imam Bonjol ditangkap dan diasingkan.",
+    "cat": "kolonial"
+  },
+  {
+    "year": 1846,
+    "when": "1846",
+    "title": "Perang Buleleng",
+    "blurb": "Belanda menyerang Bali utara; perlawanan berlanjut hingga awal abad ke-20.",
+    "cat": "kolonial"
+  },
+  {
+    "year": 1859,
+    "when": "1859",
+    "title": "On the Origin of Species",
+    "blurb": "Darwin merumuskan seleksi alam sebagai mekanisme perubahan makhluk hidup.",
+    "cat": "manusia"
+  },
+  {
+    "year": 1859,
+    "when": "1859",
+    "title": "Perang Banjar",
+    "blurb": "Pangeran Antasari memimpin perlawanan terhadap tambang batu bara dan pajak kolonial.",
+    "cat": "kolonial"
+  },
+  {
+    "year": 1873,
+    "when": "1873",
+    "title": "Perang Aceh dimulai",
+    "blurb": "Serangan pertama Belanda gagal; perang berlangsung hampir tiga puluh tahun.",
+    "cat": "kolonial"
+  },
+  {
+    "year": 1883,
+    "when": "1883",
+    "title": "Letusan Krakatau",
+    "blurb": "Ledakan menghancurkan sebagian gunung dan tsunami menewaskan sekitar 36.000 orang.",
+    "cat": "bumi"
+  },
+  {
+    "year": 1894,
+    "when": "1894",
+    "title": "Perang Lombok",
+    "blurb": "Belanda menaklukkan Mataram Lombok setelah perlawanan sengit dan banyak korban.",
+    "cat": "kolonial"
+  },
+  {
+    "year": 1901,
+    "when": "1901",
+    "title": "Politik Etis",
+    "blurb": "Van Deventer menyerukan balas budi; irigasi, pendidikan, dan transmigrasi diberikan terbatas.",
+    "cat": "kolonial"
+  },
+  {
+    "year": 1908,
+    "when": "1908",
+    "title": "Budi Utomo berdiri",
+    "blurb": "Organisasi modern pertama didirikan di Batavia, menandai kebangkitan nasional.",
+    "cat": "kolonial"
+  },
+  {
+    "year": 1912,
+    "when": "1912",
+    "title": "Sarekat Islam",
+    "blurb": "Organisasi dagang santri berkembang menjadi gerakan massa terbesar di Hindia.",
+    "cat": "kolonial"
+  },
+  {
+    "year": 1913,
+    "when": "1913",
+    "title": "Indische Partij dilarang",
+    "blurb": "Partai multietnis pertama dibubarkan; pemimpinnya diasingkan ke Belanda.",
+    "cat": "kolonial"
+  },
+  {
+    "year": 1918,
+    "when": "1918",
+    "title": "Volksraad dibentuk",
+    "blurb": "Dewan rakyat kolonial bersidang; anggota pribumi hanya berperan menasihati.",
+    "cat": "kolonial"
+  },
+  {
+    "year": 1926,
+    "when": "1926",
+    "title": "Pemberontakan PKI",
+    "blurb": "Pemberontakan di Jawa Barat dan Sumatra gagal dan ditumpas dengan penangkapan massal.",
+    "cat": "kolonial"
+  },
+  {
+    "year": 1928,
+    "when": "1928",
+    "title": "Sumpah Pemuda",
+    "blurb": "Kongres Pemuda II menyatukan bahasa, bangsa, dan tanah air Indonesia.",
+    "cat": "kolonial"
+  },
+  {
+    "year": 1933,
+    "when": "1933",
+    "title": "Misi Zeven Provincien",
+    "blurb": "Pemberontakan pelaut pribumi di kapal Belanda mengguncang pemerintahan kolonial.",
+    "cat": "kolonial"
+  },
+  {
+    "year": 1942,
+    "when": "Januari 1942",
+    "title": "Jepang mendarat di Tarakan",
+    "blurb": "Pasukan Jepang merebut kilang minyak Tarakan, pintu masuk pendudukan Nusantara.",
+    "cat": "jepang"
+  },
+  {
+    "year": 1942,
+    "when": "Februari 1942",
+    "title": "Pertempuran Laut Jawa",
+    "blurb": "Armada Sekutu dihancurkan dalam pertempuran malam; Jepang menguasai laut Nusantara.",
+    "cat": "jepang"
+  },
+  {
+    "year": 1942,
+    "when": "Maret 1942",
+    "title": "Belanda menyerah di Kalijati",
+    "blurb": "Panglima Hindia Belanda menyerah tanpa syarat kepada Jenderal Imamura di Subang.",
+    "cat": "jepang"
+  },
+  {
+    "year": 1942,
+    "when": "1942",
+    "title": "PETA dibentuk",
+    "blurb": "Pemerintah militer Jepang membentuk tentara sukarela beranggotakan pemuda Indonesia.",
+    "cat": "jepang"
+  },
+  {
+    "year": 1942,
+    "when": "1942",
+    "title": "Romusha",
+    "blurb": "Kerja paksa mengirim ratusan ribu orang ke proyek militer; banyak yang tidak kembali.",
+    "cat": "jepang"
+  },
+  {
+    "year": 1943,
+    "when": "1943",
+    "title": "PUTERA dibentuk",
+    "blurb": "Pusat Tenaga Rakyat dipimpin Soekarno, Hatta, Ki Hajar Dewantara, dan Mas Mansur.",
+    "cat": "jepang"
+  },
+  {
+    "year": 1943,
+    "when": "1943",
+    "title": "Bahasa Indonesia dipakai luas",
+    "blurb": "Sekolah dan kantor Jepang memakai bahasa Indonesia, mempercepat persatuan bahasa.",
+    "cat": "jepang"
+  },
+  {
+    "year": 1944,
+    "when": "September 1944",
+    "title": "Janji kemerdekaan Koiso",
+    "blurb": "Perdana Menteri Koiso menjanjikan kemerdekaan bagi Indonesia di kemudian hari.",
+    "cat": "jepang"
+  },
+  {
+    "year": 1945,
+    "when": "Maret 1945",
+    "title": "BPUPKI dibentuk",
+    "blurb": "Badan Penyelidik Usaha Persiapan Kemerdekaan dibentuk dengan 62 anggota.",
+    "cat": "jepang"
+  },
+  {
+    "year": 1945,
+    "when": "1 Juni 1945",
+    "title": "Pidato Pancasila",
+    "blurb": "Soekarno memperkenalkan lima sila dalam sidang BPUPKI di Gedung Chuo Sangi In.",
+    "cat": "jepang"
+  },
+  {
+    "year": 1945,
+    "when": "22 Juni 1945",
+    "title": "Piagam Jakarta",
+    "blurb": "Panitia Sembilan menyepakati rumusan dasar negara, termasuk tujuh kata syariat Islam.",
+    "cat": "jepang"
+  },
+  {
+    "year": 1945,
+    "when": "6 Agustus 1945",
+    "title": "Bom atom Hiroshima",
+    "blurb": "Kota Hiroshima dihancurkan bom uranium; tiga hari kemudian Nagasaki menyusul.",
+    "cat": "jepang"
+  },
+  {
+    "year": 1945,
+    "when": "7 Agustus 1945",
+    "title": "PPKI dibentuk",
+    "blurb": "Setelah BPUPKI bubar, PPKI disiapkan untuk memindahkan kekuasaan kepada bangsa Indonesia.",
+    "cat": "jepang"
+  },
+  {
+    "year": 1945,
+    "when": "15 Agustus 1945",
+    "title": "Jepang menyerah",
+    "blurb": "Kaisar Hirohito mengumumkan menyerah lewat radio; kekuasaan di Nusantara kosong.",
+    "cat": "jepang"
+  },
+  {
+    "year": 1945,
+    "when": "16 Agustus 1945",
+    "title": "Peristiwa Rengasdengklok",
+    "blurb": "Golongan muda mendesak Soekarno-Hatta memproklamasikan kemerdekaan tanpa menunggu Jepang.",
+    "cat": "jepang"
+  },
+  {
+    "year": 1945,
+    "when": "17 Agustus 1945",
+    "title": "Proklamasi Kemerdekaan",
+    "blurb": "Soekarno membacakan teks proklamasi di Pegangsaan Timur 56, Jakarta.",
+    "cat": "merdeka"
+  },
+  {
+    "year": 1945,
+    "when": "18 Agustus 1945",
+    "title": "Sidang PPKI",
+    "blurb": "UUD 1945 disahkan dan Soekarno-Hatta terpilih sebagai presiden dan wakil presiden.",
+    "cat": "merdeka"
+  },
+  {
+    "year": 1945,
+    "when": "19 September 1945",
+    "title": "Insiden Hotel Yamato",
+    "blurb": "Perobekan bendera Belanda di Surabaya memicu rangkaian pertempuran.",
+    "cat": "merdeka"
+  },
+  {
+    "year": 1945,
+    "when": "5 Oktober 1945",
+    "title": "Tentara Keamanan Rakyat",
+    "blurb": "TKR dibentuk sebagai tentara nasional pertama dengan Soedirman sebagai tokoh sentral.",
+    "cat": "merdeka"
+  },
+  {
+    "year": 1945,
+    "when": "10 November 1945",
+    "title": "Pertempuran Surabaya",
+    "blurb": "Bung Tomo membakar semangat; kota bertahan berminggu-minggu melawan pasukan Sekutu.",
+    "cat": "merdeka"
+  },
+  {
+    "year": 1946,
+    "when": "23 Maret 1946",
+    "title": "Bandung Lautan Api",
+    "blurb": "Bumi hangus Bandung oleh pejuang untuk mencegah pendudukan Belanda.",
+    "cat": "merdeka"
+  },
+  {
+    "year": 1946,
+    "when": "November 1946",
+    "title": "Perjanjian Linggarjati",
+    "blurb": "Belanda mengakui republik atas Jawa, Sumatra, dan Madura secara de facto.",
+    "cat": "merdeka"
+  },
+  {
+    "year": 1947,
+    "when": "21 Juli 1947",
+    "title": "Agresi Militer I",
+    "blurb": "Belanda melanggar perjanjian dan merebut kota-kota di Jawa serta Sumatra.",
+    "cat": "merdeka"
+  },
+  {
+    "year": 1948,
+    "when": "Januari 1948",
+    "title": "Perjanjian Renville",
+    "blurb": "Gencatan senjata di atas kapal Amerika; wilayah republik menyempit dan terisolasi.",
+    "cat": "merdeka"
+  },
+  {
+    "year": 1948,
+    "when": "September 1948",
+    "title": "Pemberontakan Madiun",
+    "blurb": "PKI memberontak; Musso tewas dan partai dibubarkan oleh pemerintah republik.",
+    "cat": "merdeka"
+  },
+  {
+    "year": 1948,
+    "when": "19 Desember 1948",
+    "title": "Agresi Militer II",
+    "blurb": "Belanda menyerang Yogyakarta dan menangkap Soekarno, Hatta, serta pemimpin lain.",
+    "cat": "merdeka"
+  },
+  {
+    "year": 1949,
+    "when": "1 Maret 1949",
+    "title": "Serangan Umum Yogyakarta",
+    "blurb": "Tentara republik menduduki kota beberapa jam untuk menunjukkan eksistensi.",
+    "cat": "merdeka"
+  },
+  {
+    "year": 1949,
+    "when": "Agustus 1949",
+    "title": "Konferensi Meja Bundar",
+    "blurb": "Perundingan di Den Haag menghasilkan pengakuan kedaulatan dan pembentukan RIS.",
+    "cat": "merdeka"
+  },
+  {
+    "year": 1950,
+    "when": "April 1950",
+    "title": "RMS diproklamasikan",
+    "blurb": "Republik Maluku Selatan memisahkan diri; pemberontakan ditumpas TNI.",
+    "cat": "merdeka"
+  },
+  {
+    "year": 1950,
+    "when": "17 Agustus 1950",
+    "title": "Kembali ke negara kesatuan",
+    "blurb": "RIS bubar dan Republik Indonesia dipulihkan sebagai negara kesatuan.",
+    "cat": "merdeka"
+  },
+  {
+    "year": 1953,
+    "when": "1953",
+    "title": "Struktur DNA terungkap",
+    "blurb": "Watson, Crick, Franklin, dan Wilkins menunjukkan pilin ganda pembawa kode genetik.",
+    "cat": "manusia"
+  },
+  {
+    "year": 1955,
+    "when": "April 1955",
+    "title": "Konferensi Asia-Afrika",
+    "blurb": "Dua puluh sembilan negara berkumpul di Bandung dan melahirkan Dasasila Bandung.",
+    "cat": "merdeka"
+  },
+  {
+    "year": 1955,
+    "when": "September 1955",
+    "title": "Pemilu pertama",
+    "blurb": "Pemilu demokratis pertama memilih anggota DPR dan Konstituante.",
+    "cat": "merdeka"
+  },
+  {
+    "year": 1957,
+    "when": "Desember 1957",
+    "title": "Pengambilalihan perusahaan Belanda",
+    "blurb": "Serikat buruh dan pemerintah mengambil alih perusahaan Belanda setelah konfrontasi Irian.",
+    "cat": "merdeka"
+  },
+  {
+    "year": 1960,
+    "when": "1960",
+    "title": "Manipol-USDEK",
+    "blurb": "Garis besar haluan negara dan ideologi Nasakom diresmikan Soekarno.",
+    "cat": "merdeka"
+  },
+  {
+    "year": 1961,
+    "when": "19 Desember 1961",
+    "title": "Trikora",
+    "blurb": "Soekarno mengumumkan tiga komando rakyat untuk merebut Irian Barat.",
+    "cat": "merdeka"
+  },
+  {
+    "year": 1962,
+    "when": "Agustus 1962",
+    "title": "Perjanjian New York",
+    "blurb": "Belanda menyerahkan Irian Barat kepada Indonesia melalui administrasi PBB.",
+    "cat": "merdeka"
+  },
+  {
+    "year": 1963,
+    "when": "1963",
+    "title": "Konfrontasi Malaysia",
+    "blurb": "Soekarno menentang pembentukan Malaysia; konflik berlangsung hingga 1966.",
+    "cat": "merdeka"
+  },
+  {
+    "year": 1965,
+    "when": "30 September 1965",
+    "title": "Gerakan 30 September",
+    "blurb": "Perwira menculik dan membunuh enam jenderal; PKI dituduh dan dibasmi.",
+    "cat": "merdeka"
+  },
+  {
+    "year": 1965,
+    "when": "1965-1966",
+    "title": "Pembantaian 1965",
+    "blurb": "Ratusan ribu orang dibunuh dalam pembersihan politik; angka pasti masih diperdebatkan.",
+    "cat": "merdeka"
+  },
+  {
+    "year": 1966,
+    "when": "11 Maret 1966",
+    "title": "Supersemar",
+    "blurb": "Soekarno menyerahkan wewenang kepada Soeharto; Orde Baru dimulai.",
+    "cat": "modern"
+  },
+  {
+    "year": 1969,
+    "when": "1969",
+    "title": "PEPERA",
+    "blurb": "Pemungutan suara kontroversial menyatukan Irian Barat dengan Indonesia.",
+    "cat": "modern"
+  },
+  {
+    "year": 1975,
+    "when": "7 Desember 1975",
+    "title": "Invasi Timor Timur",
+    "blurb": "Indonesia menginvasi setelah Fretilin mendeklarasikan kemerdekaan.",
+    "cat": "modern"
+  },
+  {
+    "year": 1998,
+    "when": "21 Mei 1998",
+    "title": "Reformasi",
+    "blurb": "Krisis ekonomi dan aksi mahasiswa memaksa Soeharto mundur setelah 32 tahun.",
+    "cat": "modern"
+  },
+  {
+    "year": 1999,
+    "when": "7 Juni 1999",
+    "title": "Pemilu 1999",
+    "blurb": "Pemilu multipartai pertama setelah 44 tahun; 48 partai ikut serta.",
+    "cat": "modern"
+  },
+  {
+    "year": 2004,
+    "when": "26 Desember 2004",
+    "title": "Tsunami Aceh",
+    "blurb": "Gempa 9,1 skala Richter dan gelombang tsunami menewaskan sekitar 167.000 orang.",
+    "cat": "modern"
+  },
+  {
+    "year": 2004,
+    "when": "September 2004",
+    "title": "Pemilu presiden langsung",
+    "blurb": "Rakyat memilih presiden secara langsung untuk pertama kali; SBY-JK menang.",
+    "cat": "modern"
+  },
+  {
+    "year": 2020,
+    "when": "Maret 2020",
+    "title": "Pandemi COVID-19",
+    "blurb": "Kasus pertama diumumkan; pembatasan sosial mengubah ekonomi dan pendidikan.",
+    "cat": "modern"
+  },
+  {
+    "year": 2024,
+    "when": "14 Februari 2024",
+    "title": "Pemilu 2024",
+    "blurb": "Pemilu serentak terbesar; Prabowo-Gibran menang dalam satu putaran.",
+    "cat": "modern"
+  },
+  {
+    "year": 2024,
+    "when": "2024",
+    "title": "Ibu kota pindah ke Nusantara",
+    "blurb": "Pembangunan IKN di Kalimantan Timur berjalan; Jakarta tetap pusat ekonomi.",
+    "cat": "modern"
+  }
+]
