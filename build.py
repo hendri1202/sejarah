@@ -414,6 +414,7 @@ def masthead(current=""):
     <div class="tools">
       <button class="tool" type="button" data-drawer-open aria-controls="daftar-isi">Isi</button>
       <a class="tool" href="arsip.html">Arsip</a>
+      <a class="tool" href="tanya.html">Tanya</a>
       <button class="tool" type="button" data-search-open>Cari <kbd>/</kbd></button>
       <button class="tool" type="button" data-theme-toggle aria-pressed="false">Malam</button>
     </div>
@@ -446,6 +447,7 @@ def drawer(chapters):
   </div>
   {"".join(blocks)}
   <div class="drawer__part"><span class="micro">Rujukan</span><ol>
+    <li><a href="tanya.html"><span class="n">→</span><span>Tanya Kronik</span></a></li>
     <li><a href="arsip.html"><span class="n">→</span><span>Arsip artikel</span></a></li>
     <li><a href="kronologi.html"><span class="n">→</span><span>Kronologi lengkap</span></a></li>
     {fig_drawer}
@@ -477,6 +479,7 @@ def footer():
     <a class="foot__mark" href="index.html">Kronik</a>
     <span class="micro">26 bab · 6 bagian · Edisi {BULAN[date.today().month - 1]} {date.today().year}</span>
     <nav>
+      <a class="micro" href="tanya.html">Tanya</a>
       <a class="micro" href="arsip.html">Arsip</a>
       <a class="micro" href="kronologi.html">Kronologi</a>
       {fig_link}
@@ -487,7 +490,7 @@ def footer():
 </footer>"""
 
 
-def page(title, desc, body, url="", cls="", base=""):
+def page(title, desc, body, url="", cls="", base="", extra=""):
     full_title = title if title.startswith("Kronik") else f"{title} — Kronik"
     return f"""<!doctype html>
 <html lang="id">
@@ -515,6 +518,7 @@ def page(title, desc, body, url="", cls="", base=""):
 <body class="{cls}">
 <a class="skip" href="#isi">Lompat ke isi</a>
 {body}
+{extra}
 <script src="assets/index-data.js"></script>
 <script src="assets/entries-data.js"></script>
 <script src="assets/app.js"></script>
@@ -887,6 +891,7 @@ def build_entry(e, entries, chapters):
 <article class="chapter wrap page-entry">
   <header class="chapter__head">
     <div class="chapter__kicker">
+      <a class="micro" href="tanya.html">Tanya</a>
       <a class="micro" href="arsip.html">Arsip</a>
       <span class="micro">{esc(part["title"])} · {esc(e["years"])}</span>
     </div>
@@ -915,6 +920,70 @@ def build_entry(e, entries, chapters):
 {search_panel()}"""
     return page(e["title"], e["dek"] or f"Artikel Kronik: {e['title']}", body,
                 url=f"artikel/{e['id']}.html", cls="page-entry", base="../")
+
+
+def build_ask(chapters, entries):
+    n_art = len(entries)
+    body = f"""{masthead()}
+{drawer(chapters)}
+<main id="isi">
+<section class="wrap">
+  <header class="page-head">
+    <div class="chapter__kicker"><a class="micro" href="arsip.html">Arsip</a><span class="micro">{len(chapters)} bab · {n_art} entri</span></div>
+    <h1>Tanya Kronik</h1>
+    <p>Tanyakan apa saja tentang isi situs ini. Jawabannya diambil langsung dari bab dan entri arsip —
+    dengan kutipan dan tautan ke halamannya. Kalau arsip tidak memuatnya, pencarian berlanjut ke Wikipedia
+    bahasa Indonesia, dan sumbernya disebutkan.</p>
+  </header>
+
+  <div class="chat">
+    <div class="chat__log" data-chat-log aria-live="polite">
+      <div class="msg msg--bot">
+        <p class="msg__lead">Mulai dengan satu pertanyaan. Misalnya: “Siapa yang mengetik teks proklamasi?”,
+        “Apa isi Perjanjian Linggarjati?”, atau “Mengapa Tambora mengubah cuaca dunia?”</p>
+      </div>
+    </div>
+
+    <div class="chat__asks">
+      <button class="chip" type="button" data-ask="Siapa yang mengetik teks proklamasi?">Pengetikan proklamasi</button>
+      <button class="chip" type="button" data-ask="Apa isi Perjanjian Linggarjati?">Linggarjati</button>
+      <button class="chip" type="button" data-ask="Mengapa letusan Tambora mengubah cuaca dunia?">Tambora</button>
+      <button class="chip" type="button" data-ask="Bagaimana jalannya Perang Diponegoro?">Perang Diponegoro</button>
+    </div>
+
+    <form class="chat__form" data-chat-form>
+      <input data-chat-input type="text" placeholder="Tulis pertanyaan…" aria-label="Pertanyaan" autocomplete="off">
+      <button class="tool chat__send" type="submit">Tanya</button>
+    </form>
+
+    <p class="chat__note">
+      <button class="tool" type="button" data-llm-settings>Mode LLM (opsional)</button>
+      <span class="micro">Tanpa kunci API, jawaban disusun dari kutipan arsip. Kunci hanya disimpan di peramban kamu.</span>
+    </p>
+  </div>
+</section>
+
+<div class="llm" data-open="false">
+  <div class="llm__panel">
+    <h2>Mode LLM</h2>
+    <p>Kalau kamu memasang kunci API yang kompatibel dengan OpenAI, Kronik akan menyusun jawaban dari potongan
+    arsip dan Wikipedia. Kunci disimpan di <code>localStorage</code> peramban ini dan tidak dikirim ke mana pun
+    selain penyedia yang kamu isi.</p>
+    <label>Endpoint <input data-llm-url type="text" placeholder="https://openrouter.ai/api/v1"></label>
+    <label>Model <input data-llm-model type="text" placeholder="openai/gpt-4o-mini"></label>
+    <label>Kunci API <input data-llm-key type="password" placeholder="sk-…"></label>
+    <p class="llm__actions">
+      <button class="tool" type="button" data-llm-save>Simpan</button>
+      <button class="tool" type="button" data-llm-off>Matikan</button>
+    </p>
+  </div>
+</div>
+</main>
+{footer()}
+{search_panel()}"""
+    extra = ('<script src="assets/bm25.js"></script><script src="assets/chat.js"></script>')
+    return page("Tanya Kronik", "Tanya jawab atas 26 bab dan seluruh entri arsip Kronik.",
+                body, url="tanya.html", cls="page-ask", extra=extra)
 
 
 def build_archive(entries, chapters):
@@ -1146,9 +1215,9 @@ def build_bm25(chapters, entries):
     """Indeks BM25 ringan: docs + panjang dokumen + postings (dok:tf)."""
     docs, lengths, postings = [], [], {}
 
-    def add(url, title, kind, era, years, text):
+    def add(url, title, kind, era, years, text, tags=""):
         idx = len(docs)
-        docs.append([url, title, kind, era, years])
+        docs.append([url, title, kind, era, years, tags])
         toks = tok(text)
         lengths.append(len(toks))
         tf = {}
@@ -1159,10 +1228,11 @@ def build_bm25(chapters, entries):
 
     for c in chapters:
         add(c["file"], c["title"], "bab", c["part"], c["span"],
-            c["title"] + " " + c["dek"] + " " + c["body"][:9000])
+            (c["title"] + " ") * 4 + (c["dek"] + " ") * 2 + c["body"][:9000], c["part"])
     for e in entries:
         add(f"artikel/{e['id']}.html", e["title"], "arsip", e["era"], e["years"],
-            e["title"] + " " + e["dek"] + " " + " ".join(e["tags"]) + " " + e["body"][:2600])
+            (e["title"] + " ") * 4 + (e["dek"] + " ") * 2 + (" ".join(e["tags"]) + " ") * 2 + e["body"][:2600],
+            " ".join(e["tags"]))
 
     post = {t: ",".join(f"{i}:{n}" for i, n in v) for t, v in postings.items()}
     avgdl = round(sum(lengths) / max(1, len(lengths)), 1)
@@ -1272,6 +1342,7 @@ def main():
     if HAS_FIGURES:
         (OUT / "tokoh.html").write_text(build_figures(figures, chapters), encoding="utf-8")
     if entries:
+        (OUT / "tanya.html").write_text(build_ask(chapters, entries), encoding="utf-8")
         for e in entries:
             (OUT / "artikel" / f"{e['id']}.html").write_text(build_entry(e, entries, chapters), encoding="utf-8")
         (OUT / "arsip.html").write_text(build_archive(entries, chapters), encoding="utf-8")
@@ -1285,7 +1356,7 @@ def main():
     (OUT / "tentang.html").write_text(build_about(chapters), encoding="utf-8")
     (OUT / "404.html").write_text(build_404(chapters), encoding="utf-8")
 
-    urls = ["", "arsip.html", "kronologi.html", "glosarium.html", "tentang.html"] + [c["file"] for c in chapters]
+    urls = ["", "arsip.html", "tanya.html", "kronologi.html", "glosarium.html", "tentang.html"] + [c["file"] for c in chapters]
     today = date.today().isoformat()
     sitemap = ['<?xml version="1.0" encoding="UTF-8"?>',
                '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
