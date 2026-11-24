@@ -1,0 +1,121 @@
+# Gelombang 6 — 105 entri
+# format: id|title|era|years|tags|chapter
+
+## A. Museum dan koleksi (15)
+museum-nasional|Museum Nasional Indonesia|kolonial|1778–kini|museum,koleksi,jakarta|17
+museum-fatahillah|Museum Fatahillah|kolonial|1710–kini|museum,batavia,kota-tua|17
+museum-sonobudoyo|Museum Sonobudoyo|kolonial|1935–kini|museum,jawa,yogyakarta|17
+museum-sangiran|Museum Sangiran|merdeka|1983–kini|museum,prasejarah,sangiran|9
+museum-trinil|Museum Trinil|kolonial|1890–kini|museum,purba,jawa-timur|9
+museum-geologi|Museum Geologi Bandung|kolonial|1929–kini|museum,geologi,bandung|6
+museum-islam|Museum Islam Indonesia|merdeka|1996–kini|museum,islam,jakarta|13
+museum-bank-indonesia|Museum Bank Indonesia|kolonial|1828–kini|museum,ekonomi,jakarta|17
+museum-bahari|Museum Bahari|kolonial|1652–kini|museum,laut,jakarta|14
+museum-vredeburg|Museum Benteng Vredeburg|kolonial|1765–kini|museum,benteng,yogyakarta|16
+museum-affandi|Museum Affandi|merdeka|1974–kini|museum,seni,yogyakarta|25
+museum-basoeki-abdullah|Museum Basoeki Abdullah|merdeka|2001–kini|museum,seni,jakarta|25
+museum-macan|Museum MACAN|merdeka|2017–kini|museum,seni,jakarta|26
+museum-negeri-propinsi|Museum Negeri Provinsi|kolonial|1914–kini|museum,daerah,koleksi|17
+museum-perjuangan|Museum Perjuangan Yogyakarta|merdeka|1969–kini|museum,revolusi,yogyakarta|23
+
+## B. Situs dan cagar budaya (15)
+borobudur-pemugaran|Pemugaran Borobudur|merdeka|1907–1983|borobudur,pemugaran,unesco|12
+prambanan-pemugaran|Pemugaran Prambanan|kolonial|1918–1953|prambanan,pemugaran,unesco|12
+situs-banten-lama|Situs Banten Lama|kerajaan|abad ke-16–kini|banten,situs,kerajaan|13
+situs-ratu-boko|Situs Ratu Boko|kerajaan|abad ke-8–kini|situs,jawa,yogyakarta|12
+situs-batujaya|Situs Batujaya|kerajaan|abad ke-5–kini|situs,buddha,jawa-barat|12
+situs-gunung-kawi|Situs Gunung Kawi|kerajaan|abad ke-11–kini|situs,bali,arca|13
+benteng-rotterdam|Benteng Rotterdam|kolonial|1607–kini|benteng,makassar,voc|14
+benteng-duurstede|Benteng Duurstede|kolonial|1674–kini|benteng,maluku,voc|14
+benteng-ternate|Benteng Ternate|kolonial|1512–kini|benteng,ternate,portugis|14
+kota-tua-jakarta|Kota Tua Jakarta|kolonial|1619–kini|kotatua,batavia,pelestarian|17
+lawang-sewu|Lawang Sewu|kolonial|1904–kini|bangunan,kereta,semarang|17
+gedung-sate|Gedung Sate|kolonial|1920–kini|bangunan,bandung,pemerintahan|17
+istana-maimun|Istana Maimun|kolonial|1891–kini|istana,deli,melayu|15
+taman-sari|Taman Sari|kerajaan|1758–kini|istana,yogyakarta,air|16
+makam-imogiri|Makam Imogiri|kerajaan|1645–kini|makam,mataram,yogyakarta|13
+
+## C. Historiografi dan arsip (15)
+kakawin-sutasoma|Kakawin Sutasoma|kerajaan|1365|naskah,majapahit,sumber|13
+pararaton|Pararaton|kerajaan|abad ke-15|naskah,majapahit,sumber|13
+babad-tanah-jawi|Babad Tanah Jawi|kerajaan|abad ke-17|naskah,mataram,sumber|13
+hikayat-raja-pasai|Hikayat Raja-Raja Pasai|kerajaan|abad ke-14|naskah,pasai,sumber|12
+sejarah-melayu|Sejarah Melayu|kerajaan|abad ke-15|naskah,melayu,sumber|12
+chau-ju-kua|Catatan Chau Ju-kua|kerajaan|1225|sumber,tiongkok,sriwijaya|12
+ibn-battuta-nusantara|Ibn Battuta di Nusantara|kerajaan|1345|sumber,arab,samudra|12
+anri|Arsip Nasional Indonesia|merdeka|1971–kini|arsip,anri,dokumen|24
+arsip-voc|Arsip VOC|kolonial|1602–1799|arsip,voc,sumber|14
+peta-kolonial|Peta Kolonial Nusantara|kolonial|1800–1942|peta,kartografi,sumber|17
+fotografi-kolonial|Fotografi Kolonial|kolonial|1860–1940|foto,sumber,kolonial|17
+historiografi-nasional|Historiografi Nasional|merdeka|1957–kini|historiografi,kebijakan,sejarah|24
+sejarah-nasional-indonesia|Sejarah Nasional Indonesia|merdeka|1975|buku,historiografi,proyek|25
+kritik-sumber|Kritik Sumber Sejarah|merdeka|1950–kini|metode,sumber,sejarah|24
+arsip-pribadi|Arsip Pribadi dan Keluarga|kolonial|1800–kini|arsip,keluarga,sumber|17
+
+## D. Arkeologi dan metode (15)
+stratigrafi-arkeologi|Stratigrafi Arkeologi|merdeka|1950–kini|metode,stratigrafi,arkeologi|9
+karbon-14|Penanggalan Karbon-14|merdeka|1950–kini|metode,karbon,penanggalan|9
+luminesensi|Penanggalan Luminesensi|merdeka|1980–kini|metode,luminesensi,penanggalan|9
+paleomagnetisme|Paleomagnetisme|merdeka|1970–kini|metode,magnet,geologi|3
+dna-purba|DNA Purba|merdeka|2010–kini|metode,dna,genetika|10
+isotop-stabil|Isotop Stabil dan Diet|merdeka|1990–kini|metode,isotop,diet|10
+analisis-polen|Analisis Polen|merdeka|1970–kini|metode,polen,lingkungan|3
+tafonomi|Tafonomi|merdeka|1980–kini|metode,tafonomi,fosil|6
+ekskavasi|Ekskavasi Arkeologi|kolonial|1890–kini|metode,ekskavasi,arkeologi|9
+konservasi-artefak|Konservasi Artefak|merdeka|1950–kini|konservasi,artefak,museum|17
+penjarahan-situs|Penjarahan Situs|kolonial|1900–kini|situs,penjarahan,hukum|17
+unesco-indonesia|Indonesia dan UNESCO|merdeka|1972–kini|unesco,warisan,budaya|26
+arkeologi-bawah-air|Arkeologi Bawah Air|merdeka|1990–kini|arkeologi,laut,kapal|14
+etnoarkeologi|Etnoarkeologi|merdeka|1970–kini|metode,etnografi,arkeologi|11
+lidar-arkeologi|LiDAR dalam Arkeologi|merdeka|2010–kini|metode,lidar,teknologi|13
+
+## E. Budaya material (15)
+batik|Batik dan Sejarahnya|kerajaan|abad ke-17–kini|batik,tekstil,budaya|13
+keris|Keris|kerajaan|abad ke-14–kini|keris,senjata,budaya|13
+ulos-batak|Ulos Batak|kerajaan|abad ke-18–kini|tenun,tekstil,batak|11
+rumah-adat|Rumah Adat Nusantara|kerajaan|abad ke-14–kini|rumah,arsitektur,budaya|11
+pinisi|Perahu Pinisi|kolonial|1800–kini|perahu,bugis,laut|14
+arca-batu|Arca Batu Nusantara|kerajaan|abad ke-8–kini|arca,seni,hindu|12
+keramik-cina|Keramik Cina di Nusantara|kerajaan|abad ke-10–kini|keramik,dagang,arkeologi|12
+manik-manik|Manik-Manik Kuno|kerajaan|abad ke-1–kini|manik,perdagangan,arkeologi|11
+mata-uang-kuno|Mata Uang Kuno Nusantara|kerajaan|abad ke-9–kini|uang,ekonomi,arkeologi|12
+naskah-lontar|Naskah Lontar|kerajaan|abad ke-14–kini|naskah,lontar,bali|13
+songket|Songket|kerajaan|abad ke-16–kini|songket,tekstil,melayu|11
+ukiran-jepara|Ukiran Jepara|kerajaan|abad ke-16–kini|ukir,kayu,jepara|13
+senjata-tradisional|Senjata Tradisional Nusantara|kerajaan|abad ke-14–kini|senjata,budaya,daerah|11
+gerabah|Gerabah dan Tembikar|manusia|4000 SM–kini|gerabah,tembikar,prasejarah|11
+perhiasan-emas|Perhiasan Emas Kuno|kerajaan|abad ke-8–kini|emas,perhiasan,arkeologi|12
+
+## F. Bahasa dan sastra (15)
+bahasa-melayu-pasar|Bahasa Melayu Pasar|kolonial|1600–kini|bahasa,melayu,perdagangan|14
+jawa-kuna|Bahasa Jawa Kuna|kerajaan|abad ke-9–kini|bahasa,jawa,naskah|12
+sansekerta-nusantara|Sansekerta di Nusantara|kerajaan|abad ke-4–kini|bahasa,sansekerta,prasasti|12
+aksara-pallawa|Aksara Pallawa|kerajaan|abad ke-4–kini|aksara,prasasti,kuno|12
+aksara-jawa|Aksara Jawa|kerajaan|abad ke-16–kini|aksara,jawa,budaya|13
+aksara-batak|Aksara Batak|kerajaan|abad ke-18–kini|aksara,batak,sumatra|11
+aksara-bugis|Aksara Lontara Bugis|kerajaan|abad ke-17–kini|aksara,bugis,sulawesi|11
+serat-centhini|Serat Centhini|kerajaan|1814|sastra,jawa,naskah|16
+hikayat-hang-tuah|Hikayat Hang Tuah|kerajaan|abad ke-17|sastra,melayu,naskah|12
+pujangga-baru|Pujangga Baru|kolonial|1933–1942|sastra,1933,modern|17
+novel-indonesia-1970an|Novel Indonesia 1970-an|merdeka|1970–1980|sastra,novel,penulis|25
+sastra-lisan|Sastra Lisan Nusantara|kerajaan|abad ke-14–kini|sastra,lisan,tradisi|11
+kamus-bahasa|Kamus dan Standardisasi Bahasa|kolonial|1901–kini|bahasa,kamus,ejaan|17
+ejaan-bahasa|Sejarah Ejaan Bahasa Indonesia|kolonial|1901–kini|bahasa,ejaan,kebijakan|24
+bahasa-daerah|Bahasa Daerah dan Kepunahan|merdeka|1950–kini|bahasa,daerah,minoritas|26
+
+## G. Bencana dan lingkungan (15)
+sinabung-2010|Erupsi Sinabung|merdeka|2010–kini|bencana,vulkanik,sumatra|26
+kelud-1919|Letusan Kelud 1919|kolonial|1919|bencana,vulkanik,jawa|18
+merapi-2010|Erupsi Merapi 2010|merdeka|2010|bencana,vulkanik,yogyakarta|26
+gempa-lombok-2018|Gempa Lombok 2018|merdeka|2018|bencana,gempa,lombok|26
+gempa-padang-2009|Gempa Padang 2009|merdeka|2009|bencana,gempa,sumatra|26
+tsunami-pangandaran-2006|Tsunami Pangandaran 2006|merdeka|2006|bencana,tsunami,jawa|26
+tanggul-laut-jakarta|Tanggul Laut Jakarta|merdeka|2014–kini|infrastruktur,banjir,jakarta|26
+el-nino-1877|El Nino 1877|kolonial|1877|iklim,kekeringan,kolonial|15
+wereng-1970an|Ledakan Wereng 1970-an|merdeka|1974–1979|pertanian,hama,pangan|25
+kebakaran-hutan-1997|Kebakaran Hutan 1997|merdeka|1997|lingkungan,kebakaran,asap|26
+wabah-difteri-2017|Wabah Difteri 2017|merdeka|2017–2018|wabah,difteri,kesehatan|26
+kolera-batavia|Kolera di Batavia|kolonial|1821–1900|wabah,kolera,kota|17
+cacar-indonesia|Cacar dan Vaksinasi|kolonial|1804–1980|wabah,cacar,vaksin|17
+malaria-nusantara|Malaria di Nusantara|kolonial|1800–kini|wabah,malaria,kesehatan|17
+gunung-agung-1963|Letusan Gunung Agung 1963|merdeka|1963|bencana,vulkanik,bali|26

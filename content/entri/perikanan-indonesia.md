@@ -25,7 +25,7 @@ Pukat harimau kemudian dilarang pada 1980 melalui Keputusan Presiden. Alasannya,
 
 Pada 2014, pemerintah baru di bawah Joko Widodo memulai kebijakan penenggelaman kapal pencuri ikan. Kapal yang ditangkap di perairan Indonesia diledakkan atau ditenggelamkan, sebagian di depan wartawan. Kebijakan itu populer di dalam negeri dan menurunkan jumlah kapal asing yang menangkap ikan secara ilegal. Namun hubungan dengan Tiongkok dan Vietnam sempat memanas, dan efektivitas jangka panjangnya diperdebatkan karena pengawasan laut tetap terbatas.
 
-Setelah 2019, penenggelaman besar-besaran berhenti. Pemerintah beralih ke pendekatan yang lebih administratif: sertifikasi kapal, sistem pemantauan satelit, dan pemberantasan transshipment di laut. Hasilnya campur aduk. Di satu sisi, data tangkapan menjadi lebih rapi. Di sisi lain, nelayan kecil mengeluh karena biaya kepatuhan naik, sementara kapal besar dengan izin pusat tetap dominan.
+Setelah 2019, penenggelaman besar-besaran berhenti. Pemerintah beralih ke pendekatan yang lebih administratif: sertifikasi kapal, sistem pemantauan satelit, dan pemberantasan transshipment di laut. Hasilnya campur aduk. Di satu sisi, data tangkapan menjadi lebih rapi, tetapi nelayan kecil mengeluh karena biaya kepatuhan naik, sementara kapal besar dengan izin pusat tetap dominan.
 
 ## Budidaya yang tumbuh
 

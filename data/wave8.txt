@@ -1,0 +1,189 @@
+# Gelombang 8 — 120 entri
+# format: id|title|era|years|tags|chapter
+
+## A. Perang dan konflik abad ke-19 di luar Jawa (15)
+perang-palembang-1819|Perang Palembang 1819–1821|kolonial|1819–1821|palembang,perang,menteng|16
+pemberontakan-sambas-1823|Pemberontakan Sambas 1823|kolonial|1823|sambas,perang,ekspedisi|16
+perang-tondano-1808|Perang Tondano 1808–1809|kolonial|1808–1809|tondano,minahasa,perang|16
+ekspedisi-inggris-maluku-1810|Ekspedisi Inggris ke Maluku|kolonial|1810|inggris,maluku,perang|16
+perang-nias-1840|Ekspedisi Nias 1840|kolonial|1840|nias,perang,ekspedisi|16
+perang-buleleng-1846|Perang Buleleng 1846–1849|kolonial|1846–1849|buleleng,bali,perang|16
+perang-kongsi-1850|Perang Kongsi Kalimantan Barat|kolonial|1850–1856|kongsi,kalimantan,tambang|16
+perang-jambi-1858|Penaklukan Jambi 1858|kolonial|1858|jambi,perang,kolonial|16
+ekspedisi-etna-1858|Ekspedisi Etna 1858|kolonial|1858|papua,ekspedisi,etna|16
+perang-paser-1859|Perang Paser 1859–1860|kolonial|1859–1860|paser,kalimantan,perang|16
+perang-sunggal-1872|Perang Sunggal 1872–1875|kolonial|1872–1875|sunggal,sumatra,perang|16
+perang-lombok-1894|Perang Lombok 1894|kolonial|1894|lombok,sasak,perang|16
+perang-klungkung-1908|Puputan Klungkung 1908|kolonial|1908|klungkung,bali,puputan|16
+perang-bima-1908|Perang Bima 1908|kolonial|1908|bima,sumbawa,perang|16
+perang-toraja-1905|Perang Toraja 1905–1906|kolonial|1905–1906|toraja,sulawesi,perang|16
+
+## B. Kerajaan dan kesultanan yang belum punya entri (15)
+kesultanan-pasai|Kesultanan Samudera Pasai|kerajaan|1297–1524|pasai,islam,selat|12
+kesultanan-perlak|Kesultanan Perlak|kerajaan|840–1292|perlak,islam,aceh|12
+kesultanan-malaka|Kesultanan Malaka|kerajaan|1400–1511|malaka,islam,dagang|13
+kerajaan-pagaruyung|Kerajaan Pagaruyung|kerajaan|1347–1833|minangkabau,adat,kerajaan|12
+kerajaan-dharmasraya|Kerajaan Dharmasraya|kerajaan|1183–1347|dharmasraya,melayu,kerajaan|12
+kerajaan-barus|Kerajaan Barus|kerajaan|abad ke-7–17|barus,kapur,islam|12
+kerajaan-tambora|Kerajaan Tambora|kerajaan|1700–1815|tambora,sumbawa,letusan|13
+kesultanan-bulungan|Kesultanan Bulungan|kerajaan|1731–1964|bulungan,kalimantan,kerajaan|13
+kesultanan-berau|Kesultanan Berau|kerajaan|1400–1950|berau,kalimantan,kerajaan|13
+kesultanan-banggai|Kesultanan Banggai|kerajaan|1600–1908|banggai,sulawesi,kerajaan|13
+kesultanan-gorontalo|Kesultanan Gorontalo|kerajaan|1525–1889|gorontalo,sulawesi,islam|13
+kerajaan-muna|Kerajaan Muna|kerajaan|abad ke-16–1950|muna,buton,sulawesi|13
+kerajaan-tallo|Kerajaan Tallo|kerajaan|1500–1906|tallo,makassar,kerajaan|13
+kerajaan-larantuka|Kerajaan Larantuka|kerajaan|1515–1904|larantuka,flores,katolik|13
+kerajaan-manggarai|Kerajaan Manggarai|kerajaan|abad ke-17–1920|manggarai,flores,kerajaan|13
+
+## C. Ekonomi dan keuangan modern (15)
+ori-1946|Oeang Republik Indonesia 1946|merdeka|1946–1949|uang,rupiah,republik|23
+nasionalisasi-1958|Nasionalisasi Perusahaan Belanda|merdeka|1958–1960|nasionalisasi,belanda,ekonomi|24
+program-benteng|Program Benteng 1950–1957|merdeka|1950–1957|benteng,pengusaha,ekonomi|24
+hiperinflasi-1965|Hiperinflasi 1965|merdeka|1965–1966|inflasi,ekonomi,krisis|24
+devaluasi-1978|Devaluasi 1978|merdeka|1978|devaluasi,rupiah,ekonomi|25
+pakto-1988|Pakto 27 Oktober 1988|merdeka|1988|bank,deregulasi,ekonomi|25
+imf-indonesia|IMF dan Indonesia|merdeka|1997–2003|imf,krisis,utang|25
+paris-club-1970|Paris Club 1970|merdeka|1970|utang,paris,ekonomi|25
+lps|Lembaga Penjamin Simpanan|merdeka|2005–kini|simpanan,bank,negara|26
+ojk|Otoritas Jasa Keuangan|merdeka|2011–kini|ojk,keuangan,regulator|26
+perbankan-syariah|Perbankan Syariah|merdeka|1992–kini|syariah,bank,islam|25
+astek-jamsostek|Astek dan Jamsostek|merdeka|1977–2011|jamsostek,buruh,asuransi|25
+pegadaian|Pegadaian|kolonial|1901–kini|gadai,kredit,kolonial|17
+cukai-rokok|Cukai Hasil Tembakau|merdeka|1968–kini|cukai,tembakau,negara|25
+konglomerat-1980an|Konglomerat Indonesia|merdeka|1980–1998|konglomerat,bisnis,ekonomi|25
+
+## D. Kota dan urbanisasi (15)
+balikpapan-kolonial|Balikpapan Kolonial|kolonial|1897–1942|balikpapan,minyak,kota|18
+manado-kolonial|Manado Kolonial|kolonial|1850–1942|manado,kota,kolonial|17
+hollandia-jayapura|Hollandia dan Jayapura|kolonial|1910–1962|jayapura,hollandia,kota|18
+batam-industri|Batam dan Kawasan Industri|merdeka|1970–kini|batam,industri,kota|25
+banda-neira|Banda Neira|kolonial|1621–kini|banda,rempah,kota|14
+pecinan-kota|Pecinan di Kota Indonesia|kolonial|1740–kini|pecinan,tionghoa,kota|14
+becak|Becak|kolonial|1930–kini|becak,transportasi,kota|17
+bus-kota|Bus Kota|merdeka|1950–kini|bus,transportasi,kota|24
+mal-dan-pusat-belanja|Mal dan Pusat Belanja|merdeka|1980–kini|mal,belanja,kota|25
+jabotabek|Jabotabek|merdeka|1970–kini|jabotabek,jakarta,urbanisasi|25
+kampung-improvement-program|Kampung Improvement Program|merdeka|1969–1990|kampung,perumahan,kota|25
+rob-semarang|Rob Semarang|merdeka|1990–kini|rob,semarang,banjir|26
+permukiman-kumuh|Permukiman Kumuh|kolonial|1900–kini|kumuh,perumahan,kota|18
+pencakar-langit-jakarta|Pencakar Langit Jakarta|merdeka|1990–kini|gedung,jakarta,kota|26
+kawasan-industri-jababeka|Kawasan Industri Jababeka|merdeka|1989–kini|industri,jababeka,kota|25
+
+## E. Batas wilayah, laut, dan pulau terluar (15)
+deklarasi-djuanda-1957|Deklarasi Djuanda 1957|merdeka|1957|djuanda,laut,teritorial|24
+tzmko-1939|TZMKO 1939|kolonial|1939|laut,kolonial,teritorial|19
+unclos-1982|UNCLOS 1982 dan Indonesia|merdeka|1982|laut,hukum,unclos|25
+alki|Alur Laut Kepulauan Indonesia|merdeka|1996–kini|alki,laut,pelayaran|25
+landas-kontinen-1969|Landas Kontinen 1969|merdeka|1969|laut,landas,kontinen|25
+batas-laut-selat-malaka|Batas Laut Selat Malaka|merdeka|1971|laut,malaka,batas|25
+batas-laut-australia|Batas Laut Indonesia-Australia|merdeka|1971–1997|laut,australia,batas|25
+celah-timor|Celah Timor|merdeka|1989–2019|timor,laut,minyak|25
+sipadan-ligitan|Sipadan dan Ligitan|merdeka|1998–2002|sipadan,ligitan,batas|26
+pulau-batek|Pulau Batek|merdeka|2002|batek,timor,batas|26
+pulau-miangas|Pulau Miangas|kolonial|1928|miangas,batas,palmas|19
+pulau-marore|Pulau Marore|merdeka|2000–kini|marore,perbatasan,laut|26
+pulau-sebatik|Pulau Sebatik|merdeka|1973–kini|sebatik,batas,kalimantan|25
+batas-darat-kalimantan|Batas Darat Kalimantan|merdeka|1973–kini|batas,kalimantan,malaysia|25
+batas-ri-png|Batas RI-Papua Nugini|merdeka|1979–kini|batas,papua,png|25
+
+## F. Tokoh perempuan Indonesia (15)
+cut-meutia|Cut Meutia|kolonial|1899–1910|aceh,perempuan,perang|16
+pocut-baren|Pocut Baren|kolonial|1900–1910|aceh,perempuan,perang|16
+ratu-kalinyamat|Ratu Kalinyamat|kerajaan|1540–1579|jepara,perempuan,laut|13
+safiatuddin-tajul-alam|Sultanah Safiatuddin|kerajaan|1641–1675|aceh,perempuan,sultanah|13
+ratu-zaleha|Ratu Zaleha|kolonial|1905–1912|banjar,perempuan,perang|16
+nyi-ageng-serang|Nyi Ageng Serang|kolonial|1825–1828|jawa,perempuan,perang|16
+lasminingrat|Raden Lasminingrat|kolonial|1875–1912|pendidikan,perempuan,sunda|17
+rohana-kudus|Rohana Kudus|kolonial|1911–1930|jurnalisme,perempuan,minang|17
+siti-walidah|Siti Walidah|kolonial|1917–1946|muhammadiyah,perempuan,pendidikan|17
+maria-walanda-maramis|Maria Walanda Maramis|kolonial|1917–1924|minahasa,perempuan,pendidikan|17
+martha-christina-tiahahu|Martha Christina Tiahahu|kolonial|1817–1818|maluku,perempuan,perang|15
+trimurti|S.K. Trimurti|merdeka|1946–1966|perempuan,jurnalis,buruh|24
+herawati-diah|Herawati Diah|merdeka|1945–1960|perempuan,jurnalis,pers|23
+emma-poeradiredja|Emma Poeradiredja|kolonial|1929–1945|perempuan,politik,sunda|17
+ibu-soed|Ibu Soed|merdeka|1945–1960|musik,perempuan,pendidikan|24
+
+## G. Agama, pluralisme, dan lembaga keagamaan (15)
+al-irsyad|Al-Irsyad|kolonial|1914–1942|islam,pendidikan,arab|17
+persis|Persatuan Islam|kolonial|1923–1942|islam,reformis,organisasi|17
+al-washliyah|Al-Washliyah|kolonial|1930–1942|islam,sumatra,organisasi|17
+nahdlatul-wathan|Nahdlatul Wathan|merdeka|1953–kini|lombok,islam,pesantren|24
+mui-1975|Majelis Ulama Indonesia|merdeka|1975–kini|ulama,fatwa,negara|25
+kementerian-agama-1946|Kementerian Agama 1946|merdeka|1946–kini|agama,negara,birokrasi|23
+pengadilan-agama|Pengadilan Agama|kolonial|1882–kini|hukum,islam,peradilan|17
+pgi-1950|PGI 1950|merdeka|1950–kini|protestan,gereja,organisasi|24
+kwi-1973|KWI 1973|merdeka|1973–kini|katolik,uskup,organisasi|25
+parisada|Parisada Hindu Dharma|merdeka|1959–kini|hindu,bali,organisasi|24
+matakin|Matakin|merdeka|1955–kini|konghucu,tionghoa,organisasi|24
+kaharingan|Kaharingan|merdeka|1980–kini|kaharingan,kalimantan,agama|25
+marapu|Marapu|merdeka|1980–kini|marapu,sumba,agama|25
+sunda-wiwitan|Sunda Wiwitan|merdeka|1911–kini|sunda,agama,adat|26
+haji-indonesia|Penyelenggaraan Haji|kolonial|1850–kini|haji,islam,kolonial|17
+
+## H. Pangan, pertanian, dan teknologi pangan (15)
+padi-dan-sawah|Padi dan Sawah|kerajaan|abad ke-8–kini|padi,sawah,irigasi|12
+jagung-di-indonesia|Jagung di Indonesia|kolonial|abad ke-16–kini|jagung,pangan,pertanian|14
+susu-dan-peternakan|Susu dan Peternakan Sapi|kolonial|1900–kini|susu,sapi,peternakan|18
+singkong-dan-ketela|Singkong dan Ketela|kolonial|1860–kini|singkong,ketela,pangan|17
+kedelai-dan-tempe|Kedelai dan Tempe|kolonial|abad ke-17–kini|kedelai,tempe,pangan|14
+bawang-merah|Bawang Merah|merdeka|1970–kini|bawang,hortikultura,harga|25
+pestisida-dan-hama|Pestisida dan Hama|merdeka|1968–kini|pestisida,hama,pertanian|25
+ayam-ras|Ayam Ras|merdeka|1980–kini|ayam,peternakan,industri|25
+kakao-sulawesi|Kakao Sulawesi|kolonial|1900–kini|kakao,sulawesi,ekspor|18
+terigu-dan-gandum|Terigu dan Gandum Impor|kolonial|1900–kini|terigu,gandum,impor|18
+mi-instan-indonesia|Mi Instan Indonesia|merdeka|1969–kini|mi,instan,industri|25
+fermentasi-pangan|Fermentasi Pangan|kerajaan|abad ke-16–kini|fermentasi,tempe,pangan|13
+pengalengan-ikan|Pengalengan Ikan|kolonial|1870–kini|ikan,kaleng,industri|17
+raskin-1998|Raskin 1998–2016|merdeka|1998–2016|beras,raskin,sosial|26
+mekanisasi-pertanian|Mekanisasi Pertanian|merdeka|1950–kini|traktor,pertanian,teknologi|24
+
+## I. Sejarah kabupaten dan kota di Jawa (bagian 1)
+sejarah-kabupaten-banyumas|Sejarah Kabupaten Banyumas|kerajaan|abad ke-16–kini|banyumas,daerah,sejarah|16
+sejarah-kabupaten-kedu|Sejarah Kabupaten Kedu|kerajaan|abad ke-8–kini|kedu,daerah,sejarah|13
+sejarah-kabupaten-magelang|Sejarah Kabupaten Magelang|kerajaan|abad ke-8–kini|magelang,daerah,sejarah|13
+sejarah-kabupaten-purworejo|Sejarah Kabupaten Purworejo|kolonial|1794–kini|purworejo,daerah,sejarah|16
+sejarah-kabupaten-kebumen|Sejarah Kabupaten Kebumen|kolonial|1830–kini|kebumen,daerah,sejarah|16
+sejarah-kabupaten-cilacap|Sejarah Kabupaten Cilacap|kolonial|1830–kini|cilacap,daerah,sejarah|16
+sejarah-kabupaten-tegal|Sejarah Kabupaten Tegal|kolonial|1600–kini|tegal,daerah,sejarah|16
+sejarah-kabupaten-pekalongan|Sejarah Kabupaten Pekalongan|kolonial|1622–kini|pekalongan,daerah,sejarah|16
+sejarah-kabupaten-brebes|Sejarah Kabupaten Brebes|kolonial|1600–kini|brebes,daerah,sejarah|16
+sejarah-kabupaten-pati|Sejarah Kabupaten Pati|kerajaan|abad ke-13–kini|pati,daerah,sejarah|13
+sejarah-kabupaten-jepara|Sejarah Kabupaten Jepara|kerajaan|abad ke-15–kini|jepara,daerah,sejarah|13
+sejarah-kabupaten-kudus|Sejarah Kabupaten Kudus|kerajaan|abad ke-15–kini|kudus,daerah,sejarah|13
+sejarah-kabupaten-demak|Sejarah Kabupaten Demak|kerajaan|abad ke-15–kini|demak,daerah,sejarah|13
+sejarah-kabupaten-rembang|Sejarah Kabupaten Rembang|kerajaan|abad ke-15–kini|rembang,daerah,sejarah|15
+sejarah-kabupaten-blora|Sejarah Kabupaten Blora|kolonial|1720–kini|blora,daerah,sejarah|16
+
+## J. Sejarah kabupaten dan kota di Jawa (bagian 2)
+sejarah-kabupaten-sragen|Sejarah Kabupaten Sragen|kerajaan|abad ke-18–kini|sragen,daerah,sejarah|16
+sejarah-kabupaten-karanganyar|Sejarah Kabupaten Karanganyar|kerajaan|abad ke-18–kini|karanganyar,daerah,sejarah|16
+sejarah-kabupaten-wonogiri|Sejarah Kabupaten Wonogiri|kerajaan|abad ke-18–kini|wonogiri,daerah,sejarah|16
+sejarah-kabupaten-klaten|Sejarah Kabupaten Klaten|kerajaan|abad ke-8–kini|klaten,daerah,sejarah|13
+sejarah-kabupaten-boyolali|Sejarah Kabupaten Boyolali|kerajaan|abad ke-18–kini|boyolali,daerah,sejarah|16
+sejarah-kabupaten-sukoharjo|Sejarah Kabupaten Sukoharjo|kerajaan|abad ke-18–kini|sukoharjo,daerah,sejarah|16
+sejarah-kabupaten-sidoarjo|Sejarah Kabupaten Sidoarjo|kerajaan|abad ke-13–kini|sidoarjo,daerah,sejarah|13
+sejarah-kabupaten-gresik|Sejarah Kabupaten Gresik|kerajaan|abad ke-14–kini|gresik,daerah,sejarah|13
+sejarah-kabupaten-mojokerto|Sejarah Kabupaten Mojokerto|kerajaan|abad ke-13–kini|mojokerto,daerah,sejarah|13
+sejarah-kabupaten-jombang|Sejarah Kabupaten Jombang|kerajaan|abad ke-13–kini|jombang,daerah,sejarah|13
+sejarah-kabupaten-kediri|Sejarah Kabupaten Kediri|kerajaan|abad ke-11–kini|kediri,daerah,sejarah|13
+sejarah-kabupaten-blitar|Sejarah Kabupaten Blitar|kerajaan|abad ke-12–kini|blitar,daerah,sejarah|13
+sejarah-kabupaten-malang|Sejarah Kabupaten Malang|kerajaan|abad ke-12–kini|malang,daerah,sejarah|13
+sejarah-kabupaten-pasuruan|Sejarah Kabupaten Pasuruan|kerajaan|abad ke-13–kini|pasuruan,daerah,sejarah|14
+sejarah-kabupaten-probolinggo|Sejarah Kabupaten Probolinggo|kerajaan|abad ke-13–kini|probolinggo,daerah,sejarah|14
+
+## K. Sejarah kabupaten dan kota di Jawa (bagian 3)
+sejarah-kabupaten-sumenep|Sejarah Kabupaten Sumenep|kerajaan|abad ke-13–kini|sumenep,daerah,sejarah|13
+sejarah-kabupaten-bangkalan|Sejarah Kabupaten Bangkalan|kerajaan|abad ke-15–kini|bangkalan,daerah,sejarah|13
+sejarah-kabupaten-sampang|Sejarah Kabupaten Sampang|kerajaan|abad ke-15–kini|sampang,daerah,sejarah|14
+sejarah-kabupaten-pamekasan|Sejarah Kabupaten Pamekasan|kerajaan|abad ke-15–kini|pamekasan,daerah,sejarah|14
+sejarah-kabupaten-garut|Sejarah Kabupaten Garut|kolonial|1813–kini|garut,daerah,sejarah|17
+sejarah-kabupaten-tasikmalaya|Sejarah Kabupaten Tasikmalaya|kolonial|1800–kini|tasikmalaya,daerah,sejarah|17
+sejarah-kabupaten-ciamis|Sejarah Kabupaten Ciamis|kerajaan|abad ke-17–kini|ciamis,daerah,sejarah|16
+sejarah-kabupaten-sumedang|Sejarah Kabupaten Sumedang|kerajaan|abad ke-16–kini|sumedang,daerah,sejarah|16
+sejarah-kabupaten-majalengka|Sejarah Kabupaten Majalengka|kerajaan|abad ke-16–kini|majalengka,daerah,sejarah|16
+sejarah-kabupaten-kuningan|Sejarah Kabupaten Kuningan|kerajaan|abad ke-15–kini|kuningan,daerah,sejarah|16
+sejarah-kabupaten-indramayu|Sejarah Kabupaten Indramayu|kolonial|1600–kini|indramayu,daerah,sejarah|16
+sejarah-kabupaten-subang|Sejarah Kabupaten Subang|kolonial|1700–kini|subang,daerah,sejarah|17
+sejarah-kabupaten-purwakarta|Sejarah Kabupaten Purwakarta|kolonial|1830–kini|purwakarta,daerah,sejarah|17
+sejarah-kabupaten-karawang|Sejarah Kabupaten Karawang|kolonial|1600–kini|karawang,daerah,sejarah|16
+sejarah-kabupaten-bekasi|Sejarah Kabupaten Bekasi|kolonial|1750–kini|bekasi,daerah,sejarah|17

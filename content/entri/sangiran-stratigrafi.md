@@ -43,7 +43,7 @@ Sangiran 17 ditemukan warga, bukan tim arkeologi, dan berpindah tangan sebelum d
 
 Umur lapisan bawah adalah pertengkaran tertua di paleoantropologi Asia. Penanggalan argon atas pumis memberi 1,66 juta tahun, dan angka itu dipakai buku teks selama dua dekade. Masalahnya, butir vulkanik bisa terlontar dari letusan yang jauh lebih tua daripada endapan yang menampungnya.
 
-Pada 2020, Masayuki Matsu'ura dan timnya memakai dua jam mineral sekaligus pada butir zirkon dari lapisan itu, yaitu fission-track dan uranium-lead; kesimpulannya, hominin paling mungkin sudah ada 1,3 juta tahun lalu. Pada 2022, tim Laurent Husson memakai nuklida kosmogenik pada endapan sungai dan mendapat 1,8 juta tahun. Kedua metode mengukur hal berbeda — butir mineral versus laju erosi permukaan — sehingga tidak bisa dibandingkan langsung. Sampai sekarang belum ada angka yang disepakati bersama.
+Pada 2020, Masayuki Matsu'ura dan timnya memakai dua jam mineral sekaligus pada butir zirkon dari lapisan itu, yaitu fission-track dan uranium-lead; dari situ mereka menyimpulkan bahwa hominin paling mungkin sudah ada 1,3 juta tahun lalu. Pada 2022, tim Laurent Husson memakai nuklida kosmogenik pada endapan sungai dan mendapat 1,8 juta tahun. Kedua metode mengukur hal berbeda — butir mineral versus laju erosi permukaan — sehingga tidak bisa dibandingkan langsung. Sampai sekarang belum ada angka yang disepakati bersama.
 
 ## Magnet 0,78 juta tahun
 

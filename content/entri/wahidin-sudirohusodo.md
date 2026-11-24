@@ -28,7 +28,7 @@ Yang membuat gagasan itu masuk akal bagi kalangan priyayi adalah batasnya. Dana 
 
 Antara 1906 dan 1907, Wahidin berkeliling Jawa dengan kereta dan kereta api, dari Yogyakarta ke Semarang, Surabaya, Malang, dan Batavia. Ia menghadap bupati, mengunjungi sekolah, dan berbicara di pertemuan-pertemuan kecil. Tanggapan yang ia terima umumnya sopan dan tipis: banyak yang setuju, sedikit yang memberi uang.
 
-Kegagalan itu penting untuk dicatat, karena ia menunjukkan bahwa pada 1907 belum ada jaringan organisasi yang bisa mengubah simpati menjadi dana. Hindia belum punya partai, belum punya serikat pekerja, dan belum punya pers Melayu yang luas. Yang ada adalah lingkaran priyayi, sekolah, dan surat kabar kecil.
+Kegagalan itu perlu dicatat, karena ia menunjukkan bahwa pada 1907 belum ada jaringan organisasi yang bisa mengubah simpati menjadi dana. Hindia belum punya partai, belum punya serikat pekerja, dan belum punya pers Melayu yang luas. Yang ada adalah lingkaran priyayi, sekolah, dan surat kabar kecil.
 
 :::note
 Wahidin bukan pendiri Budi Utomo. Ia menyampaikan gagasan tentang perlunya organisasi untuk memajukan pendidikan, dan para murid STOVIA yang merumuskan bentuk, nama, serta kepengurusannya.

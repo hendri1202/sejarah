@@ -1,0 +1,110 @@
+# Gelombang 7 — 105 entri
+# format: id|title|era|years|tags|chapter
+
+## A. Perdagangan maritim dan jalur rempah (15)
+jalur-rempah|Jalur Rempah|kerajaan|abad ke-1–kini|rempah,dagang,laut|12
+selat-malaka|Selat Malaka|kerajaan|abad ke-7–kini|selat,dagang,maritim|12
+pelabuhan-banten|Pelabuhan Banten|kerajaan|abad ke-16–kini|pelabuhan,banten,dagang|14
+sunda-kelapa|Sunda Kelapa|kerajaan|abad ke-12–kini|pelabuhan,jakarta,dagang|14
+makassar-maritim|Makassar dan Perdagangan|kerajaan|abad ke-16–kini|makassar,dagang,laut|14
+maluku-rempah|Kepulauan Rempah Maluku|kerajaan|abad ke-15–kini|rempah,maluku,dagang|14
+gujarat-nusantara|Pedagang Gujarat|kerajaan|abad ke-13–kini|dagang,gujarat,islam|12
+tiongkok-nusantara|Pelayaran Tiongkok|kerajaan|abad ke-5–kini|tiongkok,dagang,laut|12
+arab-nusantara|Pelayaran Arab|kerajaan|abad ke-8–kini|arab,dagang,islam|12
+portugis-malaka|Portugis di Malaka|kerajaan|1511–1641|portugis,malaka,perang|14
+spanyol-maluku|Spanyol di Maluku|kerajaan|1521–1663|spanyol,maluku,rempah|14
+inggris-nusantara|Inggris di Nusantara|kolonial|1600–1824|inggris,dagang,kolonial|14
+kapal-voc|Kapal VOC|kolonial|1602–1799|kapal,voc,laut|14
+pelabuhan-surabaya|Pelabuhan Surabaya|kolonial|1700–kini|pelabuhan,surabaya,kolonial|17
+pelabuhan-makassar|Pelabuhan Makassar|kolonial|1669–kini|pelabuhan,makassar,kolonial|14
+
+## B. Ekonomi kolonial dan komoditas (15)
+kebun-kopi-rakyat|Kebun Kopi Rakyat|kolonial|1900–kini|kopi,rakyat,perkebunan|17
+gula-pasuruan|Gula Pasuruan|kolonial|1830–1930|gula,pabrik,jawa|15
+tambang-batu-bara|Tambang Batu Bara|kolonial|1849–kini|batu-bara,tambang,ometan|15
+minyak-sumatra|Minyak Sumatra|kolonial|1884–kini|minyak,sumatra,tambang|17
+karet-nusantara|Karet dan Perkebunan|kolonial|1900–kini|karet,perkebunan,ekspor|17
+teh-puncak|Teh Puncak|kolonial|1826–kini|teh,perkebunan,jawa-barat|15
+lada-lampung|Lada Lampung|kolonial|1850–kini|lada,lampung,dagang|15
+cengkeh-maluku|Cengkeh Maluku|kerajaan|abad ke-15–kini|cengkeh,maluku,rempah|14
+pala-banda|Pala Banda|kolonial|1600–kini|pala,banda,rempah|14
+kopra-sulawesi|Kopra Sulawesi|kolonial|1900–kini|kopra,sulawesi,ekspor|17
+sagu-papua|Sagu Papua|kolonial|1900–kini|sagu,papua,pangan|18
+rotan-kalimantan|Rotan Kalimantan|kolonial|1900–kini|rotan,kalimantan,hutan|17
+opium-hindia|Opium di Hindia|kolonial|1800–1940|opium,dagang,kebijakan|16
+kereta-gula|Kereta Api Gula|kolonial|1870–1930|kereta,gula,jawa|15
+perkebunan-tebu|Perkebunan Tebu|kolonial|1830–kini|tebu,gula,perkebunan|15
+
+## C. Militer dan konflik pasca-1945 (15)
+pertempuran-magelang|Pertempuran Magelang|merdeka|1945|perang,1945,magelang|23
+santa-cruz-1991|Peristiwa Santa Cruz|merdeka|1991|timor,1991,kekerasan|25
+kerusuhan-situbondo-1996|Kerusuhan Situbondo 1996|merdeka|1996|kerusuhan,jawa-timur,1996|25
+operasi-madago|Operasi Madago Raya|merdeka|2016–kini|militer,terorisme,sulawesi|26
+
+## D. Politik elektoral dan partai (15)
+kabinet-parlementer|Kabinet Parlementer|merdeka|1945–1959|pemerintahan,parlemen,1950|24
+pembubaran-partai-1960|Pembubaran Partai 1960|merdeka|1960|politik,partai,sukarno|24
+sistem-parlementer|Sistem Parlementer Indonesia|merdeka|1945–1959|pemerintahan,parlemen,hukum|24
+peristiwa-27-juli-1996|Peristiwa 27 Juli 1996|merdeka|1996|politik,pdi,1996|25
+fusi-partai|Fusi Partai 1973|merdeka|1973|partai,politik,1973|25
+pemilu-1999|Pemilu 1999|merdeka|1999|pemilu,1999,reformasi|25
+koalisi-partai|Koalisi Partai|merdeka|1999–kini|partai,koalisi,politik|26
+pemilu-2014|Pemilu 2014|merdeka|2014|pemilu,2014,politik|26
+pemilu-2019|Pemilu 2019|merdeka|2019|pemilu,2019,politik|26
+pemilu-2024|Pemilu 2024|merdeka|2024|pemilu,2024,politik|26
+pilkada-langsung|Pilkada Langsung|merdeka|2005–kini|pilkada,otonomi,politik|26
+ormas-politik|Organisasi Massa dan Politik|merdeka|1945–kini|ormas,politik,masyarakat|24
+pdi-p|PDI Perjuangan|merdeka|1973–kini|partai,pdi,reformasi|25
+pks|PKS dan Partai Islam|merdeka|1998–kini|partai,islam,politik|26
+partai-politik|Partai Politik Indonesia|merdeka|1945–kini|partai,politik,sejarah|24
+
+## E. Hukum dan konstitusi (15)
+bpupki|BPUPKI|jepang|1945|konstitusi,jepang,1945|22
+ppki|PPKI|jepang|1945|konstitusi,1945,ppki|22
+piagam-jakarta|Piagam Jakarta|jepang|1945|konstitusi,1945,islam|22
+konferensi-meja-bundar|Konferensi Meja Bundar|merdeka|1949|diplomasi,1949,kmb|24
+desentralisasi-otonomi|Desentralisasi dan Otonomi Daerah|merdeka|1945–kini|otonomi,daerah,pemerintahan|26
+peradilan-pidana|Peradilan Pidana Indonesia|kolonial|1918–kini|hukum,pidana,peradilan|26
+kuhp|KUHP dan RUU Baru|kolonial|1918–kini|hukum,kuhp,kolonial|26
+kuhap|KUHAP|merdeka|1981–kini|hukum,acara,1981|25
+hukum-adat|Hukum Adat|kolonial|1800–kini|hukum,adat,masyarakat|17
+peradilan-agama|Peradilan Agama|kolonial|1882–kini|hukum,islam,peradilan|17
+komisi-pemberantasan-korupsi|Komisi Pemberantasan Korupsi|merdeka|2002–kini|hukum,korupsi,lembaga|26
+korupsi-indonesia|Sejarah Korupsi Indonesia|merdeka|1950–kini|korupsi,hukum,politik|25
+ham-indonesia|HAM dan Pengadilan|merdeka|1998–kini|ham,hukum,reformasi|25
+
+## F. Media dan teknologi (15)
+musik-dangdut|Musik Dangdut|merdeka|1968–kini|musik,dangdut,budaya|25
+perfilman-1970an|Perfilman 1970-an|merdeka|1970–1980|film,hiburan,budaya|25
+iklan-televisi|Iklan Televisi|merdeka|1989–kini|iklan,televisi,media|25
+e-commerce-indonesia|E-commerce Indonesia|merdeka|2010–kini|ekonomi,digital,niaga|26
+game-online-indonesia|Game Online Indonesia|merdeka|2000–kini|game,digital,hiburan|26
+kartu-prabayar|Kartu Prabayar|merdeka|1994–kini|telekomunikasi,seluler,industri|26
+hoaks-indonesia|Hoaks dan Disinformasi|merdeka|2014–kini|media,hoaks,politik|26
+bioskop-indonesia|Bioskop Indonesia|kolonial|1900–kini|bioskop,film,hiburan|17
+film-indonesia|Film Indonesia|kolonial|1926–kini|film,hiburan,budaya|17
+musik-indonesia|Musik Indonesia|merdeka|1950–kini|musik,budaya,industri|25
+fotografi-indonesia|Fotografi Indonesia|kolonial|1840–kini|foto,media,teknologi|17
+satelit-indonesia|Satelit Indonesia|merdeka|1976–kini|satelit,teknologi,komunikasi|24
+penyiaran|Penyiaran dan Frekuensi|merdeka|1945–kini|penyiaran,media,kebijakan|25
+pers-digital|Pers Digital|merdeka|2010–kini|pers,digital,media|26
+komputer-indonesia|Komputer di Indonesia|merdeka|1970–kini|komputer,teknologi,1980|25
+
+## G. Olahraga dan hiburan (15)
+pssi|PSSI|kolonial|1930–kini|sepakbola,pssi,olahraga|17
+olahraga-tradisional|Olahraga Tradisional|kerajaan|abad ke-15–kini|olahraga,tradisi,budaya|11
+thomas-cup|Thomas Cup|merdeka|1949–kini|bulutangkis,thomas-cup,olahraga|24
+bulutangkis-indonesia|Bulutangkis Indonesia|merdeka|1950–kini|bulutangkis,olahraga,juara|25
+gelora-bung-karno|Gelora Bung Karno|merdeka|1962–kini|stadion,jakarta,olahraga|24
+sea-games|SEA Games|merdeka|1977–kini|olahraga,sea-games,asean|25
+sepakbola-timnas|Timnas Sepak Bola|merdeka|1950–kini|sepakbola,timnas,olahraga|26
+liga-sepakbola|Liga Sepak Bola Indonesia|merdeka|1994–kini|sepakbola,liga,industri|26
+tinju-indonesia|Tinju Indonesia|merdeka|1960–kini|tinju,olahraga,juara|25
+voli-indonesia|Bola Voli Indonesia|merdeka|1950–kini|voli,olahraga,prestasi|25
+pbsi|PBSI|merdeka|1951–kini|bulutangkis,pbsi,organisasi|24
+pekan-olahraga-nasional|Pekan Olahraga Nasional|jepang|1948–kini|olahraga,pon,1948|23
+motorsport-indonesia|Balap Indonesia|merdeka|1960–kini|balap,olahraga,sirkuit|26
+esports|Esports Indonesia|merdeka|2010–kini|esports,olahraga,digital|26
+hiburan-rakyat|Hiburan Rakyat|kolonial|1800–kini|hiburan,tradisi,budaya|17
+peradilan-tata-usaha-negara|Peradilan Tata Usaha Negara|merdeka|1986–kini|hukum,administrasi,peradilan|25
+pengadilan-tipikor|Pengadilan Tipikor|merdeka|2002–kini|hukum,korupsi,peradilan|26

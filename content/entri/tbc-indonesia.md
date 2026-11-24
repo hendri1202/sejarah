@@ -49,6 +49,8 @@ Satu pasien tuberkulosis aktif dapat menularkan kepada 10 sampai 15 orang per ta
 
 Pemeriksaan dahak di mikroskop masih dipakai di banyak puskesmas, meskipun sensitivitasnya rendah. Alat pemeriksaan molekuler cepat (TCM) sudah tersebar, tetapi tidak semua kabupaten punya, dan biaya per pemeriksaan menjadi kendala. Pemeriksaan rontgen dada membantu, tetapi tidak bisa memastikan diagnosis tanpa konfirmasi laboratorium.
 
+Ambang deteksi menjelaskan sebagian persoalan itu. Mikroskop baru menemukan basil jika jumlahnya sekitar 10.000 per mililiter dahak, sedangkan pemeriksaan molekuler menangkap sekitar 100 salinan DNA per mililiter. Pasien dengan beban kuman rendah, termasuk banyak kasus pada anak dan penderita HIV, sering dinyatakan negatif oleh mikroskop padahal menularkan.
+
 Keterlambatan diagnosis membuat pasien datang dengan kerusakan paru berat, dan membuat rantai penularan berlanjut di rumah dan tempat kerja. Di permukiman padat, satu pasien bisa menulari tetangga satu gang. Di perkantoran, satu karyawan bisa menulari rekan satu lantai.
 
 Rumah tahanan dan lembaga pemasyarakatan menjadi titik panas yang jarang dibicarakan. Sel yang sempit, ventilasi buruk, dan penghuni yang datang-pergi membuat penularan cepat. Pemeriksaan massal di lapas sudah dilakukan di beberapa daerah, tetapi pengobatan berkelanjutan sulit dijamin ketika penghuni dipindahkan atau dibebaskan.

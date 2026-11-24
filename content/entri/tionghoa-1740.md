@@ -38,7 +38,7 @@ Pada 7 Oktober, beberapa ratus orang Tionghoa ditangkap dan rumah-rumah mereka d
 
 Pembantaian dimulai pada 9 Oktober dan berlangsung sampai 22 Oktober. Serdadu VOC mengepung Pecinan, membakar rumah, dan membunuh penghuninya. Orang Tionghoa yang melarikan diri ke luar kota dikejar oleh kelompok bersenjata yang dibentuk pemerintah, termasuk budak dan penduduk pribumi yang diberi janji upah.
 
-Beberapa pejabat VOC mencoba menghentikan pembantaian. Salah satunya adalah anggota Dewan Hindia yang menolak menandatangani perintah, dan beberapa orang Eropa menyembunyikan tetangga Tionghoa di rumah mereka. Tetapi perintah sudah keluar, dan tidak ada yang bisa menariknya kembali sampai Valckenier sendiri menghentikannya pada akhir Oktober.
+Beberapa pejabat VOC mencoba menghentikan pembantaian. Salah satunya adalah anggota Dewan Hindia yang menolak menandatangani perintah, dan beberapa orang Eropa menyembunyikan tetangga Tionghoa di rumah mereka. Tetapi perintah sudah keluar, dan tidak ada yang bisa membatalkannya sampai Valckenier sendiri menghentikannya pada akhir Oktober.
 
 Angka korban berbeda-beda. Laporan VOC menyebut sekitar 5.000; sumber Tionghoa dan sejarawan kemudian menyebut sampai 10.000. Yang tidak diperdebatkan adalah proporsinya: sebagian besar penduduk Tionghoa Batavia tewas dalam waktu kurang dari dua minggu.
 

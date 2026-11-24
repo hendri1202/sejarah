@@ -51,7 +51,7 @@ Bunga utang menjadi beban yang tumbuh. Ketika utang pemerintah mendekati 40 pers
 
 Beban pajak tidak tersebar merata. Pekerja formal membayar pajak penghasilan melalui pemotongan gaji, sementara pekerja informal dan pemilik usaha kecil sering tidak membayar apa pun. Konsumen membayar PPN, yang sifatnya regresif karena mengambil porsi lebih besar dari pendapatan orang miskin.
 
-Di sisi lain, kekayaan besar di Indonesia sering kali tidak terpajak secara proporsional. Pajak properti dinilai berdasarkan nilai jual objek pajak yang jauh di bawah harga pasar, dan keuntungan dari penjualan aset — tanah, saham, obligasi — hanya dikenai pajak final yang rendah, bukan tarif progresif.
+Kekayaan besar di Indonesia sering kali tidak terpajak secara proporsional. Pajak properti dinilai berdasarkan nilai jual objek pajak yang jauh di bawah harga pasar, dan keuntungan dari penjualan aset — tanah, saham, obligasi — hanya dikenai pajak final yang rendah, bukan tarif progresif.
 
 > Negara ini memungut pajak dari orang yang tidak bisa menghindarinya, dan berutang kepada orang yang bisa.
 

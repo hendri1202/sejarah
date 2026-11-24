@@ -55,4 +55,6 @@ Harapan itu belum terbukti. Pabrik baterai membutuhkan waktu dan modal besar, da
 
 Industri otomotif menghadapi tiga tekanan sekaligus: persaingan ekspor yang ketat, peralihan teknologi yang tidak pasti, dan pasar domestik yang datar. Thailand sudah lebih dulu menjadi pusat produksi kendaraan listrik di Asia Tenggara, dengan insentif yang lebih agresif. Vietnam memiliki produsen nasional yang mulai mengekspor. Indonesia masih bergantung pada merek Jepang yang memindahkan model ke negara dengan biaya lebih rendah.
 
+Angka 2024 memperlihatkan arah sebaliknya. Penjualan wholesales turun 14 persen menjadi 865.723 unit, sementara produksi tetap di atas satu juta unit karena sebagian dialihkan ke ekspor. Penurunan itu terjadi ketika suku bunga tinggi dan daya beli kelas menengah melemah; produsen merespons dengan diskon besar dan pemotongan shift. Ekspor menjadi katup penyelamat, tetapi tidak cukup menutup selisih kapasitas pabrik.
+
 Yang belum terjawab adalah apakah Indonesia bisa naik dari perakit menjadi pengembang. Tanpa kemampuan desain dan rekayasa, nilai tambah terbesar tetap berada di luar negeri. Program mobil nasional gagal, LCGC berhasil di pasar tetapi tidak di teknologi, dan kendaraan listrik belum jelas apakah akan mengulang pola yang sama.

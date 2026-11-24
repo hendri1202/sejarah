@@ -43,7 +43,7 @@ Sebelum program 35.000 megawatt, pemerintah sudah menjalankan program percepatan
 
 Pada 2015, pemerintah meluncurkan program pembangkit 35.000 megawatt, dengan syarat sekitar 10 persen berasal dari energi terbarukan. Sebagian besar sisanya adalah PLTU batu bara, karena biayanya paling murah dan bisa dibangun cepat. Dalam lima tahun, kapasitas terpasang melonjak, dan pada 2020-an Jawa memasuki kondisi kelebihan pasokan.
 
-Kelebihan itu punya harga. PLN tetap harus membayar daya dari pembangkit swasta yang tidak dipakai, sementara permintaan listrik tumbuh lebih lambat dari perkiraan karena pandemi dan karena industri padat energi tidak tumbuh secepat proyeksi. Di sisi lain, daerah seperti Nusa Tenggara Timur, Maluku, dan sebagian Papua masih mengalami pemadaman karena jaringan dan pembangkitnya terbatas.
+Kelebihan itu punya harga. PLN tetap harus membayar daya dari pembangkit swasta yang tidak dipakai, sementara permintaan listrik tumbuh lebih lambat dari perkiraan karena pandemi dan karena industri padat energi tidak tumbuh secepat proyeksi. Sementara itu, daerah seperti Nusa Tenggara Timur, Maluku, dan sebagian Papua masih mengalami pemadaman karena jaringan dan pembangkitnya terbatas.
 
 :::note
 Kapasitas nasional 2024 sekitar 75,9 gigawatt, tetapi 46.833 megawatt di antaranya milik PLN Group dan hampir 70 persen berada di Jawa. Rasio elektrifikasi 99,83 persen tidak berarti pasokan merata.

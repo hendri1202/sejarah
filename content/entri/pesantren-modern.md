@@ -49,7 +49,7 @@ Sampai 1990-an, pesantren modern hampir seluruhnya laki-laki. Gontor membuka kam
 
 Perubahan itu tidak hanya soal jumlah. Kehadiran santri perempuan memaksa pesantren membicarakan hal yang sebelumnya tidak dibicarakan: kesehatan reproduksi, perkawinan, dan kerja perempuan di luar rumah. Sebagian pesantren menjawab dengan kajian fikih perempuan; sebagian lain membatasinya pada keterampilan rumah tangga.
 
-Wakaf itu menyelesaikan satu masalah dan menciptakan masalah lain. Di satu sisi, pesantren tidak bisa dijual atau diwariskan, sehingga tetap utuh ketika pendirinya wafat. Di sisi lain, kekuasaan berpindah kepada dewan pengasuh, dan dewan itu bisa berselisih tentang siapa yang berhak menafsirkan garis pendiri.
+Wakaf itu menyelesaikan satu masalah dan menciptakan masalah lain. Di satu sisi, pesantren tidak bisa dijual atau diwariskan, sehingga tetap utuh ketika pendirinya wafat. Kekuasaan kemudian berpindah kepada dewan pengasuh, dan dewan itu bisa berselisih tentang siapa yang berhak menafsirkan garis pendiri.
 
 Di pesantren yang tidak memakai wakaf, masalahnya sebaliknya. Anak kiai mewarisi tanah dan santri, dan ketika ahli warisnya berselisih, pesantren pecah menjadi dua atau tiga. Di Jawa, banyak pesantren besar yang sekarang berdiri berdampingan berasal dari perpecahan keluarga semacam itu.
 

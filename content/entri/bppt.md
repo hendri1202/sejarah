@@ -29,7 +29,7 @@ Tugas BPPT adalah mengkaji masalah teknologi secara menyeluruh, lalu menerapkann
 
 Struktur itu memberi BPPT posisi yang tidak biasa. Ia bukan universitas yang menghasilkan publikasi, bukan pabrik yang menghasilkan barang, dan bukan kementerian yang membuat aturan. Ia berada di antaranya, dan karena itu sering dinilai dengan ukuran yang berbeda-beda.
 
-Salah satu programnya yang paling luas adalah teknologi tepat guna untuk desa: pompa air, pengering hasil panen, instalasi biogas, dan turbin mikrohidro. Program itu tidak menghasilkan terobosan ilmiah, tetapi menjangkau ribuan desa dan memberi contoh bahwa teknologi tidak harus besar untuk berguna. Di sisi lain, kritik yang muncul kemudian menyebut program semacam itu terlalu tersebar dan sulit dirawat setelah proyek selesai.
+Salah satu programnya yang paling luas adalah teknologi tepat guna untuk desa: pompa air, pengering hasil panen, instalasi biogas, dan turbin mikrohidro. Program itu tidak menghasilkan terobosan ilmiah, tetapi menjangkau ribuan desa dan memberi contoh bahwa teknologi tidak harus besar untuk berguna. Kritik yang muncul kemudian menyebut program semacam itu terlalu tersebar dan sulit dirawat setelah proyek selesai.
 
 ## Laboratorium
 

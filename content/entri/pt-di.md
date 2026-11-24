@@ -39,7 +39,9 @@ Lisensi memberi pekerjaan, tetapi tidak memberi hak desain. Ketika TNI membutuhk
 
 N219 adalah pesawat 19 kursi yang dirancang untuk landasan pendek dan belum beraspal — kebutuhan utama daerah terpencil. Prototipe terbang pertama kali pada 16 Agustus 2017, dan sertifikasi tipe dari otoritas penerbangan sipil keluar pada Desember 2020 setelah uji terbang sekitar 275 jam.
 
-Pesanan pertama yang pasti datang dari Kementerian Pertahanan: enam unit untuk TNI Angkatan Darat, dengan penerbangan perdana ditargetkan Desember 2026 dan penyerahan mulai Februari 2027. PTDI menyatakan target jangka panjang 150 unit untuk penerbangan perintis, angka yang jauh melampaui kapasitas produksi saat ini — satu hingga dua unit per tahun.
+Spesifikasinya menggambarkan kompromi itu. N219 memakai dua mesin turboprop Pratt & Whitney PT6A-42 berkekuatan 850 shp, mampu mengangkut 19 penumpang atau kargo sampai 1.700 kilogram, dan dirancang untuk landasan pendek tanpa aspal. Kandungan lokalnya sekitar 45 persen; sisanya mesin, avionik, dan sebagian sistem kendali masih diimpor.
+
+Pesanan pertama yang pasti datang dari Kementerian Pertahanan: enam unit untuk TNI Angkatan Darat, dengan penerbangan perdana ditargetkan Desember 2026 dan penyerahan mulai Februari 2027. PTDI menyatakan target jangka panjang 150 unit untuk penerbangan perintis, angka yang jauh melampaui kapasitas produksi saat ini — satu hingga dua unit per tahun. Angka itu juga menjelaskan mengapa harga per unit N219 belum turun.
 
 :::note
 Sertifikasi N219 memakan waktu lebih dari tiga tahun setelah penerbangan pertama. Sebagian besar waktu itu habis untuk pengujian ulang komponen yang dipasok dari luar negeri, bukan untuk desain dasar pesawat.
@@ -55,6 +57,6 @@ Pada 2016 Indonesia bergabung dalam proyek pengembangan pesawat tempur Korea Sel
 
 PTDI mempekerjakan sekitar 2.500 orang dan memiliki fasilitas perakitan yang mampu mengerjakan pesawat lebih besar daripada yang diproduksinya sekarang. Persoalannya berulang: pesanan tidak stabil, modal kerja terbatas, dan sebagian besar komponen kritis masih diimpor. Pada 2003 perusahaan nyaris dipailitkan dan merumahkan ribuan karyawan; penyelamatan datang dari negara, bukan dari pasar.
 
-Pada 2026, PTDI memindahkan sebagian kegiatan ke Kertajati dan meresmikan hanggar perakitan akhir N219. Perpindahan itu menandai harapan baru, tetapi juga pertanyaan lama: apakah pesanan enam unit untuk TNI AD akan berkembang menjadi pesanan yang cukup untuk membuat lini produksi hidup, atau berhenti sebagai proyek percontohan seperti N-250 tiga puluh tahun sebelumnya.
+Pada 2026, PTDI memindahkan sebagian kegiatan ke Kertajati dan meresmikan hanggar perakitan akhir N219. Hanggar itu dibangun untuk merakit beberapa pesawat sekaligus, tetapi lini tersebut hanya berguna jika pesanan datang berurutan. Perpindahan itu menandai harapan baru, tetapi juga pertanyaan lama: apakah pesanan enam unit untuk TNI AD akan berkembang menjadi pesanan yang cukup untuk membuat lini produksi hidup, atau berhenti sebagai proyek percontohan seperti N-250 tiga puluh tahun sebelumnya.
 
 Satu hal yang berubah sejak 1997 adalah cara program dinilai. Pemerintah sekarang menuntut rencana bisnis, bukan hanya prototipe, dan pesanan dihitung per unit, bukan per program. Cara itu lebih membosankan daripada pidato tentang kemandirian, tetapi lebih mungkin menghasilkan pesawat yang benar-benar dipakai.

@@ -31,7 +31,7 @@ Panjang Sungai Indragiri sekitar 500 km. Perahu dari kuala dapat mencapai hulu d
 
 Ibu kota berpindah ke Rengat pada 1786, pada masa Sultan Ibrahim, yang memerintah 1784–1815. Ia bukan raja biasa: ia ikut dalam pertempuran di Teluk Ketapang pada 18 Juni 1784, ketika pasukan Melayu dan Bugis mencoba merebut Melaka dari Belanda. Kekalahan di sana mengarahkan perhatiannya ke hulu, dan Rengat dibangun sebagai kota sungai yang lebih aman daripada Pekan Tua, yang terlalu dekat dengan kuala dan terlalu terbuka bagi serangan dari laut.
 
-Rengat tumbuh dengan pola yang khas: pasar di tepi sungai, masjid di belakang pasar, istana di sisi lain, dan kampung-kampung yang memanjang mengikuti jalan darat. Perahu adalah angkutan utama, dan pada musim kemarau, ketika sungai surut, barang harus dipindahkan dengan rakit dan tenaga manusia.
+Rengat tumbuh dengan pola yang khas: pasar di tepi sungai, masjid di belakang pasar, istana di seberang, dan kampung-kampung yang memanjang mengikuti jalan darat. Perahu adalah angkutan utama, dan pada musim kemarau, ketika sungai surut, barang harus dipindahkan dengan rakit dan tenaga manusia.
 
 ## Pajak perahu dan hasil hutan
 

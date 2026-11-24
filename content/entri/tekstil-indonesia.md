@@ -36,7 +36,7 @@ Di Pekalongan dan Solo, industri batik dan konveksi kecil menghadapi tekanan yan
 Pemerintah merespons dengan aturan pembatasan impor dan kewajiban sertifikasi. Namun aturan itu juga menghambat bahan baku impor yang dibutuhkan pabrik, sehingga biaya produksi naik. Kebijakan yang dimaksudkan melindungi industri hilir justru menekan industri hulu. Pada 2024, beberapa pabrik pemintalan mengurangi shift karena bahan baku tersendat di pelabuhan.
 
 :::note
-Sritex dinyatakan pailit pada 23 Oktober 2024. Perusahaan itu pernah memasok seragam militer dan mengekspor ke lebih dari 50 negara, dengan sekitar 10.000 pekerja. Pailitnya menjadi simbol tekanan struktural, bukan sekadar kesalahan manajemen.
+Sritex dinyatakan pailit pada 23 Oktober 2024. Perusahaan itu pernah memasok seragam militer dan mengekspor ke lebih dari 50 negara, dengan sekitar 10.000 pekerja. Pailitnya menjadi simbol tekanan struktural, bukan kesalahan manajemen.
 :::
 
 ## Tenaga kerja perempuan

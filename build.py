@@ -1231,7 +1231,7 @@ def build_bm25(chapters, entries):
             (c["title"] + " ") * 4 + (c["dek"] + " ") * 2 + c["body"][:9000], c["part"])
     for e in entries:
         add(f"artikel/{e['id']}.html", e["title"], "arsip", e["era"], e["years"],
-            (e["title"] + " ") * 4 + (e["dek"] + " ") * 2 + (" ".join(e["tags"]) + " ") * 2 + e["body"][:2600],
+            (e["title"] + " ") * 4 + (e["dek"] + " ") * 2 + (" ".join(e["tags"]) + " ") * 2 + e["body"][:1500],
             " ".join(e["tags"]))
 
     post = {t: ",".join(f"{i}:{n}" for i, n in v) for t, v in postings.items()}

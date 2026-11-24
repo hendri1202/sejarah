@@ -3,7 +3,7 @@ id: roem-royen
 title: Roem–Royen, 1949
 era: merdeka
 years: 1949
-tags: [diplomasi, 1949]
+tags: [diplomasi, 1949, perjanjian]
 chapter: 23
 dek: Perundingan tujuh jam yang berlangsung tiga pekan ini memulihkan pemerintahan republik di Yogyakarta dan membuka jalan ke meja bundar
 sources:

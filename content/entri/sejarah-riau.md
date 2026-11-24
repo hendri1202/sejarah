@@ -51,6 +51,8 @@ Migrasi masuk ke Riau berlangsung dalam beberapa gelombang. Program transmigrasi
 
 Sensus 2020 mencatat 6,39 juta penduduk Riau di luar Kepulauan Riau. Orang Melayu tetap kelompok terbesar, tetapi orang Jawa hampir sebesar itu, dan di beberapa kabupaten mereka menjadi mayoritas. Sawit kini menutupi sebagian besar daratan, dan pabrik pengolahan berdiri di sepanjang jalan. Konflik tanah antara perusahaan dan masyarakat adat muncul di banyak tempat, terutama di daerah yang hutan adatnya dianggap belum dilepaskan.
 
+Luas kebun sawit di Riau pada 2023 mencapai 3,40 juta hektare, sekitar 21 persen dari seluruh areal sawit nasional. Perkebunan rakyat menyumbang sebagian besar luas itu, sementara perusahaan besar menguasai pabrik pengolahan dan rantai ekspor. Pembagian itu menjelaskan mengapa harga tandan buah segar di tingkat petani ditentukan oleh pabrik terdekat, bukan oleh harga dunia.
+
 ## Setelah minyak
 
 Riau hari ini hidup dari tiga sumber yang tidak seimbang: sawit, minyak yang menua, dan dana transfer. Pendapatan per kapita provinsi masih di atas rata-rata nasional, tetapi angka itu menyembunyikan kesenjangan antara Pekanbaru dan kabupaten di pedalaman. Jalan lintas timur yang dibangun dengan dana minyak kini rusak oleh truk sawit, dan kota-kota kecil bergantung pada satu pabrik.

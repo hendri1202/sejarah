@@ -3,7 +3,7 @@ id: koperasi
 title: Koperasi dan Ekonomi Rakyat
 era: merdeka
 years: 1947–kini
-tags: [koperasi, ekonomi]
+tags: [koperasi, ekonomi, sosial]
 chapter: 24
 dek: Dua belas Juli 1947 di Tasikmalaya, gerakan koperasi memilih jalan sendiri—dan delapan puluh tahun kemudian masih mencari tempatnya
 sources:

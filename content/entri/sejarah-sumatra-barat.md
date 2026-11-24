@@ -21,7 +21,7 @@ Pada 10 Februari 1958, Dewan Perjuangan di Padang mengirim ultimatum kepada Jaka
 
 Pemberontakan itu berumur pendek sebagai perang terbuka. Pasukan pusat merebut Padang pada April 1958, dan kota-kota lain jatuh dalam beberapa bulan. Tetapi gerilya berlanjut di pedalaman sampai 1961, ketika sebagian besar pemimpinnya menyerah dan menerima amnesti. Kerugiannya besar: sekolah dan kantor rusak, investasi berhenti, dan ribuan keluarga kehilangan rumah.
 
-PRRI meninggalkan dua warisan yang berlawanan. Di satu sisi, provinsi ini dicurigai secara politik selama bertahun-tahun; jabatan gubernur dan panglima daerah diawasi ketat. Di sisi lain, pengalaman itu memperkuat keyakinan bahwa keputusan tentang daerah harus dibuat di daerah — gagasan yang baru mendapat saluran resmi setelah 1998.
+PRRI meninggalkan dua warisan yang berlawanan. Di satu sisi, provinsi ini dicurigai secara politik selama bertahun-tahun; jabatan gubernur dan panglima daerah diawasi ketat. Pengalaman itu justru memperkuat keyakinan bahwa keputusan tentang daerah harus dibuat di daerah — gagasan yang baru mendapat saluran resmi setelah 1998.
 
 ## Nagari kembali
 

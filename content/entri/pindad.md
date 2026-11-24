@@ -35,6 +35,8 @@ Pada 2008 Pindad memperkenalkan Anoa, panser beroda 6x6 dengan bobot sekitar 14 
 
 Pada 2020, ketika Prabowo Subianto menjabat menteri pertahanan, Pindad meluncurkan Maung, kendaraan taktis ringan berbasis sasis kendaraan niaga. Pesanan awal disebut sekitar 500 unit dengan harga di atas Rp 600 juta per unit. Maung menjadi contoh jenis produk yang jarang dibuat industri pertahanan negara: murah, cepat diproduksi, dan tidak membutuhkan teknologi sensitif.
 
+Angka pesanan itu jauh lebih besar daripada yang disebut pada peluncuran. Pada September 2023, Kementerian Pertahanan memesan 5.000 unit Maung versi militer untuk pejabat, prajurit TNI, dan Polri. Sampai Mei 2026, produksi yang tercatat baru sekitar 3.200 unit, sehingga sisa pesanan masih menjadi beban lini perakitan selama beberapa tahun. Kecepatan itu menjelaskan mengapa Maung dipilih sebagai kendaraan dinas: sasis dan komponennya tersedia di pasar, sehingga produksinya tidak menunggu rantai pasok pertahanan.
+
 :::note
 Pindad memproduksi munisi kaliber kecil sekitar 600 juta butir per tahun. Kapasitas itu jauh di atas kebutuhan latihan rutin TNI, sehingga sebagian besar lini berjalan di bawah kapasitas.
 :::

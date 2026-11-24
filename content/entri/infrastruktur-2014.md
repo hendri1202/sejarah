@@ -21,7 +21,7 @@ Percepatan dimulai pada 2015, ketika pemerintah menetapkan daftar Proyek Strateg
 
 Jalan Tol Trans-Jawa menjadi proyek paling terlihat. Ruas demi ruas disambungkan dari Merak sampai Surabaya, dan perjalanan darat yang dulu memakan waktu lebih dari sehari menjadi sekitar sepuluh jam. Di Sumatera, jalan tol dibangun bertahap dari Lampung ke arah utara, meskipun belum tersambung penuh sampai 2024.
 
-Pembangunan itu mengubah pola perjalanan dan ekonomi lokal. Kawasan industri baru muncul di sekitar gerbang tol, harga tanah naik, dan kota-kota kecil di jalur tol mendapat akses pasar yang lebih luas. Di sisi lain, jalan tol juga memindahkan lalu lintas dari jalan nasional, sehingga warung dan jasa di jalur lama kehilangan pembeli.
+Pembangunan itu mengubah pola perjalanan dan ekonomi lokal. Kawasan industri baru muncul di sekitar gerbang tol, harga tanah naik, dan kota-kota kecil di jalur tol mendapat akses pasar yang lebih luas. Jalan tol juga memindahkan lalu lintas dari jalan nasional, sehingga warung dan jasa di jalur lama kehilangan pembeli.
 
 ## Tanah yang akhirnya bisa dibebaskan
 

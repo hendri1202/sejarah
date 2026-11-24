@@ -43,8 +43,6 @@ Pembagian kerja dalam DEFEND ID mengikuti matra. Pindad memegang senjata ringan,
 DEFEND ID dibentuk sebagai holding, bukan penggabungan. Setiap anggota tetap punya pabrik, neraca, dan kontrak sendiri; yang disatukan adalah strategi pemasaran dan penugasan produksi.
 :::
 
-## Yang masih diimpor
-
 Kemampuan yang paling sering disebut sebagai ukuran kemandirian justru yang paling sulit dicapai: mesin jet, mesin kapal, radar, dan bahan baku propelan. PTDI merakit pesawat tetapi mendatangkan mesin dan avionik; PAL membangun lambung kapal tetapi memasang sistem senjata buatan Eropa atau Asia; Pindad memproduksi munisi kaliber kecil, sementara komponen elektronik presisi masih dibeli.
 
 Karena itu, persentase kandungan lokal dalam sebuah kontrak perlu dibaca hati-hati. Angka 40 persen bisa berarti pekerjaan perakitan dan pengecatan, bukan produksi komponen kritis. Sejumlah pengamat industri menyebutnya kandungan lokal di tingkat sekrup.

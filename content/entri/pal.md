@@ -27,7 +27,9 @@ Yang membuat kontrak itu berbeda adalah skemanya: sebagian besar badan kapal dib
 
 Setelah frigat, PAL memproduksi kapal cepat rudal KCR-60 meter, kelas yang dirancang untuk perairan dangkal dan operasi pantai. Sejumlah unit diserahkan pada 2018–2019, dan pada 2019 Kementerian Pertahanan memesan empat unit tambahan dengan paket platform serta sistem senjata. Kapal ini menjadi contoh paling jelas dari produksi dalam negeri: seluruh lambung dibangun di Surabaya, sementara rudal dan radar tetap diimpor.
 
-PAL juga membangun kapal angkut tank (LPD) sepanjang 125 meter, termasuk dua unit untuk Angkatan Laut Filipina yang diserahkan pada 2016 dan 2017. Ekspor itu penting bukan karena nilainya besar, tetapi karena menunjukkan bahwa galangan Indonesia bisa memenuhi spesifikasi pembeli asing — ujian yang jarang dilewati produk pertahanan nasional.
+Ukuran kapal itu menjelaskan mengapa kelasnya bertahan lama. KCR-60 memiliki panjang 60 meter, bobot 460 ton, lebar 8,1 meter, kecepatan 28 knot, dan awak 55 orang. Dengan draf sekitar 4,8 meter, kapal bisa masuk selat dangkal dan berpangkalan di dermaga kecil, hal yang tidak mungkin dilakukan frigat 105 meter. Keterbatasannya ada pada ketahanan: ruang akomodasi sempit, sehingga operasi jauh dari pangkalan bergantung pada kapal pendukung. Sejak 2022, PAL juga meluncurkan KCR-60 keenam, yang diresmikan Presiden Joko Widodo pada 20 April 2022.
+
+PAL juga membangun kapal angkut tank (LPD) sepanjang 125 meter, termasuk dua unit untuk Angkatan Laut Filipina yang diserahkan pada 2016 dan 2017. Ekspor itu penting bukan karena nilainya besar, tetapi karena menunjukkan bahwa galangan Indonesia bisa memenuhi spesifikasi pembeli asing — ujian yang jarang dilewati produk pertahanan nasional. Kapal itu juga dipakai mengangkut personel, kendaraan, dan bantuan bencana.
 
 :::note
 Dua LPD untuk Filipina dibangun di Surabaya dengan biaya sekitar Rp 2 triliun per unit, lebih murah daripada penawaran galangan Korea atau China pada tender yang sama.
@@ -38,6 +40,8 @@ Dua LPD untuk Filipina dibangun di Surabaya dengan biaya sekitar Rp 2 triliun pe
 Pada 21 Desember 2011, Indonesia menandatangani kontrak senilai sekitar US$1,07 miliar dengan Daewoo Shipbuilding and Marine Engineering Korea Selatan untuk tiga kapal selam kelas Chang Bogo. Dua unit pertama dibangun di Okpo, Korea; unit ketiga dibangun di Surabaya dengan pengawasan DSME.
 
 KRI Alugoro-405 diluncurkan pada April 2019. Panjangnya 61,3 meter, bobot 1.460 ton di permukaan, dan mampu menyelam hingga kedalaman operasional sekitar 250 meter. Pengerjaan lambung dilakukan PAL, sementara bagian pressure hull dan sistem tempur didatangkan dari Korea. Perakitan itu menjadikan Indonesia salah satu dari sedikit negara Asia Tenggara yang pernah merakit kapal selam, meski desain dan komponen kritisnya tetap asing.
+
+Pekerjaan frigat menjadi ujian berikutnya. Dua kapal Arrowhead 140 yang dikontrakkan pada April 2020 memakai desain Babcock International, dan peletakan lunas kapal pertama baru dilakukan pada 25 Agustus 2023. Saat itu baru enam dari 161 blok yang selesai, tanda bahwa jadwal yang diumumkan di awal tidak bertemu kenyataan produksi.
 
 > Sebuah galangan tidak dibangun oleh satu kapal besar, tetapi oleh pesanan yang datang berturut-turut tanpa jeda.
 

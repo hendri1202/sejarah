@@ -33,6 +33,8 @@ Pandemi 2020 memukul industri ini keras. Pesanan turun, pabrik mengurangi shift,
 
 Penurunan itu tidak hanya disebabkan permintaan. Vietnam dan Bangladesh menawarkan upah lebih rendah dan bea masuk yang lebih menguntungkan di beberapa pasar. Indonesia juga menghadapi biaya logistik dan energi yang lebih tinggi, serta aturan asal barang yang rumit. Merek global memindahkan sebagian pesanan ke negara lain, dan pabrik Indonesia harus bersaing untuk sisa kuota.
 
+Tekanan terbaru datang dari tarif. Pada April 2025, Amerika Serikat mengumumkan tarif impor 32 persen untuk barang Indonesia, termasuk sepatu. Setelah negosiasi pada Juli tahun yang sama, tarif itu diturunkan menjadi 19 persen. Aprisindo menyebut penurunan itu memperbaiki daya saing, tetapi menegaskan bahwa pemulihan pesanan tetap bergantung pada permintaan di pasar Amerika, bukan hanya pada besaran tarif.
+
 :::note
 Ekspor alas kaki Indonesia 2023 turun 16,8 persen menjadi US$6,44 miliar, lalu naik menjadi US$7,08 miliar pada 2024. Naik-turunnya mengikuti siklus pesanan merek global, bukan perubahan kapasitas pabrik.
 :::

@@ -13,7 +13,7 @@ sources:
   - "M.C. Ricklefs, A History of Modern Indonesia since c. 1200"
 ---
 
-Pada 19 September 1623, kapal yang membawa Jan Pieterszoon Coen berlabuh di Belanda setelah lima tahun memerintah Hindia. Tiga hari kemudian ia menghadap Heeren XVII, dewan direksi VOC, dan menerima rantai emas, pedang berlapis emas, serta bonus tunai. Sambutan itu tampak seperti pengakuan atas Batavia dan Banda. Dewan yang sama, bagaimanapun, sudah memutuskan menariknya pulang; penggantinya, Pieter de Carpentier, memerintah sejak 1 Februari 1623.
+Pada 19 September 1623, kapal yang membawa Jan Pieterszoon Coen berlabuh di Belanda setelah lima tahun memerintah Hindia. Tiga hari kemudian ia menghadap Heeren XVII, dewan direksi VOC, dan menerima rantai emas, pedang berlapis emas, serta bonus tunai. Sambutan itu tampak seperti pengakuan atas Batavia dan Banda. Dewan yang sama, bagaimanapun, sudah memutuskan memulangkannya; penggantinya, Pieter de Carpentier, memerintah sejak 1 Februari 1623.
 
 Pertanyaannya bukan apakah Coen berhasil. Ia berhasil: Batavia berdiri, monopoli pala ditegakkan, dan perusahaan mendapat pusat administrasi di Asia. Yang diperdebatkan adalah harga dan arah keberhasilan itu, dan perdebatan tersebut berlangsung di dalam perusahaan sendiri, bukan hanya antara Belanda dan orang Nusantara.
 

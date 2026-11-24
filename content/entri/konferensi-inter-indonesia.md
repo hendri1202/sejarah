@@ -47,7 +47,7 @@ Konferensi Inter-Indonesia berlangsung dua kali: 19–22 Juli 1949 di Yogyakarta
 
 ## Mengapa Belanda kehilangan pegangan
 
-Bagi Belanda, konferensi itu adalah pukulan. Selama ini politik kolonial mereka bertumpu pada pembagian: republik di satu sisi, negara-negara bagian di sisi lain, dan Belanda sebagai penengah yang menguntungkan. Jika republik dan negara bagian sudah bersepakat, Belanda tidak lagi punya peran sebagai penengah.
+Bagi Belanda, konferensi itu adalah pukulan. Selama ini politik kolonial mereka bertumpu pada pembagian: republik di satu sisi, negara-negara bagian di sisi berlawanan, dan Belanda sebagai penengah yang menguntungkan. Jika republik dan negara bagian sudah bersepakat, Belanda tidak lagi punya peran sebagai penengah.
 
 Karena itu, menjelang Konferensi Meja Bundar, Belanda mencoba menggoyang kesepakatan itu. Delegasi Belanda menuntut agar republik menyerahkan urusan luar negeri dan keuangan lebih dahulu, dan agar uni Belanda–Indonesia memiliki kekuasaan yang lebih besar. Sebagian tuntutan itu diterima, sebagian ditolak. Tetapi kerangka yang disusun di Yogyakarta dan Jakarta bertahan: RIS berdiri, republik menjadi bagiannya, dan kedaulatan diserahkan pada 27 Desember 1949.
 

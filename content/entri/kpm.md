@@ -59,4 +59,4 @@ Ketika Perang Dunia II meletus di Pasifik, KPM kehilangan banyak kapal. Jepang m
 
 Pada 1966, KPM bergabung dengan perusahaan pelayaran Belanda lain dan menjadi bagian dari Nedlloyd. Nama KPM hilang dari peta pelayaran, tetapi jaringan yang dibangunnya bertahan: rute antarpulau, pelabuhan singgah, dan kebiasaan mengirim barang dengan jadwal tetap.
 
-Bagi Indonesia, warisan KPM bersifat ganda. Di satu sisi, perusahaan itu menciptakan integrasi ekonomi yang memungkinkan hasil bumi dari pulau kecil sampai ke pasar dunia. Di sisi lain, integrasi itu dibangun dengan tarif yang memberatkan produsen dan dengan hierarki rasial di atas kapal. Keduanya masih terasa dalam cara pelayaran nasional diatur hari ini.
+Bagi Indonesia, warisan KPM bersifat ganda. Di satu sisi, perusahaan itu menciptakan integrasi ekonomi yang memungkinkan hasil bumi dari pulau kecil sampai ke pasar dunia. Tetapi integrasi itu dibangun dengan tarif yang memberatkan produsen dan dengan hierarki rasial di atas kapal. Keduanya masih terasa dalam cara pelayaran nasional diatur hari ini.

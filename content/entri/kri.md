@@ -35,9 +35,9 @@ Kelas Bung Tomo dibeli setelah Brunei membatalkan pesanannya pada 2006. Indonesi
 
 ## Empat kapal selam
 
-Sampai 2024, TNI AL mengoperasikan empat kapal selam: KRI Cakra-401 yang bergabung pada 1981, dan tiga kapal kelas Nagapasa — KRI Nagapasa-403, Ardadedali-404, dan Alugoro-405 — yang diserahkan bertahap pada 2017–2021. Kelas Nagapasa dibangun bersama Daewoo Shipbuilding Korea Selatan dengan nilai kontrak sekitar US$1,07 miliar untuk tiga unit.
+Sampai 2024, TNI AL mengoperasikan empat kapal selam: KRI Cakra-401 yang bergabung pada 1981, dan tiga kapal kelas Nagapasa — KRI Nagapasa-403, Ardadedali-404, dan Alugoro-405 — yang diserahkan bertahap pada 2017–2021. Kelas Nagapasa dibangun bersama Daewoo Shipbuilding Korea Selatan dengan nilai kontrak sekitar US$1,07 miliar untuk tiga unit. Kontrak itu juga memuat paket alih teknologi dan pelatihan awak, yang menentukan apakah kapal bisa dirawat di Surabaya tanpa dikirim kembali ke Korea.
 
-Jumlah itu kecil untuk perairan seluas Indonesia. Sebuah kapal selam biasanya menghabiskan sepertiga waktu untuk operasi, sepertiga untuk pemeliharaan, dan sepertiga untuk latihan, sehingga pada hari biasa hanya satu atau dua yang benar-benar berada di laut. Karena itu, rencana penambahan kapal selam selalu muncul dalam setiap dokumen pertahanan, meski kontraknya belum terealisasi.
+Jumlah itu kecil untuk perairan seluas Indonesia. Sebuah kapal selam biasanya menghabiskan sepertiga waktu untuk operasi, sepertiga untuk pemeliharaan, dan sepertiga untuk latihan, sehingga pada hari biasa hanya satu atau dua yang benar-benar berada di laut. Kelas Nagapasa berbobot sekitar 1.400 ton di permukaan, membawa torpedo dan rudal anti-kapal, dan diawaki sekitar 40 orang. Karena itu, rencana penambahan kapal selam selalu muncul dalam setiap dokumen pertahanan, meski kontraknya belum terealisasi.
 
 > Armada yang besar di atas kertas bisa menjadi kecil di laut jika suku cadangnya tidak ada.
 
@@ -46,6 +46,8 @@ Jumlah itu kecil untuk perairan seluas Indonesia. Sebuah kapal selam biasanya me
 Sejak 2010, sebagian besar kapal baru TNI AL dibangun di dalam negeri. PT PAL memproduksi frigat, KCR-60, dan LPD; galangan swasta seperti PT Tesco dan PT Citra membangun kapal patroli dan kapal bantu. Kebijakan itu mengurangi ketergantungan pada pembelian bekas, tetapi belum menghilangkan impor sistem senjata: rudal, radar, sonar, dan mesin sebagian besar masih datang dari Eropa dan Asia.
 
 Tujuh kapal yang diserahkan pada 2024 mencakup KRI Balongan-908, dua kapal patroli cepat, dan beberapa kapal bantu. Semuanya dibangun di dalam negeri, dan itu sendiri merupakan hasil kebijakan yang dimulai lebih dari satu dekade sebelumnya — bukan hasil satu tahun anggaran.
+
+Program kapal terbesar yang sedang berjalan adalah dua frigat Arrowhead 140. Kontraknya ditandatangani dengan Kementerian Pertahanan pada April 2020, desainnya dibeli dari Babcock International, dan pembangunannya dilakukan di Surabaya. Peletakan lunas kapal pertama berlangsung pada 25 Agustus 2023; dari 161 blok yang menyusun satu kapal, baru enam blok yang selesai pada tahap itu. Frigat sepanjang sekitar 138 meter ini akan menggantikan kelas Ahmad Yani yang berusia lebih dari empat puluh tahun.
 
 ## Kekuatan yang tidak dihitung
 

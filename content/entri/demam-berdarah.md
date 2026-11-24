@@ -31,6 +31,8 @@ Program pemberantasan dimulai dengan fogging, pengasapan insektisida. Fogging me
 
 Demam berdarah kini endemik di seluruh Indonesia. Pada 2024, sampai minggu ke-17, Kementerian Kesehatan mencatat 88.593 kasus dengan 621 kematian di 456 kabupaten dan kota. Angka itu lebih tinggi daripada periode yang sama pada 2023, dan menunjukkan pola yang berubah: puncak kasus tidak selalu pada awal tahun, dan daerah yang sebelumnya sepi mulai melaporkan kasus.
 
+Angka sementara 2024 jauh lebih besar. Sampai pekan ke-43, Kementerian Kesehatan mencatat 210.644 kasus dengan 1.239 kematian, hampir dua kali lipat total 2023 yang 114.720 kasus dan 894 kematian. Lonjakan itu menunjukkan pola yang berulang: fogging baru dijalankan setelah kasus dilaporkan, sehingga nyamuk sudah menularkan sebelum kasus pertama tercatat.
+
 Pada 2025, sampai 16 Mei, Kementerian Kesehatan mencatat 56.269 kasus dengan 250 kematian. Angka itu lebih rendah daripada 2024, tetapi masih jauh di atas target pengendalian. Setiap tahun, rumah sakit daerah melaporkan lonjakan pasien pada Januari sampai April, bersamaan dengan musim hujan.
 
 :::note
@@ -45,7 +47,7 @@ Metode itu berbeda dari fogging karena bersifat berkelanjutan: nyamuk ber-Wolbac
 
 ## Vaksin dan pengobatan
 
-Vaksin dengue sudah tersedia di Indonesia, tetapi penggunaannya terbatas dan tidak gratis dalam JKN untuk semua kelompok umur. Efektivitasnya bergantung pada jenis vaksin dan riwayat infeksi sebelumnya. Pengobatan utama tetap cairan: pasien harus minum banyak, dipantau trombosit dan hematokritnya, dan segera dibawa ke rumah sakit jika ada tanda syok.
+Vaksin dengue sudah tersedia di Indonesia, tetapi penggunaannya terbatas dan tidak gratis dalam JKN untuk semua kelompok umur. Efektivitasnya bergantung pada jenis vaksin dan riwayat infeksi sebelumnya. Vaksin TAK-003 diberikan dua dosis dengan jarak tiga bulan, sementara vaksin lain menuntut tiga dosis dalam setahun. Pengobatan utama tetap cairan: pasien harus minum banyak, dipantau trombosit dan hematokritnya, dan segera dibawa ke rumah sakit jika ada tanda syok.
 
 Kematian biasanya terjadi karena keluarga datang terlambat. Di daerah, pasien dibawa ke puskesmas setelah demam empat hari, ketika fase kritis sudah dimulai. Rumah sakit yang penuh menolak pasien, dan rujukan memakan waktu. Angka kematian nasional memang turun dari 41 persen pada 1968 menjadi sekitar satu persen, tetapi penurunan itu tidak merata.
 

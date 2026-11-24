@@ -33,13 +33,15 @@ Kelebihan kapasitas memicu perang harga. Produsen besar menurunkan harga untuk m
 
 Konsolidasi berjalan lambat karena banyak pabrik dimiliki konglomerat dengan kepentingan lain. Semen Indonesia, yang dibentuk sebagai holding pada 2010, menguasai sekitar separuh kapasitas nasional melalui Semen Padang, Semen Gresik, Semen Tonasa, dan Semen Baturaja. Indocement dan Holcim Indonesia (sekarang Semen Merah Putih) menjadi pesaing utama. Pabrik-pabrik baru di Kalimantan dan Sulawesi menambah tekanan.
 
+Konsolidasi terbesar terjadi pada 31 Januari 2019, ketika Semen Indonesia mengambil alih Holcim Indonesia. Setelah akuisisi itu, kapasitas terpasang grup mencapai sekitar 53 juta ton per tahun, dengan pabrik tersebar dari Aceh sampai Papua. Pengambilalihan menambah pangsa pasar, tetapi juga menambah kapasitas yang belum terpakai, sehingga perang harga tidak mereda.
+
 :::note
 Kebutuhan semen nasional 2023 sebesar 66,8 juta ton, sementara kapasitas 119–120 juta ton. Artinya sekitar 53 juta ton kapasitas tidak terpakai setiap tahun.
 :::
 
 ## Bahan bakar dan emisi
 
-Semen adalah salah satu industri paling intensif energi dan karbon. Produksi klinker membutuhkan suhu di atas 1.400 derajat Celsius, yang dicapai dengan membakar batu bara, gas, atau bahan bakar alternatif. Setiap ton semen menghasilkan sekitar 0,6 ton karbon dioksida, sebagian dari pembakaran dan sebagian dari reaksi kimia batu kapur.
+Semen adalah salah satu industri paling intensif energi dan karbon. Produksi klinker membutuhkan suhu di atas 1.400 derajat Celsius, yang dicapai dengan membakar batu bara, gas, atau bahan bakar alternatif. Setiap ton semen menghasilkan sekitar 0,6 ton karbon dioksida, sebagian dari pembakaran dan sebagian dari reaksi kimia batu kapur. Batu bara menyumbang porsi terbesar biaya produksi, sehingga kenaikan harga energi global langsung menekan margin sementara harga jual tidak bisa dinaikkan.
 
 Produsen mulai mengganti sebagian batu bara dengan biomassa, limbah kota, dan ban bekas. Semen Indonesia menargetkan penurunan emisi melalui bahan bakar alternatif dan semen campuran. Namun substitusi bahan bakar terbatas oleh ketersediaan dan kualitas limbah, serta resistensi masyarakat terhadap insinerasi. Teknologi penangkapan karbon masih terlalu mahal untuk diterapkan pada skala pabrik semen di Indonesia.
 

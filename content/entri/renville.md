@@ -3,7 +3,7 @@ id: renville
 title: Perjanjian Renville, 1948
 era: merdeka
 years: 1948
-tags: [diplomasi, 1948]
+tags: [diplomasi, 1948, perjanjian]
 chapter: 23
 dek: Gencatan senjata yang ditandatangani di atas kapal Amerika ini memperkecil republik dan menjatuhkan sebuah kabinet
 sources:
