@@ -13,46 +13,48 @@ sources:
   - "M.C. Ricklefs, A History of Modern Indonesia since c. 1200 (2008)"
 ---
 
-Pada 3 Agustus 1948, Musso tiba di Yogyakarta. Ia berumur lima puluh satu tahun dan telah dua puluh dua tahun tidak menginjak Hindia: sejak pemberontakan 1926 ia hidup di Singapura, Moskow, dan Tiongkok, menjadi salah satu orang Indonesia yang paling lama berada di dalam mesin Komintern. Kedatangannya bukan rahasia; surat kabar melaporkannya, dan para pemimpin PKI menyambutnya sebagai orang yang membawa jawaban atas kekalahan.
+Pada 11 Agustus 1948, sebuah pesawat milik AURI mendarat di Yogyakarta dengan penumpang yang tercatat bernama Soeparto. Orang itu Munawar Musso, berumur 51 tahun, dan ia belum melihat Jawa sejak meninggalkan Singapura pada 1926. Rutenya berbelit: Praha, New Delhi, Thailand, delapan hari di Bukittinggi, lalu penerbangan yang sempat berakhir di rawa dekat Tulungagung pada 10 Agustus. Koran *Merdeka* di Solo baru menulis kemungkinan kepulangannya dua hari kemudian.
 
-Partai saat itu sedang dalam posisi aneh. Setelah Perjanjian Renville, pemerintahan Hatta menerima gencatan senjata yang mempertahankan garis demarkasi Belanda. Kaum kiri menilainya sebagai penyerahan. Front Demokrasi Rakyat yang dibentuk Amir Sjarifuddin pada Februari 1948 sudah mengkritik kabinet, menuntut pembatalan Renville, dan menggalang serikat buruh. Musso datang untuk memberi arah pada kemarahan itu.
+Kabinet Hatta sedang menanggung akibat Perjanjian Renville, dan kedatangan itu langsung menjadi berita politik. Di depan kader, Musso tampil bukan sebagai peneliti yang pulang, melainkan sebagai orang yang pernah duduk di ruang keputusan Moskow. Otoritas itu nyata, tetapi bertumpu pada ingatan orang lain tentang dirinya, bukan pada pekerjaan politiknya di Jawa selama dua dekade terakhir.
 
-Kedudukannya tidak dipertanyakan. Ia kader PKI sejak awal 1920-an, ikut dalam pemberontakan 1926, dan menghabiskan bertahun-tahun sebagai wakil partai di Moskow. Bagi kader yang baru mengenalnya dari brosur, ia adalah orang yang pernah duduk di ruangan tempat keputusan besar dibuat; bagi yang lebih tua, ia adalah kawan lama yang selamat. Otoritas semacam itu tidak bisa dibangun dalam enam minggu, dan karena itu tidak pernah diuji.
+## Guru dari Pagu
 
-## Doktrin dalam enam minggu
+Ia lahir pada 1897 di Pagu, Kediri, sebagai anak seorang juru tulis bank di Wates bernama Mas Martoredjo. Di Batavia ia dididik sebagai guru, lalu melanjutkan ke Hogere Burgerschool pada 1913 dan tinggal di rumah kos Tjokroaminoto bersama Alimin dan Soekarno. Menurut Arnold Brackman, ia sempat bekerja sebagai kasir di kantor pos Surabaya, tempat ia berkenalan dengan Henk Sneevliet.
 
-Beberapa hari setelah tiba, Musso berbicara di depan rapat umum di Yogyakarta. Isi pidatonya kemudian diterbitkan sebagai brosur: Jalan Baru untuk Republik Indonesia. Tesisnya sederhana dan keras. Republik yang merdeka pada 1945, katanya, masih setengah jadi; kekuasaannya dibagi dengan Belanda dan dengan kelas pemilik modal. Karena itu perjuangan bersenjata melawan Belanda harus disertai perjuangan di dalam negeri untuk mengganti pemerintahan.
+Jalan politiknya dimulai dari Sarekat Islam, bukan dari partai komunis. Musso dan Alimin menyusup ke organisasi itu, terlibat dalam perkara Afdeling B dan kerusuhan petani Cimareme di Garut, lalu dipenjara. Ia menolak membuat pengakuan yang bisa meringankan Tjokroaminoto; di penjara ia diperlakukan kasar, dan Agus Salim mengadukan hal itu ke Volksraad. Setelah keluar pada 1923, ia ditawari mengajar bahasa Indonesia di Jepang, tetapi pemerintah Jepang menolak permohonannya karena ia tidak punya ijazah yang memadai.
 
-Yang ia tawarkan bukan hanya kritik, tetapi program: pembatalan Renville, pembentukan kabinet yang terdiri dari partai-partai kiri, nasionalisasi perusahaan Belanda, dan pembagian tanah. Bagi pendukungnya, itu adalah kelanjutan revolusi. Bagi lawannya, itu adalah ancaman terhadap Republik yang sedang berperang dan tidak punya kemewahan untuk berkonflik internal.
+## Kongres yang tidak dihadiri Tan Malaka
 
-## Surakarta dan jalan menuju Madiun
+Pada Desember 1925 pimpinan PKI merencanakan pemberontakan. Pemerintah mengetahui rencana itu dan menangkap sebagian besar pemimpinnya pada Januari 1926; Musso termasuk yang lolos. Ia menyeberang ke Singapura bersama Budisutjitro dan Sugono, bertemu Alimin dan Subakat, dan berunding tiga hari sebelum memutuskan pemberontakan dimulai pada pertengahan tahun. Alimin dikirim ke Manila untuk meminta dukungan Tan Malaka, yang menolak.
 
-Bentrokan pertama terjadi di Surakarta pada September. Pasukan di bawah pengaruh FDR dan brigade-brigade yang tidak sepakat dengan pemerintah saling melucuti senjata; beberapa perwira diculik dan dibunuh. Pemerintah memindahkan sebagian pasukan, dan ketegangan berpindah ke Madiun, kota dengan garnisun kecil dan organisasi kiri yang kuat.
+Pada Maret 1926 Musso dan Alimin berangkat ke Moskow lewat Kanton. Komintern menolak memberi bantuan karena menganggap kekuasaan Belanda masih terlalu kuat, dan menyuruh mereka tinggal lebih lama untuk mempelajari penyimpangan Trotsky. Meski demikian, pada Oktober 1926 ia masih mengirim instruksi agar pemberontakan di Jawa dijalankan. Setelah kegagalan itu ia menetap di Uni Soviet, belajar di Sekolah Lenin, dan pada Juli 1928 hadir di Kongres Komintern keenam dengan nama Manavar. Ia menjadi anggota komite eksekutif, menikah dengan perempuan Rusia pada 1929, dan punya dua anak. Kuliahnya di Universitas Lenin tidak selesai.
 
-Pada 18 September 1948, sebelum fajar, pasukan FDR di bawah Soemarsono dan Djoko Sujono melucuti garnisun Madiun. Dua perwira tewas. Dalam beberapa jam kota itu dikuasai, dan Musso tampil di depan rapat umum untuk mengumumkan pemerintahan baru. Menurut laporan-laporan yang dikumpulkan kemudian, ia menyebutnya sebagai "pemerintah Soviet Republik Indonesia" — istilah yang kemudian menjadi bukti utama bagi versi bahwa ini adalah kudeta komunis.
+## Surabaya, 1935
+
+Pada April 1935 Musso dikirim pulang secara rahasia untuk membangun kembali partai yang hancur. Ia menumpang tinggal beberapa bulan di rumah Siti Larang Djojopanatas, istri kawannya, lalu menulis di beberapa surat kabar untuk menjelaskan garis Dimitrov tentang front persatuan. Pendekatannya berhasil: Pamudji, Azis, Sukajat, Djokosoedjono, Amir Sjarifuddin, dan Tan Ling Djie masuk ke jaringan yang ia susun, dengan instruksi menyusup ke organisasi nasionalis.
+
+Pemerintah Hindia Belanda melacak kegiatan itu dan mengasingkan beberapa anggota ke Boven Digul. Musso sudah kembali ke Moskow sebelum penangkapan datang. Pola yang sama terulang tiga belas tahun kemudian: ia datang, menyusun ulang partai, lalu meninggalkan orang lain menanggung akibatnya.
+
+## Jalan Baru, empat belas hari
+
+Di Praha ia ikut merundingkan persetujuan konsuler antara Indonesia dan Uni Soviet, yang selesai pada Mei 1948. Ia pulang dengan nama samaran dan membawa naskah yang kemudian dikenal sebagai *Jalan Baru untuk Republik Indonesia*. Dalam rapat Politbiro 13–14 Agustus ia menyerang revolusi 1945 sebagai revolusi borjuis, mempersoalkan dana 25.000 gulden dari van der Plas yang dipakai Amir Sjarifuddin, dan menuntut kursi lebih banyak bagi wakil buruh di pemerintahan serta tentara.
+
+Pada 21 Agustus ia mengumumkan penggabungan PKI dengan Pesindo dan SOBSI di bawah Front Demokrasi Rakyat; penggabungan resmi berlangsung 27 Agustus, dan pada 1 September terbentuk Politbiro baru yang lebih muda: Aidit, Lukman, Njoto, dan Sudisman. Sepanjang 7–17 September ia berkeliling Jawa Tengah dan Jawa Timur, dari Solo, Madiun, Kediri, Jombang, Bojonegoro, sampai Cepu, untuk menjual garis baru itu kepada massa.
+
+> Sebuah partai bisa dibangun ulang dalam enam minggu; kepercayaan bahwa pembangunan ulang itu cukup, tidak.
+
+## Siapa yang memerintahkan
+
+Versi yang berlaku lama menyebut Musso merencanakan perebutan kota. Bukti yang ada lebih kabur. Soemarsono, komandan pasukan yang melucuti garnisun Madiun, menyatakan tindakannya disetujui Musso dua hari sebelumnya; Ann Swift dan Himawan Soetanto menilai Musso justru tidak tahu. Menurut *Bintang Merah*, pada 16 September di Cepu ia memerintahkan anak buahnya di Solo menghentikan bentrokan agar tidak meluas — instruksi yang sulit dibaca sebagai persiapan kudeta.
+
+Yang tercatat sesudah 18 September juga tidak menunjukkan kendali pusat. Ia membentuk Front Nasional Daerah Madiun dan menunjuk Soemarsono gubernur militer, tetapi kota itu sudah di luar jangkauan politiknya. Pada 28 September, ketika Divisi Siliwangi mendekat, ia meninggalkan Madiun menuju Ngebel dan Dungus. Di Balong ia berselisih dengan Amir Sjarifuddin: Musso ingin bergerak ke selatan, Amir ke utara.
 
 :::note
-Jumlah korban Madiun tidak pernah pasti. Perkiraan berkisar dari beberapa ribu sampai lebih dari 30.000, tergantung apakah yang dihitung hanya pertempuran atau juga eksekusi dan pembunuhan balasan berbulan-bulan sesudahnya.
+Catatan yang dihimpun kemudian menyebut 24.000 sampai 35.000 orang ditahan setelah Madiun. Angka itu tidak membedakan anggota PKI, simpatisan, dan penduduk yang kebetulan berada di desa yang salah.
 :::
-
-## Dua puluh hari
-
-Pemerintah di Yogyakarta bereaksi cepat. Soekarno berpidato di radio dan menyebut peristiwa itu pengkhianatan terhadap republik yang sedang berperang; Hatta mengumumkan keadaan darurat. Divisi Siliwangi, yang baru dipindahkan dari Jawa Barat ke Jawa Tengah setelah Renville, dikerahkan bersama pasukan dari Jawa Tengah dan Jawa Timur.
-
-Madiun direbut kembali pada 30 September. Dalam dua puluh hari, sebuah gerakan yang tampak besar runtuh: kota hilang, pemimpinnya tercerai-berai, dan ribuan orang ditangkap atau dibunuh tanpa pengadilan. Amir Sjarifuddin ditangkap dan dieksekusi pada Desember. Musso melarikan diri ke arah selatan bersama sekelompok kecil pengikut.
 
 ## Semanding, 31 Oktober
 
-Ia tertembak di Desa Semanding, Kecamatan Kauman, Ponorogo, pada 31 Oktober 1948. Versi tentara menyebut ia tewas dalam pertempuran setelah terkepung. Versi lain menyebut ia tertangkap hidup-hidup, diinterogasi sebentar, lalu dieksekusi di tepi sumur; sumur tua di desa itu sampai sekarang dikaitkan dengan tempat kematiannya. Tidak ada laporan resmi yang lengkap, dan tidak ada foto jenazah yang bisa dipastikan.
+Ia tewas pada 31 Oktober 1948 di Semanding, Kauman, Ponorogo. Laporan tentara menyebut ia tertembak ketika mencoba melarikan diri; versi lain menyebut ia ditangkap, ditanyai sebentar, lalu dieksekusi di tepi sumur. Jenazahnya difoto, tetapi tidak ada dokumen resmi yang menjelaskan urutan kejadian, dan tidak ada tanda kubur yang bisa dipastikan sampai sekarang.
 
-> Seorang tokoh yang menghabiskan hidupnya di luar negeri menghilang di sebuah desa yang tidak pernah ia sebut dalam tulisan-tulisan politiknya.
-
-## Tiga versi tentang Madiun
-
-Versi negara, yang dipakai Orde Baru, menyebut Madiun sebagai pemberontakan PKI yang direncanakan untuk menggulingkan Republik. Versi PKI, yang disusun Aidit pada 1950-an, menyebut peristiwa itu sebagai provokasi pihak lain: bentrokan lokal yang dibesar-besarkan untuk memberi alasan menghancurkan partai. Ann Swift, yang meneliti arsip dan kesaksian, menempatkan peristiwa itu di antara keduanya: sebuah pengambilalihan lokal yang dilakukan pemimpin daerah yang panik dan terlalu percaya pada kekuatan sendiri, bukan kudeta nasional yang terencana.
-
-Yang tidak terbantahkan adalah akibatnya. Partai komunis hancur sebagai kekuatan politik selama satu generasi. Angkatan darat keluar dari peristiwa itu dengan posisi politik yang jauh lebih kuat, dan sekaligus dengan keyakinan bahwa komunis adalah musuh yang harus dihancurkan, bukan lawan yang bisa diajak berunding. Keyakinan itu kembali dipakai tujuh belas tahun kemudian.
-
-## Yang belum selesai
-
-Musso dimakamkan tanpa penanda yang jelas. Sampai sekarang tidak ada kesepakatan tentang di mana kuburnya, dan pemerintah tidak pernah mengeluarkan keterangan resmi. Dalam ingatan publik ia tinggal sebagai nama yang dipakai untuk menakut-nakuti, bukan sebagai tokoh yang punya biografi. Padahal biografinya menjelaskan sesuatu: seorang revolusioner yang kembali ke negeri yang sudah berubah, membawa resep dari tempat lain, dan tidak sempat memahami bahwa Republik yang ingin ia pimpin sedang mempertaruhkan hidupnya sendiri.
+Kematian itu menutup biografi yang hampir seluruhnya berlangsung di tempat lain: Batavia, Surabaya, Singapura, Moskow, Praha. Yang ia bawa pulang adalah resep yang disusun untuk negara industri, bukan untuk republik yang sedang kehilangan pelabuhan dan pajak. Kesalahannya bukan hanya politik; ia membaca Jawa dari ingatan 1926, dan Jawa sudah berubah.

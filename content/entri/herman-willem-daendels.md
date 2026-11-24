@@ -13,46 +13,48 @@ sources:
   - "M.C. Ricklefs, A History of Modern Indonesia since c. 1200"
 ---
 
-Pada 5 Mei 1808, di Semarang, Herman Willem Daendels menandatangani perintah pembangunan jalan dari Anyer di ujung barat Jawa sampai Panarukan di ujung timur. Ia baru empat bulan memerintah. Perintah itu menyebut lebar dua *rijnlandse roeden*, sekitar 7,5 meter, dan tiang penanda jarak setiap 400 roeden, sekitar 1,5 kilometer. Untuk tahap pertama, dari Buitenzorg ke Karangsambung, pemerintah menyediakan 30.000 ringgit perak dan 1.100 pekerja dari Gubernur Pantai Timur Laut Jawa, Nicolaus Engelhard.
+Perintah itu keluar pada Mei 1808, empat bulan setelah Herman Willem Daendels mengambil alih pemerintahan di Batavia. Isinya teknis dan tidak ambigu: jalan dari Anyer sampai Panarukan, lebar dua *rijnlandse roeden* atau sekitar 7,5 meter, tiang penanda jarak setiap 400 roeden atau sekitar 1,5 kilometer. Untuk tahap pertama, dari Buitenzorg ke Karangsambung, pemerintah menyediakan 30.000 ringgit perak dan 1.100 pekerja dari Gubernur Pantai Timur Laut Jawa, Nicolaus Engelhard.
 
-Yang kemudian dikenal sebagai Jalan Raya Pos itu panjangnya sekitar 1.000 kilometer. Dalam ingatan populer, jalan itu adalah karya seorang gubernur jenderal yang brilian dan kejam. Arsipnya menunjukkan hal yang lebih rumit: Daendels memerintahkan, tetapi sebagian besar jalan dibangun oleh bupati, dengan tenaga desa, dan tanpa laporan yang bisa dihitung.
+Yang tidak ada dalam perintah itu adalah anggaran untuk seribu kilometer berikutnya. Bagian itu diselesaikan dengan cara lain: bupati dipanggil, diberi target, dan diminta memakai tenaga desa di wilayah masing-masing.
 
-## Bukan dari nol
+## Jenderal dari Hattem
 
-Daendels tidak membuka hutan sepanjang seribu kilometer. Ia menyambung jalan-jalan yang sudah ada: jalur pos lama dari Batavia ke Cirebon, jalan dataran tinggi Priangan, dan jalan-jalan kabupaten yang dipelihara secara turun-temurun. Yang ia tambahkan adalah standar lebar, jembatan, dan kewajiban menyerahkan hasil dalam waktu singkat.
+Daendels lahir di Hattem pada 21 Oktober 1762, anak seorang sekretaris kota yang juga mengelola pembakaran batu bata di tepi IJssel. Ia belajar hukum di Harderwijk dan lulus pada 1783, lalu menjadi advokat di kota kecilnya. Karier itu berakhir karena politik: pada 1786 stadhouder Willem V mengangkat orang lain ke jabatan yang ia harapkan, dan Daendels memimpin warga menggantikan susunan dewan kota dengan pilihannya sendiri.
 
-Untuk bagian Batavia–Buitenzorg dan beberapa petak di Priangan, pemerintah mengerahkan pekerja sendiri. Untuk bagian Cirebon sampai Surabaya, biaya tidak tersedia. Pada Juli 1808, Daendels mengumpulkan 38 bupati dan memerintahkan mereka membangun jalan di wilayah masing-masing dengan sistem kerja wajib. Karena pekerjaan itu tidak masuk anggaran pemerintah, tidak ada laporan teknis, tidak ada daftar pekerja, dan tidak ada catatan kematian. Yang tersisa hanya korespondensi Daendels dengan menteri perdagangan dan jajahan, Paulus van der Heim.
+Ketika pasukan stadhouder merebut Hattem pada 1787, ia melarikan diri ke Prancis Utara dan dihukum mati secara in absentia. Ia kembali bersama pasukan Prancis, menjadi brigadir jenderal pada 1794, dan ikut menduduki Brabant serta Belanda. Pada 1806, ketika Belanda menjadi kerajaan di bawah Louis Napoleon, ia diangkat menjadi gubernur jenderal dengan pangkat marsekal dan dikirim ke Jawa untuk menghadapi kemungkinan serangan Inggris.
 
-## Tiga puluh ribu ringgit
+## Jalan di atas jalan
 
-Angka-angka yang ada menunjukkan skala mobilisasi, bukan hasilnya. Tahap pertama menghabiskan 30.000 ringgit perak, jumlah yang tidak cukup untuk jalan selebar 7,5 meter menembus lereng Megamendung. Karena itu pekerja diberi bantuan pangan: 1,5 pon beras sehari dan 5 pon garam sebulan untuk pekerja dari Batavia dan Priangan; dua ringgit perak sebulan plus tiga gantang beras untuk pekerja dari Cirebon dan wilayah kerajaan. Mandor menerima tiga ringgit.
+Daendels tidak membuka hutan dari nol. Jalur Batavia–Cirebon sudah dipakai sebagai jalan pos, Priangan punya jalan dataran tinggi, dan setiap kabupaten memelihara ruasnya sendiri. Yang ia tambahkan adalah kewajiban menyelesaikan ruas dalam waktu singkat, jembatan yang lebih lebar, dan pos-pos penanda yang memungkinkan pengiriman berita tanpa berhenti di rumah bupati.
 
-Bantuan itu bukan tanda kemurahan, melainkan pengakuan bahwa medannya mematikan. Potongan lereng batu di jalur Parakanmuncang–Sumedang dan jembatan di jalur Cianjur–Bandung dikerjakan dengan pacul, linggis, dan tenaga manusia. Di Cadas Pangeran, dekat Sumedang, jejak pekerjaan itu masih terlihat sampai sekarang.
+Pada Juli 1808 ia mengumpulkan 38 bupati dan membagi pekerjaan menurut wilayah. Karena biayanya tidak masuk anggaran, tidak ada laporan teknis, daftar pekerja, atau catatan kematian. Hasilnya terlihat pada waktu tempuh: perjalanan Batavia–Semarang yang biasanya 10 sampai 14 hari menjadi 3 sampai 4 hari. Sejak 1810 kereta pos melayani rute itu, dan surat pemerintah berpindah lebih cepat daripada kabar yang menyusulnya.
 
-## Banten, November 1808
+Bagian tersulit ada di jalur Parakanmuncang–Sumedang, tempat lereng batu dipotong dengan pacul dan linggis. Di Cadas Pangeran, dekat Sumedang, bekas potongan itu masih terlihat, dan pekerjaan di sana memakan waktu lebih lama daripada yang tercatat dalam laporan resmi.
 
-Jalan bukan satu-satunya proyek. Daendels juga ingin membangun pelabuhan berbenteng di Teluk Meeuwen, Ujung Kulon, untuk menghadapi kemungkinan serbuan Inggris. Sultan Banten diperintahkan mengirim tenaga kerja sebanyak mungkin. Mula-mula 1.500 orang dikirim; karena tidak ada jaminan makanan, banyak yang mati atau melarikan diri.
+## Teluk Meeuwen
 
-Daendels mengirim ultimatum: 1.000 pekerja setiap hari, dan penyerahan Mangkubumi Wargadiraja, yang dianggap dalang pelarian. Sultan menolak. Pada 21 November 1808, pasukan Daendels menyerang Keraton Surosowan. Sultan ditangkap, ditahan di Batavia, lalu diasingkan ke Ambon; Wargadiraja dihukum pancung dan jasadnya dibuang ke laut. Dengan satu serangan, kesultanan tertua di Jawa bagian barat kehilangan pemerintahannya.
+Rencana pertahanan Daendels tidak berhenti di jalan. Ia ingin membangun pangkalan armada di Teluk Meeuwen, Ujung Kulon, untuk menutup Selat Sunda jika Inggris datang. Sultan Banten diperintahkan memasok tenaga kerja; gelombang pertama sekitar 1.500 orang berangkat tanpa jaminan makanan, dan banyak yang mati atau melarikan diri di hutan.
 
-> Jalan itu menghubungkan dua ujung Jawa, dan di tengahnya sebuah kesultanan dihapus karena tidak sanggup memasok tenaga manusia.
+Daendels menuntut 1.000 pekerja setiap hari dan menyerahkan Mangkubumi Wargadiraja, yang ia anggap dalang pelarian. Sultan menolak. Pada November 1808 pasukannya menyerbu Surosowan; sultan ditangkap dan diasingkan ke Ambon, Wargadiraja dihukum pancung dan jasadnya dibuang ke laut. Pangkalan yang hendak dibangun itu tidak pernah selesai, tetapi biayanya dibayar oleh sebuah kesultanan.
 
-## Angka yang tidak ada
+> Sebuah jalan menghubungkan dua ujung pulau, dan di tengahnya sebuah kerajaan hilang karena tidak sanggup memasok tenaga.
 
-Tentang korban, dua kesaksian selalu dikutip. Engelhard, bekas gubernur yang dimusuhi Daendels, menyatakan bahwa 500 pekerja mati saat membangun jalan di bukit sekitar Megamendung, dan menegaskan angka itu belum menghitung yang melarikan diri atau mati karena penyakit. William Thorn, perwira Inggris yang ikut dalam penyerbuan Jawa 1811, menulis bahwa "sekitar 12.000 pekerja dikatakan telah meninggal" dalam pembangunan jalan, terutama karena udara hutan dan rawa.
+## Angka dua belas ribu
 
-Tidak ada dari keduanya yang menyertakan perhitungan. Engelhard menulis sebagai lawan politik; Thorn menulis dari kabar yang beredar di kalangan tentara pendudukan. Sejarawan kemudian memakai angka 12.000 karena angka itu dramatis dan mudah diulang, bukan karena ada daftar nama. Untuk sebuah proyek yang melibatkan puluhan ribu orang selama dua tahun, ketiadaan arsip korban adalah fakta tersendiri: negara yang memerintahkan kerja wajib tidak merasa perlu mencatat siapa yang mati mengerjakannya.
+Tentang korban, dua kesaksian selalu diulang. Engelhard, bekas gubernur yang berselisih dengan Daendels, menyebut 500 pekerja mati di bukit sekitar Megamendung. William Thorn, perwira Inggris yang ikut menyerbu Jawa pada 1811, menulis bahwa "sekitar 12.000 pekerja dikatakan telah meninggal", terutama karena udara rawa dan hutan.
+
+Tidak satu pun dari keduanya menghitung sendiri. Engelhard menulis sebagai lawan politik, Thorn mencatat kabar di kalangan tentara pendudukan, dan sejarawan kemudian mengutip angka Thorn karena dramatis, bukan karena ada daftar nama. Untuk proyek dua tahun yang melibatkan puluhan ribu orang, ketiadaan arsip korban adalah fakta tersendiri: negara yang memerintahkan kerja tidak merasa perlu mencatat siapa yang mati mengerjakannya.
 
 :::note
-Pramoedya Ananta Toer menempuh jalur itu pada 2001 dan mencatat bahwa di beberapa ruas ia tidak menemukan satu pun dokumen kolonial tentang pembangunan, hanya cerita penduduk dan sisa jalan.
+Pramoedya menempuh jalur itu pada 2001 dan hampir tidak menemukan dokumen kolonial tentang pembangunan ruas-ruas tertentu; yang ada hanya cerita penduduk dan sisa jalan.
 :::
 
-## Tiga tahun yang mengubah administrasi
+## Cara memerintah tanpa hukum
 
-Daendels memerintah hanya dari 1808 sampai 1811, tetapi ia mengubah lebih banyak hal daripada gubernur jenderal mana pun sebelumnya. Ia memindahkan istana ke Buitenzorg, membangun barak dan rumah sakit militer, menjual tanah negara kepada orang Tionghoa dan Eropa sehingga lahir tanah partikelir, dan memberhentikan anggota Dewan Hindia yang menentangnya. Ia juga memotong gaji pejabat, melarang upacara yang dianggap boros, dan memberi hukuman fisik kepada bawahannya.
+Reputasi kejamnya tidak hanya berasal dari jalan. Pada 1808 ia membiarkan tiga orang Eropa yang dituduh mencuri digantung ketika proses pengadilan mereka masih berjalan; hakim yang memprotes dicopot. Ia menghapus kewajiban persepuluhan, menjual tanah negara, dan memerintahkan penyerahan kopi serta beras dalam jumlah tetap, dengan patroli di pelabuhan untuk mencegah penyelundupan.
 
-Cara itu membuatnya dibenci di kalangan Belanda sendiri. Ketika Napoleon jatuh dan pemerintahan Belanda berganti, laporan tentang dia sudah menumpuk di Den Haag. Ia dipanggil pulang pada 1811, menyerahkan jabatan kepada Jan Willem Janssens, dan meninggal pada 1818 di Saint Helena, pulau yang sama tempat Napoleon menghabiskan tahun-tahun terakhirnya. Ia dimakamkan di sana.
+Cara itu membuatnya dibenci di kalangan pejabat Belanda sendiri, yang mengirim laporan ke Den Haag bertahun-tahun sebelum ia dipanggil pulang. Pada 1811 ia meninggalkan Jawa, bertugas dalam kampanye Rusia Napoleon, lalu diangkat menjadi gubernur jenderal di Pantai Emas. Ia meninggal di Elmina pada 2 Mei 1818, jauh dari pulau yang jalan-jalannya ia perintahkan.
 
 ## Yang tersisa
 
-Jalan Raya Pos masih dipakai, sebagian sebagai jalur pantura, sebagian sebagai jalan kabupaten yang lebarnya tidak lagi 7,5 meter. Setiap kali sebuah ruas diperbaiki, pekerjaan itu menyentuh lapisan yang dibuat tanpa catatan. Itulah warisan Daendels yang paling jujur: sebuah infrastruktur yang berfungsi, di atas tenaga yang tidak pernah dihitung, dengan angka korban yang sampai sekarang hanya bisa disebut sebagai perkiraan.
+Ruas-ruas jalan itu masih dipakai, sebagian sebagai jalur pantura, sebagian sebagai jalan kabupaten yang lebarnya sudah berubah. Setiap perbaikan menyentuh lapisan yang dibuat tanpa catatan, dan setiap perdebatan tentang korban berakhir pada dua kesaksian yang tidak pernah dimaksudkan sebagai sensus. Warisan Daendels karena itu berbentuk ganda: infrastruktur yang berfungsi, di atas tenaga yang tidak pernah dihitung.

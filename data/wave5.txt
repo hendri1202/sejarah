@@ -1,0 +1,155 @@
+# Gelombang 5 — 135 entri (9 penulis × 15)
+Format: id|judul|era|years|tags|chapter
+
+## A. Pendidikan & kampus
+ui|Universitas Indonesia|merdeka|1849–kini|pendidikan,kampus,jakarta|24
+itb|Institut Teknologi Bandung|kolonial|1920–kini|pendidikan,teknik,bandung|24
+ugm|Universitas Gadjah Mada|merdeka|1949–kini|pendidikan,kampus,yogyakarta|24
+ipb|Institut Pertanian Bogor|merdeka|1963–kini|pendidikan,pertanian,bogor|24
+unair|Universitas Airlangga|merdeka|1954–kini|pendidikan,kedokteran,surabaya|24
+undip|Universitas Diponegoro|merdeka|1957–kini|pendidikan,kampus,semarang|24
+uin-sunan-kalijaga|UIN Sunan Kalijaga|merdeka|1951–kini|pendidikan,islam,yogyakarta|24
+wajib-belajar|Wajib Belajar|merdeka|1984–kini|pendidikan,kebijakan|25
+kurikulum-1975|Kurikulum 1975|merdeka|1975|pendidikan,kurikulum|25
+ujian-nasional|Ujian Nasional|merdeka|2005–2021|pendidikan,ujian,kebijakan|26
+pisa-indonesia|PISA dan Mutu Pendidikan|merdeka|2000–kini|pendidikan,pisa,evaluasi|26
+guru-indonesia|Guru dan Pendidikan Guru|merdeka|1945–kini|pendidikan,guru,profesi|26
+lpdp|LPDP dan Beasiswa Negara|merdeka|2012–kini|pendidikan,beasiswa,keuangan|26
+perpustakaan-nasional|Perpustakaan Nasional|kolonial|1778–kini|perpustakaan,arsip,budaya|17
+sekolah-rakyat|Sekolah Rakyat|merdeka|1945–1950|pendidikan,1945,kebijakan|23
+
+## B. Transportasi & infrastruktur modern
+tol-jagorawi|Jalan Tol Jagorawi|merdeka|1978|infrastruktur,tol,1978|25
+tol-trans-jawa|Tol Trans Jawa|merdeka|2018|infrastruktur,tol,jawa|26
+kereta-cepat-jakarta-bandung|Kereta Cepat Jakarta-Bandung|merdeka|2023|transportasi,kereta,2023|26
+mrt-jakarta|MRT Jakarta|merdeka|2019|transportasi,mrt,jakarta|26
+lrt-jakarta|LRT Jakarta|merdeka|2019|transportasi,lrt,jakarta|26
+krl-jabodetabek|KRL Jabodetabek|merdeka|1925–kini|transportasi,kereta,jabodetabek|26
+angkot|Angkot dan Transportasi Kota|merdeka|1960–kini|transportasi,kota,angkot|25
+ojek-online|Ojek Online|merdeka|2010–kini|transportasi,digital,ojek|26
+tanjung-priok-modern|Tanjung Priok Modern|merdeka|1950–kini|pelabuhan,jakarta,logistik|26
+bandara-soekarno-hatta|Bandara Soekarno-Hatta|merdeka|1985|bandara,jakarta,transportasi|25
+bandara-kertajati|Bandara Kertajati|merdeka|2018–kini|bandara,jawa-barat,transportasi|26
+jembatan-suramadu|Jembatan Suramadu|merdeka|2009|infrastruktur,madura,jembatan|26
+jembatan-ampera|Jembatan Ampera|merdeka|1965|infrastruktur,palembang,jembatan|24
+tol-laut|Tol Laut|merdeka|2015–kini|logistik,laut,kebijakan|26
+kereta-sumatra|Kereta Api Sumatra|kolonial|1876–kini|kereta,sumatra,transportasi|18
+
+## C. Kesehatan modern
+puskesmas|Puskesmas|merdeka|1968–kini|kesehatan,layanan,puskesmas|25
+bpjs-kesehatan|BPJS Kesehatan|merdeka|2014–kini|kesehatan,jkn,asuransi|26
+rumah-sakit-daerah|Rumah Sakit Daerah|merdeka|1945–kini|kesehatan,rumah-sakit,daerah|25
+polio-indonesia|Polio dan Imunisasi Dasar|merdeka|1970–kini|kesehatan,imunisasi,polio|25
+tbc-indonesia|TBC di Indonesia|kolonial|1900–kini|kesehatan,tbc,penyakit|18
+demam-berdarah|Demam Berdarah|merdeka|1968–kini|kesehatan,dbd,penyakit|25
+hiv-indonesia|HIV/AIDS di Indonesia|merdeka|1987–kini|kesehatan,hiv,penyakit|26
+obat-generik|Obat Generik|merdeka|1990–kini|kesehatan,obat,industri|25
+dokter-spesialis|Dokter dan Distribusi Tenaga Medis|merdeka|1950–kini|kesehatan,tenaga-medis|26
+jamkesmas|Jamkesmas|merdeka|2008–2014|kesehatan,asuransi,kebijakan|26
+posyandu|Posyandu|merdeka|1986–kini|kesehatan,posyandu,keluarga|25
+asi-eksklusif|ASI dan Kampanye Gizi|merdeka|1970–kini|kesehatan,gizi,ibu|26
+tembakau-kesehatan|Tembakau dan Kesehatan|kolonial|1900–kini|tembakau,kesehatan,industri|26
+jkn|Jaminan Kesehatan Nasional|merdeka|2014–kini|kesehatan,jkn,kebijakan|26
+rs-darurat-covid|Rumah Sakit Darurat Covid|merdeka|2020–2021|kesehatan,covid,2020|26
+
+## D. Diplomasi & luar negeri
+asean|ASEAN|merdeka|1967–kini|diplomasi,asean,1967|25
+non-blok|Gerakan Non-Blok|merdeka|1961–kini|diplomasi,non-blok,1961|24
+kaa-1955|Konferensi Asia Afrika|merdeka|1955|diplomasi,kaa,1955|24
+pbb-indonesia|Indonesia di PBB|merdeka|1950–kini|diplomasi,pbb|24
+oki|Indonesia dan OKI|merdeka|1969–kini|diplomasi,oki,islam|25
+g20-2022|KTT G20 Bali 2022|merdeka|2022|diplomasi,g20,2022|26
+apec|APEC dan Indonesia|merdeka|1989–kini|diplomasi,apec,ekonomi|25
+misi-garuda|Misi Garuda|merdeka|1957–kini|diplomasi,pbb,misi|25
+duta-besar|Korps Diplomatik Indonesia|merdeka|1945–kini|diplomasi,kedutaan|24
+laut-china-selatan|Laut China Selatan dan Natuna|merdeka|2000–kini|diplomasi,laut,natuna|26
+hubungan-timor-leste|Hubungan Indonesia-Timor Leste|merdeka|1999–kini|diplomasi,timor,1999|26
+palestina|Dukungan Indonesia untuk Palestina|merdeka|1947–kini|diplomasi,palestina,politik|24
+deklarasi-bali-1976|Deklarasi Bali 1976|merdeka|1976|diplomasi,asean,1976|25
+zopfan|Zona Damai Bebas Senjata Nuklir|merdeka|1995–kini|diplomasi,nuklir,asean|26
+krisis-global|Indonesia dan Krisis Global|merdeka|2008–kini|diplomasi,ekonomi,g20|26
+
+## E. Ekonomi komoditas modern
+batubara-kalimantan|Batubara Kalimantan|merdeka|1980–kini|batubara,tambang,kalimantan|26
+cpo-ekspor|CPO dan Ekspor Sawit|merdeka|1980–kini|sawit,ekspor,ekonomi|26
+timah-modern|Timah Modern|merdeka|1950–kini|timah,tambang,bangka|26
+emas-modern|Emas dan Tambang Modern|merdeka|1967–kini|emas,tambang,ekonomi|26
+perikanan-indonesia|Perikanan Indonesia|merdeka|1950–kini|perikanan,laut,ekonomi|26
+tekstil-indonesia|Industri Tekstil|merdeka|1960–kini|tekstil,industri,ekspor|26
+alas-kaki|Industri Alas Kaki|merdeka|1980–kini|alas-kaki,industri,ekspor|26
+otomotif|Industri Otomotif|merdeka|1960–kini|otomotif,industri,ekonomi|26
+semen|Industri Semen|kolonial|1910–kini|semen,industri,infrastruktur|18
+pupuk|Pupuk dan Pertanian Modern|merdeka|1959–kini|pupuk,pertanian,industri|25
+baja|Industri Baja|merdeka|1962–kini|baja,industri,krakatau|24
+kayu-hti|Hutan Tanaman Industri|merdeka|1980–kini|hutan,kayu,industri|26
+kertas|Industri Kertas|merdeka|1970–kini|kertas,industri,sumatra|26
+elektronik|Industri Elektronik|merdeka|1980–kini|elektronik,industri,ekspor|26
+makanan-olahan|Industri Makanan Olahan|merdeka|1970–kini|makanan,industri,konsumsi|26
+
+## F. Sosial & demografi
+urbanisasi|Urbanisasi|merdeka|1950–kini|demografi,kota,urbanisasi|25
+kemiskinan|Kemiskinan di Indonesia|merdeka|1960–kini|sosial,kemiskinan,data|26
+buruh-migran|Buruh Migran Indonesia|merdeka|1970–kini|migrasi,buruh,luar-negeri|25
+pekerja-rumah-tangga|Pekerja Rumah Tangga|kolonial|1900–kini|buruh,perempuan,sosial|26
+anak-jalanan|Anak Jalanan|merdeka|1980–kini|sosial,anak,kota|26
+sensus-2020|Sensus Penduduk 2020|merdeka|2020|demografi,sensus,data|26
+keluarga-indonesia|Keluarga Indonesia|merdeka|1970–kini|sosial,keluarga,demografi|26
+disabilitas|Disabilitas dan Aksesibilitas|merdeka|1997–kini|sosial,disabilitas,hak|26
+lansia|Penduduk Lanjut Usia|merdeka|2000–kini|demografi,lansia,sosial|26
+ketimpangan|Ketimpangan Ekonomi|merdeka|1990–kini|sosial,ekonomi,gini|26
+perumahan-rakyat|Perumahan Rakyat|merdeka|1950–kini|perumahan,kota,kebijakan|26
+kampung-kota|Kampung Kota|kolonial|1900–kini|kota,kampung,sosial|25
+air-bersih|Air Bersih dan PDAM|kolonial|1906–kini|air,infrastruktur,kota|18
+pedagang-kaki-lima|Pedagang Kaki Lima|merdeka|1950–kini|kota,ekonomi-informal|26
+transportasi-umum|Transportasi Umum dan Subsidi|merdeka|1960–kini|transportasi,kebijakan,kota|26
+
+## G. Pertahanan & alutsista
+alutsista|Alutsista TNI|merdeka|1945–kini|militer,alutsista,pertahanan|26
+industri-pertahanan|Industri Pertahanan|merdeka|1976–kini|pertahanan,industri,teknologi|25
+pindad|PT Pindad|kolonial|1808–kini|pertahanan,industri,bumn|25
+pt-di|PT Dirgantara Indonesia|merdeka|1976–kini|pertahanan,pesawat,industri|25
+pal|PT PAL Indonesia|kolonial|1939–kini|pertahanan,kapal,surabaya|25
+kri|KRI dan Kekuatan Laut|merdeka|1960–kini|militer,laut,alutsista|26
+sukhoi|Sukhoi dan Pengadaan Alutsista|merdeka|2003–kini|militer,pesawat,pengadaan|26
+f-16|F-16 TNI AU|merdeka|1989–kini|militer,pesawat,udara|25
+tni-au|TNI Angkatan Udara|merdeka|1946–kini|militer,udara,sejarah|23
+tni-al|TNI Angkatan Laut|merdeka|1945–kini|militer,laut,sejarah|23
+tni-ad|TNI Angkatan Darat|merdeka|1945–kini|militer,darat,sejarah|23
+pertahanan-siber|Pertahanan Siber|merdeka|2015–kini|militer,siber,teknologi|26
+bakamla|Bakamla|merdeka|2014–kini|militer,laut,keamanan|26
+natuna|Natuna dan Pertahanan Laut|merdeka|2000–kini|militer,natuna,laut|26
+wajib-militer|Wajib Militer dan Pertahanan Rakyat|merdeka|1945–kini|militer,kebijakan,pertahanan|24
+
+## H. Sejarah daerah: Sumatra & Jawa
+sejarah-aceh|Sejarah Aceh|kerajaan|abad ke-9–kini|aceh,sejarah,daerah|14
+sejarah-sumatra-utara|Sejarah Sumatra Utara|kolonial|abad ke-13–kini|sumatra-utara,sejarah,daerah|15
+sejarah-sumatra-barat|Sejarah Sumatra Barat|kerajaan|abad ke-14–kini|sumatra-barat,sejarah,daerah|16
+sejarah-riau|Sejarah Riau|kerajaan|abad ke-14–kini|riau,sejarah,daerah|14
+sejarah-jambi|Sejarah Jambi|kerajaan|abad ke-7–kini|jambi,sejarah,daerah|12
+sejarah-bengkulu|Sejarah Bengkulu|kolonial|1685–kini|bengkulu,sejarah,daerah|15
+sejarah-lampung|Sejarah Lampung|kolonial|abad ke-17–kini|lampung,sejarah,daerah|15
+sejarah-bangka-belitung|Sejarah Bangka Belitung|kolonial|1710–kini|bangka,sejarah,daerah|15
+sejarah-jawa-barat|Sejarah Jawa Barat|kerajaan|abad ke-4–kini|jawa-barat,sejarah,daerah|12
+sejarah-jawa-tengah|Sejarah Jawa Tengah|kerajaan|abad ke-7–kini|jawa-tengah,sejarah,daerah|12
+sejarah-jawa-timur|Sejarah Jawa Timur|kerajaan|abad ke-11–kini|jawa-timur,sejarah,daerah|13
+sejarah-banten|Sejarah Banten|kerajaan|abad ke-16–kini|banten,sejarah,daerah|14
+sejarah-bali|Sejarah Bali|kerajaan|abad ke-9–kini|bali,sejarah,daerah|13
+sejarah-yogyakarta|Sejarah Yogyakarta|kolonial|1755–kini|yogyakarta,sejarah,daerah|15
+sejarah-jakarta|Sejarah Jakarta|kolonial|1527–kini|jakarta,sejarah,daerah|14
+
+## I. Sejarah daerah: Kalimantan, Sulawesi, Maluku, Papua
+sejarah-kalimantan-barat|Sejarah Kalimantan Barat|kerajaan|abad ke-17–kini|kalimantan-barat,sejarah,daerah|14
+sejarah-kalimantan-tengah|Sejarah Kalimantan Tengah|kolonial|1859–kini|kalimantan-tengah,sejarah,daerah|16
+sejarah-kalimantan-selatan|Sejarah Kalimantan Selatan|kerajaan|abad ke-16–kini|kalimantan-selatan,sejarah,daerah|16
+sejarah-kalimantan-timur|Sejarah Kalimantan Timur|kerajaan|abad ke-13–kini|kalimantan-timur,sejarah,daerah|12
+sejarah-kalimantan-utara|Sejarah Kalimantan Utara|kolonial|1900–kini|kalimantan-utara,sejarah,daerah|18
+sejarah-sulawesi-utara|Sejarah Sulawesi Utara|kolonial|abad ke-17–kini|sulawesi-utara,sejarah,daerah|15
+sejarah-sulawesi-tengah|Sejarah Sulawesi Tengah|kolonial|1905–kini|sulawesi-tengah,sejarah,daerah|16
+sejarah-sulawesi-selatan|Sejarah Sulawesi Selatan|kerajaan|abad ke-14–kini|sulawesi-selatan,sejarah,daerah|14
+sejarah-sulawesi-tenggara|Sejarah Sulawesi Tenggara|kolonial|1906–kini|sulawesi-tenggara,sejarah,daerah|16
+sejarah-gorontalo|Sejarah Gorontalo|kolonial|abad ke-16–kini|gorontalo,sejarah,daerah|15
+sejarah-sulawesi-barat|Sejarah Sulawesi Barat|kolonial|1900–kini|sulawesi-barat,sejarah,daerah|16
+sejarah-maluku|Sejarah Maluku|kolonial|1512–kini|maluku,sejarah,daerah|14
+sejarah-maluku-utara|Sejarah Maluku Utara|kerajaan|abad ke-13–kini|maluku-utara,sejarah,daerah|14
+sejarah-papua|Sejarah Papua|kolonial|1898–kini|papua,sejarah,daerah|24
+sejarah-papua-barat|Sejarah Papua Barat|kolonial|1900–kini|papua-barat,sejarah,daerah|24

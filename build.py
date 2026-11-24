@@ -1130,6 +1130,45 @@ def build_404(chapters):
     return page("Tidak ditemukan", "Halaman tidak ditemukan.", body, cls="page-404")
 
 
+STOP = set("""yang dan di ke dari untuk pada dengan dalam ini itu adalah atau juga akan sudah telah
+tidak ada oleh sebagai karena jika maka saat setelah sebelum bisa lebih paling para kami kita mereka dia
+ia nya pun lah kah ketika hingga sampai antara bagi secara serta tetapi namun belum masih hanya saja
+sangat banyak sedikit seorang sebuah suatu tiap setiap""".split())
+
+
+def tok(text: str):
+    text = text.lower()
+    text = re.sub(r"[^a-z0-9\s-]", " ", text)
+    return [w for w in text.split() if len(w) > 2 and w not in STOP]
+
+
+def build_bm25(chapters, entries):
+    """Indeks BM25 ringan: docs + panjang dokumen + postings (dok:tf)."""
+    docs, lengths, postings = [], [], {}
+
+    def add(url, title, kind, era, years, text):
+        idx = len(docs)
+        docs.append([url, title, kind, era, years])
+        toks = tok(text)
+        lengths.append(len(toks))
+        tf = {}
+        for t in toks:
+            tf[t] = tf.get(t, 0) + 1
+        for t, n in tf.items():
+            postings.setdefault(t, []).append((idx, n))
+
+    for c in chapters:
+        add(c["file"], c["title"], "bab", c["part"], c["span"],
+            c["title"] + " " + c["dek"] + " " + c["body"][:9000])
+    for e in entries:
+        add(f"artikel/{e['id']}.html", e["title"], "arsip", e["era"], e["years"],
+            e["title"] + " " + e["dek"] + " " + " ".join(e["tags"]) + " " + e["body"][:2600])
+
+    post = {t: ",".join(f"{i}:{n}" for i, n in v) for t, v in postings.items()}
+    avgdl = round(sum(lengths) / max(1, len(lengths)), 1)
+    return {"docs": docs, "lens": lengths, "post": post, "avg": avgdl, "n": len(docs)}
+
+
 def build_search_index(chapters, entry_list=None):
     entries = []
     for c in chapters:
@@ -1266,6 +1305,11 @@ def main():
              "g": e["tags"], "d": e["dek"], "w": e["words"]} for e in entries]
     (OUT / "assets" / "entries-data.js").write_text(
         "window.KRONIK_ENTRIES=" + json.dumps(slim, ensure_ascii=False, separators=(",", ":")) + ";\n",
+        encoding="utf-8")
+
+    bm = build_bm25(chapters, entries)
+    (OUT / "assets" / "bm25.js").write_text(
+        "window.KRONIK_BM25=" + json.dumps(bm, ensure_ascii=False, separators=(",", ":")) + ";\n",
         encoding="utf-8")
 
     n = build_search_index(chapters, entries if entries else None)
