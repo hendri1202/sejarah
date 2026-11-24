@@ -1,7 +1,7 @@
 # Kronik — sejarah panjang bumi, manusia, dan Indonesia
 
-Situs sejarah berbahasa Indonesia: **26 bab** naratif dan **arsip 555 entri** fokus, dari Dentuman Besar
-sampai Indonesia 2026. Total sekitar **558.000 kata**.
+Situs sejarah berbahasa Indonesia: **26 bab** naratif dan **arsip 586 entri** fokus, dari Dentuman Besar
+sampai Indonesia 2026. Total sekitar **584.000 kata**.
 
 Situs terbit: **https://hendri1202.github.io/sejarah/**
 
@@ -10,11 +10,12 @@ Situs terbit: **https://hendri1202.github.io/sejarah/**
 | Bagian | Jumlah | Keterangan |
 |---|---|---|
 | Bab | 26 | Narasi 3.200–3.800 kata per bab; 6 bagian: Bumi, Manusia, Kerajaan, Kolonialisme, Perang & Pendudukan, Kemerdekaan |
-| Entri arsip | 555 | 800–1.100 kata per entri: satu peristiwa, situs, tokoh, atau kebijakan |
+| Entri arsip | 586 | 800–1.100 kata per entri: satu peristiwa, situs, tokoh, atau kebijakan |
 | Kronologi | 160 peristiwa | Bisa disaring per bagian |
 | Glosarium | 63 istilah | Geologi, arkeologi, kolonial, politik |
 | Tokoh | 80 nama | Indeks dengan tautan ke bab asalnya |
 | Topik | otomatis | Satu halaman per tag, dibuat dari frontmatter entri |
+| Tanya | 1 halaman | Pencarian BM25 atas 612 dokumen, jawaban berkutip + tautan, fallback Wikipedia, mode LLM opsional |
 
 ## Struktur repositori
 
@@ -41,7 +42,7 @@ python3 build.py            # butuh paket `markdown`
 cd docs && python3 -m http.server 8000
 ```
 
-`build.py` menghapus `docs/` lalu membangun ulang seluruh halaman: 26 bab, 555 entri, halaman topik,
+`build.py` menghapus `docs/` lalu membangun ulang seluruh halaman: 26 bab, 586 entri, halaman topik,
 arsip, kronologi, glosarium, tokoh, tentang, 404, `sitemap.xml`, dan indeks pencarian.
 
 Pemeriksaan sebelum terbit:
