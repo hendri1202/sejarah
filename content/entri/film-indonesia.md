@@ -5,7 +5,7 @@ era: kolonial
 years: 1926–kini
 tags: [film, budaya, industri, sensor]
 chapter: 17
-dek: Dari Loetoeng Kasaroeng yang bisu pada 1926 sampai 78 juta penonton film nasional pada 2024
+dek: Dari Loetoeng Kasaroeng yang bisu pada 1926 sampai lebih dari 75 juta penonton film nasional pada 2024
 sources:
   - "J.B. Kristanto, Katalog Film Indonesia 1926–2005 (2005)"
   - "Tirto.id, 'Mencari Jejak Film Nusantara'"
@@ -35,7 +35,7 @@ Negara ikut campur melalui sensor dan perizinan. Badan Sensor Film menentukan fi
 
 Sensor bukan hanya soal adegan. Sepanjang Orde Baru, film yang dianggap menghina pemerintah, agama, atau tentara bisa dilarang atau dipotong. Skenario harus lolos pemeriksaan sebelum syuting, dan film jadi harus mendapat tanda lulus sebelum diputar. Produsen belajar menghindari tema konflik sosial, dan banyak cerita politik berpindah ke teater atau sastra.
 
-Kebijakan itu menciptakan paradoks. Di satu sisi, film Indonesia kehilangan keberanian mengambil tema sejarah kontemporer. Di sisi lain, sensor memberi kepastian bagi produsen: jika film lolos, tidak ada risiko ditarik dari bioskop. Pada 1990-an, ketika kontrol politik melonggar, film mulai membahas seks, kekerasan kota, dan kritik sosial, meski tetap dalam batas yang bisa dinegosiasikan.
+Kebijakan itu menciptakan paradoks. Di satu sisi, film Indonesia kehilangan keberanian mengambil tema sejarah kontemporer. Sebaliknya, sensor memberi kepastian bagi produsen: jika film lolos, tidak ada risiko ditarik dari bioskop. Pada 1990-an, ketika kontrol politik melonggar, film mulai membahas seks, kekerasan kota, dan kritik sosial, meski tetap dalam batas yang bisa dinegosiasikan.
 
 ## Krisis dan kebangkitan
 
@@ -47,7 +47,9 @@ Kebangkitan dimulai pada 2000-an. Film independen dengan anggaran kecil menemuka
 Basis data film Indonesia mencatat 4 judul pada 1998 dan 138 judul pada 2016 — ayunan yang menunjukkan betapa rapuhnya industri ini terhadap krisis ekonomi.
 :::
 
-Pada 2024, penonton film Indonesia mencapai 78 juta, angka tertinggi sepanjang sejarah. Film horor, komedi, dan drama keluarga mendominasi, dengan promosi lewat media sosial dan aplikasi pemesanan tiket. Namun jumlah layar masih terkonsentrasi di Jawa, dan film dengan anggaran besar lebih mudah mendapat jadwal tayang daripada film kecil.
+Pada 2024, penonton film Indonesia mencapai lebih dari 75 juta, angka tertinggi sepanjang sejarah. Film horor, komedi, dan drama keluarga mendominasi, dengan promosi lewat media sosial dan aplikasi pemesanan tiket. Namun jumlah layar masih terkonsentrasi di Jawa, dan film dengan anggaran besar lebih mudah mendapat jadwal tayang daripada film kecil.
+
+Genre horor menjadi mesin pasar pada 2020-an. Film dengan anggaran rendah bisa meraup penonton besar jika berhasil memancing rasa takut dan perbincangan di media sosial. Produser memesan sekuel, semesta cerita, dan remake dari film lama. Kritik menyebut tren ini mengulang formula, tetapi dari sisi industri ia menjaga arus kas bioskop dan memberi kerja bagi ratusan kru.
 
 ## Layar yang mendunia
 

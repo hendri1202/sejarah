@@ -750,7 +750,7 @@ def build_chapter(ch, chapters, entries=None):
                 body, url=ch["file"], cls="page-chapter")
 
 
-def build_timeline(chapters):
+def build_timeline(chapters, entries=None):
     raw = json.loads((DATA / "timeline.json").read_text(encoding="utf-8"))
     raw.sort(key=lambda e: (e["year"], e.get("when", "")))
     counts = {}
@@ -803,6 +803,65 @@ def build_timeline(chapters):
 </main>
 {footer()}
 {search_panel()}"""
+    # ——— arsip menurut abad ———
+    import math
+
+    def first_year(y):
+        raw = y or ""
+        # "74.000 tahun lalu" / "1.500" -> buang titik pemisah ribuan
+        clean = re.sub(r"(?<=\d)\.(?=\d)", "", raw)
+        if re.search(r"tahun lalu|\bka\b|kilo annum", clean, re.I):
+            m0 = re.search(r"(\d{3,6})", clean)
+            return -(int(m0.group(1)) if m0 else 20000)
+        m = re.search(r"(\d{3,4})", clean)
+        if not m:
+            return None
+        val = int(m.group(1))
+        if re.search(r"\bSM\b", clean.upper()):
+            val = -val
+        return val
+
+    buckets = {}
+    for e in (entries or []):
+        y = first_year(e.get("years", ""))
+        if y is None:
+            continue
+        if y <= -10000:
+            key = (-2, "Masa purba (lebih dari 10.000 tahun lalu)")
+        elif y < 0:
+            key = (-1, "Sebelum Masehi")
+        else:
+            c = (y - 1) // 100 + 1
+            key = (c, f"Abad ke-{c}")
+        buckets.setdefault(key, []).append((y, e))
+
+    groups = []
+    for key in sorted(buckets):
+        items = sorted(buckets[key], key=lambda t: (t[0], t[1]["title"]))
+        lis = "".join(
+            f'<li><span class="chron-y">{esc(e.get("years", ""))}</span>'
+            f'<a href="artikel/{e["id"]}.html">{esc(e["title"])}</a></li>'
+            for _, e in items
+        )
+        groups.append(
+            f'<section class="chron-grp"><h2>{esc(key[1])}<span>{len(items)}</span></h2>'
+            f'<ul class="chron-list">{lis}</ul></section>'
+        )
+    archive_block = ""
+    if groups:
+        archive_block = f"""
+<section class="wrap" style="padding-top:clamp(30px,6vw,60px)">
+  <header class="page-head page-head--sub">
+    <div class="chapter__kicker"><span class="micro">Arsip</span><span class="micro">{len(entries)} entri</span></div>
+    <h2 style="font-family:var(--display);font-weight:400;font-size:clamp(30px,4vw,46px);margin:0">
+    Seluruh arsip menurut abad</h2>
+    <p>Semua entri yang punya tahun awal, disusun dari yang tertua. Ini pintu masuk kalau kamu tidak
+    mencari peristiwa tertentu tetapi ingin tahu apa saja yang sudah ditulis pada satu zaman.</p>
+  </header>
+  <div class="chron-tl">{"".join(groups)}</div>
+</section>"""
+
+    body = body.replace("</main>", archive_block + "\n</main>")
     return page("Kronologi", "Garis waktu lengkap dari Dentuman Besar sampai Indonesia hari ini.",
                 body, url="kronologi.html", cls="page-timeline")
 
@@ -1007,7 +1066,7 @@ def build_archive(entries, chapters):
     <input type="search" placeholder="Cari di arsip: Tambora, Diponegoro, rempah…" aria-label="Cari arsip" data-arc-q>
     <select data-arc-tag aria-label="Saring topik"><option value="">Semua topik</option></select>
   </div>
-  <ol class="arc-list" data-arc-list></ol>
+  <ol class="chron-list" data-arc-list></ol>
   <p class="arc-more"><button class="tool" type="button" data-arc-more>Muat lebih banyak</button></p>
 </section>
 </main>
@@ -1337,7 +1396,7 @@ def main():
     (OUT / "index.html").write_text(build_index(chapters, entries), encoding="utf-8")
     for ch in chapters:
         (OUT / ch["file"]).write_text(build_chapter(ch, chapters, entries), encoding="utf-8")
-    (OUT / "kronologi.html").write_text(build_timeline(chapters), encoding="utf-8")
+    (OUT / "kronologi.html").write_text(build_timeline(chapters, entries), encoding="utf-8")
     (OUT / "glosarium.html").write_text(build_glossary(chapters), encoding="utf-8")
     if HAS_FIGURES:
         (OUT / "tokoh.html").write_text(build_figures(figures, chapters), encoding="utf-8")

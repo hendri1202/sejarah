@@ -13,7 +13,7 @@ sources:
   - "R. Wiyono, Hukum Acara Peradilan Tata Usaha Negara (2013)"
 ---
 
-Pada 14 Januari 1991, Peradilan Tata Usaha Negara mulai beroperasi setelah Peraturan Pemerintah Nomor 7 Tahun 1991 menyatakan undang-undangnya berlaku efektif. Undang-Undang Nomor 5 Tahun 1986 sendiri sudah disahkan pada 29 Desember 1986, lima tahun sebelumnya. Jeda itu bukan tanpa alasan: pemerintah membutuhkan waktu menyiapkan hakim, gedung, dan anggaran untuk lingkungan peradilan yang sama sekali baru.
+Peradilan Tata Usaha Negara mulai beroperasi 14 Januari 1991, setelah Peraturan Pemerintah Nomor 7 Tahun 1991 menyatakan undang-undangnya berlaku efektif. Undang-Undang Nomor 5 Tahun 1986 sendiri sudah disahkan pada 29 Desember 1986, lima tahun sebelumnya. Jeda itu bukan tanpa alasan: pemerintah membutuhkan waktu menyiapkan hakim, gedung, dan anggaran untuk lingkungan peradilan yang sama sekali baru.
 
 ## Lingkungan peradilan termuda
 
@@ -39,8 +39,6 @@ Pejabat sering memakai pengecualian itu untuk menghindari gugatan. Keputusan yan
 
 PTUN lahir pada puncak kekuasaan eksekutif yang sangat dominan di bawah Orde Baru. Selama tahun-tahun pertama, jumlah perkara sedikit dan sebagian besar berakhir dengan putusan yang tidak bisa dilaksanakan. Pejabat yang kalah sering tidak mencabut keputusannya, dan tidak ada mekanisme paksa untuk menegakkan putusan pengadilan. Penggugat menang di atas kertas, tetapi izin atau tanahnya tidak kembali.
 
-Sejak Undang-Undang Nomor 14 Tahun 2008 tentang Keterbukaan Informasi Publik berlaku, PTUN mendapat jenis perkara baru: gugatan atas putusan Komisi Informasi. Warga yang ditolak permintaan informasinya oleh badan publik dapat mengajukan sengketa ke komisi, lalu menggugat putusan komisi itu ke pengadilan. Perkara seperti ini menambah beban PTUN, tetapi juga memperluas fungsi pengadilan dari menguji keputusan menjadi menguji akses terhadap informasi.
-
 Pemerintah juga menjaga agar perkara tertentu tidak sampai ke PTUN. Keputusan presiden, keputusan menteri di bidang politik, dan keputusan yang menyangkut "kepentingan nasional" sering dinyatakan berada di luar yurisdiksi. Pembatasan itu tidak selalu tertulis dalam undang-undang, tetapi tercermin dalam putusan-putusan awal yang menolak gugatan atas dasar "kewenangan diskresi" pejabat.
 
 :::note
@@ -53,7 +51,9 @@ Kompetensi PTUN juga diperluas oleh putusan Mahkamah Agung yang mengizinkan peng
 
 Undang-Undang Nomor 9 Tahun 2004 mengubah beberapa pasal, termasuk mempertegas objek sengketa dan menambah kewenangan PTUN atas keputusan yang bersifat fiktif. Undang-Undang Nomor 51 Tahun 2009 melakukan perubahan kedua, memperluas definisi keputusan, dan memberi hakim kewenangan memerintahkan pejabat mencabut keputusan yang dinilai melampaui wewenang.
 
-Perubahan itu memperbaiki norma, bukan pelaksanaan. Putusan PTUN masih sering tidak dijalankan, dan sanksi bagi pejabat yang mengabaikannya lemah. Sejak 2020, sebagian persidangan dilakukan secara elektronik, dan akses ke putusan lebih mudah, tetapi masalah utama tetap: pengadilan bisa membatalkan keputusan, tidak bisa memaksa pejabat menaatinya.
+Perubahan itu memperbaiki norma, bukan pelaksanaan. Putusan PTUN masih sering tidak dijalankan, dan sanksi bagi pejabat yang mengabaikannya lemah.
+
+Sejak Undang-Undang Nomor 14 Tahun 2008 tentang Keterbukaan Informasi Publik berlaku, PTUN mendapat jenis perkara baru: gugatan atas putusan Komisi Informasi. Warga yang ditolak permintaan informasinya oleh badan publik dapat mengajukan sengketa ke komisi, lalu menggugat putusan komisi itu ke pengadilan. Perkara seperti ini menambah beban PTUN, tetapi juga memperluas fungsi pengadilan dari menguji keputusan menjadi menguji akses terhadap informasi. Sejak 2020, sebagian persidangan dilakukan secara elektronik, dan akses ke putusan lebih mudah, tetapi masalah utama tetap: pengadilan bisa membatalkan keputusan, tidak bisa memaksa pejabat menaatinya.
 
 > Peradilan tata usaha negara menguji apakah pejabat bertindak menurut hukum, bukan apakah rakyat mendapat keadilan.
 

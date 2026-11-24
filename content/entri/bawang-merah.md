@@ -36,13 +36,13 @@ Pada 2023, luas panen bawang merah 181.680 hektare dengan produksi sekitar 1,99 
 
 Bawang merah adalah tanaman intensif. Ia membutuhkan pupuk kandang, pupuk kimia, dan pengendalian hama penyakit yang rutin. Di Brebes, petani menyemprot tanaman hampir setiap minggu untuk mencegah thrips, ulat, dan penyakit layu. Biaya pestisida bisa melebihi biaya pupuk, dan ketergantungan pada bahan kimia menimbulkan pertanyaan tentang residu serta kesehatan petani.
 
-Panen dan pascapanen juga menyerap biaya besar. Bawang harus diangkat, dijemur, dan dikeringkan dengan kadar air tertentu agar tahan disimpan. Pengeringan yang tidak sempurna membuat umbi cepat busuk. Gudang berpendingin masih jarang dimiliki petani, sehingga panen raya selalu menekan harga karena pasokan menumpuk dalam waktu singkat.
+Panen dan pascapanen juga menyerap biaya besar. Bawang harus diangkat, dijemur, dan dikeringkan dengan kadar air tertentu agar tahan disimpan. Pengeringan yang tidak sempurna membuat umbi cepat busuk. Gudang berpendingin masih jarang dimiliki petani, sehingga panen raya selalu menekan harga karena pasokan menumpuk dalam waktu singkat. Investasi cold storage sebenarnya bisa memperpanjang masa simpan, tetapi biaya listrik dan perawatannya membuat koperasi kecil ragu.
 
 ## Harga sebagai persoalan politik
 
 Bawang merah masuk kelompok komoditas yang harganya dipantau langsung presiden. Ketika harga naik, pemerintah menggelar operasi pasar dan membuka impor; ketika harga jatuh, petani memprotes dan menuntut pembelian dengan harga layak. Kebijakan itu berulang setiap tahun karena produksi bersifat musiman sementara konsumsi relatif stabil.
 
-Impor bawang merah biasanya berasal dari Vietnam, Thailand, dan India. Pemerintah membatasinya melalui kuota dan waktu masuk, tetapi larangan impor sering tidak efektif karena kebutuhan pasar tidak bisa ditunda. Sebaliknya, impor yang terlalu longgar merusak harga petani. Keseimbangan antara keduanya sulit dicapai karena data stok dan kebutuhan tidak pernah akurat.
+Impor bawang merah biasanya berasal dari Vietnam, Thailand, dan India. Pemerintah membatasinya melalui kuota dan waktu masuk, tetapi larangan impor sering tidak efektif karena kebutuhan pasar tidak bisa ditunda. Sebaliknya, impor yang terlalu longgar merusak harga petani. Keseimbangan antara keduanya sulit dicapai karena data stok dan kebutuhan tidak pernah akurat, dan keputusan impor sering diambil setelah harga terlanjur naik.
 
 > Bawang merah mengajarkan bahwa pangan bukan hanya soal cukup atau tidak cukup, tetapi juga soal kapan dan dengan harga berapa ia sampai ke dapur.
 
@@ -54,6 +54,6 @@ Beberapa daerah mulai memakai umbi bibit dari kultur jaringan dan sistem aeropon
 
 ## Yang belum selesai
 
-Sampai kini, kebijakan bawang merah bergantung pada dua instrumen yang saling bertentangan: impor untuk menstabilkan harga konsumen dan pembatasan impor untuk melindungi petani. Keduanya dipakai bergantian, tanpa solusi struktural berupa gudang berpendingin, asuransi harga, atau sistem perbenihan yang efisien.
+Sampai kini, kebijakan bawang merah bergantung pada dua instrumen yang saling bertentangan: impor untuk menstabilkan harga konsumen dan pembatasan impor untuk melindungi petani. Keduanya dipakai bergantian, tanpa solusi struktural berupa gudang berpendingin, asuransi harga, atau sistem perbenihan yang efisien. Anggaran untuk infrastruktur pascapanen selalu kalah bersaing dengan kebutuhan lain.
 
 Selama biaya produksi tetap tinggi dan rantai distribusi dikuasai pedagang, bawang merah akan terus menjadi komoditas yang mahal bagi konsumen dan berisiko bagi petani. Ia adalah contoh paling jelas bahwa ketahanan pangan tidak berhenti pada produksi, tetapi berlanjut pada penyimpanan, distribusi, dan harga.

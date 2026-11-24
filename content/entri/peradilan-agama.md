@@ -23,7 +23,7 @@ Pengawasan itu bertingkat. Selain landraad, ada pejabat agama kolonial yang meng
 
 Dalam praktik, pengadilan agama menjadi alat untuk mengumpulkan statistik perkawinan, menertibkan pencatatan, dan mencegah sengketa tanah yang bisa mengganggu perkebunan. Fungsi keagamaan dan fungsi administrasi bercampur, dan percampuran itu bertahan lama. Sampai sekarang, buku nikah yang dikeluarkan pengadilan agama berfungsi sekaligus sebagai dokumen hukum dan catatan sipil.
 
-Selain mengadili, penghulu mencatat perkawinan, mengesahkan perceraian, dan mengurus harta wakaf. Karena itu, catatan sipil umat Islam bergantung pada satu pejabat yang sekaligus memutus sengketa, dan pemisahan antara fungsi administrasi dan fungsi peradilan baru berjalan perlahan setelah 1945.
+Kedudukannya lebih rendah daripada landraad. Dalam sengketa waris yang menyangkut tanah, putusan priesterraad bisa dikalahkan pengadilan umum, sehingga banyak keluarga membawa perkara ke landraad meski secara formal menjadi kewenangan pengadilan agama. Pembatasan itu bertahan sampai undang-undang 1989 mengubah susunan kekuasaan kehakiman.
 
 ## Perluasan ke luar Jawa
 
@@ -35,7 +35,9 @@ Setelah 1945, pengadilan agama tetap berjalan tanpa undang-undang nasional. Dasa
 
 Undang-Undang Nomor 7 Tahun 1989 menegaskan bahwa peradilan agama adalah salah satu pelaku kekuasaan kehakiman bagi rakyat pencari keadilan yang beragama Islam. Pasal 49 merinci kewenangannya: perkawinan, waris, wasiat, hibah, wakaf, zakat, infak, sedekah, dan ekonomi syariah. Sebelum undang-undang itu, kewenangan serupa tersebar dalam puluhan peraturan dan putusan, dan sering diperdebatkan di pengadilan negeri.
 
-Perdebatan saat pengesahan menyentuh soal lama. Sebagian fraksi di DPR menolak kata "Islam" dalam rumusan kewenangan karena dianggap membedakan warga negara di depan hukum. Fraksi lain menuntut agar pengadilan agama juga berwenang atas perkara pidana yang diatur syariat. Kompromi yang dihasilkan: kewenangan tetap terbatas pada perkara perdata tertentu, dan hukum acaranya diatur dalam undang-undang tersendiri.
+Di tingkat banding, pengadilan tinggi agama berkedudukan di ibu kota provinsi, dan kasasinya berakhir di Mahkamah Agung. Struktur tiga tingkat itu membuat sengketa waris bisa berjalan bertahun-tahun, sementara harta yang diperebutkan terus menyusut untuk biaya perkara dan perjalanan.
+
+Perdebatan saat pengesahan menyentuh soal lama. Sebagian fraksi di DPR menolak kata "Islam" dalam rumusan kewenangan karena dianggap membedakan warga negara di depan hukum. Fraksi lain menuntut agar pengadilan agama juga berwenang atas perkara pidana yang diatur syariat. Kompromi yang dihasilkan: kewenangan tetap terbatas pada perkara perdata tertentu, dan tidak ada perluasan ke perkara pidana.
 
 ## Ekonomi syariah dan kompilasi
 

@@ -13,7 +13,7 @@ sources:
   - "Transparency International, Corruption Perceptions Index 2024"
 ---
 
-Pada 1963, Soekarno meluncurkan Operasi Budhi untuk membersihkan badan negara dari korupsi. Operasi itu membuka sejumlah kasus, menahan beberapa pejabat, dan membentuk komando khusus yang dipimpin langsung oleh presiden. Dua tahun kemudian operasi itu lumpuh, sebagian karena perhatian negara beralih ke konfrontasi dan peralihan kekuasaan. Sejak itu, setiap rezim di Indonesia punya lembaga antikorupsi sendiri, dan setiap lembaga itu berakhir dengan cerita yang mirip.
+Operasi Budhi diluncurkan Soekarno pada 1963 untuk membersihkan badan negara dari korupsi. Operasi itu membuka sejumlah kasus, menahan beberapa pejabat, dan membentuk komando khusus yang dipimpin langsung oleh presiden. Dua tahun kemudian operasi itu lumpuh, sebagian karena perhatian negara beralih ke konfrontasi dan peralihan kekuasaan. Sejak itu, setiap rezim di Indonesia punya lembaga antikorupsi sendiri, dan setiap lembaga itu berakhir dengan cerita yang mirip.
 
 ## Kata yang masuk ke politik
 
@@ -55,7 +55,7 @@ Gratifikasi menjadi salah satu pintu masuk yang paling sering dipakai. Sejak 200
 
 ## Angka yang tidak bergerak
 
-Pada 2024, Indeks Persepsi Korupsi Indonesia berada di skor 37 dari 100, peringkat 99 dari 180 negara. Skor itu naik tiga poin dari 34 yang bertahan selama dua tahun, tetapi masih di bawah skor 1995-an ketika indeks mulai mengukur Indonesia secara terbatas. Kenaikan kecil itu terjadi setelah bertahun-tahun penurunan, dan tidak serta-merta menunjukkan perbaikan sistem.
+Pada 2024, Indeks Persepsi Korupsi Indonesia berada di skor 37 dari 100, peringkat 99 dari 180 negara. Skor itu naik tiga poin dari 34 yang bertahan selama dua tahun, tetapi masih jauh dari ambang 50 yang biasanya dianggap menandakan perbaikan serius. Kenaikan kecil itu terjadi setelah bertahun-tahun penurunan, dan tidak serta-merta menunjukkan perbaikan sistem.
 
 > Korupsi di Indonesia tidak bertahan karena tidak ada undang-undang, tetapi karena undang-undang itu dijalankan oleh orang-orang yang diuntungkan oleh pelanggarannya.
 

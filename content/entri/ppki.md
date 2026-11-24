@@ -13,15 +13,13 @@ sources:
   - "Benedict Anderson, Java in a Time of Revolution (1972)"
 ---
 
-Pada 18 Agustus 1945, sehari setelah Proklamasi, dua puluh tujuh orang berkumpul di gedung Jalan Pejambon Nomor 6, Jakarta. Ruangan itu masih berbau badan buatan Jepang. Panitia Persiapan Kemerdekaan Indonesia dibentuk pada 7 Agustus, dilantik 9 Agustus dengan 21 anggota, dan oleh Soekarno ditambah enam orang tanpa memberi tahu pihak Jepang. Sidang pagi itu berlangsung kurang dari tiga jam dan menghasilkan keputusan yang masih berlaku delapan dekade kemudian.
+Dua puluh tujuh orang berkumpul di gedung Jalan Pejambon Nomor 6, Jakarta, pada pagi 18 Agustus 1945, sehari setelah Proklamasi. Ruangan itu masih berbau badan buatan Jepang. Panitia Persiapan Kemerdekaan Indonesia dibentuk pada 7 Agustus, dilantik 9 Agustus dengan 21 anggota, dan oleh Soekarno ditambah enam orang tanpa memberi tahu pihak Jepang. Sidang pagi itu berlangsung kurang dari tiga jam dan menghasilkan keputusan yang masih berlaku delapan dekade kemudian.
 
 ## Badan yang lahir dari kekalahan
 
 Jepang membentuk PPKI tiga hari setelah Hiroshima, ketika kekalahan sudah pasti dan janji kemerdekaan harus segera ditepati agar Indonesia tidak jatuh ke tangan Sekutu atau kaum revolusioner. Anggotanya diangkat, bukan dipilih: Soekarno ketua, Hatta wakil ketua, dengan anggota dari Jawa, Sumatra, Sulawesi, Kalimantan, Maluku, dan golongan Tionghoa. Tidak ada wakil organisasi politik, tidak ada pemilihan, dan tidak ada mekanisme pertanggungjawaban kepada rakyat.
 
 Karena itu PPKI menghadapi masalah legitimasi sejak menit pertama. Di luar gedung, kelompok pemuda menuntut kemerdekaan yang lebih radikal dan menolak segala yang berbau Jepang. Di dalam gedung, para anggota tahu bahwa badan mereka hanya punya kewenangan karena dekrit militer Jepang, sementara Jepang sendiri sedang runtuh. Penyelesaiannya bukan teoretis: mereka mengambil alih kekuasaan secara faktual, lalu mencari dasar hukum sesudahnya.
-
-Naskah dibacakan di depan sidang, ditanyakan apakah ada keberatan, lalu disahkan tanpa pembahasan pasal per pasal. Waktu yang tersedia habis untuk urusan tujuh kata dan pemilihan presiden, sehingga pasal-pasal lain lolos tanpa pernah dibaca utuh oleh sebagian anggota.
 
 ## Pagi yang mengubah tujuh kata
 
@@ -34,6 +32,8 @@ Perubahan dilakukan pada naskah yang sudah dicetak, sebelum sidang dibuka. Tidak
 Sidang 18 Agustus menetapkan empat hal. Pertama, mengesahkan rancangan pembukaan dan Undang-Undang Dasar yang disusun panitia BPUPKI. Kedua, menetapkan Aturan Peralihan yang menyatakan bahwa presiden dan wakil presiden dipilih oleh PPKI. Ketiga, memilih Soekarno dan Hatta sebagai presiden dan wakil presiden secara aklamasi. Keempat, menetapkan bahwa untuk sementara segala kekuasaan dijalankan presiden dengan bantuan Komite Nasional.
 
 Pasal-pasal yang disahkan itu ringkas: 37 pasal, beberapa di antaranya hanya satu kalimat. Kekuasaan membentuk undang-undang ada di tangan presiden bersama DPR, tetapi DPR belum ada. Presiden memegang kekuasaan tertinggi atas angkatan darat, laut, dan udara. Tidak ada ketentuan tentang pemilihan umum, tidak ada mahkamah konstitusi, dan tidak ada pernyataan bahwa menteri bertanggung jawab kepada parlemen.
+
+Naskah dibacakan di depan sidang, ditanyakan apakah ada keberatan, lalu disahkan tanpa pembahasan pasal per pasal. Waktu yang tersedia habis untuk urusan tujuh kata dan pemilihan presiden, sehingga pasal-pasal lain lolos tanpa pernah dibaca utuh oleh sebagian anggota.
 
 ## Delapan provinsi, dua belas kementerian
 

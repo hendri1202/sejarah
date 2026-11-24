@@ -13,7 +13,7 @@ sources:
   - "B.J. Boland, The Struggle of Islam in Modern Indonesia (1971)"
 ---
 
-Pada 22 Juni 1945, sembilan orang bertemu di rumah Soekarno di Jalan Pegangsaan Timur 56, Jakarta. Mereka sudah gagal dua kali menyelesaikan satu kalimat: apa dasar negara Indonesia. Pertemuan itu berlangsung beberapa jam, menghasilkan selembar rancangan pembukaan undang-undang dasar, dan menutup perdebatan yang telah memecah sidang BPUPKI sejak 29 Mei. Naskah itu kemudian dikenal sebagai Piagam Jakarta.
+Sembilan orang bertemu di rumah Soekarno di Jalan Pegangsaan Timur 56, Jakarta, pada 22 Juni 1945. Mereka sudah gagal dua kali menyelesaikan satu kalimat: apa dasar negara Indonesia. Pertemuan itu berlangsung beberapa jam, menghasilkan selembar rancangan pembukaan undang-undang dasar, dan menutup perdebatan yang telah memecah sidang BPUPKI sejak 29 Mei. Naskah itu kemudian dikenal sebagai Piagam Jakarta.
 
 ## Jalan buntu di sidang pertama
 
@@ -39,7 +39,7 @@ Sifatnya lebih dekat pada kesepakatan politik antarelite daripada pada dokumen h
 
 ## Pagi yang menghapusnya
 
-Pada 18 Agustus 1945, sebelum sidang PPKI dibuka, Hatta menerima seorang perwira Angkatan Laut Jepang yang menyampaikan keberatan wakil-wakil Indonesia timur. Daerah berpenduduk Kristen itu, katanya, akan memisahkan diri jika tujuh kata dipertahankan. Hatta lalu menemui Teuku Mohammad Hasan, Ki Bagus Hadikusumo, Wachid Hasjim, dan Kasman Singodimedjo. Ia meminta mereka menerima perubahan demi keutuhan negara yang baru berumur satu hari.
+Pada 18 Agustus 1945, sebelum sidang PPKI dibuka, Hatta menerima seorang perwira Angkatan Laut Jepang yang menyampaikan keberatan wakil-wakil Indonesia timur. Daerah berpenduduk Kristen itu, katanya, akan memisahkan diri jika tujuh kata dipertahankan. Hatta lalu memanggil empat tokoh Islam yang ikut menandatangani naskah itu, satu per satu, dan meminta mereka menerima perubahan demi keutuhan negara yang baru berumur satu hari.
 
 Keempat tokoh itu menerima. Naskah yang sudah dicetak diubah dengan tangan, "Ketuhanan dengan kewajiban menjalankan syariat Islam bagi pemeluk-pemeluknya" diganti "Ketuhanan Yang Maha Esa". Tidak ada rapat yang memutuskan, tidak ada suara yang dihitung, dan tidak ada catatan resmi tentang siapa yang menolak. Sampai kini, tidak ada dokumen yang bisa membuktikan bahwa perubahan itu disetujui menurut prosedur yang berlaku.
 

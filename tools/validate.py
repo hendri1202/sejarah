@@ -12,9 +12,12 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 ENTRI = ROOT / "content" / "entri"
 ERAS = {"bumi", "manusia", "kerajaan", "kolonial", "jepang", "merdeka"}
-FORBIDDEN = [
-    "tahukah kamu", "menariknya", "dalam artikel ini", "mari kita",
-    "kesimpulannya", "penting untuk dicatat", "di sisi lain,",
+FORBIDDEN = ["tahukah kamu", "dalam artikel ini", "mari kita"]
+FORBIDDEN_OPENERS = [
+    r"(?:^|[.!?]\s+)Di sisi lain,",
+    r"(?:^|[.!?]\s+)Menariknya",
+    r"(?:^|[.!?]\s+)Kesimpulannya",
+    r"(?:^|[.!?]\s+)Penting untuk dicatat",
 ]
 
 def parse_front(text):
@@ -86,6 +89,9 @@ def check(path):
     for f in FORBIDDEN:
         if f in low:
             errs.append(f"frasa terlarang: {f}")
+    for pat in FORBIDDEN_OPENERS:
+        if re.search(pat, body):
+            errs.append("pembuka terlarang: " + pat.split(')')[-1].strip())
     if re.search(r"^\|.*\|\s*$", body, re.M):
         errs.append("ada tabel")
     if re.search(r"!\[|<[a-z]+[\s>]|\]\(http", body):

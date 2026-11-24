@@ -39,6 +39,8 @@ Harga pulsa menjadi alat bersaing. Operator menawarkan tarif per detik, paket SM
 
 Fitur transfer pulsa, yang diperkenalkan Telkomsel pada awal 2000-an, menambah lapisan baru. Pulsa bisa dikirim antar-pengguna tanpa biaya besar, sehingga menjadi alat bantu keluarga dan bentuk uang elektronik sebelum dompet digital ada. Pekerja migran mengirim pulsa ke kampung, orang tua mentransfer saldo ke anak yang kuliah, dan warung menerima pembayaran dalam bentuk pulsa. Praktik ini kemudian diadopsi operator lain dan bertahan sampai era uang elektronik.
 
+Nomor cantik menjadi pasar sendiri. Deretan angka berulang atau mudah diingat dijual jauh di atas harga kartu biasa, dan pedagang mengiklankannya di koran serta internet. Bagi sebagian orang, nomor adalah status; bagi pedagang, ia adalah inventaris yang bisa disimpan dan dijual kembali. Fenomena ini menunjukkan bahwa kartu prabayar bukan sekadar alat komunikasi, tetapi juga komoditas yang punya nilai pasar.
+
 ## Registrasi dan negara
 
 Pada 2017, pemerintah mewajibkan registrasi kartu prabayar dengan nomor induk kependudukan dan kartu keluarga. Pelanggan lama harus mendaftar ulang, dan nomor yang tidak terdaftar diblokir bertahap sampai 28 Februari 2018. Tujuannya menertibkan data pelanggan, mencegah penipuan, dan memberi negara kemampuan melacak nomor yang dipakai untuk kejahatan.
@@ -53,6 +55,6 @@ Pada 2019, BPS mencatat 331,9 juta sambungan prabayar dan hanya 6,9 juta pascaba
 
 Kartu prabayar membuat komunikasi murah, tetapi juga memudahkan penyalahgunaan. Nomor sekali pakai dipakai untuk SMS penipuan, iklan judi, dan pesan hoaks yang menyebar lewat aplikasi percakapan. Penegak hukum kesulitan mengejar pelaku karena nomor bisa dibuang setelah dipakai. Operator diminta memblokir nomor yang dilaporkan, tetapi prosesnya lambat dan tidak selalu transparan.
 
-Di sisi lain, prabayar adalah tulang punggung konektivitas Indonesia. Bagi nelayan, pedagang pasar, dan pekerja migran, kartu murah dengan pulsa kecil lebih terjangkau daripada langganan bulanan. Kebebasan memilih operator dan berpindah nomor juga menekan harga. Tanpa prabayar, ponsel mungkin tetap menjadi barang kelas menengah, dan internet tidak akan menyebar secepat yang terjadi pada 2010-an.
+Sebaliknya, prabayar adalah tulang punggung konektivitas Indonesia. Bagi nelayan, pedagang pasar, dan pekerja migran, kartu murah dengan pulsa kecil lebih terjangkau daripada langganan bulanan. Kebebasan memilih operator dan berpindah nomor juga menekan harga. Tanpa prabayar, ponsel mungkin tetap menjadi barang kelas menengah, dan internet tidak akan menyebar secepat yang terjadi pada 2010-an.
 
 Pada 2020-an, kartu prabayar berubah lagi menjadi paket data mingguan dan bulanan yang dibeli lewat aplikasi. Telepon dan SMS menjadi pelengkap, sementara kuota internet menjadi ukuran utama. Nama-nama lama seperti Simpati, Kartu As, dan Mentari sempat dilebur ke merek baru, lalu dihidupkan kembali sebagai bagian dari nostalgia pasar. Fungsinya tetap sama: menjual akses tanpa kontrak, dalam satuan yang terjangkau.

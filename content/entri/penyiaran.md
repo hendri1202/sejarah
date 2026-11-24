@@ -39,9 +39,13 @@ Reformasi membuka ruang baru. Undang-Undang No. 32 Tahun 2002 tentang Penyiaran 
 
 KPI tidak mudah bekerja. Kewenangannya terbatas pada sanksi administratif, sementara izin frekuensi tetap di tangan pemerintah. Konflik sering muncul ketika KPI menegur program yang dianggap melanggar kesusilaan atau kepentingan publik, lalu stasiun membela diri dengan alasan kebebasan berekspresi dan rating. Undang-undang itu sendiri menuai kritik karena dianggap membuka jalan bagi konsentrasi kepemilikan media.
 
+Pedoman perilaku penyiaran dan standar program siaran disusun KPI bersama lembaga penyiaran. Dokumen itu mengatur jam tayang, klasifikasi usia, dan larangan isi tertentu, tetapi penegakannya bergantung pada laporan masyarakat. Sanksi terberat biasanya berupa penghentian sementara program, bukan pencabutan izin.
+
 ## Matinya siaran analog
 
 Transisi ke digital mengubah lanskap secara teknis dan politik. Siaran digital jauh lebih efisien: satu kanal frekuensi bisa memuat beberapa program sekaligus, dan kualitas gambar lebih stabil. Pemerintah memulai uji coba televisi digital pada 2009, lalu menetapkan DVB-T2 sebagai standar pada 2012. Namun pengalihan total tertunda bertahun-tahun karena kesiapan infrastruktur dan set-top box.
+
+Efisiensi itu melahirkan "dividen digital", yaitu sisa frekuensi yang bisa dipakai untuk layanan lain seperti internet seluler. Operator telekomunikasi menuntut porsi besar, sementara penyiaran publik dan televisi lokal meminta jaminan ruang. Pembagian dividen digital menjadi perebutan ekonomi, bukan hanya soal teknologi: setiap megahertz yang dialihkan berpotensi menghasilkan pendapatan besar bagi negara dan operator.
 
 Penghentian siaran analog atau analog switch-off dilakukan bertahap. Tahap pertama di Jabodetabek pada 2 November 2022, lalu menyusul wilayah lain. Pada Agustus 2023, pemerintah menyatakan seluruh siaran televisi analog di Indonesia telah dimatikan dan digantikan siaran digital. Rumah tangga yang belum memiliki televisi digital harus memakai set-top box, dan pemerintah membagikan bantuan alat secara terbatas.
 
@@ -52,5 +56,7 @@ Analog switch-off tahap pertama berlangsung di Jabodetabek pada 2 November 2022;
 ## Konsentrasi dan revisi
 
 Digitalisasi tidak menghapus masalah lama. Jumlah kanal bertambah, tetapi kepemilikan tetap terkonsentrasi pada beberapa kelompok usaha. Satu grup media bisa menguasai puluhan stasiun televisi dan radio nasional, sementara radio komunitas dan televisi lokal berjuang mendapat ruang. Iklan tetap mengalir ke program dengan rating tinggi, bukan ke layanan publik.
+
+Angka menunjukkan skala persoalan. TVRI memiliki 32 stasiun penyiaran daerah, sementara izin radio swasta mencapai lebih dari 1.300 di seluruh Indonesia, dengan lebih dari separuh terkonsentrasi di Jawa. Pada 2024, satu kelompok usaha televisi mencatat pangsa penonton free-to-air sekitar 32,9 persen. Pasar yang secara nominal beragam itu dikuasai oleh sedikit pemain besar.
 
 KPI dan organisasi masyarakat sipil mendorong revisi UU Penyiaran sejak lama. Mereka menuntut aturan yang lebih tegas soal kepemilikan silang, perlindungan jurnalisme, dan pembagian dividen digital. Sampai 2024, revisi itu belum selesai. Perdebatan tentang siapa yang berhak memakai frekuensi publik karena itu masih terbuka, lebih dari dua puluh tahun setelah undang-undang disahkan.

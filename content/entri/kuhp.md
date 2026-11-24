@@ -13,7 +13,7 @@ sources:
   - "Mahkamah Konstitusi RI, Putusan Nomor 013-022/PUU-IV/2006"
 ---
 
-Pada 2 Januari 2026, Kitab Undang-Undang Hukum Pidana baru mulai berlaku di Indonesia. Kitab yang digantikannya juga mulai berlaku pada 2 Januari, tepat 108 tahun sebelumnya: Wetboek van Strafrecht voor Nederlandsch-Indië, ditetapkan dengan Staatsblad 1915 Nomor 732 dan dinyatakan berlaku 1 Januari 1918. Dua tanggal yang sama, dua negara yang berbeda, dan satu pertanyaan yang belum terjawab: seberapa banyak isi kitab lama yang sebenarnya masih hidup di dalam kitab baru.
+Pada 2 Januari 2026, Kitab Undang-Undang Hukum Pidana baru mulai berlaku di Indonesia. Kitab yang digantikannya juga mulai berlaku pada awal Januari, 108 tahun sebelumnya: Wetboek van Strafrecht voor Nederlandsch-Indië, ditetapkan dengan Staatsblad 1915 Nomor 732 dan dinyatakan berlaku 1 Januari 1918. Dua tanggal yang sama, dua negara yang berbeda, dan satu pertanyaan yang belum terjawab: seberapa banyak isi kitab lama yang sebenarnya masih hidup di dalam kitab baru.
 
 ## Kitab yang diwarisi
 
@@ -25,13 +25,13 @@ Kitab lama juga membawa delik yang sudah kehilangan objeknya, seperti pelanggara
 
 ## Pasal karet dan pemangkasannya
 
-Yang membuat kitab lama bertahan bukan hanya kelengkapannya, tetapi juga kelenturan beberapa pasalnya. Pasal 154 dan 157 tentang penyebaran kebencian dipakai terhadap kritik politik; Pasal 134, 137, dan 136 bis tentang penghinaan terhadap presiden dan wakil presiden dipakai untuk membungkam surat kabar. Ketiganya tidak pernah jelas batasnya, dan penyidik menentukan sendiri kapan sebuah tulisan dianggap menghina.
+Yang membuat kitab lama bertahan bukan hanya kelengkapannya, tetapi juga kelenturan beberapa pasalnya. Pasal 154 dan 157 tentang penyebaran kebencian dipakai terhadap kritik politik; Pasal 134, 137, dan 136 bis tentang penghinaan terhadap presiden dan wakil presiden dipakai untuk membungkam surat kabar. Pasal-pasal itu tidak pernah jelas batasnya, dan penyidik menentukan sendiri kapan sebuah tulisan dianggap menghina.
 
 Mahkamah Konstitusi memangkas sebagian pada 2006. Dalam Putusan Nomor 013-022/PUU-IV/2006, pasal-pasal penghinaan presiden dinyatakan bertentangan dengan konstitusi karena membatasi kebebasan berekspresi tanpa alasan yang cukup. Sejak itu, mengkritik presiden tidak lagi bisa dipidana lewat kitab lama. Preseden itu tidak menghapus pasal karet lain, dan sepuluh tahun kemudian sejumlah orang masih dipidana dengan pasal penghinaan kepala negara daerah atau ujaran kebencian.
 
 ## Tiga tahun penundaan
 
-Rancangan kitab baru disahkan dalam rapat paripurna DPR pada 6 Desember 2022, setelah dibahas bertahun-tahun dan berkali-kali ditunda. Hanya satu fraksi, PKS, menolak dan meninggalkan ruang sidang. Undang-Undang Nomor 1 Tahun 2023 ditandatangani pada 2 Januari 2023, tetapi Pasal 624 memberi tenggang tiga tahun, sehingga baru berlaku 2 Januari 2026.
+Rancangan kitab baru disahkan dalam rapat paripurna DPR pada 6 Desember 2022, setelah dibahas bertahun-tahun dan berkali-kali ditunda. Fraksi PKS menolak dan meninggalkan ruang sidang, sementara fraksi lain menerima dengan catatan. Undang-Undang Nomor 1 Tahun 2023 ditandatangani pada 2 Januari 2023, tetapi Pasal 624 memberi tenggang tiga tahun, sehingga baru berlaku 2 Januari 2026.
 
 Penundaan itu sendiri menjadi perdebatan. Pemerintah beralasan perlu waktu menyiapkan peraturan pelaksana dan sosialisasi; pengkritik menyebutnya cara menghindari perdebatan publik menjelang pemilu 2024. Selama tiga tahun, sejumlah pasal diuji ke Mahkamah Konstitusi, dan sebagian permohonan dikabulkan sebelum kitab itu sempat berlaku.
 

@@ -10,10 +10,10 @@ sources:
   - "Ide Anak Agung Gde Agung, Twenty Years Indonesian Foreign Policy 1945–1965 (1973)"
   - "George McT. Kahin, Nationalism and Revolution in Indonesia (1952)"
   - "Robert J. McMahon, Colonialism and Cold War (1981)"
-  - "Arsip Nasional RI, Konferensi Meja Bundar: Kumpulan Dokumen (1999)"
+  - "Mohammad Hatta, Memoir (1979)"
 ---
 
-Pada 23 Agustus 1949, di Ridderzaal, Den Haag, tiga delegasi duduk mengelilingi meja panjang. Republik Indonesia diwakili Hatta, negara-negara bagian bentukan Belanda diwakili Sultan Hamid II, dan Kerajaan Belanda diwakili Menteri Luar Negeri Dirk Stikker bersama Van Maarseveen. Di ujung meja duduk perwakilan Komisi Perserikatan Bangsa-Bangsa untuk Indonesia, Merle Cochran. Konferensi itu berlangsung sebelas minggu dan berakhir pada 2 November 1949 dengan penyerahan kedaulatan yang dijadwalkan 27 Desember.
+Ridderzaal, Den Haag, 23 Agustus 1949. Tiga delegasi duduk mengelilingi meja panjang. Republik Indonesia diwakili Hatta, negara-negara bagian bentukan Belanda diwakili Sultan Hamid II, dan Kerajaan Belanda diwakili Menteri Luar Negeri Dirk Stikker bersama Van Maarseveen. Di ujung meja duduk perwakilan Komisi Perserikatan Bangsa-Bangsa untuk Indonesia, Merle Cochran. Konferensi itu berlangsung sebelas minggu dan berakhir pada 2 November 1949 dengan penyerahan kedaulatan yang dijadwalkan 27 Desember.
 
 ## Tiga delegasi, satu meja
 

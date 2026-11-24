@@ -13,7 +13,7 @@ sources:
   - "Benedict Anderson, Java in a Time of Revolution (1972)"
 ---
 
-Pada 29 April 1945, enam puluh dua orang Indonesia masuk ke gedung bekas Volksraad di Jalan Pejambon, Jakarta. Mereka tidak dipilih siapa pun. Pemerintah militer Jepang mengangkat mereka satu per satu dan menunjuk Radjiman Wedyodiningrat, seorang dokter keraton, sebagai ketua. Dalam bahasa Jepang badan itu bernama Dokuritsu Junbi Cosakai; dalam bahasa Indonesia, Badan Penyelidik Usaha-Usaha Persiapan Kemerdekaan Indonesia.
+Gedung bekas Volksraad di Jalan Pejambon, Jakarta, 29 April 1945. Enam puluh dua orang Indonesia masuk ke ruang sidang yang baru disiapkan. Mereka tidak dipilih siapa pun. Pemerintah militer Jepang mengangkat mereka satu per satu dan menunjuk Radjiman Wedyodiningrat, seorang dokter keraton, sebagai ketua. Dalam bahasa Jepang badan itu bernama Dokuritsu Junbi Cosakai; dalam bahasa Indonesia, Badan Penyelidik Usaha-Usaha Persiapan Kemerdekaan Indonesia.
 
 ## Badan yang tidak berwenang
 

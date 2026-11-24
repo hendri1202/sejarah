@@ -37,6 +37,8 @@ Revolusi berikutnya bukan di layar komputer. Setelah ponsel pintar murah membanj
 
 Model bisnisnya berubah dari langganan menjadi pembelian dalam aplikasi: skin, karakter, battle pass, dan koin. Pembayaran dilakukan lewat pulsa, transfer bank, atau minimarket. Pemain yang tidak membayar tetap bisa bermain, tetapi yang membayar mendapat penampilan dan keuntungan kosmetik. Pendapatan industri melonjak karena basis pemain jauh lebih besar daripada era warnet.
 
+Sebelum ponsel mendominasi, ada generasi game PC yang dijual gratis tetapi mengandalkan item berbayar. Point Blank dan Cross Fire menjadi favorit di warnet pada awal 2010-an, dimainkan sebagai penembak orang pertama dengan senjata yang bisa dibeli. Turnamen antarkafe dan liga lokal tumbuh dari komunitas ini, jauh sebelum esports menjadi industri yang disponsori merek besar.
+
 ## Uang dan turnamen
 
 Pada 2023, pendapatan industri gim Indonesia melewati USD 1,6 miliar, dan pemerintah mulai melihatnya sebagai sektor ekonomi kreatif, bukan sekadar hiburan. Peraturan Presiden No. 19 Tahun 2024 tentang Percepatan Pengembangan Industri Gim Nasional memberi insentif bagi pengembang lokal, memperkuat pendidikan vokasi, dan mendorong ekspor gim buatan Indonesia.

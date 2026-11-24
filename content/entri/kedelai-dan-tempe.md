@@ -53,4 +53,6 @@ Tempe kini dipromosikan sebagai sumber protein nabati yang murah dan ramah lingk
 
 Persoalannya, tempe yang dijual di pasar sering mengandung pengawet atau dicampur bahan lain untuk menekan biaya. Mutu kedelai impor juga bervariasi, dan kontaminasi aflatoksin pada kedelai yang disimpan lembap menjadi risiko kesehatan. Pengawasan mutu tersebar di banyak lembaga dan jarang sampai ke produsen rumahan.
 
+Industri tempe juga menghadapi tekanan dari program pangan pemerintah. Ketika tempe dimasukkan sebagai lauk dalam paket bantuan pangan, permintaan naik cepat, tetapi pengrajin kecil jarang bisa menjadi pemasok resmi karena tidak memenuhi syarat administrasi dan sertifikasi. Pengadaan besar lebih mudah diisi pabrik besar, sehingga program yang dimaksudkan membantu rakyat justru memperlebar jarak antara pengrajin tradisional dan industri.
+
 Masa depan tempe tidak ditentukan oleh resep, melainkan oleh kebijakan kedelai. Selama impor lebih murah daripada menanam sendiri, Indonesia akan terus mengimpor bahan baku untuk makanan yang dianggap paling asli Indonesia. Pertanyaannya, apakah ketergantungan itu bisa diterima sebagai pilihan rasional, ataukah ia menutup kemungkinan membangun pertanian kedelai yang layak bagi petani.

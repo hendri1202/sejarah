@@ -13,7 +13,7 @@ sources:
   - "Tim Lindsey (ed.), Indonesia: Law and Society (2008)"
 ---
 
-Pada 1 Januari 1918, Wetboek van Strafrecht voor Nederlandsch-Indië mulai berlaku, dan bersamanya berjalan satu sistem pengadilan yang membagi penduduk berdasarkan ras. Seorang Eropa, seorang Tionghoa, dan seorang Jawa yang melakukan kejahatan yang sama di kota yang sama bisa diadili di pengadilan berbeda, dengan hak berbeda, dan oleh hakim yang berbeda. Sistem itu bertahan setelah 1945, sebagian besar pasalnya tidak berubah sampai 2026.
+Wetboek van Strafrecht voor Nederlandsch-Indië mulai berlaku 1 Januari 1918, dan bersamanya berjalan satu sistem pengadilan yang membagi penduduk berdasarkan ras. Seorang Eropa, seorang Tionghoa, dan seorang Jawa yang melakukan kejahatan yang sama di kota yang sama bisa diadili di pengadilan berbeda, dengan hak berbeda, dan oleh hakim yang berbeda. Sistem itu bertahan setelah 1945, sebagian besar pasalnya tidak berubah sampai 2026.
 
 ## Empat pengadilan, satu wilayah
 

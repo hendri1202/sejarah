@@ -13,7 +13,7 @@ sources:
   - "Media Partners Asia, laporan belanja iklan TV free-to-air 2024"
 ---
 
-Pada 1 Maret 1963, TVRI mulai menyiarkan iklan. Siaran niaga itu masuk di sela program, dibacakan penyiar atau dibintangi aktor dengan gaya teater, dan menjadi sumber pendapatan pertama televisi negara yang baru berusia tujuh bulan. Dua puluh delapan tahun kemudian, pada 24 Agustus 1989, RCTI mengudara sebagai televisi swasta pertama dan membuka pasar yang jauh lebih besar: iklan tidak lagi pelengkap, tetapi alasan utama stasiun berdiri.
+Pada 1 Maret 1963, TVRI mulai menyiarkan iklan. Siaran niaga itu masuk di sela program, dibacakan penyiar atau dibintangi aktor dengan gaya teater, dan menjadi sumber pendapatan pertama televisi negara yang baru berusia setengah tahun. Dua puluh enam tahun kemudian, pada 24 Agustus 1989, RCTI mengudara sebagai televisi swasta pertama dan membuka pasar yang jauh lebih besar: iklan tidak lagi pelengkap, tetapi alasan utama stasiun berdiri.
 
 ## Siaran niaga pertama
 
@@ -38,6 +38,8 @@ Angka belanja iklan menunjukkan pergeseran kekuasaan media. Pada 1991, belanja i
 Pada 2000, dari total belanja iklan Rp 7,88 triliun, sekitar 62,31 persen masuk ke televisi. Surat kabar, radio, dan majalah berbagi sisanya. Televisi menjadi media dominan bukan karena jangkauannya saja, tetapi karena iklan bergerak bisa menampilkan wajah, suara, dan musik dalam satu paket. Bagi pengiklan, tidak ada medium lain yang mampu menjangkau puluhan juta orang pada jam yang sama.
 
 Di balik angka itu ada industri perantara: agensi periklanan, rumah produksi, dan lembaga survei rating. Agensi membeli slot atas nama klien, rumah produksi membuat versi pendek dan panjang, survei menentukan harga. Stasiun menetapkan tarif berdasarkan rating dan profil penonton, lalu memberi diskon untuk pembelian paket. Pada 1990-an, satu slot 30 detik di jam utama bisa lebih mahal daripada biaya produksi satu episode sinetron.
+
+Kampanye pariwisata menunjukkan kekuatan medium ini. Tahun Kunjungan Wisata Indonesia 1991 memakai iklan televisi untuk menjual pantai, candi, dan budaya ke pasar domestik dan luar negeri. Iklan pariwisata tidak menjual produk sekali beli, tetapi citra negara. Pemerintah dan pengusaha bekerja sama membiayai kampanye, dan stasiun mendapat pembeli baru yang tidak bergantung pada musim penjualan barang konsumen.
 
 > Televisi menjual penonton kepada pengiklan, dan sinetron adalah cara termurah mengumpulkan penonton itu.
 

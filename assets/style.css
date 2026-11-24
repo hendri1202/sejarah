@@ -1148,3 +1148,21 @@ main{position:relative;z-index:1;padding-top:58px}
 .chat__note .tool:hover{border-bottom-color:var(--accent);color:var(--accent);background:none}
 .msg__src li{flex:1 1 auto;min-width:0}
 .msg__src a{display:inline-block;max-width:100%}
+
+/* arsip menurut abad (halaman kronologi) */
+.chron-tl{display:block;margin-top:26px}
+.chron-grp{margin:0 0 clamp(26px,4vw,40px)}
+.chron-grp h2{
+  font-family:var(--mono);font-size:10px;letter-spacing:.14em;text-transform:uppercase;
+  color:var(--muted);font-weight:400;margin:0 0 10px;display:flex;justify-content:space-between;
+  border-bottom:1px solid var(--rule);padding-bottom:7px;
+}
+.chron-grp h2 span{color:var(--rule)}
+.chron-list{list-style:none;margin:0;padding:0;columns:2;column-gap:clamp(26px,4vw,54px)}
+@media(max-width:760px){.chron-list{columns:1}}
+.chron-list li{padding:7px 0;border-bottom:1px solid var(--rule-soft);display:block;font-size:.92em;line-height:1.4;break-inside:avoid}
+.chron-list li:last-child{border-bottom:0}
+.chron-y{display:block;font-family:var(--mono);font-size:9.5px;color:var(--muted);letter-spacing:.06em;margin-bottom:2px}
+.chron-list a{color:var(--ink);text-decoration:none;display:inline;line-height:1.35}
+.chron-list a:hover{color:var(--accent)}
+.page-head--sub{margin-bottom:0}

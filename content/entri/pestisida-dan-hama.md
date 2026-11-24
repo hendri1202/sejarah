@@ -39,7 +39,7 @@ Sekolah Lapang PHT yang dimulai pada akhir 1980-an melatih petani mengamati ekos
 
 ## Hama baru, racun lama
 
-Tekanan hama tidak berhenti. Pada 2019, ulat grayak jagung (Spodoptera frugiperda) masuk Indonesia dan menyerang tanaman jagung di Sumatera dan Jawa. Petani merespons dengan insektisida, meski banyak produk tidak efektif karena hama menyerang bagian dalam tanaman. Pada tanaman pangan lain, wereng dan penggerek batang tetap menjadi ancaman tahunan.
+Tekanan hama tidak berhenti. Pada 2019, ulat grayak jagung (Spodoptera frugiperda) masuk Indonesia dan menyerang tanaman jagung di Sumatera dan Jawa. Petani merespons dengan insektisida, meski banyak produk tidak efektif karena hama menyerang bagian dalam tanaman. Pada tanaman pangan lain, wereng dan penggerek batang tetap menjadi ancaman tahunan. Perubahan iklim menambah ketidakpastian: musim tanam yang bergeser membuat siklus hama tidak lagi cocok dengan jadwal penyemprotan yang biasa dipakai petani.
 
 Penggunaan pestisida Indonesia termasuk yang tertinggi di dunia. FAO mencatat sekitar 283 ribu ton pestisida dipakai pada 2021, menempatkan Indonesia di antara tiga pengguna terbesar setelah Brasil dan Amerika Serikat. Angka itu mencakup insektisida, herbisida, dan fungisida, termasuk yang dipakai di perkebunan kelapa sawit dan hortikultura.
 
@@ -47,12 +47,14 @@ Penggunaan pestisida Indonesia termasuk yang tertinggi di dunia. FAO mencatat se
 
 ## Residu dan kesehatan
 
-Persoalan pestisida tidak berhenti di sawah. Residu insektisida ditemukan pada sayur dan buah yang dijual di pasar, dan petani yang menyemprot tanpa alat pelindung berisiko keracunan. Beberapa bahan aktif yang dilarang di negara lain, seperti klorpirifos, masih beredar untuk keperluan tertentu. Pengawasan mutu dan label produk belum konsisten di daerah.
+Persoalan pestisida tidak berhenti di sawah. Residu insektisida ditemukan pada sayur dan buah yang dijual di pasar, dan petani yang menyemprot tanpa alat pelindung berisiko keracunan. Beberapa bahan aktif yang dilarang di negara lain, seperti klorpirifos, masih beredar untuk keperluan tertentu. Pengawasan mutu dan label produk belum konsisten di daerah. Biaya kesehatan akibat paparan pestisida jarang dihitung sebagai bagian dari biaya produksi pangan, padahal ia ditanggung petani dan keluarganya.
 
 Regulasi Indonesia mengatur pendaftaran dan peredaran pestisida, tetapi pengujian residu di tingkat petani jarang dilakukan. Konsumen kota yang membeli sayur murah tidak punya cara mengetahui riwayat penyemprotannya. Sertifikasi produk organik ada, tetapi mahal dan volumenya kecil.
 
+Setelah 1998, desentralisasi mengubah pengawasan. Sebagian kewenangan perizinan berpindah ke daerah, dan pengawasan pasar menjadi tidak seragam. Petani di satu kabupaten bisa memakai produk yang dilarang di kabupaten lain. Sebaliknya, gerakan pertanian organik tumbuh di kota-kota dan menciptakan pasar kecil yang memberi harga lebih baik, meski sertifikasinya masih menjadi hambatan bagi petani kecil.
+
 ## Pelajaran yang belum dipakai
 
-Kisah wereng 1986 menunjukkan bahwa solusi teknis bisa menjadi sumber masalah jika diterapkan seragam. Varietas tahan, pupuk, dan pestisida bekerja baik dalam jangka pendek, tetapi menciptakan kerentanan ketika ditanam dalam skala luas dan terus-menerus. Keanekaragaman—varietas, waktu tanam, dan musuh alami—adalah asuransi yang tidak terlihat dalam statistik produksi.
+Kisah wereng 1986 menunjukkan bahwa solusi teknis bisa menjadi sumber masalah jika diterapkan seragam. Varietas tahan, pupuk, dan pestisida bekerja baik dalam jangka pendek, tetapi menciptakan kerentanan ketika ditanam dalam skala luas dan terus-menerus. Keanekaragaman—varietas, waktu tanam, dan musuh alami—adalah asuransi yang tidak terlihat dalam statistik produksi, dan justru itulah yang paling sulit dibangun kembali setelah hilang.
 
-Hari ini, Indonesia menghadapi tekanan untuk menaikkan produksi dengan cara cepat: perluasan lahan, benih baru, dan input kimia. Pertanyaannya sama seperti pada 1986: apakah negara akan belajar dari ledakan hama, atau menunggu krisis berikutnya sebelum berubah.
+Hari ini, Indonesia menghadapi tekanan untuk menaikkan produksi dengan cara cepat: perluasan lahan, benih baru, dan input kimia. Pertanyaannya sama seperti pada 1986: apakah negara akan belajar dari ledakan hama, atau menunggu krisis berikutnya sebelum berubah. Sejarah wereng menunjukkan bahwa jawaban atas hama tidak pernah tunggal, dan bahwa kebijakan yang paling berhasil justru yang memberi petani pengetahuan, bukan hanya produk.

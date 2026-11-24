@@ -28,14 +28,14 @@ Singkong menjadi makanan pokok ketika beras tidak ada. Pada musim paceklik, umbi
 Namun singkong bukan makanan yang bebas risiko. Umbi mentah mengandung senyawa sianogenik, terutama linamarin, yang bisa menyebabkan keracunan jika tidak diolah dengan benar. Perendaman, fermentasi, pemasakan, dan pengeringan menurunkan kadar racun itu. Pengetahuan ini diwariskan secara lisan dan berbeda-beda antar daerah, sehingga kasus keracunan masih sesekali muncul, terutama ketika masyarakat menghadapi kelaparan dan memakan singkong dengan pengolahan seadanya.
 
 :::note
-Pada 2023, luas panen ubi kayu sekitar 630 ribu hektare dengan produktivitas rata-rata 22–25 ton umbi segar per hektare. Lampung, Jawa Tengah, dan Jawa Timur menjadi sentra utama.
+Pada 2023, luas panen ubi kayu sekitar 700 ribu hektare dengan produktivitas rata-rata 24–26 ton umbi segar per hektare. Lampung, Jawa Tengah, dan Jawa Timur menjadi sentra utama.
 :::
 
 ## Gaplek, tapioka, dan pasar dunia
 
 Pada akhir abad ke-19 dan awal abad ke-20, gaplek—singkong yang dikeringkan—menjadi komoditas dagang. Ia dikirim dari Jawa ke pasar Eropa sebagai bahan pakan dan campuran tepung. Perdagangan itu memberi petani uang tunai, tetapi juga membuat harga singkong bergantung pada permintaan luar negeri yang berubah-ubah.
 
-Industri tapioka tumbuh di Lampung pada abad ke-20. Pabrik menggiling umbi menjadi tepung kanji untuk makanan, kertas, tekstil, dan perekat. Limbahnya menjadi persoalan lingkungan: air buangan pabrik mengandung sianida dan bahan organik tinggi yang mencemari sungai. Di sisi lain, pabrik memberi pasar bagi singkong dalam jumlah besar, sehingga petani tidak perlu menjual langsung ke pasar tradisional dengan harga rendah.
+Industri tapioka tumbuh di Lampung pada abad ke-20. Pabrik menggiling umbi menjadi tepung kanji untuk makanan, kertas, tekstil, dan perekat. Limbahnya menjadi persoalan lingkungan: air buangan pabrik mengandung sianida dan bahan organik tinggi yang mencemari sungai. Sebaliknya, pabrik memberi pasar bagi singkong dalam jumlah besar, sehingga petani tidak perlu menjual langsung ke pasar tradisional dengan harga rendah.
 
 Ketika Jepang menduduki Indonesia pada 1942, singkong menjadi penyelamat. Beras diambil untuk keperluan perang, dan penduduk didorong menanam singkong serta ubi jalar. Produksi naik, tetapi konsumsi juga naik karena kekurangan pangan. Masa itu meninggalkan kebiasaan makan singkong yang bertahan lama di banyak daerah, bahkan ketika beras kembali tersedia.
 
@@ -53,4 +53,4 @@ Singkong juga diarahkan menjadi bahan baku energi. Bioetanol dari singkong perna
 
 Dalam statistik pangan nasional, singkong dihitung sebagai palawija, bukan makanan pokok. Padahal di beberapa daerah ia menyumbang kalori lebih besar daripada beras. Anggapan bahwa singkong adalah makanan orang miskin membuat program diversifikasi pangan sering gagal: masyarakat tidak mau beralih ke bahan yang dianggap lebih rendah statusnya, meski gizinya setara atau bahkan lebih baik dalam hal serat.
 
-Di kota, singkong kembali populer dalam bentuk keripik, tape, dan olahan kekinian. Kenaikan itu menaikkan permintaan, tetapi belum tentu menyejahterakan petani, karena nilai tambah terbesar dinikmati industri pengolahan dan pengecer. Selama harga umbi di tingkat petani tetap rendah dan lahan kering terus terpinggirkan, singkong akan tetap menjadi tanaman penyelamat yang tidak pernah dihitung sebagai pahlawan.
+Di kota, singkong kembali populer dalam bentuk keripik, tape, dan olahan kekinian. Kenaikan itu menaikkan permintaan, tetapi belum tentu menyejahterakan petani, karena nilai tambah terbesar dinikmati industri pengolahan dan pengecer. Lampung, sebagai penghasil terbesar, mengirim sebagian besar umbinya ke pabrik tapioka di sekitar Bandar Lampung, sementara petani di daerah terpencil harus menanggung biaya angkut sendiri. Selama harga umbi di tingkat petani tetap rendah dan lahan kering terus terpinggirkan, singkong akan tetap menjadi tanaman penyelamat yang tidak pernah dihitung sebagai pahlawan.

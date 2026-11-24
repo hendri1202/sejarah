@@ -10,18 +10,18 @@ sources:
   - "Undang-Undang Nomor 22 Tahun 1999 tentang Pemerintahan Daerah"
   - "Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah"
   - "M. Ryaas Rasyid, 'Regional Autonomy and Local Politics in Indonesia', dalam Local Power and Politics in Indonesia (2003)"
-  - "World Bank, Decentralization in Indonesia: A Decade after the Big Bang (2014)"
+  - "Undang-Undang Nomor 25 Tahun 1999 tentang Perimbangan Keuangan antara Pemerintah Pusat dan Daerah"
 ---
 
-Undang-Undang Nomor 22 Tahun 1999 ditandatangani pada 7 Mei 1999, sebulan sebelum pemilu pertama setelah Soeharto berhenti. Naskahnya pendek, hanya 130 pasal, dan hampir seluruh isinya membalik logika pemerintahan yang berlaku selama tiga puluh dua tahun. Kekuasaan tidak lagi mengalir dari Jakarta ke daerah lewat gubernur, tetapi dari kabupaten dan kota ke pusat, dan pusat hanya memegang lima urusan.
+Undang-Undang Nomor 22 Tahun 1999 ditandatangani pada 7 Mei 1999, sebulan sebelum pemilu pertama setelah Soeharto berhenti. Naskahnya pendek dan hampir seluruh isinya membalik logika pemerintahan yang berlaku selama tiga puluh dua tahun. Kekuasaan tidak lagi mengalir dari Jakarta ke daerah lewat gubernur, tetapi dari kabupaten dan kota ke pusat, dan pusat hanya memegang lima urusan.
 
 ## Lima urusan yang tersisa di pusat
 
 Pasal 7 menyebut lima bidang yang tetap menjadi kewenangan pemerintah pusat: politik luar negeri, pertahanan dan keamanan, peradilan, moneter dan fiskal, serta agama. Sisanya, termasuk pendidikan, kesehatan, pertanian, pekerjaan umum, dan perizinan usaha, diserahkan kepada daerah. Pasal 10 menambahkan bahwa daerah berwenang mengelola sumber daya alam di wilayahnya, sebuah kalimat yang kemudian menjadi sumber sengketa dengan Jakarta dan dengan perusahaan tambang.
 
-Perumusnya mengambil risiko besar. Tidak ada daerah yang diuji kemampuannya sebelum diberi kewenangan; tidak ada masa transisi bertahun-tahun. Alasan politiknya jelas: setelah 1998, tuntutan otonomi di Aceh, Riau, dan Papua sudah berubah menjadi ancaman pemisahan diri, dan Jakarta membutuhkan bukti cepat bahwa desentralisasi lebih aman daripada represi. Dasar konstitusinya menyusul kemudian: amandemen kedua pada 2000 menambahkan Pasal 18, 18A, dan 18B, sehingga otonomi tidak lagi hanya bergantung pada undang-undang yang bisa dicabut DPR.
-
 Pembagian itu tidak menyebut pendidikan tinggi, yang tetap di pusat, dan tidak menyebut desa, yang baru diatur dalam undang-undang tersendiri pada 2014. Dua kekosongan itu kemudian menjadi sumber sengketa kewenangan yang berulang.
+
+Perumusnya mengambil risiko besar. Tidak ada daerah yang diuji kemampuannya sebelum diberi kewenangan; tidak ada masa transisi bertahun-tahun. Alasan politiknya jelas: setelah 1998, tuntutan otonomi di Aceh, Riau, dan Papua sudah berubah menjadi ancaman pemisahan diri, dan Jakarta membutuhkan bukti cepat bahwa desentralisasi lebih aman daripada represi. Dasar konstitusinya menyusul kemudian: amandemen kedua pada 2000 menambahkan Pasal 18, 18A, dan 18B, sehingga otonomi tidak lagi hanya bergantung pada undang-undang yang bisa dicabut DPR.
 
 ## Kabupaten, bukan provinsi
 

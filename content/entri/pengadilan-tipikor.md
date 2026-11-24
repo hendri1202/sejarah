@@ -13,7 +13,7 @@ sources:
   - "Mahkamah Konstitusi RI, Putusan Nomor 10-17-23/PUU-VII/2009"
 ---
 
-Pada 2002, Pengadilan Tindak Pidana Korupsi dibentuk di Jakarta dan langsung menghadapi masalah logistik: tidak ada hakim yang berpengalaman menangani perkara korupsi besar, tidak ada ruang sidang khusus, dan tidak ada anggaran untuk menghadirkan saksi dari daerah. Selama tujuh tahun, seluruh perkara korupsi yang ditangani komisi antikorupsi dari Aceh sampai Papua harus diadili di satu gedung di Jalan Gajah Mada, Jakarta Pusat.
+Pengadilan Tindak Pidana Korupsi dibentuk di Jakarta pada 2002 dan langsung menghadapi masalah logistik: tidak ada hakim yang berpengalaman menangani perkara korupsi besar, tidak ada ruang sidang khusus, dan tidak ada anggaran untuk menghadirkan saksi dari daerah. Selama tujuh tahun, seluruh perkara korupsi yang ditangani komisi antikorupsi dari Aceh sampai Papua harus diadili di satu gedung di Jalan Gajah Mada, Jakarta Pusat.
 
 ## Satu pengadilan untuk seluruh negeri
 
@@ -25,11 +25,11 @@ Konsentrasi di Jakarta menimbulkan biaya besar. Saksi dari Sulawesi atau Maluku 
 
 Pada 2009, Mahkamah Konstitusi memutus bahwa Pasal 53 Undang-Undang Nomor 30 Tahun 2002 bertentangan dengan konstitusi. Alasannya bukan karena pengadilan tipikor tidak boleh ada, melainkan karena pembentukannya tidak diatur dalam undang-undang tersendiri. Pengadilan khusus yang menyimpang dari peradilan umum harus dibentuk dengan undang-undang, bukan dengan pasal singkat yang menyerahkan semuanya kepada pemerintah.
 
-Putusan itu memaksa DPR menyusun undang-undang baru. Undang-Undang Nomor 46 Tahun 2009 tentang Pengadilan Tindak Pidana Korupsi disahkan pada akhir tahun, dan menjadi dasar hukum yang berlaku sampai sekarang. Isinya mengatur susunan, kewenangan, hukum acara, dan kedudukan hakim ad hoc secara lebih rinci, sekaligus memerintahkan pembentukan pengadilan di setiap ibu kota kabupaten dan kota.
+Putusan itu memaksa DPR menyusun undang-undang baru. Undang-Undang Nomor 46 Tahun 2009 tentang Pengadilan Tindak Pidana Korupsi disahkan pada akhir tahun, dan menjadi dasar hukum yang berlaku sampai sekarang. Isinya mengatur susunan, kewenangan, hukum acara, dan kedudukan hakim ad hoc secara lebih rinci, sekaligus memerintahkan pembentukan pengadilan di setiap ibu kota kabupaten dan kota melalui Pasal 3.
 
 ## Janji yang belum ditepati
 
-Pembentukan di seluruh kabupaten dan kota tidak pernah selesai. Pemerintah membangun pengadilan tipikor secara bertahap, dimulai dari provinsi dengan kasus korupsi terbanyak, dan sampai 2026 belum semua daerah punya pengadilan sendiri. Mahkamah Konstitusi beberapa kali menegur pemerintah agar mempercepat, tetapi percepatan itu bergantung pada anggaran dan kesiapan hakim.
+Pembentukan di seluruh kabupaten dan kota tidak pernah selesai. Pemerintah membangun pengadilan tipikor secara bertahap, dimulai dari provinsi dengan kasus korupsi terbanyak, dan sampai 2026 belum semua daerah punya pengadilan sendiri. Percepatan bergantung pada anggaran dan kesiapan hakim, dua hal yang tidak pernah cukup ketika jumlah perkara naik.
 
 Akibatnya, perkara dari daerah yang belum punya pengadilan tipikor tetap dikirim ke pengadilan terdekat yang sudah ada, sering ke ibu kota provinsi. Perpindahan itu tidak selalu merugikan, karena pengadilan provinsi biasanya lebih berpengalaman. Tetapi jarak, biaya, dan kesulitan menghadirkan saksi tetap menjadi alasan mengapa banyak perkara korupsi di daerah berhenti di penyidikan.
 

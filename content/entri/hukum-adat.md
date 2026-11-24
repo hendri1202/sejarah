@@ -13,7 +13,7 @@ sources:
   - "Mahkamah Konstitusi RI, Putusan Nomor 35/PUU-X/2012"
 ---
 
-Pada 1918, Cornelis van Vollenhoven menerbitkan jilid pertama Het Adatrecht van Nederlandsch-Indië di Leiden. Guru besar hukum itu tidak menulis kitab undang-undang; ia menyusun peta. Di dalamnya, kepulauan Hindia dibagi menjadi sembilan belas lingkungan hukum adat, dari Aceh sampai Papua, masing-masing dengan aturan waris, tanah, dan perkawinan yang berbeda. Peta itu mengubah cara pemerintah kolonial memandang hukum penduduk yang selama seabad dianggap tidak punya hukum sama sekali.
+Jilid pertama Het Adatrecht van Nederlandsch-Indië terbit di Leiden pada 1918. Penulisnya, Cornelis van Vollenhoven, tidak menulis kitab undang-undang; ia menyusun peta. Di dalamnya, kepulauan Hindia dibagi menjadi sembilan belas lingkungan hukum adat, dari Aceh sampai Papua, masing-masing dengan aturan waris, tanah, dan perkawinan yang berbeda. Peta itu mengubah cara pemerintah kolonial memandang hukum penduduk yang selama seabad dianggap tidak punya hukum sama sekali.
 
 ## Menemukan hukum yang tidak tertulis
 

@@ -43,7 +43,9 @@ Tekanan datang dari dua arah. Televisi swasta, yang tumbuh sejak 1989, menyajika
 
 Bentuk bioskop berubah pada akhir 1980-an. Konsep sinepleks — beberapa layar kecil dalam satu gedung — mulai diperkenalkan, lalu berkembang menjadi bioskop di dalam pusat perbelanjaan. Penonton tidak lagi datang ke gedung bioskop di jalan raya, tetapi ke mal untuk belanja, makan, dan menonton. Tiket menjadi lebih mahal, kursi lebih nyaman, dan pilihan film lebih banyak dalam satu lokasi.
 
-Jaringan besar menguasai pasar. Cinema XXI, CGV, dan Cinépolis menjadi tiga operator utama, sementara bioskop independen dan bioskop daerah berjuang bertahan. Pada 2024, Indonesia memiliki sekitar 800 bioskop dengan hampir 3.000 layar, dan jumlah penonton film nasional mencapai 78 juta — rekor sepanjang sejarah. Namun layar-layar itu terkonsentrasi di Jawa dan kota besar.
+Jaringan besar menguasai pasar. Cinema XXI, CGV, dan Cinépolis menjadi tiga operator utama, sementara bioskop independen dan bioskop daerah berjuang bertahan. Pada 2024, Indonesia memiliki sekitar 800 bioskop dengan hampir 3.000 layar, dan jumlah penonton film nasional mencapai lebih dari 75 juta — rekor sepanjang sejarah. Namun layar-layar itu terkonsentrasi di Jawa dan kota besar.
+
+Ruang alternatif tetap hidup di sela jaringan besar. Kineforum di Taman Ismail Marzuki, Jakarta, memutar film klasik dan eksperimental dengan tiket murah; festival film kampus dan komunitas menggelar pemutaran di ruang serba guna. Bioskop alternatif ini tidak menyaingi mal, tetapi menjaga tradisi menonton bersama dan memberi ruang bagi film yang tidak lolos pasar komersial.
 
 :::note
 Pada 1980-an pernah ada sekitar 6.600 layar; pada 2007 tinggal sekitar 680. Pemulihan terjadi setelah sinepleks di mal menyebar pada 2010-an.

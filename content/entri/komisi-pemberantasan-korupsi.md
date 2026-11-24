@@ -13,7 +13,7 @@ sources:
   - "Undang-Undang Nomor 19 Tahun 2019 tentang Perubahan Kedua atas UU 30/2002"
 ---
 
-Pada 29 Desember 2003, Komisi Pemberantasan Korupsi mulai bekerja dengan lima pimpinan: Taufiequrachman Ruki, Erry Riyana Hardjapamekasa, Amien Sunaryadi, Sjamsuddin, dan Tumpak Hatorangan Panggabean. Kantornya masih menumpang, berkasnya masih sedikit, dan tidak seorang pun tahu apakah lembaga baru itu akan bertahan lebih dari setahun. Undang-Undang Nomor 30 Tahun 2002 yang menjadi dasarnya ditandatangani setahun sebelumnya, setelah perdebatan panjang tentang siapa yang boleh menyidik korupsi.
+Lima orang memulai pekerjaan di sebuah kantor pinjaman pada 29 Desember 2003: Taufiequrachman Ruki, Erry Riyana Hardjapamekasa, Amien Sunaryadi, Sjamsuddin, dan Tumpak Hatorangan Panggabean. Mereka memimpin Komisi Pemberantasan Korupsi yang baru dibentuk. Kantornya masih menumpang, berkasnya masih sedikit, dan tidak seorang pun tahu apakah lembaga baru itu akan bertahan lebih dari setahun. Undang-Undang Nomor 30 Tahun 2002 yang menjadi dasarnya ditandatangani setahun sebelumnya, setelah perdebatan panjang tentang siapa yang boleh menyidik korupsi.
 
 ## Lahir dari lembaga yang dibubarkan
 
@@ -35,6 +35,8 @@ Reputasi itu punya harga. KPK bekerja dengan anggaran kecil, jumlah penyidik ter
 
 Operasi tangkap tangan menjadi tanda dagangnya. Penyidik menunggu saat uang berpindah tangan, menyita barang bukti, dan menetapkan tersangka dalam hitungan jam. Karena tertangkap tangan, tersangka tidak bisa menghindar dengan alasan administrasi, dan tekanan publik langsung terbentuk. Tetapi operasi seperti itu hanya menyentuh transaksi kecil; perkara yang melibatkan rekayasa anggaran dan perusahaan cangkang jarang bisa diselesaikan lewat penyergapan.
 
+Sejak awal KPK juga diberi tugas pencegahan: pendidikan antikorupsi, kajian sistem pengadaan, dan koordinasi dengan pemerintah daerah. Anggaran untuk fungsi itu kecil dibandingkan anggaran penindakan, sehingga pencegahan lebih sering berbentuk kampanye daripada perubahan aturan.
+
 ## Perang terbuka 2009
 
 Ketegangan memuncak pada 2009 dalam perkara Bibit Samad Rianto dan Chandra M. Hamzah, dua wakil ketua KPK yang ditetapkan sebagai tersangka oleh polisi. Keduanya dituduh menyalahgunakan wewenang dalam penyadapan. Kasus itu memicu protes publik, perdebatan di televisi, dan campur tangan presiden. Keduanya akhirnya dibebaskan, tetapi peristiwa itu menunjukkan bahwa KPK bisa dilumpuhkan lewat jalur pidana terhadap pimpinannya sendiri.
@@ -42,8 +44,6 @@ Ketegangan memuncak pada 2009 dalam perkara Bibit Samad Rianto dan Chandra M. Ha
 :::note
 Pasal 3 UU 30/2002 menyebut KPK "bebas dari pengaruh kekuasaan mana pun". Pasal inilah yang paling sering dipersoalkan ketika kewenangan komisi dibatasi.
 :::
-
-Sejak awal KPK juga diberi tugas pencegahan: pendidikan antikorupsi, kajian sistem pengadaan, dan koordinasi dengan pemerintah daerah. Anggaran untuk fungsi itu kecil dibandingkan anggaran penindakan, sehingga pencegahan lebih sering berbentuk kampanye daripada perubahan aturan.
 
 ## UU 19/2019 dan pembatasan
 

@@ -41,9 +41,11 @@ Di luar kota, layar tancap menjadi jalur distribusi yang lebih penting daripada 
 
 Film 1970-an dibagi menjadi beberapa pasar yang jelas. Film kungfu dan laga Hong Kong menjadi hiburan utama anak muda kota. Film dangdut memanfaatkan popularitas Rhoma Irama; Darah Muda dirilis pada 1977 dan menjadikan musik sebagai mesin cerita. Film drama sastra mengejar penonton kelas menengah, seperti Badai Pasti Berlalu (1977) karya Teguh Karya yang diangkat dari novel Marga T.
 
-Di sisi lain, film eksploitasi seks tumbuh subur meski sensor ketat. Akibat Pergaulan Bebas (1978) dan sejumlah judul sejenis memakai dalih pendidikan untuk menampilkan tubuh perempuan. Badan Sensor Film memotong adegan, tetapi tidak menghentikan produksi. Tegangan antara moral resmi dan selera pasar ini menjadi ciri khas perfilman Orde Baru, dan bertahan sampai 1980-an.
+Sebaliknya, film eksploitasi seks tumbuh subur meski sensor ketat. Akibat Pergaulan Bebas (1978) dan sejumlah judul sejenis memakai dalih pendidikan untuk menampilkan tubuh perempuan. Badan Sensor Film memotong adegan, tetapi tidak menghentikan produksi. Tegangan antara moral resmi dan selera pasar ini menjadi ciri khas perfilman Orde Baru, dan bertahan sampai 1980-an.
 
 Komedi menjadi jalan tengah yang paling aman. Benyamin Sueb dan Bing Slamet membintangi puluhan film bertema kampung, pasar, dan kehidupan betawi yang tidak menyinggung politik. Film semacam ini murah, cepat dibuat, dan laku di bioskop kelas bawah. Popularitasnya menjelaskan mengapa produksi bisa meledak pada 1977 tanpa dukungan industri yang mapan.
+
+Sistem bintang juga menguat. Nama seperti Sukarno M. Noor, Ratno Timoer, dan Yati Octavia muncul di poster sebagai jaminan tiket, dan produser sering menulis cerita khusus untuk mereka. Bintang yang laku bisa membintangi beberapa film dalam setahun, berpindah studio sesuai tawaran. Di balik layar, kru teknis yang sama berpindah dari satu produksi ke produksi lain, membentuk jaringan kerja yang longgar tetapi efektif.
 
 > Ledakan 134 judul pada 1977 lebih menunjukkan pasar yang lapar daripada industri yang sehat.
 

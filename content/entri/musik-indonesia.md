@@ -45,6 +45,8 @@ Pada 2020-an, streaming mengubah lagi cara musik dikonsumsi. Laporan IFPI mencat
 
 Platform memberi ruang bagi genre yang dulu sulit masuk radio: indie, hip-hop, musik daerah, dan lagu berbahasa selain Indonesia. Musisi bisa merekam di kamar, mengunggah sendiri, dan menemukan pendengar di luar negeri tanpa label besar. Namun pendapatan per stream sangat kecil, sehingga sebagian besar musisi tetap bergantung pada konser, merchandise, dan kerja sama merek.
 
+Musik daerah ikut menemukan pasar baru. Dangdut koplo, campursari, dan lagu berbahasa Jawa, Sunda, serta Melayu menyebar lewat video pendek dan platform streaming, melampaui radio yang dulu membatasinya pada segmen lokal. Remix dan versi akustik membuat lagu lama kembali populer. Platform tidak menghapus hierarki selera, tetapi memperluas jangkauan genre yang sebelumnya hanya hidup di panggung kampung.
+
 Algoritma dan media sosial kini menentukan jalur promosi. Potongan lagu yang viral di TikTok bisa mendorong jutaan stream dalam hitungan hari, tetapi keberhasilannya sulit diulang. Label dan manajemen belajar menyesuaikan durasi lagu, jadwal rilis, dan konten pendek untuk mengejar momentum. Musik Indonesia menjadi lebih mudah ditemukan, sekaligus lebih cepat dilupakan.
 
 :::note

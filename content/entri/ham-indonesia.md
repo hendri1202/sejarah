@@ -10,10 +10,10 @@ sources:
   - "Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia"
   - "Undang-Undang Nomor 26 Tahun 2000 tentang Pengadilan Hak Asasi Manusia"
   - "Komisi Nasional Hak Asasi Manusia, Laporan Tahunan"
-  - "International Center for Transitional Justice, Indonesia's Ad Hoc Human Rights Court (2009)"
+  - "David Cohen, Intended to Fail: The Trials Before the Ad Hoc Human Rights Court in Jakarta (2003)"
 ---
 
-Pada 23 September 1999, Presiden B.J. Habibie menandatangani Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia. Undang-undang itu disusun dalam hitungan bulan setelah Soeharto berhenti, oleh tim yang bekerja di bawah tekanan internasional dan tuntutan mahasiswa. Isinya 106 pasal, mencakup hak sipil, politik, ekonomi, sosial, dan budaya, serta kewajiban negara untuk melindunginya. Tidak ada undang-undang sejenis yang seluas itu di Asia Tenggara pada saat itu.
+Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia ditandatangani Presiden B.J. Habibie pada 23 September 1999. Undang-undang itu disusun dalam hitungan bulan setelah Soeharto berhenti, oleh tim yang bekerja di bawah tekanan internasional dan tuntutan mahasiswa. Isinya 106 pasal, mencakup hak sipil, politik, ekonomi, sosial, dan budaya, serta kewajiban negara untuk melindunginya. Tidak ada undang-undang sejenis yang seluas itu di Asia Tenggara pada saat itu.
 
 ## Komisi yang lahir sebelum undang-undang
 
@@ -27,6 +27,8 @@ Undang-undang 1999 mengubah kedudukan komisi itu menjadi lembaga negara dengan d
 
 Perdebatan saat penyusunan menyentuh dua hal. Pertama, apakah hak asasi bersifat universal atau harus dibatasi oleh nilai agama dan budaya; kompromi yang dihasilkan memasukkan kewajiban asasi manusia dalam Pasal 1 angka 2, sehingga hak dan kewajiban diletakkan berdampingan. Kedua, apakah undang-undang ini bisa dipakai untuk mengadili pelanggaran masa lalu, dan jawabannya tidak, karena asas legalitas melarang pemberlakuan surut.
 
+Amandemen kedua pada 2000 menambahkan Pasal 28A sampai 28J, sehingga hak yang sebelumnya hanya diatur undang-undang naik ke konstitusi. Perubahan itu membuka jalur uji materi ke Mahkamah Konstitusi bagi undang-undang yang membatasi hak asasi, sebuah jalur yang tidak tersedia ketika UU 39/1999 disusun.
+
 ## Pengadilan HAM
 
 Undang-Undang Nomor 26 Tahun 2000 tentang Pengadilan Hak Asasi Manusia disahkan pada 23 November 2000. Pasal 7 membatasi yurisdiksinya pada dua kejahatan: genosida dan kejahatan terhadap kemanusiaan. Pembunuhan biasa, penyiksaan yang tidak sistematis, dan penghilangan orang dalam satu peristiwa tidak masuk kategori pelanggaran HAM berat, sehingga harus diadili di pengadilan biasa.
@@ -37,7 +39,7 @@ Dua peristiwa lain menunjukkan batas mekanisme itu. Komnas HAM menyimpulkan adan
 
 ## Timor Timur dan Abepura
 
-Pengadilan HAM ad hoc untuk Timor Timur dibentuk pada 2002 dan menyidangkan delapan belas terdakwa, sebagian besar perwira militer dan pejabat sipil. Sebagian besar dibebaskan, dan beberapa yang dihukum mendapat putusan ringan. Pemerintah Indonesia dan PBB sama-sama menilai pengadilan itu tidak memenuhi standar akuntabilitas, dan kasusnya kemudian dibawa ke pengadilan internasional.
+Pengadilan HAM ad hoc untuk Timor Timur dibentuk pada 2002 dan menyidangkan delapan belas terdakwa, sebagian besar perwira militer dan pejabat sipil. Sebagian besar dibebaskan, dan beberapa yang dihukum mendapat putusan ringan. Pemerintah Indonesia dan PBB sama-sama menilai pengadilan itu tidak memenuhi standar akuntabilitas, dan kasusnya kemudian ditangani panel khusus bentukan PBB di Dili.
 
 Pengadilan ad hoc untuk peristiwa Abepura dibentuk pada 2004 dan menyidangkan beberapa anggota polisi atas penyerangan asrama mahasiswa di Jayapura. Hasilnya juga tidak memuaskan: sebagian terdakwa dibebaskan, dan yang dihukum menerima pidana ringan. Dua pengalaman itu menjadi dasar kritik bahwa pengadilan HAM di Indonesia dirancang untuk gagal.
 
@@ -45,7 +47,7 @@ Pengadilan ad hoc untuk peristiwa Abepura dibentuk pada 2004 dan menyidangkan be
 UU 26/2000 hanya mengadili dua kejahatan: genosida dan kejahatan terhadap kemanusiaan. Pengadilan ad hoc untuk peristiwa lama memerlukan usul Komnas HAM dan keputusan presiden.
 :::
 
-Komnas HAM sendiri tidak punya kewenangan menuntut. Ia bisa menyelidiki, memanggil saksi, dan menyimpulkan adanya pelanggaran, tetapi kesimpulannya hanya mengikat secara politik. Sejak 1993, hampir semua rekomendasi pentingnya berhenti di meja presiden atau kejaksaan, dan tidak pernah menjadi berkas dakwaan.
+Perlindungan saksi menjadi persoalan tersendiri. Undang-Undang Nomor 13 Tahun 2006 membentuk Lembaga Perlindungan Saksi dan Korban, tetapi kewenangannya terbatas dan anggarannya kecil. Dalam perkara HAM, saksi sering masih hidup di daerah yang sama dengan pelaku, dan ancaman datang bukan dari pengadilan, melainkan dari tetangga serta aparat setempat.
 
 ## Janji penyelesaian non-yudisial
 
