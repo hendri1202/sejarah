@@ -28,7 +28,7 @@ Di Minangkabau, gerakan itu mengambil bentuk sekolah. Sumatera Thawalib di Padan
 Di kota-kota Jawa, Muhammadiyah mengambil jalur yang paling lambat dan paling luas. Ahmad Dahlan tidak menulis kitab besar; ia mendirikan sekolah, klinik, dan panti asuhan, dan memakai organisasi sebagai alat. Pada 1930-an, Muhammadiyah mengelola ratusan sekolah dan puluhan cabang, dan pengaruhnya terasa bukan lewat fatwa melainkan lewat lulusan.
 
 :::note
-Al-Irsyad, yang didirikan di Surabaya pada 1914, lahir dari perpecahan di dalam Sarekat Islam. Basisnya warga keturunan Arab, dan programnya menggabungkan pembaruan Islam dengan sekolah berbahasa Melayu dan Arab.
+Al-Irsyad berdiri di Batavia pada 6 September 1914, lahir dari perpecahan Jamiat Khair di kalangan warga Arab. Programnya menggabungkan pembaruan Islam dengan sekolah berbahasa Melayu dan Arab.
 :::
 
 ## Kongres dan perdebatan Ahmadiyah
