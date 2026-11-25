@@ -1,254 +1,602 @@
 [
-  {
-    "term": "Abris sous roche",
-    "def": "Ceruk atau liang di bawah tonjolan batu karang yang dipakai manusia prasejarah sebagai tempat berlindung; banyak ditemukan di Maros, Sulawesi Selatan."
-  },
-  {
-    "term": "Akulturasi",
-    "def": "Percampuran dua kebudayaan yang menghasilkan bentuk baru tanpa menghapus unsur asalnya, misalnya masjid beratap tumpang bergaya Jawa."
-  },
-  {
-    "term": "Artefak",
-    "def": "Benda buatan manusia yang ditemukan dalam penggalian arkeologi, seperti perkakas batu, tembikar, atau logam; menjadi bukti utama aktivitas masa lalu."
-  },
-  {
-    "term": "Austronesia",
-    "def": "Rumpun bahasa dan budaya yang menyebar dari Taiwan ke Filipina, Nusantara, dan Pasifik sejak sekitar 4.000 tahun lalu; leluhur sebagian besar penduduk Indonesia."
-  },
-  {
-    "term": "Bipedal",
-    "def": "Ciri berjalan dengan dua kaki belakang; pada hominin ditandai posisi foramen magnum di bawah tengkorak dan bentuk panggul yang khas."
-  },
-  {
-    "term": "BPUPKI",
-    "def": "Badan Penyelidik Usaha-usaha Persiapan Kemerdekaan Indonesia, dibentuk Jepang pada Maret 1945 dengan 62 anggota untuk merumuskan dasar negara."
-  },
-  {
-    "term": "Candi",
-    "def": "Bangunan pemujaan dari batu atau bata, umumnya berlatar Hindu-Buddha, seperti Borobudur dan Prambanan; istilah ini dipakai luas di Jawa dan Sumatra."
-  },
-  {
-    "term": "Candrasengkala",
-    "def": "Rumusan angka tahun dalam kalimat simbolis pada tradisi Jawa dan Bali, misalnya Sirna Ilang Kertaning Bumi untuk tahun 1400 Saka."
-  },
-  {
-    "term": "Cultuurprocenten",
-    "def": "Persentase keuntungan yang dibayarkan kepada pejabat kolonial dari hasil tanam paksa, sehingga mendorong mereka memperluas tanaman ekspor."
-  },
-  {
-    "term": "Cultuurstelsel",
-    "def": "Sistem tanam paksa (1830-1870) yang mewajibkan petani menanam komoditas ekspor untuk pemerintah kolonial di atas seperlima tanah mereka."
-  },
-  {
-    "term": "Devide et impera",
-    "def": "Politik memecah belah: mengadu penguasa atau kelompok lokal satu sama lain agar kekuatan mereka melemah dan mudah dikuasai."
-  },
-  {
-    "term": "Difusi kebudayaan",
-    "def": "Penyebaran unsur budaya, seperti teknologi atau kepercayaan, dari satu masyarakat ke masyarakat lain melalui perdagangan, migrasi, atau penaklukan."
-  },
-  {
-    "term": "Dwifungsi ABRI",
-    "def": "Doktrin Orde Baru yang memberi militer peran ganda: kekuatan pertahanan sekaligus kekuatan sosial-politik di pemerintahan dan legislatif."
-  },
-  {
-    "term": "Ekofak",
-    "def": "Sisa alamiah yang tidak dibuat manusia tetapi terkait aktivitasnya di suatu situs, misalnya tulang hewan, biji, atau arang."
-  },
-  {
-    "term": "Eon",
-    "def": "Satuan waktu geologi terbesar, mencakup ratusan juta hingga miliaran tahun; contohnya Hadean, Arkean, Proterozoikum, dan Fanerozoikum."
-  },
-  {
-    "term": "Era",
-    "def": "Pembagian eon dalam skala waktu geologi, misalnya Paleozoikum, Mesozoikum, dan Senozoikum; setiap era mencakup puluhan hingga ratusan juta tahun."
-  },
-  {
-    "term": "Evolusi",
-    "def": "Perubahan susunan genetik populasi makhluk hidup dari generasi ke generasi, yang dapat menghasilkan spesies baru dalam waktu panjang."
-  },
-  {
-    "term": "Fosil",
-    "def": "Sisa atau jejak makhluk hidup yang terawetkan dalam batuan, resin, atau sedimen; umumnya berumur lebih dari 10.000 tahun."
-  },
-  {
-    "term": "Hominin",
-    "def": "Kelompok primata yang mencakup manusia modern dan seluruh kerabat dekatnya setelah berpisah dari garis simpanse, seperti Australopithecus dan Homo."
-  },
-  {
-    "term": "Homo erectus",
-    "def": "Spesies manusia purba yang muncul sekitar 1,8 juta tahun lalu, menyebar dari Afrika ke Asia, dan bertahan hingga sekitar 100.000 tahun lalu."
-  },
-  {
-    "term": "Homo sapiens",
-    "def": "Spesies manusia modern, muncul di Afrika sekitar 300.000 tahun lalu, dengan ciri otak besar, dagu, dan kemampuan berpikir simbolik."
-  },
-  {
-    "term": "Imperialisme",
-    "def": "Kebijakan memperluas kekuasaan suatu negara atas wilayah dan bangsa lain, baik lewat penaklukan, tekanan ekonomi, maupun pemerintahan tidak langsung."
-  },
-  {
-    "term": "Kala",
-    "def": "Satuan waktu geologi di bawah periode, misalnya Pleistosen dan Holosen pada periode Kuarter; berlangsung ribuan hingga jutaan tahun."
-  },
-  {
-    "term": "Kapak perimbas",
-    "def": "Perkakas batu besar dari zaman Paleolitik yang dipangkas kasar di satu sisi; banyak ditemukan di situs Pacitan, Jawa Timur."
-  },
-  {
-    "term": "Kolonialisme",
-    "def": "Penguasaan suatu wilayah oleh negara lain untuk kepentingan ekonomi dan politik, biasanya disertai penempatan pejabat dan pemukim."
-  },
-  {
-    "term": "Konferensi Meja Bundar (KMB)",
-    "def": "Perundingan di Den Haag (Agustus-November 1949) yang menghasilkan pengakuan kedaulatan Belanda atas Indonesia dan pembentukan RIS."
-  },
-  {
-    "term": "Kronologi",
-    "def": "Ilmu menyusun peristiwa menurut urutan waktu; dalam arkeologi dibantu stratigrafi, tipologi, dan penanggalan radiokarbon."
-  },
-  {
-    "term": "Lempeng tektonik",
-    "def": "Lempeng besar kerak bumi yang bergerak di atas mantel; tumbukan dan pergeserannya membentuk gunung, palung, dan gempa."
-  },
-  {
-    "term": "Megalit",
-    "def": "Bangunan atau benda batu besar untuk pemujaan atau kubur, seperti menhir, dolmen, dan sarkofagus; banyak di Nias, Sumba, dan Toraja."
-  },
-  {
-    "term": "Mesolitik",
-    "def": "Masa peralihan antara Paleolitik dan Neolitik, ditandai perkakas batu kecil dan pola hidup berburu-meramu yang masih dominan."
-  },
-  {
-    "term": "Mutasi",
-    "def": "Perubahan acak pada urutan DNA yang menjadi sumber variasi genetik; sebagian besar netral, sebagian merugikan, dan sedikit menguntungkan."
-  },
-  {
-    "term": "Nekara",
-    "def": "Genderang perunggu dari budaya Dong Son, dipakai dalam upacara dan lambang status; contoh terkenal ditemukan di Bali, Sumba, dan Alor."
-  },
-  {
-    "term": "Neolitik",
-    "def": "Zaman batu muda, ditandai pertanian, peternakan, tembikar, dan permukiman tetap; di Nusantara mulai sekitar 4.000 tahun lalu."
-  },
-  {
-    "term": "Nusantara",
-    "def": "Sebutan bagi kepulauan Indonesia; dalam Negarakertagama berarti pulau-pulau di luar Jawa yang tunduk pada Majapahit."
-  },
-  {
-    "term": "Octrooi",
-    "def": "Surat hak istimewa dari pemerintah Belanda yang memberi VOC monopoli dagang dan wewenang berperang di wilayah Asia selama 21 tahun."
-  },
-  {
-    "term": "Otonomi daerah",
-    "def": "Kewenangan pemerintah daerah mengatur urusan sendiri; diberlakukan luas sejak 2001 setelah reformasi dan amendemen UUD 1945."
-  },
-  {
-    "term": "Paleolitik",
-    "def": "Zaman batu tua, ketika manusia hidup berburu dan meramu dengan perkakas batu kasar; di Nusantara diwakili budaya Pacitan dan Ngandong."
-  },
-  {
-    "term": "Pancasila",
-    "def": "Lima sila dasar negara yang dirumuskan dalam sidang BPUPKI 1945: ketuhanan, kemanusiaan, persatuan, kerakyatan, dan keadilan sosial."
-  },
-  {
-    "term": "Pangreh praja",
-    "def": "Birokrasi pribumi di bawah pemerintahan kolonial, terdiri atas bupati dan wedana yang menjalankan administrasi namun diawasi pejabat Belanda."
-  },
-  {
-    "term": "PETA",
-    "def": "Pembela Tanah Air, tentara sukarela bentukan Jepang (1943) beranggotakan pemuda Indonesia; menjadi cikal bakal perwira tentara nasional."
-  },
-  {
-    "term": "Piagam Jakarta",
-    "def": "Rumusan dasar negara hasil Panitia Sembilan (22 Juni 1945), memuat tujuh kata kewajiban menjalankan syariat Islam bagi pemeluknya."
-  },
-  {
-    "term": "Politik etis",
-    "def": "Kebijakan balas budi Belanda (1901) yang menjanjikan irigasi, pendidikan, dan transmigrasi, meski pelaksanaannya terbatas dan tetap kolonial."
-  },
-  {
-    "term": "PPKI",
-    "def": "Panitia Persiapan Kemerdekaan Indonesia, dibentuk 7 Agustus 1945; mengesahkan UUD 1945 dan memilih Soekarno-Hatta pada 18 Agustus."
-  },
-  {
-    "term": "Priayi",
-    "def": "Lapisan sosial elite Jawa dari kalangan bangsawan dan pejabat, dibedakan oleh gelar, bahasa halus, dan akses ke jabatan."
-  },
-  {
-    "term": "Proklamasi",
-    "def": "Pernyataan kemerdekaan Indonesia yang dibacakan Soekarno pada 17 Agustus 1945 di Jalan Pegangsaan Timur 56, Jakarta."
-  },
-  {
-    "term": "Radio karbon",
-    "def": "Metode penanggalan berbasis peluruhan isotop karbon-14 pada bahan organik; efektif untuk benda berumur hingga sekitar 50.000 tahun."
-  },
-  {
-    "term": "Reformasi",
-    "def": "Gerakan yang menumbangkan Soeharto pada Mei 1998, membuka kebebasan pers, multipartai, dan amendemen konstitusi."
-  },
-  {
-    "term": "Residency",
-    "def": "Wilayah administrasi kolonial Hindia Belanda yang dipimpin seorang residen, membawahi beberapa kabupaten dan bertanggung jawab kepada gubernur jenderal."
-  },
-  {
-    "term": "RIS",
-    "def": "Republik Indonesia Serikat (1949-1950), negara federal bentukan hasil KMB yang terdiri atas 16 negara bagian dan kemudian dibubarkan."
-  },
-  {
-    "term": "Romusha",
-    "def": "Kerja paksa pada masa pendudukan Jepang; ratusan ribu orang dikirim ke proyek militer di luar Jawa, banyak yang meninggal."
-  },
-  {
-    "term": "Sejarah lisan",
-    "def": "Metode menggali masa lalu melalui wawancara dengan pelaku atau saksi, dipakai ketika sumber tertulis terbatas atau untuk melengkapi arsip."
-  },
-  {
-    "term": "Seleksi alam",
-    "def": "Mekanisme evolusi ketika individu dengan sifat menguntungkan bertahan dan mewariskan sifat itu lebih banyak kepada generasi berikutnya."
-  },
-  {
-    "term": "Sensus",
-    "def": "Pencacahan penduduk secara menyeluruh; di Hindia Belanda dilakukan pada 1905 dan 1930, menghasilkan data jumlah dan sebaran penduduk."
-  },
-  {
-    "term": "Spesiasi",
-    "def": "Proses terbentuknya spesies baru, biasanya karena isolasi geografis atau reproduktif yang menghalangi pertukaran gen antarpopulasi."
-  },
-  {
-    "term": "Stratigrafi",
-    "def": "Ilmu tentang lapisan sedimen dan urutannya; lapisan lebih bawah umumnya lebih tua, menjadi dasar penanggalan relatif di arkeologi."
-  },
-  {
-    "term": "Sundaland",
-    "def": "Paparan benua Asia Tenggara yang pernah menjadi daratan bersambung saat muka laut rendah, mencakup Sumatra, Jawa, dan Kalimantan."
-  },
-  {
-    "term": "Tanam paksa",
-    "def": "Sebutan lain cultuurstelsel; kewajiban menanam komoditas ekspor yang memberatkan petani dan menuai kritik dalam novel Max Havelaar."
-  },
-  {
-    "term": "Tembikar",
-    "def": "Wadah dari tanah liat dibakar; corak dan bentuknya dipakai arkeolog untuk menandai budaya dan periode, misalnya tembikar Buni."
-  },
-  {
-    "term": "Tipologi",
-    "def": "Pengelompokan artefak berdasarkan bentuk dan ciri fisik untuk menyusun kronologi relatif serta mengenali tradisi budaya."
-  },
-  {
-    "term": "Volksraad",
-    "def": "Dewan rakyat Hindia Belanda (1918-1942) dengan anggota pribumi terbatas; hanya berwenang memberi nasihat kepada gubernur jenderal."
-  },
-  {
-    "term": "Wallacea",
-    "def": "Zona peralihan biogeografi antara Sunda dan Sahul, dipisahkan laut dalam; sumber fauna endemik seperti komodo dan anoa."
-  },
-  {
-    "term": "Zaman batu",
-    "def": "Tahap prasejarah ketika perkakas utama dibuat dari batu, dibagi menjadi Paleolitik, Mesolitik, dan Neolitik."
-  },
-  {
-    "term": "Zaman besi",
-    "def": "Tahap budaya ketika besi menjadi bahan utama perkakas dan senjata; di Nusantara bukti awal muncul sekitar abad ke-2 hingga ke-5 Masehi."
-  }
+ {
+  "term": "Abris sous roche",
+  "def": "Ceruk atau liang di bawah tonjolan batu karang yang dipakai manusia prasejarah sebagai tempat berlindung; banyak ditemukan di Maros, Sulawesi Selatan."
+ },
+ {
+  "term": "Aksara Kawi",
+  "def": "Aksara Jawa Kuno yang berkembang dari Pallawa dan dipakai menulis prasasti serta kakawin pada masa kerajaan Hindu-Buddha."
+ },
+ {
+  "term": "Aksara Pallawa",
+  "def": "Aksara turunan Brahmi dari India selatan yang dipakai pada prasasti tertua Indonesia, misalnya yupa Kutai abad ke-4 dan prasasti Tarumanagara."
+ },
+ {
+  "term": "Akulturasi",
+  "def": "Percampuran dua kebudayaan yang menghasilkan bentuk baru tanpa menghapus unsur asalnya, misalnya masjid beratap tumpang bergaya Jawa."
+ },
+ {
+  "term": "Alat serpih",
+  "def": "Perkakas batu sederhana yang dibuat dengan memecah bongkahan untuk mengambil kepingan tajam, ciri industri Paleolitik awal."
+ },
+ {
+  "term": "Amandemen UUD 1945",
+  "def": "Perubahan bertahap konstitusi pada 1999–2002 yang membatasi masa jabatan presiden serta memperkuat hak asasi dan lembaga negara."
+ },
+ {
+  "term": "Amber",
+  "def": "Getah pohon purba yang membatu dan kadang memerangkap serangga atau jaringan tumbuhan utuh, sumber informasi ekosistem masa lalu."
+ },
+ {
+  "term": "Arkeologi bawah air",
+  "def": "Cabang arkeologi yang meneliti kapal karam, pelabuhan purba, dan temuan terendam dengan alat selam serta pencatatan khusus."
+ },
+ {
+  "term": "Artefak",
+  "def": "Benda buatan manusia yang ditemukan dalam penggalian arkeologi, seperti perkakas batu, tembikar, atau logam; menjadi bukti utama aktivitas masa lalu."
+ },
+ {
+  "term": "Asia Timur Raya",
+  "def": "Slogan propaganda Jepang tentang persemakmuran Asia di bawah pimpinannya, dipakai membenarkan pendudukan atas negara-negara Asia."
+ },
+ {
+  "term": "Austronesia",
+  "def": "Rumpun bahasa dan budaya yang menyebar dari Taiwan ke Filipina, Nusantara, dan Pasifik sejak sekitar 4.000 tahun lalu; leluhur sebagian besar penduduk Indonesia."
+ },
+ {
+  "term": "Autarki",
+  "def": "Kebijakan Jepang yang menuntut setiap daerah pendudukan mencukupi kebutuhan sendiri, berujung pada penyerahan paksa hasil panen."
+ },
+ {
+  "term": "Awan molekul",
+  "def": "Gumpalan gas dan debu antarbintang yang sangat dingin dan padat, tempat hidrogen berkumpul hingga runtuh dan memicu pembentukan bintang baru."
+ },
+ {
+  "term": "Batuan beku",
+  "def": "Batuan yang terbentuk dari pendinginan magma atau lava, seperti basalt dan granit, dan menjadi bahan dasar siklus batuan di kerak bumi."
+ },
+ {
+  "term": "Batuan metamorf",
+  "def": "Batuan yang berubah tekstur dan mineralnya karena tekanan serta suhu tinggi di kerak bumi, misalnya marmer yang berasal dari batu gamping."
+ },
+ {
+  "term": "Batuan sedimen",
+  "def": "Batuan yang terbentuk dari endapan butir, sisa organisme, atau zat terlarut yang mengeras berlapis dan menyimpan sebagian besar fosil."
+ },
+ {
+  "term": "Beliung persegi",
+  "def": "Kapak batu neolitik berbentuk persegi empat dengan permukaan digosok halus, dipakai membuka lahan, menebang pohon, dan mengolah kayu."
+ },
+ {
+  "term": "Bilah",
+  "def": "Kepingan batu memanjang dengan sisi tajam sejajar yang dibuat dari batu inti yang disiapkan khusus pada masa Paleolitik atas."
+ },
+ {
+  "term": "Bipedal",
+  "def": "Ciri berjalan dengan dua kaki belakang; pada hominin ditandai posisi foramen magnum di bawah tengkorak dan bentuk panggul yang khas."
+ },
+ {
+  "term": "BPUPKI",
+  "def": "Badan Penyelidik Usaha-usaha Persiapan Kemerdekaan Indonesia, dibentuk Jepang pada Maret 1945 dengan 62 anggota untuk merumuskan dasar negara."
+ },
+ {
+  "term": "Candi",
+  "def": "Bangunan pemujaan dari batu atau bata, umumnya berlatar Hindu-Buddha, seperti Borobudur dan Prambanan; istilah ini dipakai luas di Jawa dan Sumatra."
+ },
+ {
+  "term": "Candi bentar",
+  "def": "Gapura terbelah dua tanpa atap di depan kompleks bangunan, berfungsi sebagai pembatas antara dunia luar dan area suci di dalam."
+ },
+ {
+  "term": "Candrasengkala",
+  "def": "Rumusan angka tahun dalam kalimat simbolis pada tradisi Jawa dan Bali, misalnya Sirna Ilang Kertaning Bumi untuk tahun 1400 Saka."
+ },
+ {
+  "term": "Cultuurprocenten",
+  "def": "Persentase keuntungan yang dibayarkan kepada pejabat kolonial dari hasil tanam paksa, sehingga mendorong mereka memperluas tanaman ekspor."
+ },
+ {
+  "term": "Cultuurstelsel",
+  "def": "Sistem tanam paksa (1830-1870) yang mewajibkan petani menanam komoditas ekspor untuk pemerintah kolonial di atas seperlima tanah mereka."
+ },
+ {
+  "term": "Dekrit Presiden 1959",
+  "def": "Pengumuman Soekarno pada 5 Juli 1959 yang membubarkan Konstituante, mengembalikan berlakunya UUD 1945, dan membuka jalan Demokrasi Terpimpin."
+ },
+ {
+  "term": "Demokrasi Terpimpin",
+  "def": "Sistem pemerintahan Soekarno sejak 1959 yang memusatkan kekuasaan presiden dan menempatkan Nasakom sebagai landasan politik."
+ },
+ {
+  "term": "Deret utama",
+  "def": "Tahap terpanjang dalam hidup sebuah bintang ketika ia membakar hidrogen menjadi helium di intinya dan berada dalam keseimbangan gravitasi."
+ },
+ {
+  "term": "Devide et impera",
+  "def": "Politik memecah belah: mengadu penguasa atau kelompok lokal satu sama lain agar kekuatan mereka melemah dan mudah dikuasai."
+ },
+ {
+  "term": "Dewan Hindia",
+  "def": "Badan penasihat gubernur jenderal yang anggotanya pejabat senior VOC lalu pemerintah kolonial, membahas anggaran dan kebijakan."
+ },
+ {
+  "term": "Difusi kebudayaan",
+  "def": "Penyebaran unsur budaya, seperti teknologi atau kepercayaan, dari satu masyarakat ke masyarakat lain melalui perdagangan, migrasi, atau penaklukan."
+ },
+ {
+  "term": "DNA mitokondria",
+  "def": "Materi genetik di dalam mitokondria yang diwarisi hanya dari ibu, dipakai menelusuri garis keturunan maternal populasi manusia."
+ },
+ {
+  "term": "Dwifungsi ABRI",
+  "def": "Doktrin Orde Baru yang memberi militer peran ganda: kekuatan pertahanan sekaligus kekuatan sosial-politik di pemerintahan dan legislatif."
+ },
+ {
+  "term": "Ekofak",
+  "def": "Sisa alamiah yang tidak dibuat manusia tetapi terkait aktivitasnya di suatu situs, misalnya tulang hewan, biji, atau arang."
+ },
+ {
+  "term": "Ekskavasi",
+  "def": "Penggalian sistematis sebuah situs dengan pencatatan posisi dan kedalaman setiap temuan agar konteksnya tidak hilang, dilakukan berlapis dan berdokumentasi."
+ },
+ {
+  "term": "Energi gelap",
+  "def": "Bentuk energi misterius yang dianggap mempercepat pengembangan alam semesta, disimpulkan dari pengamatan supernova jauh pada 1998."
+ },
+ {
+  "term": "Eon",
+  "def": "Satuan waktu geologi terbesar, mencakup ratusan juta hingga miliaran tahun; contohnya Hadean, Arkean, Proterozoikum, dan Fanerozoikum."
+ },
+ {
+  "term": "Era",
+  "def": "Pembagian eon dalam skala waktu geologi, misalnya Paleozoikum, Mesozoikum, dan Senozoikum; setiap era mencakup puluhan hingga ratusan juta tahun."
+ },
+ {
+  "term": "Evolusi",
+  "def": "Perubahan susunan genetik populasi makhluk hidup dari generasi ke generasi, yang dapat menghasilkan spesies baru dalam waktu panjang."
+ },
+ {
+  "term": "Filogeni",
+  "def": "Pohon hubungan kekerabatan antarspesies berdasarkan kesamaan ciri atau DNA, menunjukkan urutan percabangan garis evolusi."
+ },
+ {
+  "term": "Fosil",
+  "def": "Sisa atau jejak makhluk hidup yang terawetkan dalam batuan, resin, atau sedimen; umumnya berumur lebih dari 10.000 tahun."
+ },
+ {
+  "term": "GAPI",
+  "def": "Gabungan Politik Indonesia yang dibentuk 1939 oleh partai-partai nasionalis untuk menuntut parlemen dan pemerintah yang bertanggung jawab."
+ },
+ {
+  "term": "Gubernur jenderal",
+  "def": "Pejabat tertinggi pemerintah kolonial Hindia Belanda yang mewakili pemerintah di Belanda dan memegang kekuasaan sipil serta militer."
+ },
+ {
+  "term": "Gunseikan",
+  "def": "Kepala pemerintahan militer Jepang di suatu wilayah pendudukan yang memegang kekuasaan tertinggi atas kebijakan sipil dan pengawasan daerah."
+ },
+ {
+  "term": "Heiho",
+  "def": "Prajurit bantuan pribumi yang dilatih Jepang dan ditempatkan dalam kesatuan tentara Jepang, berbeda dari organisasi PETA."
+ },
+ {
+  "term": "Hominin",
+  "def": "Kelompok primata yang mencakup manusia modern dan seluruh kerabat dekatnya setelah berpisah dari garis simpanse, seperti Australopithecus dan Homo."
+ },
+ {
+  "term": "Homo erectus",
+  "def": "Spesies manusia purba yang muncul sekitar 1,8 juta tahun lalu, menyebar dari Afrika ke Asia, dan bertahan hingga sekitar 100.000 tahun lalu."
+ },
+ {
+  "term": "Homo sapiens",
+  "def": "Spesies manusia modern, muncul di Afrika sekitar 300.000 tahun lalu, dengan ciri otak besar, dagu, dan kemampuan berpikir simbolik."
+ },
+ {
+  "term": "Hukum adat",
+  "def": "Aturan tidak tertulis yang hidup dalam masyarakat setempat mengenai tanah, warisan, dan perkawinan, diakui sebagian oleh pengadilan kolonial."
+ },
+ {
+  "term": "Hukum Hubble",
+  "def": "Hubungan linier antara jarak galaksi dan kecepatan menjauhnya, bukti bahwa alam semesta mengembang sejak peristiwa Big Bang."
+ },
+ {
+  "term": "Imperialisme",
+  "def": "Kebijakan memperluas kekuasaan suatu negara atas wilayah dan bangsa lain, baik lewat penaklukan, tekanan ekonomi, maupun pemerintahan tidak langsung."
+ },
+ {
+  "term": "Iridium",
+  "def": "Unsur logam langka di kerak bumi tetapi melimpah pada meteorit, dan lapisannya menjadi petunjuk tumbukan asteroid 66 juta tahun lalu."
+ },
+ {
+  "term": "Jalur rempah",
+  "def": "Jaringan pelayaran niaga dari Maluku ke India, Tiongkok, dan Eropa yang memperdagangkan cengkih, pala, serta lada, dan menjadi sasaran pelayaran Eropa."
+ },
+ {
+  "term": "Jugun ianfu",
+  "def": "Perempuan yang dipaksa melayani kebutuhan seksual tentara Jepang di rumah-rumah bordil militer selama masa pendudukan di Asia."
+ },
+ {
+  "term": "Kakawin",
+  "def": "Puisi naratif berbahasa Jawa Kuno dengan metrum India, seperti Nagarakretagama dan Sutasoma, yang berisi sejarah, pujian raja, dan ajaran agama."
+ },
+ {
+  "term": "Kala",
+  "def": "Satuan waktu geologi di bawah periode, misalnya Pleistosen dan Holosen pada periode Kuarter; berlangsung ribuan hingga jutaan tahun."
+ },
+ {
+  "term": "Kapak lonjong",
+  "def": "Kapak batu neolitik berbentuk bulat telur dengan pangkal dan tajaman melengkung, banyak ditemukan di wilayah Indonesia timur."
+ },
+ {
+  "term": "Kapak perimbas",
+  "def": "Perkakas batu besar dari zaman Paleolitik yang dipangkas kasar di satu sisi; banyak ditemukan di situs Pacitan, Jawa Timur."
+ },
+ {
+  "term": "Kawah tumbukan",
+  "def": "Cekungan yang terbentuk ketika meteorit menghantam permukaan bumi atau planet, sering disertai batuan terlempar dan kuarsa terkejut."
+ },
+ {
+  "term": "Keibodan",
+  "def": "Barisan pembantu polisi bentukan Jepang bagi pemuda yang bertugas menjaga keamanan kampung, mengatur ronda, dan menyampaikan perintah."
+ },
+ {
+  "term": "Kempetai",
+  "def": "Polisi militer Jepang yang bertugas mengawasi disiplin tentara sekaligus menindak lawan politik dengan penyiksaan dan penahanan."
+ },
+ {
+  "term": "Kepunahan massal",
+  "def": "Peristiwa hilangnya sebagian besar spesies dalam waktu geologis singkat, seperti pada akhir Permian yang memusnahkan sekitar sembilan puluh persen spesies laut."
+ },
+ {
+  "term": "Kerja rodi",
+  "def": "Kerja paksa tanpa upah untuk proyek pemerintah kolonial seperti jalan, jembatan, dan benteng, yang banyak menelan korban di Jawa."
+ },
+ {
+  "term": "Kladistika",
+  "def": "Metode pengelompokan makhluk hidup berdasarkan nenek moyang bersama dan ciri turunan baru, menghasilkan diagram kladogram."
+ },
+ {
+  "term": "KNIL",
+  "def": "Tentara Kerajaan Hindia Belanda yang dibentuk 1830 untuk menegakkan kekuasaan kolonial dan sebagian besar terdiri atas prajurit pribumi."
+ },
+ {
+  "term": "Kolonialisme",
+  "def": "Penguasaan suatu wilayah oleh negara lain untuk kepentingan ekonomi dan politik, biasanya disertai penempatan pejabat dan pemukim."
+ },
+ {
+  "term": "Konferensi Inter-Indonesia",
+  "def": "Pertemuan 1949 antara Republik dan negara-negara boneka bentukan Belanda untuk menyusun sikap bersama sebelum menghadapi Konferensi Meja Bundar."
+ },
+ {
+  "term": "Konferensi Meja Bundar (KMB)",
+  "def": "Perundingan di Den Haag (Agustus-November 1949) yang menghasilkan pengakuan kedaulatan Belanda atas Indonesia dan pembentukan RIS."
+ },
+ {
+  "term": "Kongsi dagang",
+  "def": "Persekutuan pedagang yang menghimpun modal dan hak istimewa untuk berdagang di suatu wilayah, seperti VOC di Hindia dan EIC di India."
+ },
+ {
+  "term": "Konteks arkeologi",
+  "def": "Hubungan ruang dan waktu antara artefak, lapisan tanah, dan fitur di sekitarnya, karena hilangnya konteks mengurangi nilai temuan."
+ },
+ {
+  "term": "Krisis moneter 1997",
+  "def": "Runtuhnya nilai rupiah dan bank-bank pada 1997–1998 yang memicu keruntuhan ekonomi dan berakhirnya pemerintahan Orde Baru."
+ },
+ {
+  "term": "Kronologi",
+  "def": "Ilmu menyusun peristiwa menurut urutan waktu; dalam arkeologi dibantu stratigrafi, tipologi, dan penanggalan radiokarbon."
+ },
+ {
+  "term": "Lapisan budaya",
+  "def": "Lapisan tanah yang mengandung sisa aktivitas manusia, seperti arang, pecahan tembikar, dan tulang, sebagai penanda masa hunian."
+ },
+ {
+  "term": "Lempeng tektonik",
+  "def": "Lempeng besar kerak bumi yang bergerak di atas mantel; tumbukan dan pergeserannya membentuk gunung, palung, dan gempa."
+ },
+ {
+  "term": "Lontar",
+  "def": "Naskah yang ditulis pada daun pohon tal dan dipakai menyimpan sastra, ajaran agama, serta catatan administrasi di Jawa dan Bali."
+ },
+ {
+  "term": "Lubang hitam",
+  "def": "Wilayah ruang-waktu dengan gravitasi begitu kuat sehingga cahaya pun tidak dapat lepas, terbentuk dari runtuhan inti bintang yang sangat masif."
+ },
+ {
+  "term": "Mandala",
+  "def": "Konsep kekuasaan Asia Tenggara berupa lingkaran pengaruh seorang raja atas penguasa kecil di sekitarnya, tanpa batas wilayah tegas."
+ },
+ {
+  "term": "Marsose",
+  "def": "Pasukan khusus KNIL yang dibentuk 1890 untuk operasi cepat di Aceh dan dikenal karena kekerasan dalam menindas perlawanan."
+ },
+ {
+  "term": "Materi gelap",
+  "def": "Massa tak terlihat yang tidak memancarkan cahaya tetapi terdeteksi dari tarikan gravitasinya terhadap gerak bintang dan galaksi."
+ },
+ {
+  "term": "Megalit",
+  "def": "Bangunan atau benda batu besar untuk pemujaan atau kubur, seperti menhir, dolmen, dan sarkofagus; banyak di Nias, Sumba, dan Toraja."
+ },
+ {
+  "term": "Menhir",
+  "def": "Tugu batu tinggi yang didirikan tegak sebagai tanda pemujaan nenek moyang atau penanda tempat upacara pada masa megalitik."
+ },
+ {
+  "term": "Mesolitik",
+  "def": "Masa peralihan antara Paleolitik dan Neolitik, ditandai perkakas batu kecil dan pola hidup berburu-meramu yang masih dominan."
+ },
+ {
+  "term": "Mikrolit",
+  "def": "Alat batu berukuran sangat kecil yang biasanya dipasang pada gagang kayu atau tulang sebagai mata panah atau bilah pisau."
+ },
+ {
+  "term": "Monopoli rempah",
+  "def": "Hak tunggal membeli dan menjual komoditas tertentu, dipakai VOC dengan merusak tanaman pesaing dan membatasi pelabuhan dagang di Maluku."
+ },
+ {
+  "term": "Mutasi",
+  "def": "Perubahan acak pada urutan DNA yang menjadi sumber variasi genetik; sebagian besar netral, sebagian merugikan, dan sedikit menguntungkan."
+ },
+ {
+  "term": "Nekara",
+  "def": "Genderang perunggu dari budaya Dong Son, dipakai dalam upacara dan lambang status; contoh terkenal ditemukan di Bali, Sumba, dan Alor."
+ },
+ {
+  "term": "Neolitik",
+  "def": "Zaman batu muda, ditandai pertanian, peternakan, tembikar, dan permukiman tetap; di Nusantara mulai sekitar 4.000 tahun lalu."
+ },
+ {
+  "term": "Nukleosintesis bintang",
+  "def": "Proses fusi inti atom ringan menjadi unsur lebih berat di dalam bintang, sumber karbon, oksigen, dan besi penyusun tubuh makhluk hidup."
+ },
+ {
+  "term": "Nusantara",
+  "def": "Sebutan bagi kepulauan Indonesia; dalam Negarakertagama berarti pulau-pulau di luar Jawa yang tunduk pada Majapahit."
+ },
+ {
+  "term": "Octrooi",
+  "def": "Surat hak istimewa dari pemerintah Belanda yang memberi VOC monopoli dagang dan wewenang berperang di wilayah Asia selama 21 tahun."
+ },
+ {
+  "term": "Orde Baru",
+  "def": "Rezim pemerintahan Soeharto pada 1966–1998 yang menekankan stabilitas politik, pembangunan ekonomi, dan peran ganda militer."
+ },
+ {
+  "term": "Otonomi daerah",
+  "def": "Kewenangan pemerintah daerah mengatur urusan sendiri; diberlakukan luas sejak 2001 setelah reformasi dan amendemen UUD 1945."
+ },
+ {
+  "term": "Otonomi khusus",
+  "def": "Kewenangan istimewa suatu daerah mengatur urusannya sendiri, diberikan kepada Aceh, Papua, Jakarta, dan Yogyakarta dengan alasan berbeda."
+ },
+ {
+  "term": "Paleolitik",
+  "def": "Zaman batu tua, ketika manusia hidup berburu dan meramu dengan perkakas batu kasar; di Nusantara diwakili budaya Pacitan dan Ngandong."
+ },
+ {
+  "term": "Paleomagnetisme",
+  "def": "Rekaman arah medan magnet bumi pada mineral batuan purba, dipakai membuktikan pergeseran benua dan pembalikan kutub magnet sepanjang sejarah bumi."
+ },
+ {
+  "term": "Pancasila",
+  "def": "Lima sila dasar negara yang dirumuskan dalam sidang BPUPKI 1945: ketuhanan, kemanusiaan, persatuan, kerakyatan, dan keadilan sosial."
+ },
+ {
+  "term": "Pangreh praja",
+  "def": "Birokrasi pribumi di bawah pemerintahan kolonial, terdiri atas bupati dan wedana yang menjalankan administrasi namun diawasi pejabat Belanda."
+ },
+ {
+  "term": "Pergeseran merah",
+  "def": "Pemanjangan panjang gelombang cahaya benda langit yang menjauh, dipakai mengukur jarak dan laju pengembangan alam semesta."
+ },
+ {
+  "term": "Perjanjian Renville",
+  "def": "Persetujuan 1948 yang menetapkan garis gencatan senjata dan mempersempit wilayah Republik setelah Agresi Militer Belanda I."
+ },
+ {
+  "term": "Permineralisasi",
+  "def": "Proses pengisian rongga tulang atau kayu oleh mineral yang terbawa air tanah sehingga bentuk aslinya terawetkan sebagai fosil, misalnya kayu membatu."
+ },
+ {
+  "term": "Perundingan Linggarjati",
+  "def": "Perundingan 1946 antara Indonesia dan Belanda yang menghasilkan pengakuan atas Republik Indonesia meliputi Jawa, Sumatra, dan Madura."
+ },
+ {
+  "term": "PETA",
+  "def": "Pembela Tanah Air, tentara sukarela bentukan Jepang (1943) beranggotakan pemuda Indonesia; menjadi cikal bakal perwira tentara nasional."
+ },
+ {
+  "term": "Petisi Sutardjo",
+  "def": "Usulan di Volksraad pada 1938 agar Indonesia diberi status dominion dengan parlemen sendiri, yang ditolak pemerintah Belanda."
+ },
+ {
+  "term": "Piagam Jakarta",
+  "def": "Rumusan dasar negara hasil Panitia Sembilan (22 Juni 1945), memuat tujuh kata kewajiban menjalankan syariat Islam bagi pemeluknya."
+ },
+ {
+  "term": "Poenale sanctie",
+  "def": "Hukuman badan bagi kuli kontrak yang melarikan diri atau membangkang, dihapus pada 1931 setelah dikritik keras di Belanda."
+ },
+ {
+  "term": "Politik etis",
+  "def": "Kebijakan balas budi Belanda (1901) yang menjanjikan irigasi, pendidikan, dan transmigrasi, meski pelaksanaannya terbatas dan tetap kolonial."
+ },
+ {
+  "term": "Politik pintu terbuka",
+  "def": "Kebijakan membuka Hindia Belanda bagi modal swasta asing sejak 1870, yang memicu perkebunan besar dan perusahaan tambang."
+ },
+ {
+  "term": "PPKI",
+  "def": "Panitia Persiapan Kemerdekaan Indonesia, dibentuk 7 Agustus 1945; mengesahkan UUD 1945 dan memilih Soekarno-Hatta pada 18 Agustus."
+ },
+ {
+  "term": "Prasasti",
+  "def": "Batu atau logam bertulis yang memuat keputusan raja, sumbangan tanah, atau silsilah, dan menjadi sumber utama sejarah kerajaan awal."
+ },
+ {
+  "term": "Priayi",
+  "def": "Lapisan sosial elite Jawa dari kalangan bangsawan dan pejabat, dibedakan oleh gelar, bahasa halus, dan akses ke jabatan."
+ },
+ {
+  "term": "Proklamasi",
+  "def": "Pernyataan kemerdekaan Indonesia yang dibacakan Soekarno pada 17 Agustus 1945 di Jalan Pegangsaan Timur 56, Jakarta."
+ },
+ {
+  "term": "Punden berundak",
+  "def": "Bangunan teras bertingkat dari batu atau tanah yang dipakai memuja roh nenek moyang dan menjadi cikal bakal struktur candi."
+ },
+ {
+  "term": "Punggungan tengah samudra",
+  "def": "Rangkaian pegunungan bawah laut tempat magma naik dan membentuk kerak samudra baru, sehingga dasar samudra terus melebar."
+ },
+ {
+  "term": "Radiasi latar mikro kosmik",
+  "def": "Sisa cahaya dari alam semesta awal yang kini berbentuk gelombang mikro dan tersebar merata ke seluruh langit, ditemukan pada 1965."
+ },
+ {
+  "term": "Radio karbon",
+  "def": "Metode penanggalan berbasis peluruhan isotop karbon-14 pada bahan organik; efektif untuk benda berumur hingga sekitar 50.000 tahun."
+ },
+ {
+  "term": "Reformasi",
+  "def": "Gerakan yang menumbangkan Soeharto pada Mei 1998, membuka kebebasan pers, multipartai, dan amendemen konstitusi."
+ },
+ {
+  "term": "Residency",
+  "def": "Wilayah administrasi kolonial Hindia Belanda yang dipimpin seorang residen, membawahi beberapa kabupaten dan bertanggung jawab kepada gubernur jenderal."
+ },
+ {
+  "term": "RIS",
+  "def": "Republik Indonesia Serikat (1949-1950), negara federal bentukan hasil KMB yang terdiri atas 16 negara bagian dan kemudian dibubarkan."
+ },
+ {
+  "term": "Romusha",
+  "def": "Kerja paksa pada masa pendudukan Jepang; ratusan ribu orang dikirim ke proyek militer di luar Jawa, banyak yang meninggal."
+ },
+ {
+  "term": "Sarkofagus",
+  "def": "Peti batu tempat meletakkan jenazah, sering dihiasi relief wajah atau motif, ditemukan pada kubur megalitik di Bali dan Jawa."
+ },
+ {
+  "term": "Seinendan",
+  "def": "Organisasi pemuda bentukan Jepang untuk latihan baris-berbaris dan disiplin, yang kemudian menjadi wadah kader nasionalis."
+ },
+ {
+  "term": "Sejarah lisan",
+  "def": "Metode menggali masa lalu melalui wawancara dengan pelaku atau saksi, dipakai ketika sumber tertulis terbatas atau untuk melengkapi arsip."
+ },
+ {
+  "term": "Seleksi alam",
+  "def": "Mekanisme evolusi ketika individu dengan sifat menguntungkan bertahan dan mewariskan sifat itu lebih banyak kepada generasi berikutnya."
+ },
+ {
+  "term": "Sensus",
+  "def": "Pencacahan penduduk secara menyeluruh; di Hindia Belanda dilakukan pada 1905 dan 1930, menghasilkan data jumlah dan sebaran penduduk."
+ },
+ {
+  "term": "Skala waktu geologi",
+  "def": "Sistem pembagian sejarah bumi menjadi eon, era, periode, dan kala berdasarkan perubahan lapisan batuan serta kehidupan, dari Hadean hingga Holosen."
+ },
+ {
+  "term": "Spesiasi",
+  "def": "Proses terbentuknya spesies baru, biasanya karena isolasi geografis atau reproduktif yang menghalangi pertukaran gen antarpopulasi."
+ },
+ {
+  "term": "STOVIA",
+  "def": "Sekolah dokter pribumi di Batavia yang didirikan 1851, menjadi tempat berkumpulnya tokoh pergerakan nasional awal seperti Soetomo dan Tjipto."
+ },
+ {
+  "term": "Stratigrafi",
+  "def": "Ilmu tentang lapisan sedimen dan urutannya; lapisan lebih bawah umumnya lebih tua, menjadi dasar penanggalan relatif di arkeologi."
+ },
+ {
+  "term": "Subduksi",
+  "def": "Proses satu lempeng bumi menunjam ke bawah lempeng lain di zona pertemuan, sumber gempa dalam, rangkaian gunung api, dan palung samudra."
+ },
+ {
+  "term": "Sumpah Palapa",
+  "def": "Ikrar Gajah Mada dalam Pararaton untuk tidak menikmati kesenangan dunia sebelum menaklukkan Nusantara di bawah Majapahit."
+ },
+ {
+  "term": "Sumpah Pemuda",
+  "def": "Ikrar 28 Oktober 1928 tentang satu tanah air, satu bangsa, dan satu bahasa Indonesia, hasil Kongres Pemuda II di Batavia."
+ },
+ {
+  "term": "Sundaland",
+  "def": "Paparan benua Asia Tenggara yang pernah menjadi daratan bersambung saat muka laut rendah, mencakup Sumatra, Jawa, dan Kalimantan."
+ },
+ {
+  "term": "Supernova",
+  "def": "Ledakan akbar bintang masif di akhir hidupnya yang menyemburkan unsur berat ke ruang antarbintang dan meninggalkan bintang neutron atau lubang hitam."
+ },
+ {
+  "term": "Supersemar",
+  "def": "Surat perintah 11 Maret 1966 yang memberi Soeharto wewenang memulihkan keamanan, membubarkan PKI, dan menjadi jalan menuju Orde Baru."
+ },
+ {
+  "term": "Tafonomi",
+  "def": "Kajian tentang perjalanan bangkai atau sisa organisme sejak mati, terkubur, terurai, hingga ditemukan kembali sebagai fosil oleh peneliti."
+ },
+ {
+  "term": "Tanam paksa",
+  "def": "Sebutan lain cultuurstelsel; kewajiban menanam komoditas ekspor yang memberatkan petani dan menuai kritik dalam novel Max Havelaar."
+ },
+ {
+  "term": "Tembikar",
+  "def": "Wadah dari tanah liat dibakar; corak dan bentuknya dipakai arkeolog untuk menandai budaya dan periode, misalnya tembikar Buni."
+ },
+ {
+  "term": "Termoluminesensi",
+  "def": "Teknik penanggalan butiran mineral dari cahaya yang dilepaskan saat dipanaskan, dipakai untuk tembikar dan lapisan tanah."
+ },
+ {
+  "term": "Tipologi",
+  "def": "Pengelompokan artefak berdasarkan bentuk dan ciri fisik untuk menyusun kronologi relatif serta mengenali tradisi budaya."
+ },
+ {
+  "term": "Tonarigumi",
+  "def": "Rukun tetangga bentukan Jepang yang mengatur pembagian jatah, kerja bakti, dan pengawasan politik di tingkat kampung selama pendudukan."
+ },
+ {
+  "term": "Tritura",
+  "def": "Tiga tuntutan mahasiswa pada 1966, yaitu pembubaran PKI, pembersihan kabinet dari unsur komunis, dan penurunan harga kebutuhan pokok."
+ },
+ {
+  "term": "Undang-Undang Agraria 1870",
+  "def": "Aturan kolonial yang melarang penjualan tanah adat kepada orang asing tetapi membuka tanah negara untuk disewakan kepada pengusaha."
+ },
+ {
+  "term": "Upeti",
+  "def": "Persembahan berupa hasil bumi atau barang berharga dari daerah taklukan kepada raja pusat sebagai tanda tunduk dan kesetiaan."
+ },
+ {
+  "term": "Volksraad",
+  "def": "Dewan rakyat Hindia Belanda (1918-1942) dengan anggota pribumi terbatas; hanya berwenang memberi nasihat kepada gubernur jenderal."
+ },
+ {
+  "term": "Wallacea",
+  "def": "Zona peralihan biogeografi antara Sunda dan Sahul, dipisahkan laut dalam; sumber fauna endemik seperti komodo dan anoa."
+ },
+ {
+  "term": "Waruga",
+  "def": "Kubur batu berbentuk rumah kecil dengan atap menyerupai piramida, khas tradisi megalitik Minahasa di Sulawesi Utara, dipakai untuk jenazah keluarga."
+ },
+ {
+  "term": "Yupa",
+  "def": "Tiang batu bertulis aksara Pallawa berbahasa Sanskerta dari Kutai yang mencatat pemberian hadiah raja kepada kaum brahmana."
+ },
+ {
+  "term": "Zaman batu",
+  "def": "Tahap prasejarah ketika perkakas utama dibuat dari batu, dibagi menjadi Paleolitik, Mesolitik, dan Neolitik."
+ },
+ {
+  "term": "Zaman besi",
+  "def": "Tahap budaya ketika besi menjadi bahan utama perkakas dan senjata; di Nusantara bukti awal muncul sekitar abad ke-2 hingga ke-5 Masehi."
+ },
+ {
+  "term": "Zending",
+  "def": "Lembaga misi Kristen Protestan yang menyebarkan agama sambil membuka sekolah, rumah sakit, dan percetakan di wilayah pedalaman Hindia Belanda."
+ }
 ]
