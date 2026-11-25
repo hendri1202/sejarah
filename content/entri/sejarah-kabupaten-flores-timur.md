@@ -19,7 +19,7 @@ Pembentukan kabupaten itu berlangsung cepat. Pada 14 Desember 1958, DPRD Daerah 
 
 ## Ibu kota di kaki Ile Mandiri
 
-Larantuka terletak di ujung timur Pulau Flores, di kaki Gunung Ile Mandiri, menghadap Selat Larantuka. Kota itu tumbuh sebagai pelabuhan dan pusat kerajaan yang sejak abad ke-16 berhubungan dengan Portugis. Penduduknya berbahasa Lamaholot, dan sebagian besar beragama Katolik, warisan misi Dominikan yang bertahan setelah Belanda mengambil alih wilayah pada abad ke-19.
+Larantuka terletak di ujung timur Pulau Flores, di kaki Gunung Ile Mandiri, menghadap Selat Larantuka. Kota itu tumbuh sebagai pelabuhan dan pusat kerajaan yang sejak abad ke-16 berhubungan dengan Portugis. Penduduknya berbahasa Lamaholot, dan sebagian besar beragama Katolik, warisan misi Dominikan yang bertahan setelah Belanda mengambil alih wilayah pada abad ke-19. Bahasa Lamaholot menyimpan sejumlah kata serapan Portugis, seperti kata untuk gereja, misa, dan nama-nama orang, yang masih dipakai dalam percakapan sehari-hari.
 
 Ibu kota kabupaten tetap di Larantuka, meskipun kota itu sempit dan dikelilingi perbukitan, dan hanya memiliki sedikit lahan datar untuk perluasan. Kantor bupati, gereja katedral, dan pasar berada dalam jarak beberapa ratus meter. Pada musim Semana Santa, kota ini dipenuhi peziarah dari berbagai pulau, dan jalan-jalan menuju katedral ditutup untuk prosesi patung Tuan Ma dan Tuan Ana.
 
@@ -53,7 +53,7 @@ Pariwisata religi tumbuh sejak 2010-an. Pemerintah kabupaten memperbaiki jalan d
 
 > Flores Timur adalah kabupaten yang dibentuk oleh laut: batasnya ditentukan oleh selat, dan ekonominya bergantung pada kapal yang datang.
 
-## Yang tersisa
+## Kabupaten yang lebih kecil
 
 Sisa-sisa kerajaan Larantuka masih terlihat di kota: istana kayu, makam raja, dan gereja tua yang dibangun pada abad ke-19. Keluarga raja tidak lagi memerintah, tetapi masih memainkan peran dalam upacara adat dan prosesi keagamaan.
 

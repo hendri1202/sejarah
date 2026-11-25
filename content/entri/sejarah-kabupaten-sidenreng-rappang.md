@@ -47,7 +47,7 @@ Danau Tempe adalah pusat kehidupan ekonomi wilayah ini. Pada musim hujan, danau 
 
 Beras dari Sidenreng dan Rappang dijual ke Gowa, Bone, dan pelabuhan-pelabuhan di pesisir barat. Jalur perdagangan itu melewati Bungin, sebuah kampung di tepi danau yang menjadi pelabuhan kecil. Kopi dari Toraja dan Enrekang juga diangkut melalui Bungin sebelum dibawa ke Makassar, sehingga nama Bungin sempat melekat pada kopi yang dijual di pasar Eropa.
 
-## Kabupaten 1959
+## Satu kabupaten, dua nama
 
 Kabupaten Sidenreng Rappang dibentuk berdasarkan Undang-Undang Nomor 29 Tahun 1959, dengan ibu kota di Pangkajene Sidenreng. Wilayahnya mencakup bekas Kerajaan Sidenreng dan Kerajaan Rappang, serta beberapa distrik di sekitarnya. Penggabungan itu tidak menghapus identitas kedua negeri: sampai sekarang, orang masih menyebut diri sebagai orang Sidenreng atau orang Rappang, dan adat masing-masing tetap dipertahankan.
 
@@ -55,7 +55,7 @@ Pada masa Orde Baru, Sidrap dikenal sebagai salah satu daerah yang berhasil menc
 
 > Dua negeri yang bersumpah mati bersama akhirnya hidup bersama dalam satu kabupaten, dan yang menyatukan mereka bukan perang, melainkan air danau.
 
-## Yang tersisa
+## Danau yang menyusut
 
 Sekarang Danau Tempe menghadapi persoalan yang belum selesai: pendangkalan, enceng gondok, dan perubahan pola banjir. Sebagian warga menyalahkan tambak dan penebangan di hulu; sebagian menyalahkan saluran yang dibangun tanpa perhitungan. Debit air yang tidak lagi seperti dulu membuat hasil ikan menurun dan sawah di tepi danau kadang gagal panen.
 

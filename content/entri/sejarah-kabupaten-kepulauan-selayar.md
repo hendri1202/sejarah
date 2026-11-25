@@ -21,13 +21,13 @@ Kabupaten ini sekarang terdiri dari 1.357 kilometer persegi daratan yang terseba
 
 Posisi Selayar membuatnya menjadi persinggahan alami. Kapal yang berlayar dari Makassar ke Nusa Tenggara atau ke Australia bagian utara melewati perairan ini, dan banyak yang berhenti untuk mengambil air serta memperbaiki layar. Sebelum ada navigasi modern, pulau ini adalah titik yang harus dicapai sebelum kapal menyeberang ke laut terbuka.
 
-Pelayaran itu tidak selalu damai. Perairan Selayar menjadi jalur pelaut Bugis, Makassar, Bajo, dan kadang perompak dari Sulu dan Mindanao. Penduduk pesisir membangun kampung di teluk-teluk yang terlindung, dan sebagian memilih tinggal di atas perahu selama berbulan-bulan. Bahasa Selayar, yang berkerabat dengan bahasa Makassar, masih dipakai di kampung-kampung tua.
+Pelayaran itu tidak selalu damai. Perairan Selayar menjadi jalur pelaut Bugis, Makassar, Bajo, dan kadang perompak dari Sulu dan Mindanao. Penduduk pesisir membangun kampung di teluk-teluk yang terlindung, dan sebagian memilih tinggal di atas perahu selama berbulan-bulan. Bahasa Selayar, yang berkerabat dengan bahasa Makassar, masih dipakai di kampung-kampung tua, terutama di pulau-pulau kecil yang jarang didatangi pendatang.
 
 ## Perahu lambo
 
-Selayar punya tradisi pembuatan perahu sendiri. Perahu layar tradisional yang disebut lambo dibuat di kampung-kampung pesisir, dengan lambung yang lebar dan dua tiang. Lambo dipakai untuk menangkap ikan, mengangkut barang antarpulau, dan kadang berlayar jauh ke selatan. Ukurannya lebih kecil daripada pinisi, tetapi bentuknya disesuaikan dengan gelombang laut dalam.
+Selayar punya tradisi pembuatan perahu sendiri. Perahu layar tradisional yang disebut lambo dibuat di kampung-kampung pesisir, dengan lambung lebar dan tiang layar yang tinggi. Lambo dipakai untuk menangkap ikan, mengangkut barang antarpulau, dan kadang berlayar jauh ke selatan. Ukurannya lebih kecil daripada pinisi, tetapi bentuknya disesuaikan dengan gelombang laut dalam.
 
-Pembuatan perahu di Selayar dilakukan tanpa gambar teknik. Ukuran ditentukan oleh pengalaman pembuat, dan bagian-bagian kayu disambung dengan pasak serta ikatan, bukan paku besi. Pengetahuan itu diwariskan dari ayah ke anak, dan sampai sekarang masih ada keluarga pembuat perahu di pesisir. Sejak 2010-an, pemerintah kabupaten mulai menampilkan lambo dalam acara budaya, antara lain pada peringatan hari jadi provinsi.
+Pembuatan perahu di Selayar dilakukan tanpa gambar teknik. Ukuran ditentukan oleh pengalaman pembuat, dan bagian-bagian kayu umumnya disambung dengan pasak kayu, bukan paku besi. Pengetahuan itu diwariskan dari ayah ke anak, dan sampai sekarang masih ada keluarga pembuat perahu di pesisir. Sejak 2010-an, pemerintah kabupaten mulai menampilkan lambo dalam acara budaya, antara lain pada peringatan hari jadi provinsi.
 
 ## Kontroleur di Benteng
 
@@ -53,7 +53,7 @@ Kawasan itu mula-mula ditetapkan sebagai cagar alam pada 1989, lalu diubah menja
 
 > Selayar hidup dari laut, dan setiap kali nama pulau itu berubah, yang berubah bukan lautnya, melainkan cara pemerintah menghitungnya.
 
-## Yang tersisa
+## Perahu yang jarang dibuat
 
 Sekarang Selayar lebih mudah dicapai. Bandara H. Aroeppala melayani penerbangan dari Makassar, dan kapal feri dari Pamatata menghubungkan pulau dengan daratan Sulawesi. Pariwisata tumbuh, terutama karena penyelaman di Taka Bonerate dan pantai berpasir putih di sisi timur.
 

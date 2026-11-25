@@ -25,12 +25,12 @@ Setelah 2008, Namrole berkembang. Kantor bupati, DPRD, rumah sakit, dan sekolah 
 
 ## Pulau yang panjang
 
-Buru Selatan terdiri dari enam kecamatan dan 81 desa. Sebagian besar penduduk tinggal di pesisir, hidup dari perikanan, kebun cengkih, dan sagu. Di pedalaman, terdapat komunitas yang masih berpindah-pindah dan mengolah lahan dengan cara tebang-bakar. Hutan di bagian selatan masih cukup lebat, meskipun pembalakan dan pembukaan kebun terus mengurangi luasnya.
+Buru Selatan terdiri dari enam kecamatan dan 81 desa. Sebagian besar penduduk tinggal di pesisir, hidup dari perikanan, kebun cengkih, dan sagu. Di pedalaman, terdapat komunitas yang masih berpindah-pindah dan mengolah lahan dengan cara tebang-bakar. Hutan di bagian selatan masih cukup lebat, meskipun pembalakan dan pembukaan kebun terus mengurangi luasnya. Harga cengkih sangat menentukan penghasilan tahunan: ketika harga jatuh, banyak keluarga beralih menanam kakao atau mencari ikan.
 
-Pulau Ambalau, yang secara administratif termasuk Buru Selatan, berada sekitar 100 kilometer di tenggara Buru. Pulau itu kecil, dengan penduduk beberapa ribu jiwa yang hidup dari perikanan dan kebun kelapa. Hubungan dengan Namrole bergantung pada kapal yang tidak selalu berlayar setiap minggu, sehingga harga barang di Ambalau lebih mahal daripada di Namrole.
+Pulau Ambalau, yang secara administratif termasuk Buru Selatan, berada di sebelah tenggara Buru dan hanya bisa dicapai dengan kapal. Pulau itu kecil, dengan penduduk beberapa ribu jiwa yang hidup dari perikanan dan kebun kelapa. Hubungan dengan Namrole bergantung pada kapal yang tidak selalu berlayar setiap minggu, sehingga harga barang di Ambalau lebih mahal daripada di Namrole.
 
 :::note
-Buru Selatan mencakup sekitar 40 persen luas Pulau Buru, tetapi hanya sekitar seperempat penduduk kabupaten induk. Wilayahnya luas dan jarang penduduk, sehingga biaya pelayanan publik per orang jauh lebih tinggi.
+Buru Selatan mencakup sekitar 40 persen luas Pulau Buru, tetapi hanya sekitar sepertiga penduduk kabupaten induk. Wilayahnya luas dan jarang penduduk, sehingga biaya pelayanan publik per orang jauh lebih tinggi.
 :::
 
 ## Angka yang berbeda
@@ -45,7 +45,7 @@ Pemekaran Buru Selatan didorong oleh jarak dan pelayanan. Dari Namrole ke Namlea
 
 Undang-Undang 32/2008 mencantumkan alasan yang biasa: potensi daerah, luas wilayah, jumlah penduduk, dan rentang kendali pemerintahan. Setelah pemekaran, Buru Selatan menerima transfer dana dari pusat dan provinsi, serta kewenangan mengatur anggaran sendiri. Namun pendapatan asli daerahnya sangat kecil, dan sebagian besar belanja digunakan untuk gaji pegawai.
 
-Pada 2013, Undang-Undang 32/2008 diuji di Mahkamah Konstitusi karena sengketa batas wilayah antara Buru dan Buru Selatan. Pemohon mempersoalkan peta lampiran undang-undang yang dianggap tidak sesuai dengan kondisi di lapangan. Putusan MK tidak membatalkan undang-undang, tetapi menegaskan bahwa batas harus diselesaikan melalui kesepakatan kedua kabupaten.
+Beberapa tahun setelah pemekaran, Undang-Undang 32/2008 diuji di Mahkamah Konstitusi karena sengketa batas wilayah antara Buru dan Buru Selatan. Pemohon mempersoalkan peta lampiran undang-undang yang dianggap tidak sesuai dengan kondisi di lapangan. Putusan MK tidak membatalkan undang-undang, tetapi menegaskan bahwa batas harus diselesaikan melalui kesepakatan kedua kabupaten.
 
 > Buru Selatan dibentuk oleh jarak: semakin jauh sebuah kampung dari Namlea, semakin kuat alasannya untuk memisahkan diri.
 
@@ -55,7 +55,7 @@ Sekarang Buru Selatan masih bergantung pada kapal. Barang kebutuhan pokok, bahan
 
 Jalan darat yang menghubungkan Namrole dengan Namlea sudah ada, tetapi kondisinya tidak selalu baik. Pada musim hujan, beberapa ruas berlubang dan sulit dilalui kendaraan biasa. Pemerintah kabupaten berencana memperbaiki jalan itu, tetapi biayanya besar dan sebagian ruas melewati hutan serta perbukitan.
 
-## Yang tersisa
+## Kampung yang menunggu kapal
 
 Buru Selatan jarang disebut dalam sejarah nasional. Pulau Buru lebih dikenal sebagai tempat pembuangan tahanan politik pada 1965–1979, dan nama itu melekat pada bagian utara pulau, tempat kamp-kamp berada. Sejarah selatan berbeda: ia adalah sejarah kampung nelayan, kebun cengkih, dan kapal yang datang setiap beberapa pekan.
 

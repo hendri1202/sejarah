@@ -43,7 +43,7 @@ Pengakuan internasional datang pada 1991, ketika UNESCO menetapkan Taman Nasiona
 
 Kabupaten Manggarai Barat dibentuk berdasarkan Undang-Undang Nomor 8 Tahun 2003, yang disahkan setelah sidang paripurna DPR pada 27 Januari 2003. Wilayahnya dimekarkan dari Kabupaten Manggarai, yang sebelumnya membentang dari Ruteng sampai Labuan Bajo. Ibu kota kabupaten baru itu ditetapkan di Labuan Bajo, sebuah pilihan yang menandai pergeseran pusat gravitasi dari pegunungan ke pesisir.
 
-Kabupaten ini mencakup daratan sekitar 9.450 kilometer persegi, termasuk pulau-pulau kecil di sekitarnya. Sebagian besar penduduk tinggal di pedalaman dan hidup dari pertanian, terutama kopi dan cengkeh. Labuan Bajo, sebagai ibu kota, hanya dihuni sebagian kecil penduduk, tetapi menyumbang bagian besar dari pendapatan daerah melalui pariwisata.
+Kabupaten ini mencakup wilayah sekitar 9.450 kilometer persegi, termasuk pulau-pulau kecil di sekitarnya, dan sebagian besar daratannya berbukit. Sebagian besar penduduk tinggal di pedalaman dan hidup dari pertanian, terutama kopi dan cengkeh. Labuan Bajo, sebagai ibu kota, hanya dihuni sebagian kecil penduduk, tetapi menyumbang bagian besar dari pendapatan daerah melalui pariwisata.
 
 ## Gerbang yang ramai
 
@@ -53,7 +53,7 @@ Pariwisata membawa pendapatan, tetapi juga persoalan. Sampah plastik dari kapal 
 
 > Labuan Bajo dibangun oleh kapal nelayan, lalu diubah oleh kapal wisata, dan kedua jenis kapal itu masih berebut tempat di teluk yang sama.
 
-## Yang tersisa
+## Gerbang dan harganya
 
 Sekarang Labuan Bajo adalah kota kecil yang sibuk, dengan restoran di tepi laut dan kapal phinisi yang berlabuh di dermaga. Sebagian warga masih menangkap ikan, tetapi banyak yang beralih menjadi pemandu, awak kapal, atau pedagang. Kampung-kampung di pedalaman Manggarai Barat tetap hidup dari kopi, dan jalan menuju Ruteng masih berkelok-kelok di antara perbukitan.
 

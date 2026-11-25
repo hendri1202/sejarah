@@ -15,7 +15,7 @@ sources:
 
 Pada 22 Mei 2007, Kabupaten Sumba Tengah diresmikan sebagai daerah otonom baru. Undang-Undang Nomor 3 Tahun 2007, yang menjadi dasarnya, ditetapkan pada 2 Januari tahun yang sama, tetapi pelantikan pejabat dan peresmian baru berlangsung empat bulan kemudian. Ibu kotanya Waibakul, sebuah kota kecil di tengah Pulau Sumba yang sebelumnya hanya menjadi ibu kota kecamatan.
 
-Kabupaten ini adalah salah satu dari dua kabupaten yang dimekarkan dari Sumba Barat pada 2007. Wilayahnya mencakup 1.786 kilometer persegi, terbagi menjadi 6 kecamatan, dengan penduduk sekitar 92.000 jiwa pada 2025. Sebagian besar wilayahnya berupa padang rumput dan perbukitan kapur, dengan musim kemarau yang panjang dan sungai-sungai yang mengering.
+Kabupaten ini adalah salah satu dari dua kabupaten yang dimekarkan dari Sumba Barat pada 2007. Wilayahnya mencakup 1.786 kilometer persegi, terbagi menjadi 6 kecamatan, dengan penduduk sekitar 92.000 jiwa pada 2025. Sebagian besar wilayahnya berupa padang rumput dan perbukitan kapur, dengan musim kemarau yang panjang dan sungai-sungai yang mengering. Penduduk menanam jagung dan ubi kayu di lahan kering, dan memelihara sapi serta kuda yang dilepas di padang terbuka setelah panen.
 
 ## Waibakul
 
@@ -43,7 +43,7 @@ Penarikan batu berlangsung lambat. Batu diletakkan di atas kayu gelondong yang b
 
 Sejak 1990-an, sebagian keluarga mengganti batu alam dengan batu cetak atau beton, karena batu besar semakin sulit ditemukan dan biaya mengangkutnya tinggi. Perubahan itu mengubah makna kubur: yang dulu menandakan kerja kolektif kini menandakan kemampuan membeli bahan. Sebagian tua adat menolak perubahan itu, tetapi tidak dapat menghentikannya. Di beberapa kampung, batu yang sudah dipakai untuk kubur lama dibongkar dan dipakai ulang, sehingga jejak generasi sebelumnya hilang. Peneliti yang datang pada 1980-an mencatat puluhan kubur di satu kampung; sekarang jumlahnya lebih sedikit, dan sebagian sudah diganti beton.
 
-## Pemekaran 2007
+## Jarak yang jadi alasan
 
 Pemekaran Sumba Tengah didorong oleh jarak dan pelayanan. Dari Waibakul ke Waikabubak, jaraknya tidak jauh, tetapi jalan yang menghubungkan keduanya sering rusak. Penduduk di kecamatan tengah merasa jarang mendapat perhatian dari pemerintah kabupaten, terutama dalam hal kesehatan dan pendidikan.
 
@@ -51,7 +51,7 @@ Undang-Undang 3/2007 mencantumkan alasan yang biasa: luas wilayah, jumlah pendud
 
 > Di Sumba Tengah, batu yang ditarik dari gunung dan anggaran yang dikirim dari Jakarta sama-sama membutuhkan banyak tangan untuk sampai ke tujuan.
 
-## Yang tersisa
+## Batu yang masih ditarik
 
 Sekarang Sumba Tengah masih menjadi salah satu kabupaten termiskin di Nusa Tenggara Timur. Sebagian besar penduduk hidup dari pertanian lahan kering, beternak sapi, dan menenun kain. Musim kemarau yang panjang membuat panen sering gagal, dan bantuan pangan masih diperlukan di beberapa kecamatan.
 

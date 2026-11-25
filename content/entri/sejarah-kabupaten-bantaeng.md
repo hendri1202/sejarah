@@ -41,7 +41,7 @@ Nama Bantaeng berubah beberapa kali. Sumber lokal menyebut nama awal Bantayan, l
 
 Keputusan itu diambil setelah kemerdekaan, ketika banyak daerah mengganti nama yang dianggap warisan kolonial. Bantaeng tidak mengganti namanya, hanya menegaskan ejaannya. Pilihan itu terlihat kecil, tetapi menunjukkan sesuatu: identitas lokal dipertahankan dengan cara menulis ulang, bukan dengan menghapus.
 
-## Kabupaten 1959
+## Kabupaten kecil 1959
 
 Kabupaten Bantaeng dibentuk berdasarkan Undang-Undang Nomor 29 Tahun 1959 tentang Pembentukan Daerah Tingkat II di Sulawesi. Wilayahnya kecil, hanya 395,83 kilometer persegi, terdiri dari 8 kecamatan. Dari luas itu, sebagian besar berupa perbukitan yang curam dan dataran sempit di tepi laut. Sawah hanya ada di beberapa lembah, dan sebagian penduduk bergantung pada kebun serta hasil laut.
 

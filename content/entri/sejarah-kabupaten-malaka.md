@@ -13,7 +13,7 @@ sources:
   - "BPS Kabupaten Malaka, Kabupaten Belu dalam Angka 2013"
 ---
 
-Pada 14 Desember 2012, sidang paripurna DPR RI menyetujui pembentukan Kabupaten Malaka sebagai daerah otonom baru di Nusa Tenggara Timur. Undang-undangnya, Nomor 3 Tahun 2013, ditandatangani beberapa bulan kemudian, dan Betun ditetapkan sebagai ibu kota. Kabupaten ini dimekarkan dari Kabupaten Belu, yang sebelumnya mencakup seluruh Timor bagian tengah di sisi Indonesia.
+Pada 14 Desember 2012, sidang paripurna DPR RI menyetujui pembentukan Kabupaten Malaka sebagai daerah otonom baru di Nusa Tenggara Timur. Undang-undangnya, Nomor 3 Tahun 2013, ditetapkan pada 11 Januari 2013, dan Betun ditetapkan sebagai ibu kota. Kabupaten ini dimekarkan dari Kabupaten Belu, yang sebelumnya mencakup seluruh Timor bagian tengah di sisi Indonesia.
 
 Malaka adalah kabupaten kecil: 1.160 kilometer persegi, 12 kecamatan, dan 127 desa. Seluruh wilayahnya berada di Pulau Timor, tidak ada pulau terpisah. Di sebelah timur, kabupaten ini berbatasan langsung dengan Timor Leste, tepatnya Distrik Covalima, dan garis batas itu bukan garis yang dibuat pada 2013. Ia ditetapkan hampir seabad sebelumnya, oleh dua negara Eropa yang tidak pernah menginjak sebagian besar wilayah tersebut.
 
@@ -30,7 +30,7 @@ Sengketa itu akhirnya dibawa ke arbitrase internasional. Pada 25 Juni 1914, Mahk
 Garis itu tidak mengikuti sungai atau gunung secara konsisten. Di beberapa tempat, ia memotong kampung dan ladang, sehingga keluarga yang sama tinggal di dua negara. Setelah Timor Leste merdeka pada 2002, garis tersebut menjadi batas internasional yang dijaga pos-pos tentara dan polisi, dan penduduk yang memiliki ladang di seberang harus melintas dengan surat izin.
 
 :::note
-Putusan arbitrase 1914 ditandatangani ketika Perang Dunia I baru dimulai. Karena itu, pelaksanaan di lapangan tertunda beberapa tahun, dan sebagian patok baru dipasang pada 1920-an.
+Putusan arbitrase 1914 dikeluarkan ketika Perang Dunia I baru dimulai. Karena itu, pelaksanaan di lapangan tertunda beberapa tahun, dan sebagian patok baru dipasang pada 1920-an.
 :::
 
 ## Betun
@@ -51,9 +51,9 @@ Undang-Undang 3/2013 mencantumkan alasan yang biasa dipakai dalam pemekaran: lua
 
 Pintu lintas batas utama di Malaka adalah Pos Lintas Batas Negara Motamasin, di kecamatan Kobalima. Pos itu menghubungkan Betun dengan Suai di Timor Leste, dan sejak dibangun kembali pada 2017, bangunannya lebih besar serta dilengkapi pemeriksaan paspor dan karantina. Jalan menuju pos itu merupakan bagian dari Jalan Raya Lintas Selatan Timor, yang menghubungkan Motamasin dengan Batu Putih dan jalan nasional Trans Timor.
 
-Perdagangan lintas batas menjadi bagian dari ekonomi sehari-hari. Warga menjual kopi, ternak, dan hasil kebun ke Timor Leste, dan membeli barang-barang konsumsi yang harganya lebih murah. Namun kegiatan itu tidak selalu resmi: sebagian barang melewati jalan setapak di luar pos, dan petugas kadang menyita barang yang tidak memiliki dokumen.
+Perdagangan lintas batas menjadi bagian dari ekonomi sehari-hari. Warga menjual kopi, ternak, dan hasil kebun ke Timor Leste, dan membeli barang-barang konsumsi yang harganya lebih murah. Namun kegiatan itu tidak selalu resmi: sebagian barang melewati jalan setapak di luar pos, dan petugas kadang menyita barang yang tidak memiliki dokumen. Bahasa di kampung-kampung perbatasan juga bercampur: banyak warga Malaka bisa berbahasa Tetun atau Bunak, dan anak-anak belajar kedua bahasa itu dari tetangga sebelum belajar bahasa Indonesia di sekolah.
 
-## Yang tersisa
+## Ladang di dua negara
 
 Sekarang Malaka masih menghadapi persoalan yang sama seperti sebelum pemekaran: jalan yang rusak, air bersih yang terbatas, dan lapangan kerja yang sedikit. Kabupaten baru memberi kantor dan anggaran, tetapi tidak langsung mengubah ekonomi. Sebagian penduduk bekerja di luar negeri, dan uang kiriman mereka menjadi penopang rumah tangga.
 

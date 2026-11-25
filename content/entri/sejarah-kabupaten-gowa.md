@@ -55,7 +55,7 @@ Hari jadi kabupaten diperingati setiap 17 November, merujuk pada tahun 1321, ket
 
 > Gowa kalah pada 1669, tetapi kerajaannya bertahan lebih lama daripada benteng yang dibongkar Belanda.
 
-## Yang tersisa
+## Tembok di tengah kota
 
 Sisa Somba Opu sekarang berada di tengah permukiman, diapit jalan dan rumah penduduk. Sebagian temboknya telah direkonstruksi, dan sebuah museum kecil menyimpan temuan dari penggalian. Setiap tahun, sebagian warga menggelar acara di kompleks makam Katangka, tempat Hasanuddin dimakamkan.
 

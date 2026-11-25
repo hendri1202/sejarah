@@ -33,7 +33,7 @@ Rumah adat di wilayah ini berbentuk rumah panggung dengan atap menjulang, dan ku
 Gempa 1977 adalah gempa outer-rise terbesar yang tercatat di Indonesia. Karena pusatnya di luar zona subduksi, gempa jenis ini jarang dimasukkan dalam skenario tsunami resmi.
 :::
 
-## Pemekaran 2007
+## Lahir pada 2007
 
 Kabupaten Sumba Barat Daya dibentuk berdasarkan Undang-Undang Nomor 16 Tahun 2007, yang ditetapkan pada 2 Januari 2007 dan diresmikan pada 22 Mei 2007. Wilayahnya dimekarkan dari Kabupaten Sumba Barat, bersama Sumba Tengah yang dibentuk pada hari yang sama. Ibu kotanya di Tambolaka, dan luas wilayahnya sekitar 1.382 kilometer persegi.
 
@@ -49,8 +49,8 @@ Pada 2021, pemerintah daerah mengingatkan warga tentang ancaman tsunami setelah 
 
 > Tsunami 1977 datang pada siang hari, ketika orang sedang di rumah dan di pantai, dan itu menjelaskan mengapa korban begitu banyak.
 
-## Yang tersisa
+## Laut yang pernah datang
 
-Sekarang Sumba Barat Daya masih menjadi salah satu daerah dengan pendapatan per kapita terendah di Nusa Tenggara Timur. Ekonomi bertumpu pada pertanian lahan kering, ternak, dan tenun. Bandara Tambolaka melayani penerbangan dari Kupang dan Bali, dan menjadi harapan bagi pengembangan pariwisata.
+Sekarang Sumba Barat Daya masih menjadi salah satu daerah dengan pendapatan per kapita terendah di Nusa Tenggara Timur. Ekonomi bertumpu pada pertanian lahan kering, ternak, dan tenun. Bandara Tambolaka melayani penerbangan dari Kupang dan Bali, dan menjadi harapan bagi pengembangan pariwisata. Landasan pacunya diperpanjang pada 2010-an agar bisa didarati pesawat yang lebih besar, dan jumlah penumpang meningkat sejak penerbangan langsung dari Bali dibuka.
 
 Yang belum terjawab adalah bagaimana menggabungkan pembangunan dengan risiko bencana. Pantai selatan Sumba menarik bagi wisatawan, tetapi juga menghadapi gelombang yang datang tanpa peringatan. Kabupaten ini dibentuk untuk mendekatkan pemerintah kepada rakyat, dan ujian berikutnya adalah apakah pemerintah itu bisa melindungi rakyat dari laut yang pernah menghancurkan kampung mereka.

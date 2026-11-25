@@ -19,7 +19,7 @@ Kabupaten ini terletak di bagian utara Timor bagian barat, dengan luas 2.669 kil
 
 ## Us Kono dan Sonbay
 
-Sebelum Belanda, wilayah Timor Tengah Utara diperintah oleh sejumlah kerajaan kecil yang berpusat di pegunungan. Salah satunya adalah Kerajaan Us Kono, yang berpusat di Miomaffo dan diperintah oleh raja-raja bergelar Afoan Kono. Kerajaan itu awalnya berada di bawah pengaruh Sonbay, sebuah kekuasaan yang berpusat di Let'aes'am-Bijela dan dikenal keras terhadap negeri bawahannya.
+Sebelum Belanda, wilayah Timor Tengah Utara diperintah oleh sejumlah kerajaan kecil yang berpusat di pegunungan. Salah satunya adalah Kerajaan Us Kono, yang berpusat di Miomaffo dan diperintah oleh raja-raja bergelar Afoan Kono. Kerajaan itu awalnya berada di bawah pengaruh Sonbay, sebuah kekuasaan yang berpusat di Let'aes'am-Bijela dan dikenal keras terhadap negeri bawahannya. Sonbay menuntut upeti tahunan, termasuk seorang pemuda yang harus diserahkan untuk dikorbankan dalam upacara tama maus, dan tuntutan itu menjadi sumber dendam yang lama.
 
 Menurut sejarah lisan yang dicatat pemerintah daerah, Us Kono memberontak terhadap Sonbay pada abad ke-18. Setelah konflik itu, pada Januari 1749, Us Kono meminta perlindungan kepada Belanda di Kupang. Belanda menyerahkan bendera dan dua tongkat emas sebagai tanda persetujuan, tetapi tidak langsung masuk ke pedalaman, karena ekspedisi mereka sering gagal.
 
@@ -45,13 +45,15 @@ Pemindahan itu mengubah peta kekuasaan lokal. Keluarga raja Miomaffo tetap tingg
 
 ## Kabupaten 1958
 
-Kabupaten Timor Tengah Utara dibentuk berdasarkan Undang-Undang Nomor 69 Tahun 1958, yang ditetapkan pada 9 Agustus 1958. Wilayahnya mencakup bekas tiga swapraja, ditambah beberapa distrik yang sebelumnya berada di bawah Onderafdeeling Noord Midden Timor. Kefamenanu ditetapkan sebagai ibu kota, menggantikan Noetoko yang telah lama ditinggalkan.
+Kabupaten Timor Tengah Utara dibentuk berdasarkan Undang-Undang Nomor 69 Tahun 1958, yang ditetapkan pada 20 Desember 1958. Wilayahnya mencakup bekas tiga swapraja, ditambah beberapa distrik yang sebelumnya berada di bawah Onderafdeeling Noord Midden Timor. Kefamenanu ditetapkan sebagai ibu kota, menggantikan Noetoko yang telah lama ditinggalkan.
 
-Pada masa Orde Baru, kabupaten ini dikenal sebagai salah satu daerah penghasil ternak di Timor. Sapi Bali dan kuda diternakkan di padang rumput yang luas, dan dijual ke Kupang serta ke Timor Leste. Jagung menjadi makanan pokok, ditanam pada lahan kering dengan curah hujan yang tidak pasti.
+Sebagian dokumen daerah menyebut 9 Agustus 1958 sebagai tanggal pembentukan, dan tanggal itu masih dipakai dalam beberapa publikasi. Untuk UU 69/1958, tanggal yang tercatat adalah 20 Desember, sehingga hari jadi kabupaten di NTT umumnya diperingati pada tanggal tersebut.
+
+Pada masa Orde Baru, kabupaten ini dikenal sebagai salah satu daerah penghasil ternak di Timor. Sapi Bali dan kuda diternakkan di padang rumput yang luas, dan dijual ke Kupang serta ke pasar ternak di Atambua. Jagung menjadi makanan pokok, ditanam pada lahan kering dengan curah hujan yang tidak pasti.
 
 > Kefamenanu tidak dipilih karena indah, tetapi karena Noetoko terlalu sempit dan terlalu banyak nyamuk.
 
-## Yang tersisa
+## Bekas tangsi di Kefamenanu
 
 Sekarang Kefamenanu adalah kota kecil dengan pasar yang ramai dan jalan utama yang menghubungkan Kupang dengan Atambua. Sisa-sisa pemerintahan kolonial masih terlihat: rumah jabatan bupati, bekas tangsi polisi, dan gedung kantor yang dibangun pada 1933. Di Noetoko, bekas pusat kerajaan Miomaffo masih menyimpan makam raja dan rumah adat.
 

@@ -55,7 +55,7 @@ Kopi tetap menjadi komoditas utama. Pada 1970-an dan 1980-an, kopi dari Bungin d
 
 > Kopi tumbuh di lereng yang tidak bisa ditanami padi, dan justru karena itu ia menjadi milik orang yang tinggal di ketinggian.
 
-## Yang tersisa
+## Nama di balik kemasan
 
 Sekarang Kalosi bukan lagi pasar tempat kopi ditimbang dengan cara lama. Gudang-gudangnya sudah berubah, dan sebagian jalan setapak menjadi jalan aspal. Namun nama itu masih dipakai pada kemasan kopi yang dijual di Jakarta dan di luar negeri, dan sebagian petani masih menyimpan benih dari pohon tua yang mereka sebut kopi gunung.
 

@@ -35,7 +35,7 @@ Namun pekerjaannya tidak lepas dari politik. Belanda sedang memperluas administr
 
 ## 26 Juli 1917
 
-Pada malam 26 Juli 1917, van de Loosdrecht dibunuh di dekat Rantepao. Menurut catatan zending, ia diserang oleh sekelompok orang yang dipimpin seorang kepala kampung yang menolak kehadiran misi. Ia meninggal di tempat, dan jenazahnya dimakamkan di Toraja. Ia adalah misionaris GZB pertama yang tewas di wilayah itu.
+Pada malam 26 Juli 1917, van de Loosdrecht dibunuh di dekat Rantepao. Menurut catatan zending, ia diserang oleh sekelompok orang yang dipimpin seorang tokoh lokal yang menolak kehadiran misi. Ia meninggal di tempat, dan jenazahnya dimakamkan di Toraja. Ia adalah misionaris GZB pertama yang tewas di wilayah itu.
 
 Kematiannya mengejutkan jemaat di Belanda dan memicu perdebatan tentang metode misi. Sebagian pihak menuntut perlindungan militer; sebagian lain menilai bahwa zending harus lebih lambat dan lebih menghormati adat. GZB memilih melanjutkan pekerjaan, tetapi mengirim lebih banyak tenaga dan membuka lebih banyak sekolah. Dalam beberapa dekade, jumlah orang Toraja yang masuk Kristen meningkat pesat, terutama di wilayah utara.
 
@@ -51,7 +51,7 @@ Pada 2008, sebagian wilayah utara dimekarkan menjadi Kabupaten Toraja Utara mela
 
 > Di Toraja, injil datang dengan buku dan sekolah, bukan dengan pedang, tetapi keduanya tiba setelah perang yang sama.
 
-## Yang tersisa
+## Makam di Rantepao
 
 Sekarang Gereja Toraja adalah gereja terbesar di wilayah ini, dan sekolah-sekolah yang dirintis zending telah menjadi sekolah negeri atau sekolah yayasan. Makam van de Loosdrecht di Rantepao masih dirawat, dan setiap tahun jemaat mengadakan peringatan kecil. Nama Pong Tiku dipakai untuk bandara di Tana Toraja, sebuah ironi yang jarang dibahas: mantan gerilyawan yang ditembak Belanda kini menjadi nama gerbang udara kabupaten.
 

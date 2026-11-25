@@ -13,7 +13,7 @@ sources:
   - "BPS Kabupaten Berau, Kabupaten Berau dalam Angka 2024"
 ---
 
-Undang-Undang Darurat Nomor 3 Tahun 1953 mengubah peta Kalimantan Timur. Di muara tempat Sungai Segah dan Sungai Kelay bertemu sebelum mengalir ke Laut Sulawesi, dua kesultanan kecil dilebur menjadi satu daerah tingkat kabupaten yang diberi nama Berau. Wilayahnya luas: 34.127 kilometer persegi, terdiri dari 22.030 kilometer persegi daratan dan 12.300 kilometer persegi laut, dengan 52 pulau besar dan kecil. Pusat pemerintahannya di Tanjung Redeb, kota yang tumbuh di tepi sungai dan tidak pernah direncanakan sebagai ibu kota.
+Undang-Undang Darurat Nomor 3 Tahun 1953 mengubah peta Kalimantan Timur. Di muara tempat Sungai Segah dan Sungai Kelay bertemu sebelum mengalir ke Laut Sulawesi, dua kesultanan kecil dilebur menjadi satu daerah tingkat kabupaten yang diberi nama Berau. Wilayahnya luas: daratannya 22.030 kilometer persegi, lautnya 12.300 kilometer persegi, dan totalnya dicatat 34.127 kilometer persegi — angka yang tidak persis sama dengan penjumlahan bagian-bagiannya. Di dalamnya terdapat 52 pulau besar dan kecil. Pusat pemerintahannya di Tanjung Redeb, kota yang tumbuh di tepi sungai dan tidak pernah direncanakan sebagai ibu kota.
 
 Peleburan itu bukan perkara administratif biasa. Selama lebih dari seratus tahun, Berau diperintah oleh dua istana yang bersaing, masing-masing dengan sultan, pajak, dan wilayah sungai sendiri. Menyatukan keduanya berarti menghapus dua kekuasaan yang telah lama hidup berdampingan.
 
@@ -41,7 +41,7 @@ Peralihan itu halus di atas kertas dan canggung dalam praktik. Seorang sultan ki
 
 Sampai 1970-an, ekonomi Berau bertumpu pada hasil hutan dan perikanan. Rotan, damar, sarang burung, dan kayu dikirim ke Banjarmasin, Makassar, dan Tiongkok melalui muara. Gambaran itu berubah ketika eksplorasi batu bara dimulai. Pada 26 April 1983, PT Berau Coal menandatangani Perjanjian Karya Pengusahaan Pertambangan Batubara dengan pemerintah, dan produksi komersial dimulai pada 1994.
 
-Konsesi perusahaan itu mencakup 118.400 hektare dengan lima tambang aktif: Lati, Sambarata, Binungan, Gurimbang, dan Parapatan. Lati terletak tepat di bekas pusat pemerintahan kerajaan Berau, tempat Aji Raden Suryanata Kesuma memerintah pada abad ke-15 menurut silsilah. Ironi itu jarang disebut dalam brosur perusahaan, tetapi tercatat dalam sejarah lokal: pusat kekuasaan tertua Berau sekarang menjadi lubang tambang.
+Konsesi perusahaan itu mencakup 118.400 hektare dengan lima tambang aktif: Lati, Sambarata, Binungan, Gurimbang, dan Parapatan. Lati terletak tepat di bekas pusat pemerintahan kerajaan Berau, tempat Aji Raden Suryanata Kesuma memerintah sekitar 1400 menurut silsilah. Ironi itu jarang disebut dalam brosur perusahaan, tetapi tercatat dalam sejarah lokal: pusat kekuasaan tertua Berau sekarang menjadi lubang tambang.
 
 Batu bara mengubah Tanjung Redeb lebih cepat daripada perubahan apa pun sebelumnya. Jalan dibangun, bandara diperbesar, dan penduduk dari luar masuk untuk bekerja. Kabupaten yang pada 1990-an masih bergantung pada hutan menjadi salah satu penghasil batu bara terbesar di Kalimantan Timur. Debit sungai dan kualitas air menjadi persoalan yang muncul kemudian, ketika tambang dibuka semakin dekat ke permukiman.
 
@@ -49,7 +49,7 @@ Batu bara mengubah Tanjung Redeb lebih cepat daripada perubahan apa pun sebelumn
 Silsilah Berau menempatkan pusat kerajaan pertama di Sungai Lati pada sekitar 1400. Lokasi itu sekarang berada di dalam wilayah konsesi tambang, sehingga penelitian arkeologi sulit dilakukan.
 :::
 
-## Yang tersisa
+## Istana yang jadi museum
 
 Berau sekarang lebih dikenal karena batu bara dan hutan hujan tropisnya daripada karena kesultanan. Namun sisa-sisa istana masih dirawat. Pada 2016, keluarga Gunung Tabur mengangkat kembali seorang sultan, Aji Raden Muhammad Bachrul Hadi, dalam kapasitas adat dan budaya, bukan politik. Gelar "Aji" masih dipakai sebagai nama keluarga, dan silsilah lisan tetap disalin dari generasi ke generasi.
 
