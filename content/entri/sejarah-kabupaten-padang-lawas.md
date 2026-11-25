@@ -19,13 +19,15 @@ Di Desa Siparau, Kecamatan Barumun Tengah, sebuah bangunan bata merah berdiri di
 
 Sipamutung dibangun dari bata tanpa perekat batu. Dindingnya disusun rapi, dengan hiasan relief tipis pada bagian kaki dan atap. Di dalam bilik utama pernah ditemukan arca Buddha, meskipun sebagian sudah hilang atau dipindahkan ke museum. Di depan candi induk terdapat beberapa perwara, bangunan kecil yang berfungsi sebagai tempat pemujaan atau makam.
 
-Ukuran candi tidak besar. Kompleks ini lebih menyerupai biara daripada istana: ada halaman, pagar bata, dan sumur. Para arkeolog menduga tempat ini pernah menjadi pusat kegiatan keagamaan, tempat para biksu tinggal, belajar, dan merawat arca. Pada 2025, tim ahli cagar budaya setempat mengkaji enam perwara untuk ditetapkan sebagai struktur cagar budaya kabupaten.
+Ukuran candi tidak besar. Kompleks ini lebih menyerupai biara daripada istana: ada halaman, pagar bata, dan sumur. Para arkeolog menduga tempat ini pernah menjadi pusat kegiatan keagamaan, tempat para biksu tinggal, belajar, dan merawat arca. Pada 2026, tim ahli cagar budaya setempat mengkaji enam perwara untuk ditetapkan sebagai struktur cagar budaya kabupaten.
 
 ## Pannai dan Sungai Barumun
 
 Sipamutung sering dihubungkan dengan Kerajaan Pannai. Nama Pannai muncul dalam prasasti Tanjore tahun 1025, yang mencatat serangan Rajendra Chola dari India selatan ke negeri-negeri di Selat Malaka. Para ahli menempatkan Pannai di pantai timur Sumatra, dan sebagian mengaitkannya dengan kawasan Padang Lawas.
 
 Sungai Barumun menjadi alasan utama. Melalui sungai itu, hasil hutan dan barang dagangan bisa diangkut ke hilir, lalu ke pantai timur dan Selat Malaka. Pada abad ke-11, jalur ini menghubungkan pedalaman Batak dengan jaringan dagang Asia, dan menjelaskan mengapa sebuah biara Buddha bisa berdiri jauh dari laut.
+
+Barumun juga menjadi sumber kehidupan sehari-hari. Penduduk menangkap ikan di sungai, mengairi sawah, dan mengambil kayu serta rotan dari hutan di sepanjang tepiannya. Pada musim hujan, sungai meluap dan menggenangi dataran rendah, meninggalkan lumpur yang menyuburkan tanah. Pola itu masih berlangsung sampai sekarang, meski debit air berubah setelah hutan di hulu dibuka.
 
 Namun tidak ada prasasti yang menyebut nama raja atau tanggal pendirian Sipamutung. Kronologi candi didasarkan pada gaya arsitektur, temuan arca, dan perbandingan dengan candi lain di Sumatra. Karena itu, hubungan antara Sipamutung dan Pannai masih berupa dugaan, bukan kepastian.
 

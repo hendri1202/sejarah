@@ -33,17 +33,19 @@ Perjanjian itu tidak menghapus kesultanan, tetapi mengubah posisinya. Serdang me
 
 ## Rel ke Perbaungan
 
-Perubahan besar berikutnya datang dari tanaman tembakau. Setelah Jacobus Nienhuijs membuka kebun pertama di Deli pada 1863, modal Eropa mengalir ke pantai timur. Tembakau Deli yang beraroma kuat dijual di lelang Amsterdam dengan harga tinggi, dan kebun-kebun baru dibuka ke selatan, termasuk di wilayah Serdang.
+Perubahan besar berikutnya datang dari tanaman tembakau. Kebun-kebun yang bermula di sekitar Medan melebar ke selatan, memasuki wilayah Serdang, dan mengubah kampung-kampung di sepanjang Sungai Ular menjadi lahan tembakau. Modal Eropa membeli tanah dari raja-raja Serdang dengan harga rendah, lalu mendatangkan pekerja dari luar.
 
-Untuk mengangkut daun tembakau yang mudah rusak, Deli Spoorweg Maatschappij membangun jalur kereta. Perusahaan itu didirikan pada 1883, dan pada 25 Juli 1886 jalur pertama sepanjang 16,7 kilometer menghubungkan Medan dengan Labuhan, pelabuhan di Belawan. Jalur kemudian diperpanjang ke selatan melalui Perbaungan menuju Tebing Tinggi, dan dibuka pada 1915.
+Untuk mengangkut daun tembakau yang mudah rusak, Deli Spoorweg Maatschappij memperpanjang jalurnya ke selatan. Jalur Medan–Labuhan dibuka pada 25 Juli 1886, dan jalur menuju Tebing Tinggi yang melewati Perbaungan dibuka pada 1915.
 
 Perbaungan tumbuh menjadi kota stasiun. Di sepanjang jalannya berdiri gudang tembakau, rumah administrator kebun, toko orang Cina, dan los tempat kuli menimbang daun. Kereta membawa tembakau ke Belawan dan membawa kembali beras, kain, serta pekerja dari Pelabuhan. Kota itu menjadi contoh kecil bagaimana rel mengubah permukiman: kampung yang tadinya berpusat di sungai berpindah ke sekitar stasiun.
 
-## Kuli di kebun tembakau
+## Kota kebun di Perbaungan
 
 Kebun tembakau membutuhkan tenaga dalam jumlah besar pada musim tanam dan panen. Pemilik kebun mendatangkan kuli dari Jawa, terutama setelah 1880-an, dengan kontrak yang mengikat mereka pada satu perusahaan. Kontrak itu memuat pasal hukuman bagi pekerja yang melarikan diri, yang dalam praktik memberi kekuasaan besar kepada mandor dan pengawas kebun.
 
-Kehidupan kuli di kebun Serdang tidak jauh berbeda dari kebun Deli. Mereka tinggal di barak panjang, bekerja dengan sistem harian, dan menerima upah yang sebagian dipotong untuk utang di toko kebun. Perempuan dan anak-anak ikut bekerja. Ketika harga tembakau jatuh pada 1930-an, banyak kebun mengurangi pekerja, dan sebagian kuli ditinggalkan tanpa pekerjaan di tengah krisis.
+Perbaungan menjadi pusat kehidupan kebun. Di kota itu berdiri kantor administrator, gudang pengeringan, bengkel, dan pasar yang menjual kebutuhan kuli. Sekolah dan rumah sakit dibangun perusahaan, sementara gereja, masjid, dan kelenteng berdiri berdampingan di kampung-kampung pekerja. Pada musim lelang, petinggi perusahaan berkumpul di Medan, dan harga tembakau ditentukan jauh dari kebun yang menanamnya.
+
+Ketika harga tembakau jatuh pada 1930-an, banyak kebun mengurangi pekerja. Sebagian kuli kembali ke Jawa, sebagian pindah ke kebun karet, dan sebagian tinggal di kampung yang mereka tempati selama puluhan tahun. Kampung-kampung itu menjadi cikal bakal desa di sekitar Perbaungan sekarang.
 
 Karena itu, sejarah Serdang Bedagai tidak bisa dipisahkan dari sejarah migrasi. Orang Jawa, Mandailing, Minangkabau, dan Tionghoa menetap di kota-kota kebun, membawa bahasa, makanan, dan rumah ibadah. Kampung-kampung mereka bertahan setelah kebun tembakau mengecil dan berganti menjadi kebun karet dan kelapa sawit.
 
