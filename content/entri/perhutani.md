@@ -49,12 +49,12 @@ Pada 2014, Perhutani ditunjuk sebagai induk holding BUMN kehutanan, dengan Inhut
 
 ## Kayu, karbon, dan warga
 
-Perhutani hidup dari menjual kayu. Setiap tahun, perusahaan menetapkan jatah tebang berdasarkan inventarisasi pohon dan daur tanam. Kayu jati dijual melalui lelang, dan harganya menjadi acuan bagi industri mebel di Jepara, Surabaya, dan Cirebon. Namun, jatah tebang sering tidak tercapai karena gangguan keamanan, cuaca, atau konflik dengan warga.
+Perhutani hidup dari menjual kayu. Setiap tahun, perusahaan menetapkan jatah tebang berdasarkan inventarisasi pohon dan daur tanam. Kayu jati dijual melalui lelang, dan harganya menjadi acuan bagi industri mebel di Jepara, Surabaya, dan Cirebon. Namun, jatah tebang sering tidak tercapai karena gangguan keamanan, cuaca, atau konflik dengan warga. Sebagian kayu juga dijual dalam bentuk gelondongan, sehingga nilai tambah pengolahan dinikmati industri di luar hutan.
 
 Sejak 2010-an, perusahaan mulai mencari pendapatan di luar kayu. Getah pinus, gondorukem, dan terpentin menjadi produk andalan, terutama di hutan Jawa Tengah. Perhutani juga mengembangkan jasa lingkungan, termasuk wisata alam dan perdagangan karbon. Sumber pendapatan baru itu belum sebesar kayu, tetapi mengurangi ketergantungan pada satu komoditas.
 
 Bagi warga sekitar hutan, perubahan itu tidak selalu menguntungkan. Program hutan rakyat memberi hak mengelola lahan selama beberapa tahun, tetapi tidak memberi kepastian kepemilikan. Ketika kontrak berakhir, warga harus menebang pohon yang mereka tanam atau menyerahkan lahan kembali kepada perusahaan. Ketidakpastian itu membuat banyak petani enggan menanam tanaman jangka panjang.
 
+> Hutan Jawa adalah hutan yang paling banyak dihitung dan paling sedikit disepakati.
 
-
-Pertanyaan yang belum terjawab adalah apakah Perhutani dapat menjaga hutan sekaligus memberi penghidupan kepada warga yang tinggal di dalamnya. Selama hak atas lahan tidak jelas, setiap penertiban akan menjadi konflik baru, dan setiap musim tanam akan menjadi ujian bagi kewenangan perusahaan.
+Pertanyaan yang belum terjawab adalah apakah Perhutani dapat menjaga hutan sekaligus memberi penghidupan kepada warga yang tinggal di dalamnya. Selama hak atas lahan tidak jelas, setiap penertiban akan menjadi konflik baru, dan setiap musim tanam akan menjadi ujian bagi kewenangan perusahaan atas tanah yang tidak pernah sepenuhnya diserahkan.

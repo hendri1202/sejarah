@@ -59,4 +59,4 @@ Untuk membiayai pembangunan, perusahaan menerbitkan obligasi dan sukuk serta mem
 
 > Jalan tol dihitung dalam kilometer, tetapi biayanya dihitung dalam tahun.
 
-Pertanyaan yang belum terjawab adalah siapa yang menanggung risiko ketika lalu lintas tidak sesuai perkiraan. Jasa Marga menanggung sebagian melalui utang, negara melalui penyertaan modal, dan pengguna melalui tarif. Pembagian itu tidak pernah final, dan setiap krisis ekonomi mengubahnya lagi.
+Pertanyaan yang belum terjawab adalah siapa yang menanggung risiko ketika lalu lintas tidak sesuai perkiraan. Jasa Marga menanggung sebagian melalui utang, negara melalui penyertaan modal, dan pengguna melalui tarif. Pembagian itu tidak pernah final, dan setiap krisis ekonomi mengubahnya lagi, termasuk ketika pemerintah menunda kenaikan tarif menjelang pemilu.

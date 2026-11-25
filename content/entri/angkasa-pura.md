@@ -36,7 +36,7 @@ Pandemi pernah hampir menghentikan bisnis bandara. Pada 2020, jumlah penumpang a
 Namun, tidak semua bandara tumbuh. Kertajati, yang dibangun dengan biaya APBN sekitar Rp 2,3 triliun, hanya melayani 79.523 penumpang sepanjang 2025. Pemerintah memindahkan penerbangan dari Bandara Husein Sastranegara ke Kertajati pada 2023, tetapi maskapai tetap enggan karena jaraknya jauh dari Bandung dan penumpang lebih memilih kereta atau bandara lain.
 
 :::note
-Kertajati dibangun untuk 3 juta penumpang per tahun. Sepuluh tahun setelah peletakan batu pertama, jumlah penumpangnya belum mencapai 3 persen dari kapasitas itu.
+Kertajati dibangun untuk melayani jutaan penumpang per tahun. Sepuluh tahun setelah peletakan batu pertama, jumlah penumpangnya belum mencapai 100.000 dalam setahun.
 :::
 
 ## Merger dan tarif

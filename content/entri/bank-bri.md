@@ -1,6 +1,6 @@
 ---
 id: bank-bri
-title: Bank Rakyat Indonesia
+title: Bank Rakyat Indonesia dan Kredit Rakyat
 era: kolonial
 years: 1895–kini
 tags: [bank, kolonial, bumn, kredit]
@@ -47,6 +47,16 @@ BRI adalah bank pertama di Indonesia yang membuktikan bahwa melayani nasabah kec
 
 BRI bertahan karena mampu berubah tanpa kehilangan jaringan. Ketika surat dan giro menurun, bank ini beralih ke pinjaman mikro, lalu ke layanan digital. Agen BRILink di warung dan toko kecil menjadi ujung layanan di daerah yang tidak memiliki kantor cabang, dan jumlahnya jauh melebihi jumlah kantor bank.
 
+## Bunga dan subsidi
+
+Kredit mikro adalah bisnis dengan margin tinggi. Pinjaman kecil memiliki biaya administrasi yang hampir sama dengan pinjaman besar, sehingga bunga harus lebih tinggi agar bank tidak merugi. Bunga kredit usaha kecil di BRI jauh di atas bunga kredit korporasi, dan selisih itulah yang menutup biaya pelayanan nasabah di pelosok.
+
+Bagi pemerintah, bunga itu menjadi persoalan politik. Ketika petani mengeluh, muncul usulan agar bank milik negara memberi bunga rendah atau menghapus utang. Bagi bank, penghapusan utang berarti kerugian yang harus ditutup dari modal, dan modal itu berasal dari negara. Perdebatan tentang bunga rakyat karena itu selalu berakhir pada pertanyaan tentang siapa yang membayar.
+
+Pada 2000-an, BRI memperluas layanan ke nasabah yang lebih kecil melalui agen dan pinjaman kelompok. Model itu menurunkan biaya administrasi, tetapi juga memindahkan risiko ke agen dan kelompok peminjam. Ketika terjadi gagal bayar, tekanan sosial sering lebih efektif daripada jaminan hukum.
+
+BRI juga menyalurkan Kredit Usaha Rakyat, program pinjaman bersubsidi bagi usaha mikro yang dijamin pemerintah. Program itu menambah jumlah nasabah, tetapi membuat bank menanggung sebagian risiko jika usaha peminjam gagal. Bagi BRI, KUR adalah campuran antara kewajiban publik dan peluang pasar, dan porsinya dalam portofolio kredit terus menjadi bahan perdebatan di kalangan analis.
+
 > Bank rakyat tidak menang karena modalnya besar, tetapi karena ia ada di tempat orang menabung.
 
-Persoalannya bukan lagi kemampuan melayani rakyat kecil, melainkan seberapa jauh bank milik negara boleh mengejar laba. Setiap kali bunga kredit mikro naik, pertanyaan tentang keadilan bagi peminjam muncul kembali, dan setiap kali laba turun, pasar menuntut efisiensi. Dua tuntutan itu akan terus bertabrakan.
+Persoalannya bukan lagi kemampuan melayani rakyat kecil, melainkan seberapa jauh bank milik negara boleh mengejar laba. Setiap kali bunga kredit mikro naik, pertanyaan tentang keadilan bagi peminjam muncul kembali, dan setiap kali laba turun, pasar menuntut efisiensi. Dua tuntutan itu akan terus bertabrakan, dan tidak ada rumus yang bisa menyelesaikannya sekali untuk selamanya.

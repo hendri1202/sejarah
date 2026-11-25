@@ -43,6 +43,20 @@ Pemerintah kemudian memperluas program keselamatan penyeberangan. Kapal wajib me
 
 ASDP juga memperluas layanan digital. Tiket feri dapat dibeli melalui aplikasi, dan penumpang kendaraan dapat memesan tempat lebih awal. Sistem itu mengurangi antrean di loket, tetapi tidak menyelesaikan masalah kapasitas pelabuhan pada musim puncak.
 
+## Pelabuhan dan tarif
+
+ASDP bukan hanya operator kapal, tetapi juga pengelola pelabuhan. Di Merak, Bakauheni, Ketapang, dan Gilimanuk, perusahaan mengatur parkir, tiket, dan arus kendaraan. Pendapatan dari pelabuhan, termasuk sewa lahan untuk restoran dan toko, menjadi sumber kas yang stabil ketika jumlah penumpang turun.
+
+Tarif penyeberangan ditetapkan pemerintah, bukan perusahaan. Setiap kenaikan tarif harus melalui rapat dengan kementerian dan operator, dan sering ditunda karena khawatir memicu inflasi. Akibatnya, tarif tidak selalu mengikuti biaya bahan bakar dan perawatan kapal. Operator menutup selisih itu dengan mengurangi frekuensi atau memakai kapal yang lebih tua.
+
+## Kapal baru dan utang
+
+Sejak 2010, ASDP memesan kapal baru untuk menggantikan armada tua. Kapal Ro-Ro yang lebih besar dan cepat dibutuhkan untuk mengurangi antrean di lintasan utama, tetapi harganya mahal dan pembayarannya memakai pinjaman jangka panjang. Pandemi Covid-19 pada 2020 membuat pendapatan tiket anjlok, sementara cicilan kapal tetap jatuh tempo.
+
+Pemerintah memberi bantuan melalui penyertaan modal dan penundaan kewajiban. Namun, bantuan itu tidak menyelesaikan masalah mendasar: tarif yang diatur politik tidak cukup untuk membiayai pembaruan armada secara mandiri. ASDP terus bergantung pada dukungan negara untuk menjaga layanan di rute yang tidak menguntungkan.
+
+Awak kapal menjadi bagian lain dari persoalan itu. Pelaut feri bekerja dalam shift panjang, sering berpindah kapal, dan menerima upah yang tidak jauh berbeda dari pelaut kapal barang. Pelatihan keselamatan dilakukan secara berkala, tetapi tidak semua operator swasta mengirim awaknya. Ketika inspeksi menemukan kekurangan, sanksi biasanya berupa teguran atau penundaan keberangkatan, bukan pencabutan izin. Pengawasan yang lemah itu membuat kapal tua tetap berlayar selama masih ada penumpang yang mau membeli tiket.
+
 > Menyeberang bukan perjalanan biasa, tetapi perpindahan antara dua sistem jalan yang tidak saling mengenal.
 
-Pertanyaan yang belum terjawab adalah siapa yang menanggung biaya keselamatan. Jika negara menanggungnya, tarif harus disubsidi. Jika operator menanggungnya, tiket menjadi lebih mahal. Selama pilihan itu tidak diambil, keselamatan akan terus bergantung pada kemampuan operator membayar, bukan pada hak penumpang untuk selamat.
+Pertanyaan yang belum terjawab adalah siapa yang menanggung biaya keselamatan. Jika negara menanggungnya, tarif harus disubsidi. Jika operator menanggungnya, tiket menjadi lebih mahal. Selama pilihan itu tidak diambil, keselamatan akan terus bergantung pada kemampuan operator membayar, bukan pada hak penumpang untuk selamat. Setiap tragedi kemudian menjadi pengingat bahwa keputusan tentang tarif adalah keputusan tentang nyawa, dan bahwa kapal yang paling murah sering menjadi kapal yang paling berisiko di laut lepas saat cuaca buruk.

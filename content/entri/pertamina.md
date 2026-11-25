@@ -15,7 +15,7 @@ sources:
 
 Pada 10 Desember 1957, pemerintah mendirikan PT Perusahaan Minyak Nasional, atau Permina, untuk mengelola ladang minyak di Aceh Timur dan Aceh Tamiang. Ladang itu sebelumnya dikelola Bataafsche Petroleum Maatschappij, anak perusahaan Royal Dutch Shell, yang asetnya diambil alih negara setelah hubungan Indonesia–Belanda memburuk akibat sengketa Irian Barat. Direktur utamanya seorang perwira Angkatan Darat, Ibnu Sutowo, yang memimpin perusahaan itu dari Pangkalan Brandan dengan peralatan seadanya dan sumur-sumur yang sebagian sudah tua.
 
-Permina bukan perusahaan minyak pertama milik negara, tetapi ia yang bertahan. Pada 1960 statusnya berubah menjadi perusahaan negara, dan pada 1961 pemerintah menetapkan PN Permina sebagai badan usaha yang mengelola ladang di Sumatra bagian utara. Dua tahun kemudian, perusahaan ini mendapat tambahan lapangan di Jambi dan Sumatra Selatan, wilayah yang sebelumnya digarap perusahaan asing.
+Permina bukan perusahaan minyak pertama milik negara, tetapi ia yang bertahan. Pada 1961 statusnya berubah menjadi perusahaan negara, dan pemerintah menetapkan PN Permina sebagai badan usaha yang mengelola ladang di Sumatra bagian utara. Dua tahun kemudian, perusahaan ini mendapat tambahan lapangan di Jambi dan Sumatra Selatan, wilayah yang sebelumnya digarap perusahaan asing.
 
 ## Dua perusahaan, satu undang-undang
 
@@ -27,7 +27,7 @@ Undang-Undang Nomor 8 Tahun 1971 memberi Pertamina kedudukan istimewa. Perusahaa
 
 Mekanisme bagi hasil lahir dari keterbatasan modal. Negara tidak punya uang untuk mengebor laut dalam, sementara perusahaan asing tidak mau menanam modal tanpa jaminan pengembalian. Dalam kontrak pertama, perusahaan asing menanggung seluruh biaya eksplorasi dan menerima bagian produksi untuk menutup biaya itu, lalu membagi sisa produksi dengan Pertamina. Skema ini kemudian ditiru oleh puluhan negara penghasil minyak.
 
-Bagi Indonesia, hasilnya terlihat cepat. Produksi minyak nasional naik dari sekitar 500.000 barel per hari pada akhir 1960-an menjadi sekitar 1,3 juta barel per hari pada 1973. Sebagian besar kenaikan itu datang dari lapangan baru di Sumatra dan Kalimantan Timur, serta dari kontrak bagi hasil yang mulai berproduksi.
+Bagi Indonesia, hasilnya terlihat cepat. Produksi minyak nasional naik dari sekitar 600.000 barel per hari pada akhir 1960-an menjadi sekitar 1,3 juta barel per hari pada 1973. Sebagian besar kenaikan itu datang dari lapangan baru di Sumatra dan Kalimantan Timur, serta dari kontrak bagi hasil yang mulai berproduksi.
 
 Namun, keistimewaan itu juga berarti Pertamina mengurus hampir semua hal: kilang, kapal tanker, hotel, rumah sakit, bahkan proyek baja. Pada 1975, ketika perusahaan gagal membayar utang jangka pendeknya, publik baru mengetahui bahwa kewajibannya mencapai miliaran dolar. Krisis itu memaksa pemerintah menata ulang keuangan perusahaan dan membatasi bisnis di luar minyak.
 
@@ -55,7 +55,7 @@ Impor itu mahal bukan hanya karena harga minyak, tetapi karena harga jual di dal
 Kapasitas kilang nasional sekitar 1,1 juta barel per hari, sementara konsumsi bahan bakar di atas 1,6 juta barel. Selisih itu diimpor, dan nilainya berubah mengikuti kurs.
 :::
 
-Pada 2023, pemerintah menargetkan pembangunan kilang baru di Balongan dan Tuban, tetapi proyek itu menghadapi persoalan pembebasan tanah dan pendanaan. Sampai 2026, belum ada kilang baru berkapasitas besar yang beroperasi.
+Pada 2023, proyek kilang Balongan dan Tuban masih dalam tahap perencanaan dan pembebasan tanah, tetapi proyek itu menghadapi persoalan pendanaan. Sampai 2026, belum ada kilang baru berkapasitas besar yang beroperasi.
 
 > Monopoli memberi Pertamina skala, tetapi skala tidak dengan sendirinya memberi keamanan energi.
 

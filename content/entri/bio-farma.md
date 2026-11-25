@@ -35,7 +35,7 @@ Perubahan status itu membawa konsekuensi yang tidak selalu nyaman. Sebagai perus
 
 ## Satu pabrik untuk satu negara
 
-Sampai 2020, Bio Farma adalah satu-satunya produsen vaksin di Indonesia. Kapasitas terpasangnya sekitar 1,8 miliar dosis per tahun, cukup untuk memenuhi kebutuhan nasional dan sebagian ekspor. Sebanyak dua belas jenis vaksinnya telah mendapat prakualifikasi Organisasi Kesehatan Dunia, syarat untuk membeli vaksin melalui lembaga internasional.
+Sampai 2020, Bio Farma adalah satu-satunya produsen vaksin di Indonesia. Kapasitas terpasangnya lebih dari satu miliar dosis per tahun, cukup untuk memenuhi kebutuhan nasional dan sebagian ekspor. Sebanyak dua belas jenis vaksinnya telah mendapat prakualifikasi Organisasi Kesehatan Dunia, syarat untuk membeli vaksin melalui lembaga internasional.
 
 Kapasitas itu tidak dibangun dalam satu dekade. Bio Farma mengirim vaksin ke lebih dari 150 negara, tetapi sebagian besar dalam bentuk produk jadi dengan merek pembeli. Pendapatan ekspor membantu menutup biaya penelitian, sementara pasar domestik memberi volume yang stabil.
 

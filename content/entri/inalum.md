@@ -43,6 +43,20 @@ Pada 21 April 2014, Inalum berubah menjadi perseroan terbatas. Pada November 201
 
 Peran itu kemudian berubah lagi. Pada 2022, pemerintah menarik kembali saham Antam, Bukit Asam, Freeport, dan Timah dari Inalum, lalu menyerahkannya kepada Mineral Industri Indonesia. Inalum kembali fokus pada aluminium, sementara MIND ID menjadi induk holding. Perubahan itu menunjukkan betapa cepat struktur BUMN ditata ulang.
 
+## Alumina dan smelter
+
+Pabrik Kuala Tanjung mengolah alumina menjadi aluminium batangan melalui proses elektrolisis. Alumina didatangkan dari luar, karena Indonesia belum memiliki kilang alumina yang cukup besar saat pabrik itu dibangun. Ketergantungan pada bahan baku impor membuat biaya produksi peka terhadap harga alumina dunia dan kurs.
+
+Pada 2010-an, pemerintah mendorong pembangunan smelter alumina di Kalimantan Barat, dekat tambang bauksit. Proyek itu dikerjakan oleh perusahaan patungan dengan investor asing dan ditargetkan beroperasi pada 2020-an. Jika berjalan, alumina dari Kalimantan dapat memasok Inalum dan mengurangi impor, tetapi jadwalnya beberapa kali mundur.
+
+## Listrik untuk siapa
+
+Pembangkit Asahan menghasilkan listrik yang sebagian besar dipakai pabrik aluminium. Kelebihan listriknya disalurkan ke jaringan PLN, dan sebagian dipakai masyarakat sekitar. Ketika permintaan listrik rumah tangga naik, muncul pertanyaan apakah listrik murah dari sungai seharusnya lebih banyak dialihkan ke publik.
+
+Bagi Inalum, harga listrik adalah penentu kelangsungan usaha. Peleburan aluminium membutuhkan sekitar 13–15 megawatt-jam untuk setiap ton logam. Jika tarif listrik naik, biaya produksi melonjak dan pabrik tidak lagi kompetitif. Karena itu, setiap perundingan harga listrik dengan PLN selalu menjadi perundingan tentang masa depan pabrik.
+
+Pada 2025, Inalum mencatat kinerja operasional tertinggi dalam sejarahnya dan menargetkan penjualan 275.000 ton pada 2026. Rekor itu dicapai dengan mengoptimalkan pabrik yang sudah tua, bukan dengan menambah kapasitas baru. Tanpa pembangunan smelter, pertumbuhan produksi akan tetap terbatas pada perbaikan efisiensi.
+
 > Pabrik aluminium dibangun untuk seratus tahun, tetapi perjanjian yang melahirkannya hanya berlaku tiga puluh delapan tahun.
 
-Pertanyaan yang belum terjawab adalah apakah Inalum mampu memperluas kapasitas tanpa listrik murah. Pembangkit Asahan sudah lama beroperasi, dan permintaan listrik dari rumah tangga serta industri lain terus naik. Jika listrik dialihkan, keunggulan biaya aluminium Indonesia akan hilang, dan pabrik itu harus bersaing tanpa perlindungan.
+Pertanyaan yang belum terjawab adalah apakah Inalum mampu memperluas kapasitas tanpa listrik murah. Pembangkit Asahan sudah lama beroperasi, dan permintaan listrik dari rumah tangga serta industri lain terus naik. Jika listrik dialihkan, keunggulan biaya aluminium Indonesia akan hilang, dan pabrik itu harus bersaing tanpa perlindungan. Sampai saat itu, pabrik Asahan akan terus menjadi contoh industri yang lahir dari perjanjian politik sejak awal, bukan dari pasar.
