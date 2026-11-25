@@ -61,8 +61,8 @@ Tomohon tidak pernah berstatus kota administratif. Wilayah itu langsung berubah 
 
 Gunung Lokon aktif dan sering erupsi. Letusan pada 2011 memaksa ribuan warga mengungsi dari lereng, menutup sekolah, dan mengganggu penerbangan ke Manado. Pemerintah kota menyiapkan jalur evakuasi dan tempat pengungsian, tetapi penduduk tetap kembali ke lereng karena tanahnya subur.
 
-Letusan membawa abu yang merusak tanaman dan mencemari air. Petani bunga dan sayur harus membersihkan lahan setiap kali hujan abu turun. Di sisi lain, abu vulkanik menyuburkan tanah, dan pertanian di sekitar gunung tetap produktif.
+Letusan membawa abu yang merusak tanaman dan mencemari air. Petani bunga dan sayur harus membersihkan lahan setiap kali hujan abu turun. Sebaliknya, abu vulkanik menyuburkan tanah, dan pertanian di sekitar gunung tetap produktif.
 
 > Tomohon dibangun oleh sekolah dan gereja di lereng gunung, lalu harus belajar hidup dengan gunung yang bangun setiap saat.
 
-Lahan pertanian di lereng semakin terbatas karena pembangunan perumahan dan jalan. Petani muda banyak yang beralih ke pekerjaan di sektor jasa, sementara lahan diwariskan dan terpecah menjadi petak kecil. Kota ini masih bergantung pada pendidikan, perdagangan, dan pertanian. Status kota sejak 2003 memberi kewenangan, tetapi tidak mengubah posisinya sebagai kota kecil di antara dua gunung. Pertumbuhan penduduk dan pembangunan perumahan kini menekan lahan pertanian di lereng yang subur.
+Lahan pertanian di lereng semakin terbatas karena pembangunan perumahan dan jalan. Petani muda banyak yang beralih ke pekerjaan di sektor jasa, sementara lahan diwariskan dan terpecah menjadi petak kecil. Kota ini masih bergantung pada pendidikan, perdagangan, dan pertanian. Status kota sejak 2003 memberi kewenangan, tetapi tidak mengubah posisinya sebagai kota kecil di antara dua gunung. Pertumbuhan penduduk dan pembangunan perumahan kini menekan lahan itu.

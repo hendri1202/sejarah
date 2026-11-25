@@ -25,11 +25,11 @@ Singkawang tumbuh sebagai kota pasar, bukan kota tambang. Ketika tambang Montera
 
 ## Jalur laut dan pasar
 
-Singkawang tidak memiliki pelabuhan laut dalam. Kapal kecil dan perahu membawa barang dari pantai ke Pontianak atau ke Serawak, sementara barang besar lewat Pontianak. Posisi itu membuat kota menjadi pasar pengumpul: lada, kelapa, karet, dan hasil hutan dari pedalaman ditukar dengan kain, besi, dan barang kebutuhan sehari-hari.
+Singkawang tidak memiliki pelabuhan laut dalam. Kapal kecil dan perahu membawa barang dari pantai ke Pontianak atau ke Sarawak, sementara barang besar lewat Pontianak. Posisi itu membuat kota menjadi pasar pengumpul: lada, kelapa, karet, dan hasil hutan dari pedalaman ditukar dengan kain, besi, dan barang kebutuhan sehari-hari.
 
 Pada awal abad ke-20, perkebunan karet dan kelapa berkembang di sekitar kota. Penduduk Hakka yang semula menambang beralih menjadi petani dan pedagang. Sekolah Tionghoa, perkumpulan marga, dan rumah ibadah dibangun dari keuntungan perdagangan. Kota ini punya wajah yang berbeda dari Pontianak: lebih kecil, lebih rapat, dan lebih bergantung pada jaringan keluarga.
 
-Jaringan itu melintasi batas negara. Banyak keluarga di Singkawang masih memiliki kerabat di Serawak dan Kalimantan Barat bagian utara. Hubungan dagang dan kekerabatan berlangsung lama sebelum garis batas modern ditetapkan, dan tetap berlanjut setelah Indonesia dan Malaysia berdiri.
+Jaringan itu melintasi batas negara. Banyak keluarga di Singkawang masih memiliki kerabat di Sarawak dan Kalimantan Barat bagian utara. Hubungan dagang dan kekerabatan berlangsung lama sebelum garis batas modern ditetapkan, dan tetap berlanjut setelah Indonesia dan Malaysia berdiri.
 
 ## Kota administratif 1981
 

@@ -25,7 +25,7 @@ Penduduk asli adalah Suku Kaili, yang hidup dalam komunitas kampung dan mengatur
 
 ## Kerajaan dan Belanda
 
-Belanda pertama kali mengunjungi Palu pada 1868, pada masa Raja Maili, untuk meminta perlindungan dari Manado. Dua dekade kemudian, pada 1888, gubernur Belanda untuk Sulawesi datang dengan kapal dan tentara, lalu menyerang Kayumalue. Raja Maili tewas, dan penggantinya, Raja Jodjokodi, menandatangani perjanjian pendek dengan Hindia Belanda pada 1 Mei 1888.
+Belanda pertama kali mengunjungi Palu pada 1868, pada masa Raja Maili, untuk membuka hubungan dengan penguasa lokal. Dua dekade kemudian, pada 1888, gubernur Belanda untuk Sulawesi datang dengan kapal dan tentara, lalu menyerang Kayumalue. Raja Maili tewas, dan penggantinya, Raja Jodjokodi, menandatangani perjanjian pendek dengan Hindia Belanda pada 1 Mei 1888.
 
 Perjanjian itu menjadikan Palu bagian dari Onder Afdeling Palu, yang terdiri dari Landschap Palu, Kulawi, dan Sigi Dolo. Belanda tidak memerintah langsung, tetapi menempatkan controleur dan memanfaatkan raja serta dewan adat untuk menarik pajak dan kerja wajib. Kota kecil di tepi teluk tumbuh sebagai pusat administrasi dan pasar.
 

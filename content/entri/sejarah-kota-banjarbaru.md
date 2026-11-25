@@ -43,9 +43,9 @@ Banjarbaru menyandang status kota administratif dari 1975 hingga 1999, hampir se
 
 Undang-undang Nomor 9 Tahun 1999, yang diundangkan pada 20 April 1999, membentuk Kotamadya Daerah Tingkat II Banjarbaru. Pada 27 April 1999, Menteri Dalam Negeri Syarwan Hamid melantik Akhmad Fakhrulli sebagai pejabat wali kota di Jakarta. Pelantikan itu menandai peralihan status, tetapi kota belum memiliki wali kota definitif.
 
-DPRD Kota Banjarbaru kemudian memilih Rudy Resnawan sebagai wali kota pertama. Ia menjabat sejak 2000 dan memulai pembangunan yang selama ini tertunda: jalan lingkungan, pasar, drainase, dan perluasan jaringan air bersih. Pemisahan dari Kabupaten Banjar juga memunculkan sengketa aset, terutama tanah dan bangunan yang selama ini dipakai bersama.
-
 Perpindahan status tidak sekaligus memindahkan pegawai, arsip, dan aset. Sebagian dinas masih menumpang di kantor kabupaten, dan beberapa sekolah serta puskesmas yang berada di wilayah kota tetap dikelola kabupaten selama masa peralihan. Pemerintah kota baru bisa menyusun anggaran sendiri setelah perangkat daerah terbentuk pada 2000.
+
+DPRD Kota Banjarbaru kemudian memilih Rudy Resnawan sebagai wali kota pertama. Ia menjabat sejak 2000 dan memulai pembangunan yang selama ini tertunda: jalan lingkungan, pasar, drainase, dan perluasan jaringan air bersih. Pemisahan dari Kabupaten Banjar juga memunculkan sengketa aset, terutama tanah dan bangunan yang selama ini dipakai bersama.
 
 Banjarbaru mewarisi rencana kota yang rapi tetapi tidak selesai. Pusat kotanya kecil, jalan utamanya lebar, dan ruang terbuka hijau masih banyak. Sebaliknya, kota kekurangan sumber pendapatan karena tidak memiliki pelabuhan atau industri besar. Pemerintah kota bergantung pada dana perimbangan dan pajak daerah yang terbatas.
 

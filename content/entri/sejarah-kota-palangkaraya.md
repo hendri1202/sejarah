@@ -13,7 +13,7 @@ sources:
   - "Undang-Undang Darurat Nomor 10 Tahun 1957 tentang Pembentukan Daerah Swatantra Tingkat I Kalimantan Tengah"
 ---
 
-Pada 17 Juli 1957, Soekarno menancapkan tiang pertama pembangunan ibu kota Kalimantan Tengah di Pahandut, desa kecil di tepi Sungai Kahayan. Upacara itu berlangsung kurang dari dua bulan setelah Provinsi Kalimantan Tengah dibentuk melalui Undang-undang Darurat Nomor 10 Tahun 1957, yang berlaku pada 23 Mei 1957. Tiang itu berdiri di tanah gambut, dikelilingi hutan, beberapa kilometer dari permukiman terdekat.
+Pada 17 Juli 1957, Soekarno menancapkan tiang pertama pembangunan ibu kota Kalimantan Tengah di Pahandut, desa kecil di tepi Sungai Kahayan. Upacara itu berlangsung kurang dari dua bulan setelah Provinsi Kalimantan Tengah dibentuk melalui Undang-undang Darurat Nomor 10 Tahun 1957, yang berlaku pada 23 Mei 1957. Tiang itu berdiri di tanah gambut, dikelilingi hutan, di tepi desa yang hanya dihubungkan oleh sungai.
 
 ## Hutan di tepi Kahayan
 
@@ -37,8 +37,6 @@ Undang-undang Nomor 5 Tahun 1965 menjadikan Palangka Raya kotapraja otonom. Pere
 
 Status otonom memberi kota kewenangan mengatur pajak, pasar, jalan, dan sekolah sendiri. Namun wilayah yang luas dan penduduk yang sedikit membuat pendapatan kota kecil. Palangka Raya harus mengurus hutan, sungai, dan permukiman tersebar dengan aparat yang belum lengkap. Anggaran pembangunan masih bergantung pada pemerintah pusat dan provinsi.
 
-Ekonomi kota bertumpu pada kayu dan hasil hutan. Sungai Kahayan mengangkut logs dari hulu ke pangkal, dan sebagian besar penduduk bekerja sebagai pedagang, nelayan, atau buruh. Industrialisasi kayu pada 1970-an dan 1980-an membawa pendapatan bagi provinsi, tetapi juga mempercepat penebangan hutan di sekitar kota. Ketika izin hutan habis dan harga kayu turun, kota kehilangan salah satu sumber penghasilannya.
-
 :::note
 Palangka Raya mencakup 2.853 kilometer persegi, sekitar 3,6 kali luas Jakarta. Hingga kini sebagian besar wilayahnya masih hutan, bukan kawasan terbangun.
 :::
@@ -51,11 +49,13 @@ Masa jabatannya berlangsung satu bulan. Janti Saconk meninggal pada 18 Oktober 1
 
 ## Kota yang tidak jadi pusat negara
 
+Ekonomi kota bertumpu pada kayu dan hasil hutan. Sungai Kahayan mengangkut kayu gelondongan dari hulu ke pangkal, dan sebagian besar penduduk bekerja sebagai pedagang, nelayan, atau buruh. Industrialisasi kayu pada 1970-an dan 1980-an membawa pendapatan bagi provinsi, tetapi juga mempercepat penebangan hutan di sekitar kota. Ketika izin hutan habis dan harga kayu turun, kota kehilangan salah satu sumber penghasilannya.
+
 Setelah 1965, rencana menjadikan Palangka Raya ibu kota negara tidak pernah dilanjutkan. Pergantian kekuasaan, krisis ekonomi, dan prioritas pembangunan yang berubah membuat proyek itu kehilangan pendukung. Ketika pemerintah kembali membahas pemindahan ibu kota pada 2010-an, pilihannya jatuh ke Kalimantan Timur, bukan Kalimantan Tengah.
 
 Palangka Raya tetap menjadi ibu kota provinsi dan pusat pendidikan di Kalimantan Tengah. Jaringan jalan yang dirancang pada 1957 masih terlihat di pusat kota, tetapi kota tumbuh lebih lambat daripada rencananya. Kebakaran hutan dan lahan gambut, banjir, serta keterbatasan air bersih menjadi persoalan tahunan. Pada 2025, penduduknya sekitar 321 ribu jiwa, tersebar di lima kecamatan yang wilayahnya lebih luas daripada banyak kabupaten di Jawa.
 
-Pemerintah kota menghadapi dilema yang sudah ada sejak awal: memperluas kota berarti membuka hutan gambut, sementara membiarkannya berarti menolak pertumbuhan. Sejumlah kawasan di pinggiran sudah berubah menjadi perumahan, tetapi pusat kota masih berkutat pada persoalan drainase dan sampah. Pembangunan kembali tidak pernah sebesar ambisi 1957.
+Pemerintah kota menghadapi dilema yang sudah ada sejak awal: memperluas kota berarti membuka hutan gambut, sementara membiarkannya berarti menolak pertumbuhan. Sejumlah kawasan di pinggiran sudah berubah menjadi perumahan, tetapi pusat kota masih berkutat pada persoalan drainase dan sampah. Pembangunan kota tidak pernah sebesar ambisi 1957.
 
 > Kota ini tumbuh dari gambar rencana: tata ruangnya lebih tua daripada sebagian besar penduduknya.
 
