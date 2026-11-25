@@ -19,7 +19,7 @@ Pada April 1906, Staatsblad 1906 Nomor 120 mengubah Semarang menjadi gemeente: k
 
 Dewan gemeente tidak dipilih melalui hak pilih umum. Anggota yang boleh memilih dibatasi oleh besarnya pajak yang dibayar dan tingkat pendidikan, sehingga kursi didominasi golongan Eropa, dengan sejumlah kursi untuk penduduk pribumi dan Timur Asing yang ditunjuk atau dipilih oleh kelompoknya. Kewenangan dewan meliputi kebersihan, pasar, jalan, penerangan, air minum, dan rumah potong hewan. Untuk membiayai semuanya, kota memungut pajak lokal, retribusi pasar, dan bea atas jasa yang dijualnya.
 
-Struktur itu menciptakan pemerintahan ganda. Dewan menetapkan anggaran, tetapi kepala eksekutifnya masih residen atau asisten residen. Baru pada 1916 Gubernur Jenderal mengangkat burgemeester tersendiri, Daniël de Iongh, yang memerintah sampai 1927. Semarang menjadi salah satu kota terakhir di gelombang pertama yang mendapat wali kota penuh, meski dewan kotanya sudah berjalan satu dasawarsa.
+Struktur itu menciptakan pemerintahan ganda. Dewan menetapkan anggaran, tetapi kepala eksekutifnya masih residen atau asisten residen. Baru pada 1916 Gubernur Jenderal mengangkat burgemeester tersendiri, Daniël de Iongh, yang memerintah sampai 1927. Semarang harus menunggu satu dasawarsa sebelum dewan kotanya dipimpin seorang wali kota penuh.
 
 ## Insinyur di balai kota
 

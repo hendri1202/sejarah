@@ -5,7 +5,7 @@ era: kolonial
 years: 1824–kini
 tags: [kepulauan-riau, bintan, melayu, pelayaran, bauksit]
 chapter: 15
-dek: Istana Lingga dibekukan Belanda pada 1911, lalu kepulauan ini hidup dari bauksit, industri, dan galangan Batam
+dek: Kesultanan Lingga dibubarkan Belanda pada 1911, lalu kepulauan ini hidup dari bauksit, industri, dan galangan Batam
 sources:
   - "Leonard Y. Andaya, The Kingdom of Johor 1641–1728 (1975)"
   - "Carl A. Trocki, Prince of Pirates: The Temenggongs and the Development of Johor and Singapore, 1784–1885 (1979)"
