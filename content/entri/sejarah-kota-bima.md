@@ -7,10 +7,10 @@ tags: [bima, sumbawa, kesultanan, abdul kahir, dana mbojo]
 chapter: 13
 dek: Dari lima ncuhi dan Kesultanan Bima 1640 sampai kota otonom di Teluk Bima pada 2002
 sources:
-  - "Pemerintah Kota Bima, \"Sejarah Kota Bima\""
-  - "Kitab Bo (naskah kuno Kesultanan Bima), dikutip dalam kajian sejarah Bima"
-  - "Undang-Undang Nomor 13 Tahun 2002 tentang Pembentukan Kota Bima"
-  - "BPS Kota Bima, Kota Bima dalam Angka 2024"
+  - Pemerintah Kota Bima, Sejarah Kota Bima
+  - Kitab Bo (naskah kuno Kesultanan Bima), dikutip dalam kajian sejarah Bima
+  - Undang-Undang Nomor 13 Tahun 2002 tentang Pembentukan Kota Bima
+  - BPS Kota Bima, Kota Bima dalam Angka 2024
 ---
 
 Pada 5 Juli 1640, La Ka'i dinobatkan sebagai Sultan Bima pertama dengan gelar Sultan Abdul Kahir. Penobatan itu menandai berdirinya Kesultanan Bima, yang menggantikan kerajaan lama di Dana Mbojo. Tanggal tersebut sekarang diperingati sebagai hari jadi Kota Bima, meskipun kota itu baru berstatus otonom pada 2002.
@@ -45,7 +45,9 @@ Garam menjadi komoditas penting karena dibutuhkan untuk mengawetkan ikan. Tambak
 
 Pada masa kolonial, Belanda menandatangani perjanjian dengan sultan yang membatasi kekuasaan politiknya, tetapi membiarkan urusan adat dan agama berjalan. Pajak ditarik melalui bangsawan, dan jalan dibangun untuk mengangkut hasil bumi ke pelabuhan. Perubahan itu melemahkan kesultanan secara bertahap.
 
-Pada 1998, Bima memperoleh status kota administratif melalui Peraturan Pemerintah Nomor 77 Tahun 1998. Status itu memberi pemerintahan sendiri di bawah Kabupaten Bima, dengan wali kota administratif yang mengurus kota. Sebelum pemekaran, Kota Bima menjadi pusat pemerintahan Kabupaten Bima dan menampung sebagian besar sekolah, rumah sakit, dan kantor dinas. Pertumbuhan penduduk membuat kota ini padat, dengan permukiman yang meluas ke arah selatan dan timur. Empat tahun kemudian, pada 10 April 2002, Bima menjadi kota otonom melalui Undang-Undang Nomor 13 Tahun 2002, dan M. Nur A. Latif menjadi wali kota definitif pertama pada 2003. Pemisahan dari kabupaten memungkinkan kota mengatur tata ruang, pelabuhan, dan pasar sendiri. Namun, batas antara kota dan kabupaten tetap menjadi persoalan, terutama menyangkut lahan dan akses ke pantai.
+Pada 1998, Bima memperoleh status kota administratif melalui Peraturan Pemerintah Nomor 77 Tahun 1998. Status itu memberi pemerintahan sendiri di bawah Kabupaten Bima, dengan wali kota administratif yang mengurus kota. Sebelum pemekaran, Kota Bima menjadi pusat pemerintahan Kabupaten Bima dan menampung sebagian besar sekolah, rumah sakit, dan kantor dinas. Pertumbuhan penduduk membuat kota ini padat, dengan permukiman yang meluas ke arah selatan dan timur.
+
+Empat tahun kemudian, pada 10 April 2002, Bima menjadi kota otonom melalui Undang-Undang Nomor 13 Tahun 2002, dan M. Nur A. Latif menjadi wali kota definitif pertama pada 2003. Pemisahan dari kabupaten memungkinkan kota mengatur tata ruang, pelabuhan, dan pasar sendiri. Namun, batas antara kota dan kabupaten tetap menjadi persoalan, terutama menyangkut lahan dan akses ke pantai.
 
 > Bima lahir dari persekutuan lima wilayah, tetapi menjadi kota karena laut yang menghubungkannya dengan dunia luar.
 

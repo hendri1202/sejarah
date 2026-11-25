@@ -7,10 +7,10 @@ tags: [ngawi, bengawan solo, majapahit, benteng, kereta]
 chapter: 13
 dek: Dari prasasti tepi sungai tahun 1358 sampai benteng yang mengawasi tanam paksa di pertemuan dua sungai
 sources:
-  - "M.M. Soekarto K. Atmodjo, \"Prasasti Canggu\" (1975)"
-  - "Pemerintah Kabupaten Ngawi, \"Sejarah Ngawi\""
-  - "M.C. Ricklefs, A History of Modern Indonesia since c. 1200"
-  - "BPS Kabupaten Ngawi, Kabupaten Ngawi dalam Angka 2024"
+  - M.M. Soekarto K. Atmodjo, Prasasti Canggu (1975)
+  - Pemerintah Kabupaten Ngawi, Sejarah Ngawi
+  - M.C. Ricklefs, A History of Modern Indonesia since c. 1200
+  - BPS Kabupaten Ngawi, Kabupaten Ngawi dalam Angka 2024
 ---
 
 Pada 7 Juli 1358, prasasti yang dikeluarkan atas nama Raja Hayam Wuruk menyebut kawasan di tepi Bengawan Solo bernama Naditira Pradesa sebagai daerah swatantra. Prasasti Canggu, yang juga dikenal sebagai Prasasti Trowulan I, berangka 1280 Saka dan memuat daftar desa di tepian sungai. Dari daftar itulah Ngawi dipilih sebagai titik yang mewakili lahirnya sebuah wilayah administratif. Hari jadi kabupaten yang sekarang diperingati setiap 7 Juli mengacu pada dokumen itu, bukan pada berdirinya kota modern.
@@ -24,7 +24,6 @@ Jejak manusia di lembah ini jauh lebih tua daripada prasasti. Di Desa Trinil, te
 Prasasti Canggu tidak berbicara tentang kota, melainkan tentang desa-desa dan kewajiban mereka terhadap penguasa. Raja memberi hak kepada sejumlah daerah tepi sungai, menetapkan batas, dan mengatur siapa yang boleh memungut hasil. Bagi Majapahit, sungai bukan hanya sumber air, tetapi jaringan transportasi dan pajak. Ngawi adalah salah satu simpul dalam jaringan itu.
 
 Jaringan itu tidak hanya menghubungkan Ngawi dengan laut. Anak-anak sungai yang bermuara di Bengawan Solo membawa hasil dari desa-desa di kaki Gunung Lawu dan Pegunungan Kendeng: kayu, madu, tembakau, dan ternak. Setiap muara kecil punya pasar sendiri, dan pedagang dari Madiun atau Surabaya datang untuk menawar barang sebelum diangkut lebih jauh. Ngawi menjadi tempat bertemunya dua arah, yaitu hilir dan hulu.
-
 
 ## Tafsir yang belum sepakat
 
@@ -44,8 +43,7 @@ Jalur kereta yang menghubungkan Madiun, Ngawi, dan Surabaya mengubah wajah kota 
 
 Kereta juga membawa perubahan pada pertanian. Beras dan tembakau bisa dikirim lebih cepat ke Surabaya, sementara gula dari pabrik-pabrik di sekitar Madiun melewati jalur yang sama. Penduduk yang tinggal di sepanjang jalur bekerja sebagai buruh stasiun, pedagang, atau pengangkut.
 
-Pemerintah kolonial juga membangun sekolah, rumah sakit, dan kantor pos di dekat stasiun. Bangunan-bangunan itu menciptakan kawasan baru di luar kota lama yang berpusat di alun-alun. Sampai sekarang, pola itu masih terlihat: jalan raya dan stasiun menjadi poros, sementara pasar lama dan masjid agung tetap menjadi pusat kegiatan pada pagi hari.
- Kota kecil itu tidak menjadi industri besar, tetapi menjadi simpul distribusi.
+Pemerintah kolonial juga membangun sekolah, rumah sakit, dan kantor pos di dekat stasiun. Bangunan-bangunan itu menciptakan kawasan baru di luar kota lama yang berpusat di alun-alun. Sampai sekarang, pola itu masih terlihat: jalan raya dan stasiun menjadi poros, sementara pasar lama dan masjid agung tetap menjadi pusat kegiatan pada pagi hari. Kota kecil itu tidak menjadi industri besar, tetapi menjadi simpul distribusi.
 
 Banjir tetap menjadi persoalan. Bengawan Solo meluap hampir setiap dekade, dan kota yang tumbuh di tepiannya harus menyesuaikan diri. Tanggul, saluran, dan rumah panggung menjadi bagian dari lanskap. Sampai sekarang, banjir yang datang dari hulu di Wonogiri masih menentukan ritme kehidupan di beberapa kampung. Tanggul yang dibangun pada masa kolonial dan dilanjutkan setelah kemerdekaan tidak selalu cukup menahan luapan besar.
 

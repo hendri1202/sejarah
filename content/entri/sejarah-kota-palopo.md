@@ -7,10 +7,10 @@ tags: [palopo, luwu, masjid tua, bugis, ott]
 chapter: 13
 dek: Ibu kota Luwu di Teluk Bone, masjid tua 1604, dan kota otonom yang terbentuk dari kabupaten terluas di Sulawesi
 sources:
-  - "Pemerintah Kota Palopo, \"Sejarah Singkat Kota Palopo\""
-  - "Peraturan Pemerintah Nomor 42 Tahun 1986 tentang Pembentukan Kota Administratif Palopo"
-  - "Undang-Undang Nomor 11 Tahun 2002 tentang Pembentukan Kota Palopo"
-  - "BPS Kota Palopo, Kota Palopo dalam Angka 2024"
+  - Pemerintah Kota Palopo, Sejarah Singkat Kota Palopo
+  - Peraturan Pemerintah Nomor 42 Tahun 1986 tentang Pembentukan Kota Administratif Palopo
+  - Undang-Undang Nomor 11 Tahun 2002 tentang Pembentukan Kota Palopo
+  - BPS Kota Palopo, Kota Palopo dalam Angka 2024
 ---
 
 Palopo berada di ujung utara Teluk Bone, di antara muara sungai dan perbukitan yang menutup jalur menuju pedalaman Luwu. Pada awal abad ke-17, pusat Kerajaan Luwu berpindah ke tempat yang disebut Ware, yang kemudian menjadi Kota Palopo. Perpindahan itu menjadikan Palopo pusat pemerintahan, pasar, dan penyebaran Islam di Tana Luwu.
@@ -54,5 +54,5 @@ Palopo sekarang menjadi pusat pendidikan dan perdagangan di Luwu Raya. Pasar sen
 Warisan Luwu masih terlihat pada masjid tua, makam raja, dan nama-nama tempat. Namun, sejarah kota ini jarang ditulis dari sudut pandang penduduk biasa: petani, nelayan, dan pedagang kecil yang menghubungkan Palopo dengan pesisir dan gunung. Arsip kerajaan menyimpan banyak catatan tentang bangsawan, tetapi sedikit tentang kehidupan sehari-hari.
 
 :::note
-Masjid Jami Tua Palopo dibangun 1604 pada masa Datu Luwu ke-16. Palopo menjadi kota administratif pada 1986 dan kota otonom pada 10 April 2002.
+Masjid tertua di Sulawesi Selatan itu dibangun pada 1604, masa Datu Luwu ke-16. Palopo menjadi kota administratif pada 1986 dan kota otonom pada 10 April 2002.
 :::

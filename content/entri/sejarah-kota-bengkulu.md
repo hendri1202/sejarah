@@ -7,10 +7,10 @@ tags: [bengkulu, fort marlborough, inggris, raffles, lada]
 chapter: 15
 dek: Benteng Inggris di pantai barat Sumatra, serangan 1719, dan kota yang lahir dari perdagangan lada
 sources:
-  - "Staatsblad 1824 dan Traktat London 1824, dikutip dalam kajian British Bencoolen"
-  - "Pemerintah Kota Bengkulu, \"Sejarah Kota Bengkulu\""
-  - "John Bastin, The British in West Sumatra (1965)"
-  - "BPS Kota Bengkulu, Kota Bengkulu dalam Angka 2024"
+  - Traktat London 1824, dikutip dalam kajian British Bencoolen
+  - Pemerintah Kota Bengkulu, Sejarah Kota Bengkulu
+  - John Bastin, The British in West Sumatra (1965)
+  - BPS Kota Bengkulu, Kota Bengkulu dalam Angka 2024
 ---
 
 Pada 17 Maret 1719, Benteng Marlborough di Bengkulu diserbu oleh pasukan yang dipimpin putra Pangeran Nata Dirja dari Kerajaan Selebar. Benteng itu jatuh, dan pemerintah Inggris kehilangan kendali atas kota untuk sementara waktu. Peristiwa tersebut sekarang diperingati sebagai hari jadi Kota Bengkulu, meskipun kota itu sudah ada jauh sebelumnya sebagai pelabuhan lada.
@@ -45,7 +45,7 @@ Pada 1824, Inggris dan Belanda menandatangani Traktat London. Inggris menyerahka
 
 ## Kota kolonial
 
-Di bawah Belanda, Bengkulu menjadi pusat keresidenan. Lada tetap menjadi komoditas utama sampai akhir abad ke-19, ketika harga dunia menurun dan petani beralih ke kopi serta karet. Pelabuhan Bengkulu tidak pernah menjadi besar karena pantainya terbuka dan ombaknya kuat. Kota ini tetap menjadi pelabuhan lada dan kopi, tetapi perannya menurun dibandingkan Batavia dan Padang. Jalan raya dibangun menghubungkan Bengkulu dengan pedalaman, dan jalur kereta kecil dipakai untuk mengangkut hasil bumi ke pantai.
+Di bawah Belanda, Bengkulu menjadi pusat keresidenan. Lada tetap menjadi komoditas utama sampai akhir abad ke-19, ketika harga dunia menurun dan petani beralih ke kopi serta karet. Pelabuhan Bengkulu tidak pernah menjadi besar karena pantainya terbuka dan ombaknya kuat. Kota ini tetap menjadi pelabuhan kopi dan hasil hutan, tetapi perannya menurun dibandingkan Batavia dan Padang. Jalan raya dibangun menghubungkan Bengkulu dengan pedalaman, dan jalur kereta kecil dipakai untuk mengangkut hasil bumi ke pantai.
 
 Pada 1938, Soekarno diasingkan ke Bengkulu oleh pemerintah kolonial. Ia tinggal di kota ini sampai 1942, bertemu Fatmawati, dan menikah di sana. Rumah pengasingannya sekarang menjadi museum, dan menjadi salah satu situs sejarah paling dikenal di Bengkulu. Di kota ini pula ia menulis sebagian surat dan pidato yang kemudian menjadi bagian dari perjalanan politiknya. Pengasingan itu justru memperkenalkannya pada kehidupan masyarakat Sumatra yang kemudian ia bawa ke Jakarta.
 

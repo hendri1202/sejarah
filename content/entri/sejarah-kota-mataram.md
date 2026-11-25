@@ -7,10 +7,10 @@ tags: [mataram, lombok, cakranegara, kolonial, sasak]
 chapter: 16
 dek: Dari kota istana Cakranegara dan perang 1894 sampai ibu kota Nusa Tenggara Barat yang menjadi kota pada 1993
 sources:
-  - "Undang-Undang Nomor 4 Tahun 1993 tentang Pembentukan Kotamadya Mataram"
-  - "Pemerintah Kota Mataram, \"Profil Kota Mataram\""
-  - "Alfons van der Kraan, Lombok: Conquest, Colonization and Underdevelopment (1980)"
-  - "BPS Kota Mataram, Kota Mataram dalam Angka 2024"
+  - Undang-Undang Nomor 4 Tahun 1993 tentang Pembentukan Kotamadya Mataram
+  - Pemerintah Kota Mataram, Profil Kota Mataram
+  - Alfons van der Kraan, Lombok: Conquest, Colonization and Underdevelopment (1980)
+  - BPS Kota Mataram, Kota Mataram dalam Angka 2024
 ---
 
 Pada 31 Agustus 1993, Mataram ditetapkan sebagai kotamadya melalui Undang-Undang Nomor 4 Tahun 1993. Kota ini menjadi ibu kota Provinsi Nusa Tenggara Barat, menggantikan peran pusat pemerintahan yang sebelumnya dipegang kawasan Cakranegara. Sejarah Mataram sebagai kota administratif jauh lebih panjang daripada status otonomnya.
@@ -41,7 +41,7 @@ Pada 1978, Mataram memperoleh status kota administratif. Wali kota administratif
 
 ## Kota 1993
 
-Undang-Undang Nomor 4 Tahun 1993 menjadikan Mataram kotamadya daerah tingkat II. Lalu Mas'ud menjadi wali kota definitif pertama, memimpin kota sampai 1999. Sejak itu, Mataram dimekarkan menjadi beberapa kecamatan dan menyerap desa-desa di sekitarnya. Pada 1993, wilayah kota masih terbatas pada pusat pemerintahan dan permukiman lama, sebelum perluasan ke arah timur dan selatan pada dekade berikutnya.
+Undang-Undang Nomor 4 Tahun 1993 menjadikan Mataram kotamadya daerah tingkat II. Lalu Mas'ud menjadi wali kota definitif pertama, memimpin kota sampai 1999. Setelah 1993, Mataram dimekarkan menjadi beberapa kecamatan dan menyerap desa-desa di sekitarnya. Pada awal berdirinya, wilayah kota masih terbatas pada pusat pemerintahan dan permukiman lama, sebelum perluasan ke arah timur dan selatan terjadi pada dekade berikutnya.
 
 Pada tahun-tahun pertama sebagai kotamadya, Mataram menata batas kecamatan, membangun pasar baru, dan memperluas jaringan jalan. Kawasan Cakranegara, yang secara historis menjadi pusat perdagangan, tetap ramai, sementara pusat pemerintahan bergeser ke utara. Pertumbuhan penduduk mendorong perluasan permukiman ke arah timur dan selatan.
 

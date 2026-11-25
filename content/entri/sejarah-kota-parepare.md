@@ -7,10 +7,10 @@ tags: [parepare, pelabuhan, andi mannaungi, habibie, suppa]
 chapter: 24
 dek: Kota pelabuhan di Teluk Bone yang lahir dari tiga kerajaan kecil dan disahkan sebagai kotamadya pada 1960
 sources:
-  - "Pemerintah Kota Parepare, \"Sejarah Kota Parepare\""
-  - "Surat Keputusan DPRD Gotong Royong Kota Parepare tentang Hari Jadi"
-  - "Undang-Undang Nomor 22 Tahun 1999 tentang Pemerintahan Daerah"
-  - "BPS Kota Parepare, Kota Parepare dalam Angka 2024"
+  - Pemerintah Kota Parepare, Sejarah Kota Parepare
+  - Surat Keputusan DPRD Gotong Royong Kota Parepare tentang Hari Jadi
+  - Undang-Undang Nomor 22 Tahun 1999 tentang Pemerintahan Daerah
+  - BPS Kota Parepare, Kota Parepare dalam Angka 2024
 ---
 
 Pada 17 Februari 1960, H. Andi Mannaungi dilantik sebagai Wali Kota Madya pertama Parepare. Pelantikan itu menjadi dasar hari jadi kota yang diperingati setiap tahun. Parepare sebelumnya adalah kawasan pelabuhan kecil di pesisir barat Teluk Bone, yang tumbuh karena perdagangan hasil bumi dan menjadi tempat berlabuh kapal dari Mandar, Bugis, dan Makassar.
@@ -31,7 +31,7 @@ Pelabuhan itu tidak memiliki dermaga besar. Kapal berlabuh di perairan terbuka, 
 
 ## Kota 1960
 
-Pada 1960, pemerintah menetapkan Parepare sebagai kotamadya melalui Undang-Undang Nomor 29 Tahun 1959 tentang Pembentukan Daerah-Daerah Tingkat II di Sulawesi. Status itu memisahkan Parepare dari Kabupaten Sidenreng Rappang dan Kabupaten Bone. Andi Mannaungi, seorang birokrat asal Bugis, dilantik sebagai wali kota madya pertama pada 17 Februari 1960.
+Pada 1960, pemerintah menetapkan Parepare sebagai kotamadya melalui Undang-Undang Nomor 29 Tahun 1959 tentang Pembentukan Daerah-Daerah Tingkat II di Sulawesi. Status itu memisahkan Parepare dari Kabupaten Sidenreng Rappang dan Kabupaten Bone. Andi Mannaungi, seorang birokrat asal Bugis, diambil sumpahnya sebagai wali kota madya pertama pada 17 Februari 1960.
 
 Pemisahan itu didorong oleh pertimbangan ekonomi dan administrasi. Parepare memiliki pelabuhan, pasar, dan penduduk yang cukup besar untuk mengurus kota sendiri. Sebelumnya, kawasan itu diperintah sebagai kewedanaan di bawah kabupaten, sehingga keputusan tentang pelabuhan dan jalan sering terlambat.
 

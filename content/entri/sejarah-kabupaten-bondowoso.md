@@ -7,10 +7,10 @@ tags: [bondowoso, ki ronggo, tembakau, kopi, madura]
 chapter: 17
 dek: Kabupaten yang lahir dari babat alas pada 1819, lalu hidup dari tembakau dan kopi di lereng Ijen
 sources:
-  - "Pemerintah Kabupaten Bondowoso, \"Kilas Bondowoso\""
-  - "Peraturan Daerah Kabupaten Bondowoso tentang Hari Jadi"
-  - "Gerhard David Birnie, catatan perkebunan Ijen (1890-an), dikutip dalam kajian sejarah kopi Bondowoso"
-  - "BPS Kabupaten Bondowoso, Kabupaten Bondowoso dalam Angka 2024"
+  - Pemerintah Kabupaten Bondowoso, Kilas Bondowoso
+  - Peraturan Daerah Kabupaten Bondowoso tentang Hari Jadi
+  - Gerhard David Birnie, catatan perkebunan Ijen (1890-an), dikutip dalam kajian sejarah kopi Bondowoso
+  - BPS Kabupaten Bondowoso, Kabupaten Bondowoso dalam Angka 2024
 ---
 
 Pada 17 Agustus 1819, Raden Bagus Asra dilantik sebagai bupati pertama Bondowoso dengan gelar Ki Ronggo. Wilayah yang ia terima bukan hadiah yang sudah jadi: sebagian besar masih berupa hutan dan perbukitan di antara Besuki dan Jember. Pelantikan itu menjadi dasar hari jadi kabupaten, meskipun tidak ada surat keputusan kolonial yang menyebutnya secara rinci.

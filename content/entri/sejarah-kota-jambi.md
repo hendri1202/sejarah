@@ -7,10 +7,10 @@ tags: [jambi, batanghari, kesultanan, karet, makalam]
 chapter: 12
 dek: Tanah Pilih di tepi Batanghari, kesultanan lada, karet, dan kota yang lahir kembali pada 1946
 sources:
-  - "Pemerintah Kota Jambi, \"Sejarah Kota Jambi\""
-  - "Kesultanan Jambi, naskah dan silsilah yang dikutip dalam kajian sejarah Jambi"
-  - "Elsbeth Locher-Scholten, Sumatran Sultanate and Colonial State (2003)"
-  - "BPS Kota Jambi, Kota Jambi dalam Angka 2024"
+  - Pemerintah Kota Jambi, Sejarah Kota Jambi
+  - Kesultanan Jambi, naskah dan silsilah yang dikutip dalam kajian sejarah Jambi
+  - Elsbeth Locher-Scholten, Sumatran Sultanate and Colonial State (2003)
+  - BPS Kota Jambi, Kota Jambi dalam Angka 2024
 ---
 
 Kota Jambi berdiri di tepi Batanghari, sungai terpanjang di Sumatra yang menghubungkan pedalaman dengan Selat Malaka. Pada 28 Mei 1401, menurut tradisi yang dipelihara pemerintah kota, wilayah yang disebut Tanah Pilih Pusako Betuah ditetapkan sebagai pusat pemerintahan. Tanggal itu dipakai sebagai hari jadi, meskipun sumber tertulisnya berasal dari masa yang jauh lebih kemudian.
@@ -51,7 +51,9 @@ Makalam memimpin kota pada masa yang sulit: perang kemerdekaan, kekurangan panga
 
 Kota Jambi memperingati dua tanggal: 28 Mei 1401 sebagai hari jadi kota dan 17 Mei 1946 sebagai hari lahir pemerintahan kota. Perbedaan itu mencerminkan dua lapis sejarah: yang satu berakar pada tradisi kesultanan, yang lain pada administrasi modern. Keduanya dipakai dalam berbagai upacara, tergantung konteksnya.
 
-Sejarah Jambi memperlihatkan bagaimana sungai membentuk kota, Jambi menjadi provinsi pada 1957, setelah Sumatra Tengah dimekarkan menjadi tiga provinsi. Status provinsi memperkuat peran kota sebagai pusat pemerintahan, meskipun pusat ekonomi tetap tersebar di sepanjang Batanghari. dan bagaimana perdagangan menghubungkannya dengan dunia luar. Tanpa Batanghari, tidak akan ada Tanah Pilih, kesultanan, maupun kota pelabuhan di muara. Kota ini sekarang menghadapi banjir, kemacetan, dan tekanan pembangunan di tepi sungai. Kawasan yang dulu menjadi pelabuhan dan gudang berubah menjadi permukiman padat, sementara tanggul dan pompa air menjadi bagian dari lanskap kota. Sejarah sungai tidak berhenti, hanya berubah bentuk. Batanghari tetap menjadi penanda identitas, meskipun fungsinya sebagai jalan dagang sudah jauh berkurang. Setiap tahun, perayaan hari jadi kota digelar di tepi sungai, dengan kirab perahu dan pasar rakyat yang mengangkat sejarah Tanah Pilih. Jembatan dan jalan darat kini lebih penting untuk angkutan barang, sementara sungai dipakai untuk transportasi lokal, tambang pasir, dan perikanan. Pencemaran dan pendangkalan menjadi masalah yang belum terselesaikan.
+Sejarah Jambi memperlihatkan bagaimana sungai membentuk kota, dan bagaimana perdagangan menghubungkannya dengan dunia luar. Tanpa Batanghari, tidak akan ada Tanah Pilih, kesultanan, maupun kota pelabuhan di muara. Jambi menjadi provinsi pada 1957, setelah Sumatra Tengah dimekarkan menjadi tiga provinsi, dan status itu memperkuat peran kota sebagai pusat pemerintahan.
+
+Kota ini sekarang menghadapi banjir, kemacetan, dan tekanan pembangunan di tepi sungai. Kawasan yang dulu menjadi pelabuhan dan gudang berubah menjadi permukiman padat, sementara tanggul dan pompa air menjadi bagian dari lanskap kota. Jembatan dan jalan darat kini lebih penting untuk angkutan barang, sementara sungai dipakai untuk transportasi lokal, tambang pasir, dan perikanan. Pencemaran dan pendangkalan menjadi masalah yang belum terselesaikan. Setiap tahun, perayaan hari jadi kota digelar di tepi sungai, dengan kirab perahu dan pasar rakyat yang mengangkat sejarah Tanah Pilih.
 
 :::note
 Kota Jambi memakai dua tanggal: 28 Mei 1401 (Tanah Pilih, berdasarkan tradisi) dan 17 Mei 1946 (pembentukan pemerintahan kota, wali kota pertama Makalam).

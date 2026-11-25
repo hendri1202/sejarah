@@ -7,10 +7,10 @@ tags: [malang, gemeente, perkebunan, boulevard, pendidikan]
 chapter: 17
 dek: Gemeente 1914, wali kota pertama yang diperdebatkan, dan kota kebun yang menjadi pusat pendidikan
 sources:
-  - "Staatsblad 1914 Nomor 297 tentang Pembentukan Gemeente Malang"
-  - "Dwi Cahyono, kajian sejarah Kota Malang, Universitas Negeri Malang"
-  - "H.I. Bussemaker, laporan gemeente Malang (1919–1929)"
-  - "BPS Kota Malang, Kota Malang dalam Angka 2024"
+  - Staatsblad 1914 tentang Pembentukan Gemeente Malang
+  - Dwi Cahyono, kajian sejarah Kota Malang, Universitas Negeri Malang
+  - H.I. Bussemaker, laporan gemeente Malang (1919–1929)
+  - BPS Kota Malang, Kota Malang dalam Angka 2024
 ---
 
 Pada 1 April 1914, Malang ditetapkan sebagai gemeente oleh pemerintah Hindia Belanda. Status itu memisahkan kota dari Kabupaten Malang dan memberi dewan kota kewenangan mengatur pajak, jalan, air, serta kesehatan. Hari jadi Kota Malang yang diperingati setiap 1 April mengacu pada peristiwa administratif itu, bukan pada berdirinya permukiman yang jauh lebih tua.

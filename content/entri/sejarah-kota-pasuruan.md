@@ -7,10 +7,10 @@ tags: [pasuruan, untung suropati, pelabuhan, gemeente, santri]
 chapter: 17
 dek: Pelabuhan lama di selat, kota Untung Suropati, dan gemeente yang baru punya wali kota pada 1928
 sources:
-  - "Staatsblad 1918 Nomor 320 tentang Pembentukan Gemeente Pasoeroean"
-  - "Daftar Wali Kota Pasuruan, Pemerintah Kota Pasuruan"
-  - "M.C. Ricklefs, A History of Modern Indonesia since c. 1200"
-  - "BPS Kota Pasuruan, Kota Pasuruan dalam Angka 2024"
+  - Staatsblad 1918 Nomor 320 tentang Pembentukan Gemeente Pasoeroean
+  - Daftar Wali Kota Pasuruan, Pemerintah Kota Pasuruan
+  - M.C. Ricklefs, A History of Modern Indonesia since c. 1200
+  - BPS Kota Pasuruan, Kota Pasuruan dalam Angka 2024
 ---
 
 Pada 8 Februari 1686, Untung Suropati diangkat sebagai Adipati Pasuruan. Pengangkatan itu terjadi setelah ia merebut kota dari tangan VOC dan menjadikannya pusat kekuasaan di pesisir timur Jawa. Tanggal itu kini menjadi hari jadi Kota Pasuruan, meskipun kota ini sudah jauh lebih tua sebagai pelabuhan.
@@ -51,7 +51,7 @@ Setelah proklamasi 1945, Pasuruan menjadi bagian dari wilayah Republik. Pertempu
 
 Pertempuran di Pasuruan pada 1945 tidak sebesar di Surabaya, tetapi cukup untuk membuat pemerintah kota berpindah sementara ke desa-desa di sekitarnya. Markas perjuangan, rumah sakit darurat, dan dapur umum didirikan di kampung-kampung yang jauh dari jalan raya.
 
-Pengakuan kedaulatan pada 1949 mengembalikan Pasuruan ke Republik. Pada 1950, wilayah kota hanya mencakup tiga desa di sekitar pusat lama. Perluasan besar terjadi pada 1982, ketika sejumlah desa dari Kabupaten Pasuruan dimasukkan, sehingga batas kota mendekati bentuknya sekarang. Pada 1950, kota ini ditetapkan sebagai kotamadya berdasarkan Undang-Undang Nomor 17 Tahun 1950. Sejak itu, batas kota beberapa kali diperluas, terutama pada 1982, ketika sejumlah desa dari kabupaten sekitarnya dimasukkan.
+Pengakuan kedaulatan pada 1949 mengembalikan Pasuruan ke Republik. Pada 1950, kota ini ditetapkan sebagai kotamadya berdasarkan Undang-Undang Nomor 17 Tahun 1950, dengan wilayah yang hanya mencakup tiga desa di sekitar pusat lama. Perluasan besar terjadi pada 1982, ketika sejumlah desa dari Kabupaten Pasuruan dimasukkan, sehingga batas kota mendekati bentuknya sekarang. Setelah itu, perluasan kecil terus terjadi mengikuti pertumbuhan permukiman.
 
 > Pasuruan lebih tua sebagai pelabuhan daripada sebagai kota, dan lebih tua sebagai kota daripada sebagai gemeente.
 

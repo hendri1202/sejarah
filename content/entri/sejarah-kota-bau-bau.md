@@ -7,10 +7,10 @@ tags: [baubau, buton, kesultanan, benteng wolio, wolio]
 chapter: 13
 dek: Kesultanan Buton yang lahir pada 1541, benteng terluas di dunia, dan kota otonom di Pulau Buton
 sources:
-  - "Peraturan Daerah Kota Baubau Nomor 2 Tahun 2010 tentang Hari Jadi Kota Baubau"
-  - "Pemerintah Kota Baubau, \"Sejarah Kota Baubau\""
-  - "Susanto Zuhdi, Sejarah Buton yang Terabaikan (2010)"
-  - "BPS Kota Baubau, Kota Baubau dalam Angka 2024"
+  - Peraturan Daerah Kota Baubau Nomor 2 Tahun 2010 tentang Hari Jadi Kota Baubau
+  - Pemerintah Kota Baubau, Sejarah Kota Baubau
+  - Susanto Zuhdi, Sejarah Buton yang Terabaikan (2010)
+  - BPS Kota Baubau, Kota Baubau dalam Angka 2024
 ---
 
 Pada 17 Oktober 1541, Lakilaponto dilantik sebagai Sultan Buton pertama dengan gelar Sultan Murhum Kaimuddin Khalifatul Khamis. Pelantikan itu menandai perubahan Kerajaan Buton menjadi kesultanan Islam, dan tanggalnya sekarang diperingati sebagai hari jadi Kota Bau-Bau. Perubahan itu terjadi di atas bukit Wolio, tempat istana dan benteng berdiri menghadap laut.
@@ -41,7 +41,7 @@ Kesultanan Buton tidak mengandalkan satu komoditas. Penduduk menanam padi, jagun
 
 ## Kota 2001
 
-Setelah kemerdekaan, Bau-Bau menjadi bagian dari Kabupaten Buton. Pada 21 Juni 2001, pemerintah menetapkan Bau-Bau sebagai kota otonom melalui Undang-Undang Nomor 13 Tahun 2001. Pemisahan itu didorong oleh pertumbuhan penduduk dan peran kota sebagai pusat pemerintahan serta perdagangan di Sulawesi Tenggara.
+Pada 21 Juni 2001, pemerintah menetapkan Bau-Bau sebagai kota otonom melalui Undang-Undang Nomor 13 Tahun 2001. Pemisahan itu didorong oleh pertumbuhan penduduk dan peran kota sebagai pusat pemerintahan serta perdagangan di Sulawesi Tenggara.
 
 Pada awal abad ke-20, Belanda menempatkan seorang controleur di Bau-Bau, tetapi pemerintahan setempat tetap dijalankan melalui struktur kesultanan. Setelah kemerdekaan, Bau-Bau menjadi bagian dari Kabupaten Buton dan berperan sebagai ibu kota kabupaten. Kesultanan Buton berakhir pada 1960, ketika pemerintahan Republik menata ulang daerah dan menghapus struktur kesultanan.
 

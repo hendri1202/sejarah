@@ -7,10 +7,10 @@ tags: [lumajang, lamajang, mula malurung, arya wiraraja, biting]
 chapter: 13
 dek: Prasasti tembaga 1255, kerajaan Lamajang Tigang Juru, dan benteng tanah yang tertimbun di sawah Kutorenon
 sources:
-  - "Prasasti Mula Malurung (1177 Saka/1255 M), koleksi Museum Nasional"
-  - "Pemerintah Kabupaten Lumajang, \"Sejarah Lumajang\""
-  - "Slamet Muljana, Nagarakretagama dan Tafsir Sejarahnya (1979)"
-  - "BPS Kabupaten Lumajang, Kabupaten Lumajang dalam Angka 2024"
+  - Prasasti Mula Malurung (1177 Saka/1255 M), koleksi Museum Nasional
+  - Pemerintah Kabupaten Lumajang, Sejarah Lumajang
+  - Slamet Muljana, Nagarakretagama dan Tafsir Sejarahnya (1979)
+  - BPS Kabupaten Lumajang, Kabupaten Lumajang dalam Angka 2024
 ---
 
 Pada 15 Desember 1255, Nararya Kirana diangkat sebagai penguasa Lamajang. Penetapan itu tercatat dalam Prasasti Mula Malurung, prasasti tembaga berangka 1177 Saka yang ditemukan di Kediri pada 1975. Prasasti itu menjadi dasar hari jadi Kabupaten Lumajang, dan tanggal 15 Desember dipakai setiap tahun untuk memperingati lahirnya wilayah yang sekarang beribukota di Kota Lumajang.

@@ -7,10 +7,10 @@ tags: [probolinggo, gemeente, tanjung tembaga, gula, pelabuhan]
 chapter: 17
 dek: Gemeente di teluk yang sempat dipimpin wali kota, lalu kembali ke tangan asisten residen pada 1935
 sources:
-  - "Staatsblad 1918 Nomor 322 tentang Pembentukan Gemeente Probolinggo"
-  - "Dinas Perpustakaan dan Kearsipan Jawa Timur, \"Gemeente Probolinggo\""
-  - "Ferdinand Edmond Meijer, arsip gemeente Probolinggo (1928–1935)"
-  - "BPS Kota Probolinggo, Kota Probolinggo dalam Angka 2024"
+  - Staatsblad 1918 Nomor 322 tentang Pembentukan Gemeente Probolinggo
+  - Dinas Perpustakaan dan Kearsipan Jawa Timur, Gemeente Probolinggo
+  - Ferdinand Edmond Meijer, arsip gemeente Probolinggo (1928–1935)
+  - BPS Kota Probolinggo, Kota Probolinggo dalam Angka 2024
 ---
 
 Pada 1 Juli 1918, pemerintah Hindia Belanda membentuk Gemeente Probolinggo berdasarkan Staatsblad 1918 Nomor 322. Kota kecil di teluk itu mendapat hak mengatur rumah tangganya sendiri, dengan dewan kota dan anggaran terpisah dari kabupaten. Pembentukan itu menjadi dasar hari jadi Kota Probolinggo yang diperingati setiap 1 Juli.
@@ -49,9 +49,9 @@ Setelah proklamasi, kota ini menjadi medan pertempuran. Pasukan Republik berusah
 
 Selama pendudukan, kota juga menjadi tempat pengungsian bagi penduduk dari daerah pedalaman yang terkena operasi militer. Kampung-kampung padat bertambah sesak, dan pasokan makanan menjadi persoalan utama. Pemerintah militer Jepang mengatur distribusi beras melalui kelurahan, tetapi sering tidak cukup.
 
-Setelah 1950, Probolinggo menjadi kotamadya dalam Provinsi Jawa Timur. Status itu mempertahankan batas kota kolonial, dengan beberapa penyesuaian pada dekade berikutnya ketika permukiman baru tumbuh di sisi selatan dan timur. Pelabuhan Tanjung Tembaga tetap berfungsi, tetapi perannya menurun karena kapal besar lebih memilih Surabaya. Kawasan pelabuhan kemudian berkembang menjadi pusat perikanan, dengan tempat pelelangan ikan, cold storage, dan industri pengolahan rumput laut. Nelayan dari Madura dan Bugis menetap di kampung-kampung pesisir, menambah keanekaragaman penduduk kota. Ekonomi kota bergeser ke perikanan, perdagangan, dan industri kecil, sementara bekas gudang dan kantor kolonial menjadi bangunan pemerintahan atau dibiarkan kosong.
+Setelah 1950, Probolinggo menjadi kotamadya dalam Provinsi Jawa Timur. Status itu mempertahankan batas kota kolonial, dengan beberapa penyesuaian pada dekade berikutnya ketika permukiman baru tumbuh di sisi selatan dan timur. Pelabuhan Tanjung Tembaga tetap berfungsi, tetapi perannya menurun karena kapal besar lebih memilih Surabaya. Kawasan pelabuhan kemudian berkembang menjadi pusat perikanan, dengan tempat pelelangan ikan, cold storage, dan industri pengolahan rumput laut. Nelayan dari Madura dan Bugis menetap di kampung-kampung pesisir, menambah keanekaragaman penduduk kota. Ekonomi kota bergeser ke perdagangan, jasa, dan industri kecil, sementara bekas gudang dan kantor kolonial menjadi bangunan pemerintahan atau dibiarkan kosong.
 
-Benteng dan rumah-rumah dinas di sekitar alun-alun masih berdiri, sebagian sudah berubah fungsi. Kawasan sekitar alun-alun kini menjadi pusat pemerintahan kota, dengan kantor wali kota, DPRD, dan masjid agung yang berdekatan. Kawasan pelabuhan lama sekarang dipenuhi gudang ikan dan rumah nelayan, sementara jalur kereta yang dulu menuju dermaga sudah tidak dipakai. Nama Tanjung Tembaga masih dipakai untuk pelabuhan perikanan dan pangkalan kapal.
+Kawasan pelabuhan lama sekarang dipenuhi gudang ikan dan rumah nelayan, sementara jalur kereta yang dulu menuju dermaga sudah tidak dipakai. Nama Tanjung Tembaga masih dipakai untuk pelabuhan perikanan dan pangkalan kapal. Kawasan sekitar alun-alun kini menjadi pusat pemerintahan kota, dengan kantor wali kota, DPRD, dan masjid agung yang berdekatan.
 
 Benteng dan rumah-rumah dinas di sekitar alun-alun masih berdiri, sebagian sudah berubah fungsi. Museum Probolinggo menempati bangunan kolonial yang dulu menjadi tempat pertemuan orang Eropa. Sejarah kota ini memperlihatkan bagaimana status administratif bisa berubah mengikuti anggaran, bukan hanya mengikuti jumlah penduduk atau kekayaan.
 

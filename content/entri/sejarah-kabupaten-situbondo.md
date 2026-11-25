@@ -7,10 +7,10 @@ tags: [situbondo, panarukan, gula, pelabuhan, daendels]
 chapter: 17
 dek: Pelabuhan di ujung Jalan Raya Pos, enam pabrik gula, dan kabupaten yang berganti nama pada 1972
 sources:
-  - "Pemerintah Kabupaten Situbondo, \"Sejarah Singkat Kabupaten Situbondo\""
-  - "Peraturan Pemerintah Nomor 28 Tahun 1972"
-  - "H.W. Daendels, laporan pembangunan Jalan Raya Pos (1808–1811)"
-  - "BPS Kabupaten Situbondo, Kabupaten Situbondo dalam Angka 2024"
+  - Pemerintah Kabupaten Situbondo, Sejarah Singkat Kabupaten Situbondo
+  - Peraturan Pemerintah Nomor 28 Tahun 1972
+  - H.W. Daendels, laporan pembangunan Jalan Raya Pos (1808–1811)
+  - BPS Kabupaten Situbondo, Kabupaten Situbondo dalam Angka 2024
 ---
 
 Pada 15 Agustus 1818, Panarukan ditetapkan sebagai kabupaten di ujung timur Jawa. Tanggal itu sekarang diperingati sebagai Hari Jadi Kabupaten Situbondo, atau Harjakasi, dan pada 2026 genap berusia 208 tahun. Dasar dokumenternya tidak lengkap, tetapi namanya bertahan dalam arsip karena Panarukan jauh lebih terkenal daripada Situbondo pada abad ke-19.
@@ -27,12 +27,11 @@ Setelah Daendels diganti, peran pelabuhan menurun. Muara sungai mendangkal, kapa
 
 Pada awal abad ke-20, pemerintah kolonial dan perusahaan swasta membangun pabrik gula di sepanjang pantai utara Besuki. Tanah di sekitar Asembagus, Panji, dan Kapongan diubah menjadi kebun tebu dengan irigasi dari sungai-sungai kecil. Pabrik menggiling tebu dengan mesin uap dan mempekerjakan ribuan buruh musiman.
 
-Antara 1950 dan 1970-an, Situbondo masih memiliki sekitar enam perkebunan dan pabrik gula. Gula menjadi tulang punggung ekonomi kabupaten, bersama tembakau dan perikanan. Krisis harga gula dunia pada 1930-an sempat memukul, tetapi pabrik-pabrik besar bertahan karena dekat dengan pelabuhan dan jalur kereta.
+Pada 1930-an, krisis harga gula dunia memukul pabrik-pabrik di Besuki. Produksi dikurangi, dan sebagian kebun tebu dialihkan menjadi sawah. Pabrik-pabrik besar bertahan karena dekat dengan pelabuhan dan jalur kereta, tetapi pabrik kecil banyak yang berhenti beroperasi.
 
-Setelah kemerdekaan, pengelolaan pabrik berpindah ke perusahaan negara.
+Pemerintahan Jepang pada 1942 mengubah pengelolaan pabrik dan perkebunan. Setelah proklamasi, para pejuang mengambil alih beberapa bangunan, sementara pertempuran dengan Belanda berlangsung di jalur pantai. Produksi dan pengangkutan terganggu oleh perang, dan banyak buruh kembali ke kampung.
 
-Pemerintahan Jepang pada 1942 mengubah pengelolaan pabrik dan perkebunan. Setelah proklamasi, para pejuang mengambil alih beberapa bangunan, sementara pertempuran dengan Belanda berlangsung di jalur pantai. Pada masa itu, gula masih menjadi komoditas penting, tetapi produksi dan pengangkutan terganggu oleh perang.
- Sebagian pabrik tutup pada 1970-an dan 1980-an karena mesin tua dan persaingan gula impor. Bekas bangunan, cerobong, dan rel lori masih terlihat di beberapa desa, menjadi penanda bahwa ekonomi pesisir pernah bergantung pada tebu.
+Setelah kemerdekaan, pengelolaan pabrik berpindah ke perusahaan negara. Antara 1950 dan 1970-an, Situbondo masih memiliki sekitar enam perkebunan dan pabrik gula, dan gula menjadi tulang punggung ekonomi kabupaten bersama tembakau serta perikanan. Sebagian pabrik tutup pada 1970-an dan 1980-an karena mesin tua dan persaingan gula impor. Bekas bangunan, cerobong, dan rel lori masih terlihat di beberapa desa, menjadi penanda bahwa ekonomi pesisir pernah bergantung pada tebu.
 
 ## Orang Madura di pantai
 

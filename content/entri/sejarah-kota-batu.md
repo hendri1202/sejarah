@@ -7,10 +7,10 @@ tags: [batu, vila, apel, pariwisata, malang]
 chapter: 17
 dek: Tempat peristirahatan Belanda di kaki Panderman, kebun apel 1930-an, dan kota otonom yang lahir pada 2001
 sources:
-  - "Pemerintah Kota Batu, \"Sejarah Kota Batu\""
-  - "Undang-Undang Nomor 11 Tahun 2001 tentang Pembentukan Kota Batu"
-  - "Dinas Pariwisata Kota Batu, laporan profil destinasi (2023)"
-  - "BPS Kota Batu, Kota Batu dalam Angka 2024"
+  - Pemerintah Kota Batu, Sejarah Kota Batu
+  - Undang-Undang Nomor 11 Tahun 2001 tentang Pembentukan Kota Batu
+  - Dinas Pariwisata Kota Batu, laporan profil destinasi (2023)
+  - BPS Kota Batu, Kota Batu dalam Angka 2024
 ---
 
 Pada akhir abad ke-19, pejabat dan pengusaha Belanda mulai membangun vila di dataran tinggi antara Gunung Panderman dan Arjuna. Udara yang dingin, pemandangan lembah, dan jarak yang tidak terlalu jauh dari Malang membuat Batu menjadi tempat peristirahatan. Permukiman yang semula berupa desa pertanian itu berangsur berubah menjadi kota kecil dengan hotel, jalan, dan taman.
