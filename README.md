@@ -15,6 +15,8 @@ Situs terbit: **https://hendri1202.github.io/sejarah/**
 | Glosarium | 63 istilah | Geologi, arkeologi, kolonial, politik |
 | Tokoh | 80 nama | Indeks dengan tautan ke bab asalnya |
 | Topik | otomatis | Satu halaman per tag, dibuat dari frontmatter entri |
+| Indeks A–Z | 1 halaman | Daftar abjad seluruh artikel arsip |
+| Sumber & metode | 1 halaman | Tiga lapis sumber, angka diperdebatkan, tanggal resmi vs sejarah |
 | Tanya | 1 halaman | Pencarian BM25 atas 612 dokumen, jawaban berkutip + tautan, fallback Wikipedia, mode LLM opsional |
 
 ## Struktur repositori

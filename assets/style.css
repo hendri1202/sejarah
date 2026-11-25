@@ -1166,3 +1166,18 @@ main{position:relative;z-index:1;padding-top:58px}
 .chron-list a{color:var(--ink);text-decoration:none;display:inline;line-height:1.35}
 .chron-list a:hover{color:var(--accent)}
 .page-head--sub{margin-bottom:0}
+
+/* indeks A–Z */
+.alpha-nav{display:flex;flex-wrap:wrap;gap:4px;margin:8px 0 30px;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);padding:10px 0}
+.alpha-nav a{font-family:var(--mono);font-size:11px;letter-spacing:.08em;text-decoration:none;padding:4px 8px;color:var(--ink-2);border:1px solid transparent}
+.alpha-nav a:hover{color:var(--accent);border-color:var(--rule)}
+.alpha-grp{display:grid;grid-template-columns:64px 1fr;gap:clamp(12px,2vw,28px);padding:18px 0;border-top:1px solid var(--rule-soft)}
+.alpha-grp:first-child{border-top:0}
+.alpha-grp h2{font-family:var(--display);font-weight:400;font-size:34px;margin:0;color:var(--accent);display:flex;flex-direction:column;gap:2px}
+.alpha-grp h2 span{font-family:var(--mono);font-size:9px;color:var(--muted);letter-spacing:.1em}
+.alpha-list{list-style:none;margin:0;padding:0;columns:2;column-gap:clamp(20px,3vw,40px)}
+@media(max-width:760px){.alpha-list{columns:1}.alpha-grp{grid-template-columns:1fr}.alpha-grp h2{font-size:24px;margin-bottom:6px}}
+.alpha-list li{padding:6px 0;border-bottom:1px solid var(--rule-soft);break-inside:avoid;display:flex;justify-content:space-between;gap:12px;align-items:baseline}
+.alpha-list a{color:var(--ink);text-decoration:none;font-size:.95em;line-height:1.35}
+.alpha-list a:hover{color:var(--accent)}
+.alpha-list span{font-family:var(--mono);font-size:9.5px;color:var(--muted);white-space:nowrap}

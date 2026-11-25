@@ -451,6 +451,7 @@ def drawer(chapters):
     <li><a href="tanya.html"><span class="n">→</span><span>Tanya Kronik</span></a></li>
     <li><a href="metode.html"><span class="n">→</span><span>Sumber dan metode</span></a></li>
     <li><a href="arsip.html"><span class="n">→</span><span>Arsip artikel</span></a></li>
+    <li><a href="indeks.html"><span class="n">→</span><span>Indeks A–Z</span></a></li>
     <li><a href="kronologi.html"><span class="n">→</span><span>Kronologi lengkap</span></a></li>
     {fig_drawer}
     <li><a href="glosarium.html"><span class="n">→</span><span>Glosarium</span></a></li>
@@ -983,6 +984,57 @@ def build_entry(e, entries, chapters):
                 url=f"artikel/{e['id']}.html", cls="page-entry", base="../")
 
 
+def build_alpha(entries, chapters):
+    import unicodedata
+
+    def letter(title):
+        ch = title.strip()[0].upper()
+        ch = unicodedata.normalize("NFKD", ch)
+        return ch if ch.isalpha() else "#"
+
+    groups = {}
+    for e in entries:
+        groups.setdefault(letter(e["title"]), []).append(e)
+
+    order = sorted(groups, key=lambda c: (c == "#", c))
+    sections = []
+    for L in order:
+        items = sorted(groups[L], key=lambda e: e["title"].lower())
+        rows = "".join(
+            f'<li><a href="artikel/{e["id"]}.html">{esc(e["title"])}</a>'
+            f'<span>{esc(e["years"])}</span></li>'
+            for e in items
+        )
+        sections.append(
+            f'<section class="alpha-grp" id="h{L}"><h2>{L}<span>{len(items)}</span></h2>'
+            f'<ul class="alpha-list">{rows}</ul></section>'
+        )
+
+    body = f"""{masthead()}
+{drawer(chapters)}
+<main id="isi">
+<section class="wrap">
+  <header class="page-head">
+    <div class="chapter__kicker">
+      <a class="micro" href="arsip.html">Arsip</a>
+      <span class="micro">{len(entries)} artikel</span>
+    </div>
+    <h1>Indeks A–Z</h1>
+    <p>Seluruh {len(entries)} artikel arsip, disusun menurut huruf pertama judul. Untuk menelusuri tanpa
+    tahu apa yang dicari: pilih satu huruf, lalu ikuti judul yang menarik.</p>
+  </header>
+</section>
+<div class="wrap"><nav class="alpha-nav">{"".join(f'<a href="#h{L}">{L}</a>' for L in order)}</nav></div>
+<section class="wrap" style="padding-bottom:clamp(40px,7vw,80px)">
+  <div class="alpha">{''.join(sections)}</div>
+</section>
+</main>
+{footer()}
+{search_panel()}"""
+    return page("Indeks A–Z", f"Daftar abjad seluruh {len(entries)} artikel arsip Kronik.",
+                body, url="indeks.html", cls="page-alpha")
+
+
 def build_ask(chapters, entries):
     n_art = len(entries)
     body = f"""{masthead()}
@@ -1471,6 +1523,7 @@ def main():
         for e in entries:
             (OUT / "artikel" / f"{e['id']}.html").write_text(build_entry(e, entries, chapters), encoding="utf-8")
         (OUT / "arsip.html").write_text(build_archive(entries, chapters), encoding="utf-8")
+        (OUT / "indeks.html").write_text(build_alpha(entries, chapters), encoding="utf-8")
         tags = {}
         for e in entries:
             for t in e["tags"]:
@@ -1481,7 +1534,7 @@ def main():
     (OUT / "tentang.html").write_text(build_about(chapters), encoding="utf-8")
     (OUT / "404.html").write_text(build_404(chapters), encoding="utf-8")
 
-    urls = ["", "arsip.html", "tanya.html", "kronologi.html", "glosarium.html", "metode.html", "tentang.html"] + [c["file"] for c in chapters]
+    urls = ["", "arsip.html", "indeks.html", "tanya.html", "kronologi.html", "glosarium.html", "metode.html", "tentang.html"] + [c["file"] for c in chapters]
     today = date.today().isoformat()
     sitemap = ['<?xml version="1.0" encoding="UTF-8"?>',
                '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
