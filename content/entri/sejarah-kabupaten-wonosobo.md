@@ -25,13 +25,15 @@ Kekuasaan berpindah-pindah mengikuti siapa yang sedang dekat dengan Mataram. Seo
 
 Ketika Perang Diponegoro meletus pada 1825, Wonosobo menjadi salah satu basis pasukan pendukung Pangeran Diponegoro. Nama-nama yang tercatat dalam riwayat daerah adalah Imam Misbach, yang kemudian bergelar Tumenggung Kertosinuwun, Mas Lurah, Gajah Permodo, dan Kiai Muhamad Ngarpah. Ngarpah memperoleh kemenangan pertama atas pasukan Belanda di wilayah itu, dan Diponegoro memberinya nama Tumenggung Setjonegoro.
 
-Setelah perang berakhir pada 1830, Belanda tidak membubarkan kabupaten. Mereka mempertahankan bupati, menambahkan seorang controleur, dan memasukkan Wonosobo ke dalam sistem pajak bumi serta kerja wajib yang berlaku di seluruh Kedu. Setjonegoro tetap menjabat, memindahkan pusat pemerintahan dari Selomerto ke kota Wonosobo, dan membangun pendopo di tepi jalan yang menghubungkan Parakan dengan Purwokerto. Laporan Belanda yang dibuat setelah 1830 menyebutnya sebagai bupati yang menata kembali wilayah itu, dan dari laporan-laporan itulah tanggal 24 Juli 1825 kemudian ditarik ke belakang.
+Setelah perang berakhir pada 1830, Belanda tidak membubarkan kabupaten. Mereka mempertahankan bupati, menambahkan seorang controleur, dan memasukkan Wonosobo ke dalam sistem pajak bumi serta kerja wajib yang berlaku di seluruh Kedu. Setjonegoro tetap menjabat dan memindahkan pusat pemerintahan dari Selomerto ke kota Wonosobo, yang letaknya lebih dekat ke jalan besar. Laporan Belanda yang dibuat setelah 1830 menyebutnya sebagai bupati yang menata kembali wilayah itu, dan dari laporan-laporan itulah tanggal 24 Juli 1825 kemudian ditarik ke belakang.
 
 ## Teh di lereng Bagelen
 
 Perubahan ekonomi yang paling lama membekas datang pada 1865, ketika Bagelen Thee en Kina Maatschappij membuka kebun teh di lereng utara. Perusahaan itu menyewa tanah dengan hak erfpacht selama 75 tahun, menanam teh di ketinggian 900 sampai 1.200 meter, dan mendirikan pabrik pengolahan di Tambi. Teh dari Wonosobo dikirim dengan pedati ke Parakan, lalu ke Semarang atau Purwokerto untuk diekspor ke pasar Eropa.
 
-Kebun teh membutuhkan tenaga kerja dalam jumlah besar pada musim petik. Perusahaan mendatangkan kuli kontrak dari desa-desa sekitar dan dari luar Karesidenan Kedu, membayar upah harian, dan menyediakan bedeng di dalam kebun. Perempuan biasanya memetik pucuk, laki-laki memelihara saluran air dan jalan kebun. Di desa-desa yang tanahnya diambil untuk kebun, petani mendapat bagian tanah yang lebih sempit dan harus menanam sayur di lereng yang curam. Pola itu menjelaskan mengapa Wonosobo kemudian dikenal sebagai daerah kentang dan sayur, bukan daerah padi.
+Kebun teh membutuhkan tenaga kerja dalam jumlah besar pada musim petik. Perusahaan mendatangkan kuli kontrak dari desa-desa sekitar dan dari luar Karesidenan Kedu, membayar upah harian, dan menyediakan bedeng di dalam kebun. Perempuan biasanya memetik pucuk, laki-laki memelihara saluran air dan jalan kebun. Di desa-desa yang tanahnya diambil untuk kebun, petani mendapat bagian tanah yang lebih sempit dan harus menanam sayur di lereng yang curam. Kebun teh juga mengubah pola tanah. Desa-desa yang tanahnya disewa perusahaan kehilangan sebagian wilayah garapan, dan penduduk yang tinggal di dalam kebun harus menandatangani kontrak tahunan. Kontrak itu mengatur jam kerja, upah, dan hukuman bagi yang tidak masuk. Di beberapa kebun, sekolah kecil dan poliklinik dibangun untuk pekerja, tetapi biayanya dipotong dari upah.
+
+Pola itu menjelaskan mengapa Wonosobo kemudian dikenal sebagai daerah kentang dan sayur, bukan daerah padi.
 
 ## Tanah dingin, beban tetap
 
@@ -43,7 +45,11 @@ Jaringan jalan yang dibangun untuk mengangkut teh bertahan jauh lebih lama darip
 
 Seminar hari jadi pada 1994 memilih 24 Juli 1825 dengan dua pertimbangan: peristiwa itu bertepatan dengan Perang Jawa, dan Wonosobo disebut sebagai kabupaten dalam laporan Belanda pasca-perang. Peraturan Daerah Nomor 10 Tahun 1994 mengukuhkan pilihan itu. Sejumlah penulis sejarah daerah menilai dasarnya tipis, karena tidak ada dokumen yang secara eksplisit menyebut pendirian kabupaten pada tanggal tersebut.
 
-Perdebatan itu tidak mengubah apa pun di lapangan. Setiap 24 Juli, pemerintah kabupaten menggelar upacara dan kirab, sementara para petani di lereng Dieng tetap menghadapi persoalan yang lebih mendesak: harga kentang, kerusakan jalan, dan tanah yang terus dibagi waris. Sejarah Wonosobo, seperti kebanyakan kabupaten di Jawa, lebih banyak tersimpan dalam arsip pajak dan laporan tanam paksa daripada dalam monumen.
+Perdebatan itu tidak mengubah apa pun di lapangan. Setiap 24 Juli, pemerintah kabupaten menggelar upacara dan kirab, sementara para petani di lereng Dieng tetap menghadapi persoalan yang lebih mendesak: harga kentang, kerusakan jalan, dan tanah yang terus dibagi waris.
+
+Yang belum terjawab justru bagian paling awal. Tidak ada catatan tentang siapa yang menandatangani penyerahan wilayah itu kepada Yogyakarta, berapa batasnya, dan apakah penduduk di lereng Dieng termasuk di dalamnya. Penelitian arsip kolonial di Leiden dan Jakarta masih bisa mengubah gambaran tentang tahun-tahun pertama kabupaten ini, tetapi sampai sekarang belum ada yang melakukannya secara sistematis.
+
+Sejarah Wonosobo, seperti kebanyakan kabupaten di Jawa, lebih banyak tersimpan dalam arsip pajak dan laporan tanam paksa daripada dalam monumen.
 
 > Tanggal 24 Juli 1825 tidak ditemukan di prasasti mana pun; ia disusun dari tumpukan laporan perwira yang menata ulang Kedu.
 

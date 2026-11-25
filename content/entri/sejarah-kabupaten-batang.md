@@ -2,7 +2,7 @@
 id: sejarah-kabupaten-batang
 title: Sejarah Kabupaten Batang
 era: kolonial
-years: 1836–1966
+years: abad ke-17–1966
 tags: [batang, pekalongan, alas-roban, pemekaran, bahurekso]
 chapter: 16
 dek: Kabupaten yang dihapus pada 1936, digabung ke Pekalongan, lalu diperjuangkan sepuluh delegasi selama dua puluh tahun
@@ -13,13 +13,15 @@ sources:
   - "Suhadi BS, Naskah Pengantar Lambang Daerah Kabupaten Batang"
 ---
 
-Pada 8 April 1966, Gubernur Jawa Tengah Brigadir Jenderal Mochtar membacakan pernyataan pembentukan kembali Kabupaten Batang di bekas kanjengan bupati lama. Upacara itu berlangsung dari pukul 08.00 sampai 11.00, ditandai pelantikan R. Sadi Poerwopranoto sebagai pejabat bupati dan serah terima wewenang dari Bupati Pekalongan. Dasar hukumnya sudah ada sembilan bulan sebelumnya: Undang-Undang Nomor 9 Tahun 1965, dimuat dalam Lembaran Negara Nomor 52 tanggal 14 Juni 1965. Kabupaten yang dibentuk kembali itu luasnya 788,64 kilometer persegi, membentang dari Laut Jawa sampai punggung Gunung Prau, dengan penduduk 849.686 jiwa pada pertengahan 2024.
+Pada 8 April 1966, Gubernur Jawa Tengah Brigadir Jenderal Mochtar membacakan pernyataan pembentukan kembali Kabupaten Batang di bekas kanjengan bupati lama. Upacara itu berlangsung dari pukul 08.00 sampai 11.00, ditandai pelantikan R. Sadi Poerwopranoto sebagai pejabat bupati dan serah terima wewenang dari Bupati Pekalongan. Dasar hukumnya sudah ada sembilan bulan sebelumnya: Undang-Undang Nomor 9 Tahun 1965, dimuat dalam Lembaran Negara Nomor 52 tanggal 14 Juni 1965. Kabupaten yang dibentuk kembali itu luasnya 788,64 kilometer persegi, membentang dari Laut Jawa sampai perbukitan di selatan, dengan penduduk 849.686 jiwa pada pertengahan 2024.
 
 ## Dua kali menjadi kabupaten
 
 Batang sudah diperintah sebagai kabupaten sejak masa Mataram Islam, kira-kira dari awal abad ke-17. Periode pertama itu berakhir pada 31 Desember 1935. Sejak 1 Januari 1936, status kabupaten dihapus dan wilayahnya digabung ke Kabupaten Pekalongan. Laman resmi pemerintah kabupaten menyebut penggabungan itu berlangsung sampai 1966, tanpa menjelaskan alasannya.
 
 Sejumlah penulisan daerah menyebut masa penggabungan hanya dua puluh tahun, yakni 1946 sampai 1966, dan menyebut periode 1936–1946 sebagai masa peralihan. Selisih tiga puluh tahun itu tidak kecil, karena menentukan apakah Batang kehilangan statusnya selama satu generasi atau dua. Arsip kolonial dan arsip pemerintah daerah belum pernah dibandingkan secara sistematis untuk menjawabnya.
+
+Selama menjadi kawedanan, Batang tetap memiliki wedana, kantor kecamatan, dan pasar, tetapi keputusan penting diambil di Pekalongan. Anggaran untuk jalan, irigasi, dan sekolah ditentukan di ibu kota kabupaten, dan desa-desa di pesisir Batang harus bersaing dengan daerah lain di Pekalongan. Keluhan tentang jalan rusak dan pelabuhan yang tidak terurus menjadi alasan yang paling sering disebut para pengusul pemekaran.
 
 ## Sepuluh delegasi ke Jakarta
 
@@ -42,6 +44,8 @@ Kisah itu tidak bisa dipastikan kebenarannya, tetapi Alas Roban benar-benar ada 
 Batang terletak di jalur pantai utara yang menghubungkan Semarang dengan Pekalongan. Pada masa Daendels, sekitar 1808–1811, jalan raya pos dipindahkan melewati Alas Roban dan Plelen, dan Batang menjadi salah satu pos perhentian. Pelabuhan kecilnya dipakai untuk mengangkut hasil bumi ke kapal yang berlabuh di lepas pantai, terutama beras, gula, dan kayu.
 
 Setelah jalan kereta api Semarang–Pekalongan dibuka pada akhir abad ke-19, peran pelabuhan menurun. Barang bergerak lewat rel, dan kota tumbuh di sepanjang stasiun. Ketika status kabupaten dihapus pada 1936, Batang tinggal menjadi kawedanan di bawah Pekalongan, dengan kantor-kantor yang sebagian dialihkan ke sana.
+
+Pendangkalan muara dan sedimentasi pantai juga mengubah garis kota. Pelabuhan lama yang dulu dipakai kapal layar tidak lagi bisa dimasuki perahu besar, dan kegiatan bongkar muat berpindah ke Pekalongan. Kawasan bekas pelabuhan berubah menjadi kampung nelayan dan tambak, sementara gudang-gudang tua dibiarkan kosong atau dipakai menyimpan hasil bumi.
 
 ## Tanggal yang dipilih
 

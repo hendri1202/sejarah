@@ -17,9 +17,11 @@ Pada 7 April 1826, Komisaris Jenderal Hindia Belanda mengeluarkan keputusan Nomo
 
 ## Kabupaten yang bernama Menoreh
 
-Nama Menoreh diambil dari sebuah distrik di lereng perbukitan di selatan, yang sekarang masuk Kabupaten Magelang. Ketika Belanda menata ulang Karesidenan Kedu setelah Perang Jawa, mereka membentuk kabupaten dari wilayah-wilayah yang sebelumnya diperintah para tumenggung Mataram. Menoreh adalah salah satu dari beberapa kabupaten yang dibentuk pada 1826, bersama Magelang, Purworejo, dan Banjarnegara.
+Nama Menoreh diambil dari sebuah distrik di lereng perbukitan di selatan, yang sekarang masuk Kabupaten Magelang. Ketika Belanda menata ulang Karesidenan Kedu setelah Perang Jawa, mereka membentuk kabupaten dari wilayah-wilayah yang sebelumnya diperintah para tumenggung Mataram. Menoreh adalah salah satu kabupaten yang dibentuk dalam rangkaian penataan itu, bersama beberapa daerah lain di Kedu.
 
 Pilihan Parakan sebagai ibu kota masuk akal pada masa itu. Parakan berada di jalur perdagangan yang menghubungkan Kedu dengan pesisir utara, punya pasar yang ramai, dan dikelilingi tanah vulkanik yang subur. Namun kantor bupati di Parakan terlalu dekat dengan perbatasan dan terlalu jauh dari distrik-distrik di selatan. Pada 1834, Djojonegoro memindahkan pusat pemerintahan ke Temanggung, di tengah wilayah, dan nama Kabupaten Menoreh perlahan ditinggalkan karena distrik Menoreh sendiri sudah digabung ke Magelang.
+
+Pembentukan kabupaten itu adalah bagian dari penataan besar di Kedu setelah Perang Jawa. Belanda menempatkan residen di Magelang, membagi wilayah menjadi kabupaten-kabupaten yang lebih kecil, dan mengangkat bupati dari kalangan priyayi yang bersedia menandatangani kontrak politik. Bupati bertugas memungut pajak, mengatur kerja wajib, dan menjaga ketertiban, sementara seorang controleur mengawasi pekerjaannya. Susunan itu bertahan hampir seabad, sampai pemerintahan Jepang menggantikannya pada 1942.
 
 ## Prasasti yang ditemukan di Danglo
 
@@ -33,6 +35,8 @@ Ketika cultuurstelsel diberlakukan pada 1830, tembakau termasuk tanaman yang diw
 
 Tembakau Temanggung yang dikenal sekarang berbeda dari tembakau ekspor abad ke-19. Setelah tanam paksa dihapus pada 1870, penanaman berpindah ke tangan petani dan pedagang, dan daun tembakau Temanggung menjadi bahan baku rokok kretek karena rasanya yang kuat dan aromanya tajam. Pada awal abad ke-20, gudang-gudang tembakau berdiri di Parakan dan Temanggung, dibeli oleh pedagang Tionghoa dan rumah dagang Eropa, lalu dikirim ke pabrik rokok di Kudus, Surabaya, dan Malang.
 
+Sistem tanam paksa tidak hanya memindahkan tanaman, tetapi juga mengubah cara tanah diukur dan dicatat. Pemerintah kolonial memetakan sawah per desa, menetapkan bagian yang harus ditanami, dan mencatat hasil panen dalam laporan tahunan. Catatan itu menjadi dasar pajak bumi yang berlaku puluhan tahun kemudian, dan banyak sengketa tanah di Temanggung pada abad ke-20 berakar pada pengukuran masa tanam paksa.
+
 ## Parakan dan pasar yang mengatur harga
 
 Parakan tumbuh menjadi kota dagang yang penting justru setelah pusat pemerintahan pindah. Pasar tembakau di sana menentukan harga untuk petani di seluruh lereng Sumbing, dan pada musim panen jalan-jalan dipenuhi pedati yang mengangkut ikat daun kering. Rumah-rumah pedagang dibangun berderet di sepanjang jalan utama, sebagian masih berdiri dengan dinding tebal dan pintu kayu.
@@ -41,7 +45,7 @@ Kemakmuran itu tidak merata. Petani yang menanam tembakau dengan uang pinjaman d
 
 ## Nama yang bertahan
 
-Kabupaten Temanggung yang sekarang berdiri di atas wilayah yang sama dengan Kabupaten Menoreh pada 1826, dengan pusat yang berpindah pada 1834. Undang-Undang Nomor 13 Tahun 1950 menetapkan statusnya sebagai kabupaten di Provinsi Jawa Tengah. Nama Menoreh hampir hilang dari peta administrasi, tetapi masih dipakai untuk menyebut perbukitan di selatan dan jalan lama yang menghubungkan Parakan dengan Muntilan.
+Kabupaten Temanggung yang sekarang merupakan penerus Kabupaten Menoreh yang dibentuk pada 1826, dengan pusat yang berpindah pada 1834. Undang-Undang Nomor 13 Tahun 1950 menetapkan statusnya sebagai kabupaten di Provinsi Jawa Tengah. Nama Menoreh hampir hilang dari peta administrasi, tetapi masih dipakai untuk menyebut perbukitan di selatan dan jalan lama yang menghubungkan Parakan dengan Muntilan.
 
 Hari jadi 10 November 1834 dipilih untuk menandai perpindahan pusat pemerintahan, bukan pembentukan pertama kabupaten. Pilihan itu masuk akal secara administratif, meskipun menyisakan pertanyaan: sejak kapan tepatnya wilayah itu diperintah sebagai satu kesatuan, dan seberapa besar pengaruh keputusan 1826 terhadap susunan kecamatan yang ada sekarang.
 
