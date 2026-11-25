@@ -65,7 +65,7 @@ Kabupaten ini berbatasan dengan Bungo di utara, Sarolangun di selatan, dan Sumat
 
 Sejarah Tebo adalah sejarah kekalahan dan kelanjutan. Sultan Thaha kalah, tetapi kampung-kampung di hulu tetap menjadi pusat kehidupan. Karet dan batu bara mengubah ekonomi, tanpa mengubah ketergantungan pada tanah dan sungai.
 
-Di hulu, keputusan tentang tambang dan kebun selalu bersinggungan dengan hak tanah yang diwariskan secara lisan. Karet dan batu bara datang dan pergi, tetapi sungai tetap menjadi tempat orang membangun rumah.
+Di hulu, keputusan tentang tambang dan kebun selalu bersinggungan dengan hak tanah yang diwariskan secara lisan. Sengketa sering diselesaikan lewat musyawarah kampung sebelum dibawa ke pengadilan. Karet dan batu bara datang dan pergi, tetapi sungai tetap menjadi tempat orang membangun rumah.
 
 > Sultan Thaha wafat di Muara Tebo, tetapi perlawanan yang ia mulai hidup dalam nama jalan dan sekolah.
 

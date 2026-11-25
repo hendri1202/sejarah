@@ -51,13 +51,13 @@ Pemekaran membawa layanan baru, tetapi juga persoalan lama. Batas dengan Subulus
 
 ## Gempa
 
-Pantai barat Sumatra adalah zona gempa. Pada 28 Maret 2005, gempa Nias mengguncang Singkil dan merusak rumah serta fasilitas umum. Enam tahun kemudian, pada 6 September 2011, gempa berkekuatan 6,7 berpusat 59 kilometer timur laut Singkil. Dua orang tewas, dan ratusan rumah retak di Subulussalam dan Aceh Singkil.
+Pantai barat Sumatra adalah zona gempa. Pada 26 Desember 2004, tsunami menghantam pesisir Singkil. Gelombangnya tidak setinggi di Aceh Jaya, tetapi cukup untuk merusak rumah di tepi pantai dan menenggelamkan perahu. Penduduk mengungsi ke tempat tinggi, dan bantuan datang lewat jalan darat dari Medan setelah beberapa hari.
 
-Gempa 2011 tidak memicu tsunami besar, tetapi menunjukkan kerentanan bangunan. Sekolah dan rumah penduduk banyak yang dibangun tanpa tulang beton. Pemerintah daerah kemudian memasukkan materi kesiapsiagaan dalam pelajaran sekolah, meskipun latihan evakuasi belum rutin.
+Pada 28 Maret 2005, gempa Nias mengguncang lagi dan merusak rumah serta fasilitas umum. Kepulauan Banyak memiliki pengalaman berbeda: pulau-pulau kecil di sana lebih dekat ke episentrum, dan sebagian penduduknya mengungsi ke pulau yang lebih tinggi. Tradisi lisan tentang gempa dan surutnya air laut tidak sekuat smong di Simeulue, sehingga kerusakan di kepulauan itu lebih besar daripada di daratan Singkil.
 
-Tsunami 2004 juga menghantam pesisir Singkil. Gelombangnya tidak setinggi di Aceh Jaya, tetapi cukup untuk merusak rumah di tepi pantai dan menenggelamkan perahu. Penduduk mengungsi ke tempat tinggi, dan bantuan datang lewat jalan darat dari Medan setelah beberapa hari.
+Pada 6 September 2011, gempa berkekuatan 6,7 berpusat 59 kilometer timur laut Singkil. Dua orang tewas, dan ratusan rumah retak di Subulussalam dan Aceh Singkil. Gempa itu tidak memicu tsunami besar, tetapi menunjukkan kerentanan bangunan.
 
-Kepulauan Banyak memiliki pengalaman berbeda. Pulau-pulau kecil di sana lebih dekat ke episentrum gempa 2005, dan sebagian penduduknya sempat mengungsi ke pulau yang lebih tinggi. Tradisi lisan tentang gempa dan surutnya air laut tidak sekuat smong di Simeulue, sehingga korban dan kerusakan lebih besar.
+Sekolah dan rumah penduduk banyak yang dibangun tanpa tulang beton. Pemerintah daerah kemudian memasukkan materi kesiapsiagaan dalam pelajaran sekolah, meskipun latihan evakuasi belum rutin.
 
 Hari ini Singkil adalah kota pelabuhan yang sibuk pada pagi hari. Kapal dari Pulau Banyak membongkar ikan, sementara truk membawa kelapa dan karet ke Medan. Sejarah panjang pelabuhan itu tidak terlihat di jalan utama, tetapi nama Chinqueele masih tersimpan dalam catatan pelayaran Eropa.
 

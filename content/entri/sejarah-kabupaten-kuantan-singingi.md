@@ -21,7 +21,7 @@ Kabupaten Kuantan Singingi dibentuk pada 4 Oktober 1999 melalui Undang-Undang No
 
 Rantau Kuantan adalah jalur permukiman di sepanjang Batang Kuantan, dari hulu di Sumatera Barat hingga hilir di Riau. Sebelum kerajaan berdiri, wilayah ini berada di bawah pengaruh Pagaruyung. Yang Dipertuan Pagaruyung mengangkat lima urang godang, yang dikenal sebagai Datuak Nan Balimo, untuk mengatur negeri.
 
-Kelima pembesar itu berkedudukan di Lubuk Ambacang, Lubuk Jambi, Taluk, Inuman, dan Cerenti. Mereka menghubungkan rakyat dengan pusat di Pagaruyung dan menarik pajak setiap tiga tahun. Kekuasaan Pagaruyung berhenti di Cerenti; di hilirnya, pengaruh Indragiri lebih kuat.
+Kursi Datuak Nan Balimo tersebar di lima tempat: Cerenti, Inuman, Taluk, Lubuk Jambi, dan Lubuk Ambacang. Mereka menghubungkan rakyat dengan pusat di Pagaruyung dan menarik pajak setiap tiga tahun. Kekuasaan Pagaruyung berhenti di Cerenti; di hilirnya, pengaruh Indragiri lebih kuat.
 
 Penduduk hidup dari sawah, karet, dan menangkap ikan di sungai. Kabupaten ini berbatasan dengan Sumatera Barat di barat dan Jambi di selatan, sehingga perdagangan lintas provinsi berlangsung lama sebelum ada jalan aspal. Batang Kuantan berhulu di Sumatera Barat dan bermuara di Indragiri. Rumah-rumah berdiri di tepi air, menghadap jalan yang juga menjadi dermaga. Sungai menjadi jalan raya sebelum ada jalan darat, dan hingga kini menjadi pusat kehidupan sosial. Sejak 1990-an, sawit masuk ke kecamatan-kecamatan di hilir; kebun karet ditebang dan diganti sawit karena harga tandan buah segar lebih stabil. Perubahan itu menambah pendapatan, tetapi mengurangi keragaman tanaman.
 
@@ -29,15 +29,15 @@ Penduduk hidup dari sawah, karet, dan menangkap ikan di sungai. Kabupaten ini be
 
 Setelah Perang Padri, bangsawan Pagaruyung yang mengungsi ke Kuantan membentuk kerajaan baru. Yang Dipertuan Sembahyang, yang sebelumnya menjadi Raja Adat di Buo, didaulat menjadi raja dengan gelar Yang Dipertuan di Baserah. Datuak Nan Balimo menyetujui pengangkatan itu.
 
-Pada 1876, takhta dipegang Raja Abdullah bergelar Yamtuan Putih. Penobatannya ditentang ninik mamak di Kuantan bagian barat. Ia wafat pada 1901 dan digantikan adiknya, Raja Hasan. Masa Raja Hasan ditandai perselisihan dengan Raja Begap, yang menguasai Cerenti dan Inuman.
+Tahun 1876 Raja Abdullah naik takhta dengan gelar Yamtuan Putih. Ninik mamak di Kuantan barat menolak penobatan itu. Ia wafat pada 1901 dan digantikan adiknya, Raja Hasan. Masa Raja Hasan ditandai perselisihan dengan Raja Begap, yang menguasai Cerenti dan Inuman.
 
 Perselisihan itu melemahkan pengaruh Baserah atas seluruh rantau. Ketika Belanda datang, tidak ada kekuatan tunggal yang mampu mengorganisasi perlawanan di semua negeri.
 
 ## Perang Manggis
 
-Pada 1904, Belanda sedang menumpas Sultan Thaha di Jambi. Mereka menemukan aliran senjata dan buruh dari Kuantan. Pada 1905, pasukan Hindia Belanda menyerang dari dua arah: Indragiri dan pantai barat Sumatra.
+Pada 1904, Belanda sedang menumpas Sultan Thaha di Jambi. Mereka menemukan aliran senjata dan buruh dari Kuantan. Serangan Hindia Belanda datang pada 1905 lewat dua jalur, dari Indragiri dan dari pantai barat.
 
-Dari Indragiri, perlawanan tipis. Raja Hasan dan Ungku Sutan menyerah setelah Belanda masuk ke kediaman mereka. Perlawanan terkeras datang dari arah Sumatra Barat, dari pejuang Lubuk Jambi, Kari, Jake, dan Taluk. Mereka bertempur di Manggis dan Tanjung Bonai.
+Dari Indragiri, perlawanan tipis. Dua tokoh terakhir, Ungku Sutan dan Raja Hasan, menyerah setelah pasukan Belanda mendatangi kediaman mereka. Perlawanan terkeras datang dari arah Sumatra Barat, dari pejuang Lubuk Jambi, Kari, Jake, dan Taluk. Mereka bertempur di Manggis dan Tanjung Bonai.
 
 Perang Manggis berakhir dengan jatuhnya Taluk Kuantan pada 11 Oktober 1905. Sepuluh hari kemudian, perjanjian ditandatangani. Belanda membagi Kuantan menjadi lima zelfbestuur dan menempatkan kontrolir di Baserah. Kekuasaan raja menjadi simbol, bukan pemerintahan.
 
