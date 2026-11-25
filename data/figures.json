@@ -1,5 +1,11 @@
 [
  {
+  "name": "Abdoel Moeis",
+  "life": "1883–1959",
+  "role": "Wartawan Sarekat Islam yang menulis novel Salah Asuhan dan menjadi anggota Volksraad",
+  "chapter": 17
+ },
+ {
   "name": "Abdul Haris Nasution",
   "life": "1918–2000",
   "role": "Jenderal yang merumuskan dwifungsi ABRI dan lolos dari penculikan pada 1965",
@@ -78,6 +84,12 @@
   "chapter": 2
  },
  {
+  "name": "Arung Palakka",
+  "life": "1634–1696",
+  "role": "Bangsawan Bugis Bone yang bersekutu dengan VOC dan menumbangkan Gowa pada 1669",
+  "chapter": 14
+ },
+ {
   "name": "Aswawarman",
   "life": "aktif abad ke-4",
   "role": "Raja Kutai anak Kudungga yang disebut wangsakerta dan menerima pengaruh Hindu",
@@ -102,6 +114,12 @@
   "chapter": 8
  },
  {
+  "name": "Boechari",
+  "life": "1923–1992",
+  "role": "Epigraf yang meneliti prasasti Sriwijaya dan menjadi guru besar arkeologi Universitas Indonesia",
+  "chapter": 25
+ },
+ {
   "name": "Bung Tomo",
   "life": "1920–1981",
   "role": "Membangkitkan perlawanan Surabaya lewat siaran radio pada November 1945",
@@ -112,6 +130,12 @@
   "life": "1900–1979",
   "role": "Astronom yang membuktikan bahwa bintang sebagian besar tersusun dari hidrogen dan helium",
   "chapter": 1
+ },
+ {
+  "name": "Chairil Anwar",
+  "life": "1922–1949",
+  "role": "Penyair angkatan 45 yang menulis Aku dan mengubah bunyi puisi Indonesia",
+  "chapter": 23
  },
  {
   "name": "Charles Walcott",
@@ -129,6 +153,12 @@
   "name": "Christiaan Snouck Hurgronje",
   "life": "1857–1936",
   "role": "Orientalis Belanda yang menasihati strategi memisahkan ulama dari bangsawan Aceh",
+  "chapter": 16
+ },
+ {
+  "name": "Christina Martha Tiahahu",
+  "life": "1800–1818",
+  "role": "Perempuan Saparua yang ikut berperang bersama Pattimura dan meninggal dalam tahanan",
   "chapter": 16
  },
  {
@@ -166,6 +196,12 @@
   "life": "1879–1950",
   "role": "Pendiri Indische Partij yang menuntut kemerdekaan Hindia secara terbuka",
   "chapter": 17
+ },
+ {
+  "name": "Demang Lehman",
+  "life": "1832–1864",
+  "role": "Panglima Banjar yang meneruskan perang gerilya melawan Belanda setelah Pangeran Antasari",
+  "chapter": 16
  },
  {
   "name": "Dewi Sartika",
@@ -210,10 +246,22 @@
   "chapter": 6
  },
  {
+  "name": "F.D.K. Bosch",
+  "life": "1888–1967",
+  "role": "Arkeolog Belanda yang menafsirkan relief candi dan menjadi kepala dinas purbakala",
+  "chapter": 17
+ },
+ {
   "name": "Fatmawati",
   "life": "1923–1980",
   "role": "Menjahit bendera Merah Putih yang dikibarkan pada 17 Agustus 1945",
   "chapter": 22
+ },
+ {
+  "name": "Frans Kaisiepo",
+  "life": "1921–1979",
+  "role": "Tokoh Biak yang mengusulkan nama Irian pada 1946 dan kemudian menjadi gubernur Papua pertama",
+  "chapter": 24
  },
  {
   "name": "Fred Hoyle",
@@ -246,6 +294,12 @@
   "chapter": 1
  },
  {
+  "name": "Hamka",
+  "life": "1908–1981",
+  "role": "Ulama dan novelis Minangkabau yang menulis Tenggelamnya Kapal van der Wijck",
+  "chapter": 18
+ },
+ {
   "name": "Harry Whittington",
   "life": "1916–2010",
   "role": "Paleontolog Cambridge yang memimpin kajian ulang fauna Burgess Shale pada 1970-an",
@@ -256,6 +310,12 @@
   "life": "1958–",
   "role": "Arkeolog Indonesia yang meneliti kronologi Homo erectus Sangiran dan stratigrafi situs Jawa",
   "chapter": 9
+ },
+ {
+  "name": "Hasan Muarif Ambary",
+  "life": "1939–2001",
+  "role": "Arkeolog Islam yang meneliti nisan dan makam kuna serta situs kota pelabuhan",
+  "chapter": 25
  },
  {
   "name": "Hayam Wuruk",
@@ -280,6 +340,12 @@
   "life": "1868–1921",
   "role": "Astronom Harvard yang menemukan hubungan periode-luminositas pada bintang variabel Cepheid",
   "chapter": 1
+ },
+ {
+  "name": "Herawati Diah",
+  "life": "1917–2016",
+  "role": "Wartawan perempuan yang bekerja di kantor berita Antara dan menerbitkan Indonesian Observer",
+  "chapter": 24
  },
  {
   "name": "Herman Willem Daendels",
@@ -328,6 +394,12 @@
   "life": "1851–1924",
   "role": "Memimpin operasi militer yang menaklukkan Aceh pada awal abad ke-20",
   "chapter": 16
+ },
+ {
+  "name": "J.G. de Casparis",
+  "life": "1916–2002",
+  "role": "Epigraf Belanda yang membaca prasasti Sailendra dan menyusun sejarah Sriwijaya",
+  "chapter": 24
  },
  {
   "name": "James Croll",
@@ -384,6 +456,12 @@
   "chapter": 8
  },
  {
+  "name": "Karaeng Pattingalloang",
+  "life": "1600–1654",
+  "role": "Patih Gowa yang menguasai bahasa Eropa dan mengumpulkan buku serta alat ilmu pengetahuan",
+  "chapter": 14
+ },
+ {
   "name": "Karel Doorman",
   "life": "1889–1942",
   "role": "Laksamana Belanda yang gugur dalam Pertempuran Laut Jawa melawan Jepang",
@@ -418,6 +496,12 @@
   "life": "memerintah 1268–1292",
   "role": "Raja Singhasari terakhir yang mengirim ekspedisi ke luar Jawa",
   "chapter": 13
+ },
+ {
+  "name": "Khofifah Indar Parawansa",
+  "life": "1965–",
+  "role": "Aktivis Muslimat NU yang menjadi menteri pemberdayaan perempuan dan gubernur Jawa Timur",
+  "chapter": 26
  },
  {
   "name": "Ki Hajar Dewantara",
@@ -468,10 +552,22 @@
   "chapter": 3
  },
  {
+  "name": "Machmud Singgirei Rumagesan",
+  "life": "1885–1964",
+  "role": "Raja Sekar di Fakfak yang menolak pemerintahan Belanda dan dipenjara bertahun-tahun",
+  "chapter": 24
+ },
+ {
   "name": "Malahayati",
   "life": "sekitar 1550–1615",
   "role": "Laksamana perempuan Aceh yang memimpin armada di Selat Malaka",
   "chapter": 14
+ },
+ {
+  "name": "Marco Kartodikromo",
+  "life": "1890–1932",
+  "role": "Wartawan dan penulis bumiputra yang menulis Sjair Rempah-Rempah dan berulang kali dipenjara",
+  "chapter": 17
  },
  {
   "name": "Maria Ulfah Santoso",
@@ -490,6 +586,12 @@
   "life": "1920–2006",
   "role": "Oseanografer Amerika yang memetakan dasar samudra dan menemukan punggungan tengah Atlantik",
   "chapter": 2
+ },
+ {
+  "name": "Marthen Indey",
+  "life": "1912–1986",
+  "role": "Perwira polisi Papua yang membelot ke Republik dan membantu penyusunan pemerintahan di Irian",
+  "chapter": 24
  },
  {
   "name": "Mary Anning",
@@ -546,10 +648,22 @@
   "chapter": 6
  },
  {
+  "name": "Mochtar Lubis",
+  "life": "1922–2004",
+  "role": "Wartawan yang mendirikan Indonesia Raya dan menulis novel Harimau! Harimau!",
+  "chapter": 24
+ },
+ {
   "name": "Mohammad Hatta",
   "life": "1902–1980",
   "role": "Wakil presiden pertama yang menandatangani teks proklamasi",
   "chapter": 22
+ },
+ {
+  "name": "Mohammad Tabrani",
+  "life": "1904–1984",
+  "role": "Wartawan yang mencetuskan istilah bahasa Indonesia dalam Kongres Pemuda 1926",
+  "chapter": 17
  },
  {
   "name": "Mohammad Yamin",
@@ -582,6 +696,24 @@
   "chapter": 24
  },
  {
+  "name": "Nugroho Notosusanto",
+  "life": "1931–1985",
+  "role": "Sejarawan militer yang menyusun sejarah nasional Indonesia dan menjadi menteri pendidikan",
+  "chapter": 25
+ },
+ {
+  "name": "Nyai Ahmad Dahlan",
+  "life": "1872–1946",
+  "role": "Istri Kiai Ahmad Dahlan yang memimpin Aisyiyah dan membuka sekolah perempuan di Yogyakarta",
+  "chapter": 18
+ },
+ {
+  "name": "Opu Daeng Risaju",
+  "life": "1880–1964",
+  "role": "Perempuan Luwu yang memimpin Sarekat Islam dan dipenjara karena menentang raja serta Belanda",
+  "chapter": 17
+ },
+ {
   "name": "Pangeran Antasari",
   "life": "1809–1862",
   "role": "Pemimpin Perang Banjar yang menolak penyerahan wilayah Kesultanan Banjar kepada Belanda",
@@ -606,10 +738,22 @@
   "chapter": 26
  },
  {
+  "name": "Pramoedya Ananta Toer",
+  "life": "1925–2006",
+  "role": "Novelis yang menulis Tetralogi Buru dari balik penjara Pulau Buru",
+  "chapter": 24
+ },
+ {
   "name": "Purnawarman",
   "life": "372–434",
   "role": "Raja Tarumanagara yang menggali Sungai Gomati sepanjang 12 km",
   "chapter": 12
+ },
+ {
+  "name": "R. Soekmono",
+  "life": "1922–1997",
+  "role": "Arkeolog yang memimpin pemugaran Borobudur 1973–1983 dan menulis pengantar sejarah kebudayaan",
+  "chapter": 25
  },
  {
   "name": "Raden Pandji Soejono",
@@ -702,6 +846,12 @@
   "chapter": 18
  },
  {
+  "name": "Sartono Kartodirdjo",
+  "life": "1921–2007",
+  "role": "Sejarawan yang menulis disertasi tentang pemberontakan petani Banten 1888",
+  "chapter": 25
+ },
+ {
   "name": "Sayuti Melik",
   "life": "1908–1989",
   "role": "Mengetik naskah proklamasi atas permintaan Soekarno",
@@ -718,6 +868,12 @@
   "life": "1922–1978",
   "role": "Perwira PETA yang memimpin perlawanan bersenjata di Blitar pada Februari 1945",
   "chapter": 21
+ },
+ {
+  "name": "Silas Papare",
+  "life": "1918–1978",
+  "role": "Mantan perawat yang mendirikan Partai Kemerdekaan Indonesia Irian dan berjuang lewat diplomasi",
+  "chapter": 24
  },
  {
   "name": "Simon Conway Morris",
@@ -742,6 +898,12 @@
   "life": "1923–1996",
   "role": "Ibu negara yang memprakarsai pembangunan Taman Mini Indonesia Indah pada 1975",
   "chapter": 25
+ },
+ {
+  "name": "Siti Manggopoh",
+  "life": "1880–1965",
+  "role": "Perempuan Minangkabau yang memimpin perlawanan rakyat menolak pajak kolonial di Agam, 1908",
+  "chapter": 16
  },
  {
   "name": "Sjafruddin Prawiranegara",
@@ -786,6 +948,12 @@
   "chapter": 7
  },
  {
+  "name": "Sri Mulyani Indrawati",
+  "life": "1966–",
+  "role": "Ekonom yang menjadi menteri keuangan pada 2005–2010 dan sejak 2016, dikenal lewat reformasi pajak",
+  "chapter": 26
+ },
+ {
   "name": "Stanley Miller",
   "life": "1930–2007",
   "role": "Kimiawan yang pada 1953 mensintesis asam amino dari gas purba dalam percobaan laboratorium",
@@ -816,9 +984,27 @@
   "chapter": 22
  },
  {
+  "name": "Sultan Adam",
+  "life": "1788–1857",
+  "role": "Sultan Banjar 1825–1857 yang kontraknya dengan Belanda membuka jalan campur tangan di Kalimantan",
+  "chapter": 16
+ },
+ {
   "name": "Sultan Agung",
   "life": "1593–1645",
   "role": "Raja Mataram yang dua kali mengepung Batavia pada 1628 dan 1629",
+  "chapter": 14
+ },
+ {
+  "name": "Sultan Aji Muhammad Idris",
+  "life": "?–1739",
+  "role": "Sultan Kutai Kartanegara yang memimpin perlawanan terhadap pengaruh VOC pada 1730-an",
+  "chapter": 14
+ },
+ {
+  "name": "Sultan Baabullah",
+  "life": "1528–1583",
+  "role": "Sultan Ternate yang mengepung benteng Portugis dan mengusir mereka dari Maluku pada 1575",
   "chapter": 14
  },
  {
@@ -828,10 +1014,28 @@
   "chapter": 23
  },
  {
+  "name": "Sultan Hasanuddin",
+  "life": "1631–1670",
+  "role": "Sultan Gowa yang menolak monopoli VOC dan bertahan dalam Perang Makassar 1666–1669",
+  "chapter": 14
+ },
+ {
   "name": "Sultan Muhammad Daud Syah",
   "life": "1864–1936",
   "role": "Sultan Aceh terakhir yang meneruskan perlawanan sampai akhirnya dibuang ke Batavia",
   "chapter": 16
+ },
+ {
+  "name": "Sultan Nuku",
+  "life": "1738–1805",
+  "role": "Sultan Tidore yang memimpin perang dua dekade untuk merebut kembali kepulauan dari Belanda",
+  "chapter": 16
+ },
+ {
+  "name": "Sultan Tajul Alam Safiatuddin",
+  "life": "1612–1675",
+  "role": "Sultanah Aceh yang memerintah 1641–1675 dan mempertahankan perdagangan lada di pantai barat",
+  "chapter": 14
  },
  {
   "name": "Supriyadi",
@@ -849,6 +1053,12 @@
   "name": "Sutan Sjahrir",
   "life": "1909–1966",
   "role": "Perdana menteri pertama yang merundingkan kedaulatan lewat diplomasi",
+  "chapter": 19
+ },
+ {
+  "name": "Sutan Takdir Alisjahbana",
+  "life": "1908–1994",
+  "role": "Pendiri Pujangga Baru yang menulis Layar Terkembang dan berdebat soal kebudayaan",
   "chapter": 19
  },
  {
@@ -870,6 +1080,12 @@
   "chapter": 24
  },
  {
+  "name": "Taufik Abdullah",
+  "life": "1936–",
+  "role": "Sejarawan sosial yang meneliti Minangkabau dan pernah memimpin Lembaga Ilmu Pengetahuan Indonesia",
+  "chapter": 26
+ },
+ {
   "name": "Teuku Jacob",
   "life": "1929–2007",
   "role": "Paleoantropolog UGM yang menolak tafsir Homo floresiensis sebagai spesies baru",
@@ -879,6 +1095,12 @@
   "name": "Teuku Umar",
   "life": "1854–1899",
   "role": "Panglima Aceh yang berpura-pura bekerja sama lalu berbalik melawan Belanda",
+  "chapter": 16
+ },
+ {
+  "name": "Thomas Matulessy",
+  "life": "1783–1817",
+  "role": "Kapitan asal Saparua yang memimpin perlawanan Maluku 1817 dan dihukum mati Belanda",
   "chapter": 16
  },
  {
@@ -894,10 +1116,22 @@
   "chapter": 7
  },
  {
+  "name": "Tirto Adhi Soerjo",
+  "life": "1880–1918",
+  "role": "Wartawan yang menerbitkan Medan Prijaji dan diakui sebagai perintis pers nasional",
+  "chapter": 17
+ },
+ {
   "name": "Tjarda van Starkenborgh Stachouwer",
   "life": "1888–1978",
   "role": "Gubernur jenderal terakhir Hindia Belanda yang menandatangani kapitulasi 1942",
   "chapter": 20
+ },
+ {
+  "name": "Tjipto Mangoenkoesoemo",
+  "life": "1886–1943",
+  "role": "Dokter dan pendiri Indische Partij yang dibuang ke Banda bersama dua rekannya",
+  "chapter": 17
  },
  {
   "name": "Tjokroaminoto",
@@ -928,6 +1162,12 @@
   "life": "1928–2016",
   "role": "Mengukur rotasi galaksi yang menjadi bukti keberadaan materi gelap",
   "chapter": 1
+ },
+ {
+  "name": "W.S. Rendra",
+  "life": "1935–2009",
+  "role": "Penyair dan pemimpin teater yang membacakan puisi protes di era Orde Baru",
+  "chapter": 26
  },
  {
   "name": "Wahidin Soedirohoesodo",

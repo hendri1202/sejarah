@@ -20,6 +20,10 @@
   "def": "Perkakas batu sederhana yang dibuat dengan memecah bongkahan untuk mengambil kepingan tajam, ciri industri Paleolitik awal."
  },
  {
+  "term": "Amandemen terbatas",
+  "def": "Gagasan mengubah hanya pasal tertentu UUD 1945 tanpa mengganti keseluruhan naskah; diperdebatkan di MPR pada 1999–2002 lalu ditolak."
+ },
+ {
   "term": "Amandemen UUD 1945",
   "def": "Perubahan bertahap konstitusi pada 1999–2002 yang membatasi masa jabatan presiden serta memperkuat hak asasi dan lembaga negara."
  },
@@ -28,12 +32,24 @@
   "def": "Getah pohon purba yang membatu dan kadang memerangkap serangga atau jaringan tumbuhan utuh, sumber informasi ekosistem masa lalu."
  },
  {
+  "term": "APBN",
+  "def": "Anggaran Pendapatan dan Belanja Negara: rencana keuangan tahunan pemerintah yang disahkan DPR, memuat target pendapatan pajak dan belanja kementerian."
+ },
+ {
   "term": "Arkeologi bawah air",
   "def": "Cabang arkeologi yang meneliti kapal karam, pelabuhan purba, dan temuan terendam dengan alat selam serta pencatatan khusus."
  },
  {
+  "term": "Arsip",
+  "def": "Kumpulan dokumen yang tercipta dalam kegiatan lembaga atau perorangan, disimpan menurut aturan tertentu sebagai bukti dan bahan penelitian."
+ },
+ {
   "term": "Artefak",
   "def": "Benda buatan manusia yang ditemukan dalam penggalian arkeologi, seperti perkakas batu, tembikar, atau logam; menjadi bukti utama aktivitas masa lalu."
+ },
+ {
+  "term": "Asas legalitas",
+  "def": "Prinsip bahwa seseorang tidak dapat dipidana kecuali perbuatannya sudah diatur sebagai tindak pidana oleh undang-undang sebelum dilakukan."
  },
  {
   "term": "Asia Timur Raya",
@@ -50,6 +66,18 @@
  {
   "term": "Awan molekul",
   "def": "Gumpalan gas dan debu antarbintang yang sangat dingin dan padat, tempat hidrogen berkumpul hingga runtuh dan memicu pembentukan bintang baru."
+ },
+ {
+  "term": "Babad",
+  "def": "Kronik berbahasa Jawa yang mencampur sejarah dan legenda, disusun untuk melegitimasi raja; misalnya Babad Tanah Jawi dari abad ke-18."
+ },
+ {
+  "term": "Bantuan Likuiditas Bank Indonesia",
+  "def": "Pinjaman darurat bank sentral kepada bank bermasalah saat krisis 1997–1998, bernilai ratusan triliun rupiah dan menjadi skandal berkepanjangan."
+ },
+ {
+  "term": "Batalyon",
+  "def": "Satuan tentara yang dipimpin seorang letnan kolonel dan terdiri atas beberapa kompi; dalam TNI AD berkekuatan sekitar 600–900 orang."
  },
  {
   "term": "Batuan beku",
@@ -80,6 +108,10 @@
   "def": "Badan Penyelidik Usaha-usaha Persiapan Kemerdekaan Indonesia, dibentuk Jepang pada Maret 1945 dengan 62 anggota untuk merumuskan dasar negara."
  },
  {
+  "term": "Brigade",
+  "def": "Satuan taktis yang menggabungkan beberapa batalyon dengan unsur pendukung, dipimpin perwira berpangkat kolonel atau brigadir jenderal."
+ },
+ {
   "term": "Candi",
   "def": "Bangunan pemujaan dari batu atau bata, umumnya berlatar Hindu-Buddha, seperti Borobudur dan Prambanan; istilah ini dipakai luas di Jawa dan Sumatra."
  },
@@ -100,6 +132,18 @@
   "def": "Sistem tanam paksa (1830-1870) yang mewajibkan petani menanam komoditas ekspor untuk pemerintah kolonial di atas seperlima tanah mereka."
  },
  {
+  "term": "Daluwarsa",
+  "def": "Lewatnya jangka waktu tertentu sehingga hak menuntut atau kewenangan menjalankan pidana gugur; lamanya berbeda menurut jenis perkara."
+ },
+ {
+  "term": "Darurat militer",
+  "def": "Status hukum ketika kewenangan sipil dialihkan kepada penguasa militer, membatasi kebebasan dan menggelar pengadilan militer; berlaku di Aceh 2003–2004."
+ },
+ {
+  "term": "Deflasi",
+  "def": "Penurunan harga barang dan jasa secara umum; dapat menandakan permintaan yang lemah, tetapi juga muncul setelah panen raya ketika pasokan melimpah."
+ },
+ {
   "term": "Dekrit Presiden 1959",
   "def": "Pengumuman Soekarno pada 5 Juli 1959 yang membubarkan Konstituante, mengembalikan berlakunya UUD 1945, dan membuka jalan Demokrasi Terpimpin."
  },
@@ -108,8 +152,20 @@
   "def": "Sistem pemerintahan Soekarno sejak 1959 yang memusatkan kekuasaan presiden dan menempatkan Nasakom sebagai landasan politik."
  },
  {
+  "term": "Deregulasi",
+  "def": "Penghapusan atau pengurangan aturan yang dianggap menghambat usaha; paket deregulasi 1980-an membuka sektor keuangan dan ekspor nonmigas."
+ },
+ {
   "term": "Deret utama",
   "def": "Tahap terpanjang dalam hidup sebuah bintang ketika ia membakar hidrogen menjadi helium di intinya dan berada dalam keseimbangan gravitasi."
+ },
+ {
+  "term": "Desentralisasi fiskal",
+  "def": "Pembagian kewenangan keuangan antara pusat dan daerah, termasuk dana perimbangan serta bagi hasil, yang dijalankan sejak 2001."
+ },
+ {
+  "term": "Devaluasi",
+  "def": "Penurunan resmi nilai mata uang terhadap mata uang asing oleh pemerintah; Indonesia melakukannya pada 1978 dan 1983 untuk memperbaiki neraca pembayaran."
  },
  {
   "term": "Devide et impera",
@@ -160,12 +216,20 @@
   "def": "Pohon hubungan kekerabatan antarspesies berdasarkan kesamaan ciri atau DNA, menunjukkan urutan percabangan garis evolusi."
  },
  {
+  "term": "Filologi",
+  "def": "Ilmu yang mempelajari naskah lama: membaca tulisan, membandingkan versi, dan menyusun edisi teks yang paling mendekati bentuk aslinya."
+ },
+ {
   "term": "Fosil",
   "def": "Sisa atau jejak makhluk hidup yang terawetkan dalam batuan, resin, atau sedimen; umumnya berumur lebih dari 10.000 tahun."
  },
  {
   "term": "GAPI",
   "def": "Gabungan Politik Indonesia yang dibentuk 1939 oleh partai-partai nasionalis untuk menuntut parlemen dan pemerintah yang bertanggung jawab."
+ },
+ {
+  "term": "Grasi",
+  "def": "Pengampunan atau pengurangan hukuman oleh presiden kepada terpidana; diatur undang-undang dan tidak menghapus putusan pengadilan."
  },
  {
   "term": "Gubernur jenderal",
@@ -178,6 +242,14 @@
  {
   "term": "Heiho",
   "def": "Prajurit bantuan pribumi yang dilatih Jepang dan ditempatkan dalam kesatuan tentara Jepang, berbeda dari organisasi PETA."
+ },
+ {
+  "term": "Hikayat",
+  "def": "Karya prosa Melayu klasik berisi kisah raja, nabi, atau kepahlawanan; banyak disalin di Aceh dan Melaka sejak abad ke-16."
+ },
+ {
+  "term": "Holding BUMN",
+  "def": "Perusahaan induk milik negara yang menaungi beberapa anak perusahaan sejenis; dibentuk untuk menyatukan modal dan tata kelola, seperti holding tambang 2017."
  },
  {
   "term": "Hominin",
@@ -200,8 +272,20 @@
   "def": "Hubungan linier antara jarak galaksi dan kecepatan menjauhnya, bukti bahwa alam semesta mengembang sejak peristiwa Big Bang."
  },
  {
+  "term": "Hukuman mati",
+  "def": "Pidana terberat yang masih berlaku bagi sejumlah kejahatan; Indonesia mengeksekusinya secara sporadis dan menuai kritik internasional."
+ },
+ {
+  "term": "Iluminasi naskah",
+  "def": "Hiasan gambar, warna, dan tata letak pada halaman naskah, terutama mushaf dan kitab kerajaan, yang sekaligus menandai status pemiliknya."
+ },
+ {
   "term": "Imperialisme",
   "def": "Kebijakan memperluas kekuasaan suatu negara atas wilayah dan bangsa lain, baik lewat penaklukan, tekanan ekonomi, maupun pemerintahan tidak langsung."
+ },
+ {
+  "term": "Inflasi",
+  "def": "Kenaikan harga barang dan jasa secara umum dan terus-menerus yang menggerus daya beli; diukur lewat indeks harga konsumen dan menjadi masalah akut pada 1965–1966."
  },
  {
   "term": "Iridium",
@@ -260,8 +344,28 @@
   "def": "Tentara Kerajaan Hindia Belanda yang dibentuk 1830 untuk menegakkan kekuasaan kolonial dan sebagian besar terdiri atas prajurit pribumi."
  },
  {
+  "term": "Kodam",
+  "def": "Komando Daerah Militer: wilayah pertahanan darat yang dipimpin panglima berpangkat mayor jenderal dan membawahi Korem serta Kodim."
+ },
+ {
+  "term": "Kodikologi",
+  "def": "Ilmu tentang bahan, bentuk, dan sejarah fisik naskah, meliputi kertas, jilidan, dan tanda air; berbeda dari filologi yang menekankan teks."
+ },
+ {
+  "term": "Kolofon",
+  "def": "Catatan penyalin di akhir naskah yang memuat nama, tempat, dan tanggal penyalinan; sering menjadi satu-satunya penanda waktu sebuah manuskrip."
+ },
+ {
   "term": "Kolonialisme",
   "def": "Penguasaan suatu wilayah oleh negara lain untuk kepentingan ekonomi dan politik, biasanya disertai penempatan pejabat dan pemukim."
+ },
+ {
+  "term": "Komando teritorial",
+  "def": "Jaringan kewilayahan TNI AD dari Kodam hingga Babinsa yang membina penduduk, mengumpulkan informasi, dan mendukung operasi militer."
+ },
+ {
+  "term": "Komisi Yudisial",
+  "def": "Lembaga pengawas hakim yang dibentuk 2005, berwenang mengusulkan calon hakim agung dan menangani laporan pelanggaran kode etik."
  },
  {
   "term": "Konferensi Inter-Indonesia",
@@ -304,6 +408,14 @@
   "def": "Wilayah ruang-waktu dengan gravitasi begitu kuat sehingga cahaya pun tidak dapat lepas, terbentuk dari runtuhan inti bintang yang sangat masif."
  },
  {
+  "term": "Macapat",
+  "def": "Puisi Jawa dengan aturan guru gatra, guru wilangan, dan guru lagu; dipakai untuk menulis babad, serat, dan suluk sejak abad ke-16."
+ },
+ {
+  "term": "Mahkamah Konstitusi",
+  "def": "Lembaga peradilan yang dibentuk 2003 untuk menguji undang-undang terhadap UUD, memutus sengketa pemilu, dan membubarkan partai politik."
+ },
+ {
   "term": "Mandala",
   "def": "Konsep kekuasaan Asia Tenggara berupa lingkaran pengaruh seorang raja atas penguasa kecil di sekitarnya, tanpa batas wilayah tegas."
  },
@@ -340,12 +452,24 @@
   "def": "Perubahan acak pada urutan DNA yang menjadi sumber variasi genetik; sebagian besar netral, sebagian merugikan, dan sedikit menguntungkan."
  },
  {
+  "term": "Nasionalisasi",
+  "def": "Pengambilalihan perusahaan asing menjadi milik negara, seperti yang dilakukan Indonesia atas perusahaan-perusahaan Belanda pada 1957–1958."
+ },
+ {
   "term": "Nekara",
   "def": "Genderang perunggu dari budaya Dong Son, dipakai dalam upacara dan lambang status; contoh terkenal ditemukan di Bali, Sumba, dan Alor."
  },
  {
   "term": "Neolitik",
   "def": "Zaman batu muda, ditandai pertanian, peternakan, tembikar, dan permukiman tetap; di Nusantara mulai sekitar 4.000 tahun lalu."
+ },
+ {
+  "term": "Neraca pembayaran",
+  "def": "Catatan sistematis seluruh transaksi ekonomi suatu negara dengan luar negeri dalam satu periode, mencakup perdagangan barang, jasa, dan aliran modal."
+ },
+ {
+  "term": "Nilai tukar mengambang",
+  "def": "Sistem kurs yang dibiarkan bergerak menurut pasar; Indonesia memakainya sejak Agustus 1997 ketika rentang intervensi dilepas."
  },
  {
   "term": "Nukleosintesis bintang",
@@ -360,6 +484,10 @@
   "def": "Surat hak istimewa dari pemerintah Belanda yang memberi VOC monopoli dagang dan wewenang berperang di wilayah Asia selama 21 tahun."
  },
  {
+  "term": "Operasi militer selain perang",
+  "def": "Tugas TNI di luar pertempuran, seperti menanggulangi bencana, memberantas pembajakan, dan membantu kepolisian; diatur dalam undang-undang."
+ },
+ {
   "term": "Orde Baru",
   "def": "Rezim pemerintahan Soeharto pada 1966–1998 yang menekankan stabilitas politik, pembangunan ekonomi, dan peran ganda militer."
  },
@@ -370,6 +498,10 @@
  {
   "term": "Otonomi khusus",
   "def": "Kewenangan istimewa suatu daerah mengatur urusannya sendiri, diberikan kepada Aceh, Papua, Jakarta, dan Yogyakarta dengan alasan berbeda."
+ },
+ {
+  "term": "Paleografi",
+  "def": "Ilmu membaca dan menanggali tulisan kuno berdasarkan bentuk huruf; dipakai menaksir umur prasasti dan naskah sebelum ada catatan tanggal."
  },
  {
   "term": "Paleolitik",
@@ -388,6 +520,14 @@
   "def": "Birokrasi pribumi di bawah pemerintahan kolonial, terdiri atas bupati dan wedana yang menjalankan administrasi namun diawasi pejabat Belanda."
  },
  {
+  "term": "Perang gerilya",
+  "def": "Strategi bertempur dengan menghindari pertempuran terbuka, bergerak di pedesaan, dan mengandalkan dukungan penduduk serta serangan mendadak."
+ },
+ {
+  "term": "Peraturan Daerah",
+  "def": "Aturan yang ditetapkan kepala daerah bersama DPRD untuk mengatur urusan rumah tangga daerah; dapat diuji ke pemerintah pusat dan Mahkamah Agung."
+ },
+ {
   "term": "Pergeseran merah",
   "def": "Pemanjangan panjang gelombang cahaya benda langit yang menjauh, dipakai mengukur jarak dan laju pengembangan alam semesta."
  },
@@ -398,6 +538,10 @@
  {
   "term": "Permineralisasi",
   "def": "Proses pengisian rongga tulang atau kayu oleh mineral yang terbawa air tanah sehingga bentuk aslinya terawetkan sebagai fosil, misalnya kayu membatu."
+ },
+ {
+  "term": "Pertahanan sipil",
+  "def": "Organisasi warga yang dilatih membantu pertahanan dan penanggulangan bencana, dikenal sebagai Hansip lalu berubah menjadi Linmas."
  },
  {
   "term": "Perundingan Linggarjati",
@@ -432,12 +576,24 @@
   "def": "Panitia Persiapan Kemerdekaan Indonesia, dibentuk 7 Agustus 1945; mengesahkan UUD 1945 dan memilih Soekarno-Hatta pada 18 Agustus."
  },
  {
+  "term": "Praperadilan",
+  "def": "Mekanisme di pengadilan negeri untuk menguji sah atau tidaknya penangkapan, penahanan, penggeledahan, dan penyitaan sebelum perkara pokok diperiksa."
+ },
+ {
   "term": "Prasasti",
   "def": "Batu atau logam bertulis yang memuat keputusan raja, sumbangan tanah, atau silsilah, dan menjadi sumber utama sejarah kerajaan awal."
  },
  {
   "term": "Priayi",
   "def": "Lapisan sosial elite Jawa dari kalangan bangsawan dan pejabat, dibedakan oleh gelar, bahasa halus, dan akses ke jabatan."
+ },
+ {
+  "term": "Privatisasi",
+  "def": "Penjualan atau pengalihan perusahaan milik negara kepada pihak swasta; di Indonesia berlangsung hati-hati dan kerap menuai protes pekerja."
+ },
+ {
+  "term": "Produk Domestik Bruto",
+  "def": "Nilai total barang dan jasa yang dihasilkan dalam wilayah suatu negara selama satu tahun; dipakai mengukur ukuran ekonomi dan laju pertumbuhannya."
  },
  {
   "term": "Proklamasi",
@@ -468,6 +624,10 @@
   "def": "Wilayah administrasi kolonial Hindia Belanda yang dipimpin seorang residen, membawahi beberapa kabupaten dan bertanggung jawab kepada gubernur jenderal."
  },
  {
+  "term": "Resimen",
+  "def": "Satuan yang menaungi beberapa batalyon atau kesatuan sejenis; dalam sejarah TNI sering menjadi wadah pembinaan teritorial dan pendidikan."
+ },
+ {
   "term": "RIS",
   "def": "Republik Indonesia Serikat (1949-1950), negara federal bentukan hasil KMB yang terdiri atas 16 negara bagian dan kemudian dibubarkan."
  },
@@ -496,6 +656,18 @@
   "def": "Pencacahan penduduk secara menyeluruh; di Hindia Belanda dilakukan pada 1905 dan 1930, menghasilkan data jumlah dan sebaran penduduk."
  },
  {
+  "term": "Serat",
+  "def": "Karya sastra Jawa berbentuk puisi tembang yang berisi ajaran, sejarah, atau kisah; contohnya Serat Centhini dan Serat Wedhatama."
+ },
+ {
+  "term": "Sinrilik",
+  "def": "Tradisi lisan Makassar berupa nyanyian kisah kepahlawanan dengan iringan gendang, dituturkan dalam bahasa Makassar di Sulawesi Selatan."
+ },
+ {
+  "term": "Sishankamrata",
+  "def": "Sistem pertahanan keamanan rakyat semesta, doktrin yang melibatkan seluruh warga dan sumber daya nasional dalam pertahanan negara."
+ },
+ {
   "term": "Skala waktu geologi",
   "def": "Sistem pembagian sejarah bumi menjadi eon, era, periode, dan kala berdasarkan perubahan lapisan batuan serta kehidupan, dari Hadean hingga Holosen."
  },
@@ -514,6 +686,14 @@
  {
   "term": "Subduksi",
   "def": "Proses satu lempeng bumi menunjam ke bawah lempeng lain di zona pertemuan, sumber gempa dalam, rangkaian gunung api, dan palung samudra."
+ },
+ {
+  "term": "Subsidi",
+  "def": "Bantuan pemerintah untuk menekan harga jual atau biaya produksi, misalnya bahan bakar dan pupuk, sehingga harga di pasar lebih rendah dari biaya sebenarnya."
+ },
+ {
+  "term": "Suluk",
+  "def": "Teks tasawuf berbentuk tembang atau prosa yang mengajarkan perjalanan rohani; populer di Jawa pada abad ke-18 dan ke-19."
  },
  {
   "term": "Sumpah Palapa",
@@ -548,6 +728,10 @@
   "def": "Wadah dari tanah liat dibakar; corak dan bentuknya dipakai arkeolog untuk menandai budaya dan periode, misalnya tembikar Buni."
  },
  {
+  "term": "Tenun ikat",
+  "def": "Teknik menenun dengan mengikat benang sebelum dicelup warna; corak dan motifnya menandai daerah asal, seperti Sumba dan Flores."
+ },
+ {
   "term": "Termoluminesensi",
   "def": "Teknik penanggalan butiran mineral dari cahaya yang dilepaskan saat dipanaskan, dipakai untuk tembikar dan lapisan tanah."
  },
@@ -560,8 +744,16 @@
   "def": "Rukun tetangga bentukan Jepang yang mengatur pembagian jatah, kerja bakti, dan pengawasan politik di tingkat kampung selama pendudukan."
  },
  {
+  "term": "Tradisi lisan",
+  "def": "Penyampaian cerita, sejarah, dan pengetahuan dari mulut ke mulut tanpa naskah; berbeda dari sejarah lisan yang direkam peneliti lewat wawancara."
+ },
+ {
   "term": "Tritura",
   "def": "Tiga tuntutan mahasiswa pada 1966, yaitu pembubaran PKI, pembersihan kabinet dari unsur komunis, dan penurunan harga kebutuhan pokok."
+ },
+ {
+  "term": "Uji materi",
+  "def": "Permohonan kepada Mahkamah Konstitusi untuk menilai apakah suatu undang-undang bertentangan dengan UUD 1945; putusannya final dan mengikat."
  },
  {
   "term": "Undang-Undang Agraria 1870",
@@ -584,8 +776,16 @@
   "def": "Kubur batu berbentuk rumah kecil dengan atap menyerupai piramida, khas tradisi megalitik Minahasa di Sulawesi Utara, dipakai untuk jenazah keluarga."
  },
  {
+  "term": "Wayang kulit",
+  "def": "Pertunjukan bayangan boneka kulit dengan dalang sebagai narator; lakonnya kerap memuat sindiran politik dan diakui UNESCO pada 2003."
+ },
+ {
   "term": "Yupa",
   "def": "Tiang batu bertulis aksara Pallawa berbahasa Sanskerta dari Kutai yang mencatat pemberian hadiah raja kepada kaum brahmana."
+ },
+ {
+  "term": "Yurisprudensi",
+  "def": "Putusan hakim terdahulu yang dijadikan rujukan bagi perkara serupa, meski di Indonesia tidak mengikat seperti preseden dalam sistem common law."
  },
  {
   "term": "Zaman batu",
