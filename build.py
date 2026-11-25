@@ -415,6 +415,7 @@ def masthead(current=""):
       <button class="tool" type="button" data-drawer-open aria-controls="daftar-isi">Isi</button>
       <a class="tool" href="arsip.html">Arsip</a>
       <a class="tool" href="tanya.html">Tanya</a>
+      <a class="tool" href="metode.html">Metode</a>
       <button class="tool" type="button" data-search-open>Cari <kbd>/</kbd></button>
       <button class="tool" type="button" data-theme-toggle aria-pressed="false">Malam</button>
     </div>
@@ -448,6 +449,7 @@ def drawer(chapters):
   {"".join(blocks)}
   <div class="drawer__part"><span class="micro">Rujukan</span><ol>
     <li><a href="tanya.html"><span class="n">→</span><span>Tanya Kronik</span></a></li>
+    <li><a href="metode.html"><span class="n">→</span><span>Sumber dan metode</span></a></li>
     <li><a href="arsip.html"><span class="n">→</span><span>Arsip artikel</span></a></li>
     <li><a href="kronologi.html"><span class="n">→</span><span>Kronologi lengkap</span></a></li>
     {fig_drawer}
@@ -1148,6 +1150,69 @@ def build_figures(figures, chapters):
                 body, url="tokoh.html", cls="page-figures")
 
 
+def build_method(entries, chapters):
+    by_id = {e["id"]: e for e in entries}
+
+    def link(eid):
+        e = by_id.get(eid)
+        if not e:
+            return ""
+        return f'<a href="artikel/{eid}.html">{esc(e["title"])}</a>'
+
+    body = f"""{masthead()}
+{drawer(chapters)}
+<main id="isi">
+<section class="wrap">
+  <header class="page-head">
+    <div class="chapter__kicker"><span class="micro">Rujukan</span><span class="micro">Cara kerja</span></div>
+    <h1>Sumber dan metode</h1>
+    <p>Tidak ada angka di situs ini yang muncul tanpa jejak. Halaman ini menjelaskan dari mana bahan
+    diambil, bagaimana angka yang diperdebatkan diperlakukan, dan bagian mana yang masih terbuka.</p>
+  </header>
+
+  <div class="prose prose--wide">
+    <h2>Tiga lapis sumber</h2>
+    <p>Lapis pertama adalah sumber sezaman: prasasti, naskah, arsip VOC, surat kabar, foto, dan laporan
+    pemerintah kolonial. Lapis kedua adalah kajian akademik yang mengolah sumber pertama — buku, jurnal,
+    disertasi. Lapis ketiga adalah tradisi lisan dan tulisan populer yang sering menjadi satu-satunya jejak
+    untuk peristiwa lokal. Ketiganya dipakai, tetapi tidak diperlakukan setara: entri menyebut mana yang
+    sedang dipakai, dan bila sebuah klaim hanya bersandar pada lapis ketiga, itu ditulis terang-terangan.</p>
+
+    <h2>Angka yang diperdebatkan</h2>
+    <p>Korban Pertempuran Lima Hari di Semarang dicatat 441 oleh panitia 1977 dan sampai 949 oleh hitungan
+    lain. Jumlah korban Banda 1621 berkisar dari "hampir seluruh penduduk" sampai angka ratusan yang
+    diperdebatkan. Untuk kasus seperti ini situs menulis rentang, menyebut siapa yang mendukung angka mana,
+    dan tidak memilih angka bulat yang paling dramatis. Prinsipnya sederhana: ketidakpastian adalah bagian
+    dari temuan, bukan cacat yang harus disembunyikan.</p>
+
+    <h2>Tanggal yang berubah</h2>
+    <p>Hari jadi daerah sering berbeda dari tanggal peristiwa sejarahnya karena ditetapkan lewat peraturan
+    daerah puluhan tahun kemudian. Kabupaten Kudus memakai 23 September 1549 dan sedang menggesernya ke
+    23 Agustus; Majalengka mengganti hari jadinya dari 7 Juni ke 11 Februari. Entri menuliskan keduanya —
+    tanggal resmi dan dasar sejarahnya — karena pembaca yang mencari satu tanggal berhak tahu mengapa
+    sumber lain menyebut angka lain.</p>
+
+    <h2>Yang tidak dikerjakan</h2>
+    <p>Situs ini tidak memuat gambar, peta interaktif, atau kutipan langsung yang tidak dapat diverifikasi.
+    Kutipan tokoh hanya dipakai bila redaksinya tersedia di sumber cetak atau arsip; selain itu digunakan
+    kalimat penulis sendiri. Peristiwa yang hanya bersumber dari satu dokumen Belanda ditandai sebagai
+    catatan sepihak, bukan disajikan sebagai fakta netral.</p>
+
+    <h2>Memeriksa sendiri</h2>
+    <p>Untuk menelusuri bahan: {link("kritik-sumber")}, {link("historiografi-nasional")},
+    {link("arsip-voc")}, {link("anri")}, {link("sejarah-nasional-indonesia")}, dan
+    {link("fotografi-kolonial")}. Untuk memahami istilah yang dipakai, buka
+    <a href="glosarium.html">glosarium</a>; untuk melihat seluruh peristiwa yang punya tanggal, buka
+    <a href="kronologi.html">kronologi</a>.</p>
+  </div>
+</section>
+</main>
+{footer()}
+{search_panel()}"""
+    return page("Sumber dan metode", "Dari mana bahan KRONIK diambil dan bagaimana angka yang diperdebatkan diperlakukan.",
+                body, url="metode.html", cls="page-method")
+
+
 def build_about(chapters):
     raw_sources = sorted({s for c in chapters for s in c["sources"]})
     sources = []
@@ -1398,6 +1463,7 @@ def main():
         (OUT / ch["file"]).write_text(build_chapter(ch, chapters, entries), encoding="utf-8")
     (OUT / "kronologi.html").write_text(build_timeline(chapters, entries), encoding="utf-8")
     (OUT / "glosarium.html").write_text(build_glossary(chapters), encoding="utf-8")
+    (OUT / "metode.html").write_text(build_method(entries, chapters), encoding="utf-8")
     if HAS_FIGURES:
         (OUT / "tokoh.html").write_text(build_figures(figures, chapters), encoding="utf-8")
     if entries:
@@ -1415,7 +1481,7 @@ def main():
     (OUT / "tentang.html").write_text(build_about(chapters), encoding="utf-8")
     (OUT / "404.html").write_text(build_404(chapters), encoding="utf-8")
 
-    urls = ["", "arsip.html", "tanya.html", "kronologi.html", "glosarium.html", "tentang.html"] + [c["file"] for c in chapters]
+    urls = ["", "arsip.html", "tanya.html", "kronologi.html", "glosarium.html", "metode.html", "tentang.html"] + [c["file"] for c in chapters]
     today = date.today().isoformat()
     sitemap = ['<?xml version="1.0" encoding="UTF-8"?>',
                '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
