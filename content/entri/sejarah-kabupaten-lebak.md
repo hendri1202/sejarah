@@ -57,7 +57,7 @@ Banjir bandang melanda beberapa kecamatan dalam dua dekade terakhir, merusak rum
 
 ## Lebak hari ini
 
-Lebak menghadapi persoalan yang sudah lama ada: kemiskinan, jalan yang rusak, dan banjir di musim hujan. Sebagian wilayah selatan masih sulit dijangkau, dan layanan kesehatan belum merata. Di sisi lain, wilayah ini menyimpan hutan, pantai, dan situs sejarah yang belum banyak dikembangkan.
+Lebak menghadapi persoalan yang sudah lama ada: kemiskinan, jalan yang rusak, dan banjir di musim hujan. Sebagian wilayah selatan masih sulit dijangkau, dan layanan kesehatan belum merata. Sebaliknya, wilayah ini menyimpan hutan, pantai, dan situs sejarah yang belum banyak dikembangkan.
 
 Hari jadi 1828 menempatkan Lebak sebagai salah satu kabupaten tertua di Banten. Namun sejarahnya menunjukkan bahwa yang menentukan bukanlah tanggal pembentukan, melainkan bagaimana negara berhubungan dengan penduduk: melalui pajak, tambang, atau pengakuan atas masyarakat adat. Pertanyaan itu belum selesai.
 

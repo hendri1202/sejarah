@@ -55,7 +55,7 @@ Sawah di Bantul diairi oleh Sungai Opak dan Oyo, yang berhulu di Merapi. Air itu
 
 ## Hari ini
 
-Bantul sekarang menghadapi tekanan pembangunan yang datang dari Yogyakarta. Harga tanah naik, sawah berubah menjadi perumahan, dan jalan desa dipenuhi kendaraan. Di sisi lain, kabupaten ini memiliki sistem peringatan tsunami di pantai dan program pengurangan risiko bencana yang dianggap cukup maju.
+Bantul sekarang menghadapi tekanan pembangunan yang datang dari Yogyakarta. Harga tanah naik, sawah berubah menjadi perumahan, dan jalan desa dipenuhi kendaraan. Sebaliknya, kabupaten ini justru memiliki sistem peringatan tsunami di pantai dan program pengurangan risiko bencana yang dianggap cukup maju.
 
 Pemerintah kabupaten berusaha menjaga ruang terbuka hijau dan lahan pertanian melalui peraturan zonasi, tetapi penegakannya sulit ketika pemilik tanah ingin menjual. Sebagian desa di sekitar Imogiri dan Pundong masih mempertahankan sawah, sementara desa di sepanjang ring road berubah cepat menjadi kawasan permukiman.
 
