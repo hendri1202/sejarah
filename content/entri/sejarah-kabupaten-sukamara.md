@@ -19,7 +19,7 @@ Tanjung Sambar adalah sebuah tanjung di pantai barat daya Kalimantan, tempat Sun
 
 Menurut riwayat yang dihimpun pemerintah daerah, sekitar 1800 seorang perantau bernama Datok Nakhoda Muhammad Talib datang bersama istrinya dari Sungai Kedayan, Brunei, dan membuka permukiman di pesisir yang ketika itu belum berpenghuni. Ia disebut sebagai pendiri kampung yang kemudian menjadi Sukamara. Versi lain menempatkan kedatangan itu pada 1835 dengan nama Juragan M. Thoib. Perbedaan dua angka itu belum diselesaikan, dan keduanya beredar dalam tulisan lokal tanpa rujukan arsip yang jelas.
 
-Yang dapat dipastikan adalah bahwa kampung itu tumbuh di bawah kekuasaan Kerajaan Kotawaringin, yang sejak abad ke-17 menjadi cabang Kesultanan Banjar di pantai selatan. Kotawaringin mengirim pejabat untuk memungut hasil hutan dan hasil laut, dan mengangkat kepala kampung dari kalangan pedagang yang menetap.
+Yang dapat dipastikan adalah bahwa kampung itu tumbuh di bawah kekuasaan Kerajaan Kotawaringin, yang sejak abad ke-17 menjadi cabang Kesultanan Banjar di pantai selatan. Kotawaringin mengirim pejabat untuk memungut hasil hutan dan hasil laut, dan mengangkat kepala kampung dari kalangan pedagang yang menetap. Perahu dari Brunei dan Sulawesi berhenti di teluk itu untuk mengambil air dan menjual barang, dan dari persinggahan semacam itulah kampung pertama tumbuh menjadi pasar kecil.
 
 ## Kopra dan karet
 
@@ -49,7 +49,7 @@ Letak Sukamara di perbatasan Kalimantan Tengah dan Kalimantan Barat memberi keun
 
 Sawit masuk pada 2000-an dan menjadi komoditas utama, disusul karet dan kelapa. Perkebunan besar membuka lahan di bekas hutan sekunder, dan beberapa kampung menerima jalan serta listrik sebagai imbalannya. Konflik muncul ketika lahan yang digarap turun-temurun dianggap bagian dari izin perusahaan, dan penyelesaiannya berlangsung lambat.
 
-Pesisir Sukamara juga menghadapi abrasi. Garis pantai bergeser beberapa meter setiap tahun, dan beberapa rumah nelayan harus dipindahkan. Sejarah kabupaten ini karena itu berputar pada tiga hal yang saling terkait: laut yang mengikis, sungai yang menjadi jalan, dan kebun yang menentukan penghidupan. Semuanya sudah ada sejak kampung pertama dibuka di teluk, jauh sebelum kabupaten ini punya nama.
+Pesisir Sukamara juga menghadapi abrasi. Garis pantai bergeser beberapa meter setiap tahun, dan beberapa rumah nelayan harus dipindahkan. Sejarah kabupaten ini karena itu berputar pada tiga hal yang saling terkait: laut yang mengikis, sungai yang menjadi jalan, dan kebun yang menentukan penghidupan. Semuanya sudah ada sejak kampung pertama dibuka di teluk, jauh sebelum kabupaten ini punya nama atau kantor bupati.
 
 :::note
 Kabupaten Sukamara dibentuk oleh UU Nomor 5 Tahun 2002 tanggal 10 April 2002, dimekarkan dari Kabupaten Kotawaringin Barat bersama Kabupaten Lamandau.
