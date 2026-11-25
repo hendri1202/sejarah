@@ -23,6 +23,8 @@ Jauh sebelum gempa, Donggala adalah pintu masuk Teluk Palu. Pada 1892, pemerinta
 
 Pilihan itu masuk akal pada masa itu. Donggala memiliki teluk yang dalam, air tawar, dan penduduk yang terbiasa berdagang. Kapal layar dari Gorontalo, Makassar, dan Ternate berlabuh untuk membeli kopra, damar, dan hasil hutan. Kota itu tumbuh memanjang di tepi pantai, dengan gudang, toko milik pedagang Tionghoa, dan kantor pemerintah di atas bukit kecil.
 
+Afdeling Donggala yang dibentuk pada 1904 adalah salah satu yang terluas di Sulawesi. Asisten residen di Donggala membawahi kontrolir di Poso, Tolitoli, dan Banggai, wilayah yang sekarang menjadi empat kabupaten. Komunikasi antara pusat dan daerah bergantung pada kapal dan kurir, sehingga keputusan sering datang terlambat. Keadaan itu menjelaskan mengapa pemerintahan kolonial di Sulawesi Tengah berkembang lebih lambat daripada di Minahasa atau Gorontalo.
+
 ## Kopra dan kapal
 
 Kopra menjadi komoditas utama pada awal abad ke-20. Kelapa ditanam di sepanjang pesisir, diolah menjadi kopra di kampung-kampung, lalu diangkut dengan perahu ke Donggala. Dari sana kopra dikirim ke Makassar dan Surabaya. Pelabuhan Donggala dikenal sebagai salah satu bandar kopra terbesar di Sulawesi pada masa itu, dan namanya muncul dalam laporan dagang kolonial bersama Gorontalo dan Manado.
@@ -45,7 +47,7 @@ Rekonstruksi berjalan bertahun-tahun. Pemerintah membangun rumah tahan gempa, te
 
 ## Setelah gelombang
 
-Hari ini Donggala dikenal karena pantai Tanjung Karang, kopra, dan kerajinan kain tenun. Kota lama masih menyimpan bangunan kolonial: bekas kantor asisten residen, gudang kopra, dan rumah-rumah kayu di tepi pantai. Sebagian sudah rusak, sebagian lain diperbaiki oleh komunitas pelestari yang dibentuk setelah 2016.
+Donggala sekarang dikenal karena pantai Tanjung Karang, kopra, dan kerajinan kain tenun. Kota lama masih menyimpan bangunan kolonial: bekas kantor asisten residen, gudang kopra, dan rumah-rumah kayu di tepi pantai. Sebagian sudah rusak, sebagian lain diperbaiki oleh komunitas pelestari yang dibentuk setelah 2016.
 
 Yang belum selesai adalah pertanyaan tentang masa depan pesisir. Gempa dan tsunami 2018 bukan peristiwa terakhir; sesar Palu-Koro masih aktif. Peta evakuasi sudah dibuat, tetapi latihan rutin belum menjadi kebiasaan di semua sekolah. Bagi Donggala, sejarah pelabuhan dan sejarah bencana adalah satu cerita yang sama: kota yang tumbuh karena teluk, dan diubah oleh teluk yang sama.
 

@@ -13,7 +13,7 @@ sources:
   - "Pemerintah Provinsi Sulawesi Tengah, Sejarah Sulawesi Tengah"
 ---
 
-Pada 1870-an, kabar tentang butiran emas di Sungai Paleleh sampai ke Batavia. Paleleh berada di pantai utara Sulawesi, di wilayah Kerajaan Buol, dan pada masa itu hanya bisa dicapai dengan perahu dari Gorontalo atau dengan berjalan kaki selama berhari-hari menembus hutan. Laporan-laporan kolonial menyebut penduduk mendulang emas di sungai dan menjualnya kepada pedagang yang datang dari pesisir. Penemuan itu mengubah cara pemerintah Hindia Belanda memandang wilayah utara Teluk Tomini.
+Pada 1870-an, kabar tentang butiran emas di Paleleh sampai ke Batavia. Paleleh berada di pantai utara Sulawesi, di wilayah Kerajaan Buol, dan pada masa itu hanya bisa dicapai dengan perahu dari Gorontalo atau dengan berjalan kaki selama berhari-hari menembus hutan. Laporan-laporan kolonial menyebut penduduk mendulang emas di sungai dan menjualnya kepada pedagang yang datang dari pesisir. Penemuan itu mengubah cara pemerintah Hindia Belanda memandang wilayah utara Teluk Tomini.
 
 Sebelum emas, Buol adalah kerajaan agraris. Penduduk menanam padi di lembah, kelapa di pesisir, dan cengkih di perbukitan. Kerajaan dipimpin seorang raja dengan gelar yang diwariskan, dibantu kepala-kepala kampung. Wilayahnya memanjang dari pantai hingga pegunungan di perbatasan dengan Gorontalo, dan sebagian penduduknya berbahasa Buol, yang berbeda dari bahasa Tolitoli di sebelah barat.
 
@@ -31,9 +31,11 @@ Masalah utama Buol bukan emas, tetapi jarak. Sampai pertengahan abad ke-20, tida
 
 Pemerintah kolonial membangun jalan setapak dari Buol ke Paleleh, tetapi tidak pernah menjadi jalan kendaraan. Jepang memperbaiki beberapa ruas selama pendudukan, terutama untuk mengangkut hasil bumi ke pelabuhan. Setelah kemerdekaan, jalan Trans Sulawesi dibangun bertahap, dan baru pada 1980-an Buol terhubung dengan Palu sepanjang tahun. Itu sebabnya pemekaran wilayah selalu dikaitkan dengan jalan: tanpa jalan, pemerintahan di Tolitoli terasa sangat jauh.
 
+Pelayaran juga tidak sepenuhnya aman. Perahu kecil yang mengangkut kopra dan penumpang berlayar tanpa peta dan tanpa radio, dan pada musim hujan badai datang cepat. Pemerintah kolonial mencoba mengatur pelayaran dengan surat izin dan pos pantai, tetapi pengawasan itu lemah. Kecelakaan laut adalah bagian biasa dari kehidupan pesisir, dan kisahnya jarang masuk laporan resmi.
+
 ## Underafdeeling Buol
 
-Dalam administrasi kolonial, Buol adalah onderafdeeling di bawah Afdeling Donggala, lalu di bawah Afdeling Buol Tolitoli. Kontrolir di Buol membawahi beberapa distrik, masing-masing dengan kepala adat. Pada 1918, seperti Tolitoli, Buol menandatangani korte verklaring yang menempatkannya di bawah kekuasaan Belanda. Perjanjian itu tidak banyak mengubah kehidupan sehari-hari, tetapi mengubah siapa yang berhak mengangkat kepala kampung dan memungut pajak.
+Dalam administrasi kolonial, Buol adalah onderafdeeling di bawah Afdeling Donggala, lalu di bawah Afdeling Buol Tolitoli. Kontrolir di Buol membawahi beberapa distrik, masing-masing dengan kepala adat. Korte verklaring yang ditandatangani raja-raja di wilayah ini menempatkan Buol di bawah kekuasaan Belanda. Perjanjian itu tidak banyak mengubah kehidupan sehari-hari, tetapi mengubah siapa yang berhak mengangkat kepala kampung dan memungut pajak.
 
 Setelah kemerdekaan, Buol masuk Kabupaten Buol Tolitoli, yang dibentuk dengan Undang-Undang Nomor 29 Tahun 1959. Ibu kotanya di Tolitoli, dan Buol menjadi kewedanaan. Jarak ke ibu kota kabupaten menjadi keluhan lama: pejabat sulit datang, sekolah lanjutan hanya ada di Tolitoli, dan hasil bumi dijual ke Gorontalo karena lebih dekat secara pelayaran.
 

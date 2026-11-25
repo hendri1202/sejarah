@@ -23,6 +23,8 @@ Banggai Kepulauan terdiri atas Pulau Peleng, Banggai, Labobo, Bokan, dan puluhan
 
 Penduduknya beragam: orang Banggai, Sea-Sea, dan Bajo yang hidup dari laut. Bahasa Banggai dipakai di sebagian besar pulau, dengan logat yang berbeda antara Peleng dan Banggai. Rumah panggung di tepi pantai masih umum, terutama di kampung-kampung yang tidak terjangkau jalan. Perahu kayu menjadi kendaraan utama, dan pasar ikan menjadi pusat pertemuan ekonomi.
 
+Perdagangan laut menghubungkan pulau-pulau itu dengan Luwuk, Gorontalo, dan Bau-Bau. Teripang dan mutiara dikumpulkan untuk pasar Tionghoa, sementara kopra dijual ke Makassar. Kapal pedagang datang pada musim tertentu, membawa beras, kain, dan minyak, lalu kembali dengan hasil laut. Harga ditentukan di pelabuhan tujuan, sehingga nelayan di pulau kecil hampir selalu menjadi pihak yang menerima harga paling rendah.
+
 ## Ikan capungan
 
 Di perairan sekitar pulau-pulau itu hidup ikan capungan Banggai, atau Banggai cardinalfish, yang dikenal ilmu pengetahuan sebagai Pterapogon kauderni. Ikan kecil berwarna perak dengan garis hitam ini pertama kali dideskripsikan pada 1933 dari spesimen yang dikumpulkan di Banggai. Selama puluhan tahun ia hampir tidak dikenal, sampai perdagangan ikan hias internasional menemukannya pada 1990-an.
@@ -33,17 +35,19 @@ Ikan itu endemik, artinya hanya ditemukan di wilayah ini, meskipun kemudian dipe
 
 Sebelum Belanda, kepulauan ini berada di bawah pengaruh Kesultanan Banggai, yang berpusat di daratan. Sultan mengangkat pejabat di pulau-pulau, memungut upeti dari hasil laut, dan mengatur perdagangan teripang serta mutiara. Hubungan itu tidak selalu erat; pulau-pulau jauh sering bertindak sendiri, terutama ketika pelayaran terganggu musim.
 
-Pada awal abad ke-20, Belanda menempatkan kontrolir di Banggai dan memasukkan kepulauan itu ke dalam administrasi Afdeling Poso, lalu Afdeling Banggai. Pajak dipungut atas hasil laut, dan sekolah didirikan di beberapa pulau. Perubahan paling terasa adalah larangan penangkapan ikan dengan bahan peledak dan racun, yang diperkenalkan untuk menjaga sumber daya tetapi sulit ditegakkan.
+Pada awal abad ke-20, Belanda menempatkan kontrolir di Banggai dan memasukkan kepulauan itu ke dalam administrasi Afdeling Poso. Pajak dipungut atas hasil laut, dan sekolah didirikan di beberapa pulau. Perubahan paling terasa adalah larangan penangkapan ikan dengan bahan peledak dan racun, yang diperkenalkan untuk menjaga sumber daya tetapi sulit ditegakkan.
 
 ## Pemekaran dan pemisahan lagi
 
 Kabupaten Banggai Kepulauan dibentuk pada 1999 dengan ibu kota Salakan. Pada 2013, bagian selatan gugusan dimekarkan menjadi Kabupaten Banggai Laut melalui Undang-Undang Nomor 5 Tahun 2013, dengan ibu kota di Banggai. Pemekaran itu meninggalkan Banggai Kepulauan dengan pulau-pulau di utara, terutama Peleng, Labobo, dan Bokan.
 
-Pemisahan itu memunculkan persoalan lama: batas laut yang belum tuntas, bagi hasil perikanan, dan aset pemerintah yang harus dibagi. Banggai Laut mengklaim beberapa pulau kecil yang secara historis terhubung dengan Kesultanan Banggai, sementara Banggai Kepulauan mempertahankan batas yang ditetapkan dalam undang-undang. Sengketa itu tidak besar, tetapi menunjukkan bahwa pemekaran di kepulauan selalu melibatkan laut, bukan hanya darat.
+Pemisahan itu memunculkan persoalan lama: batas laut yang belum tuntas, bagi hasil perikanan, dan aset pemerintah yang harus dibagi. Pulau-pulau kecil di antara kedua kabupaten sering menjadi titik sengketa karena tidak jelas masuk wilayah mana. Persoalan itu tidak besar, tetapi menunjukkan bahwa pemekaran di kepulauan selalu melibatkan laut, bukan hanya darat.
+
+Setelah 2013, Banggai Kepulauan kehilangan beberapa kecamatan dan pelabuhan yang menjadi sumber pendapatan. Salakan tetap menjadi ibu kota, tetapi kantor dinas harus dibagi, dan sebagian pegawai memilih pindah ke Banggai Laut. Pemerintah kabupaten mendorong perikanan tangkap dan budidaya rumput laut untuk menggantikan pendapatan yang hilang, sementara sektor pariwisata berkembang perlahan.
 
 ## Pulau yang jauh dari anggaran
 
-Hari ini Banggai Kepulauan bergantung pada perikanan, kopra, dan transfer pusat. Rumah sakit dan sekolah menengah hanya ada di beberapa pulau, sehingga warga dari pulau kecil harus menyeberang untuk mendapatkan layanan. Listrik dari PLTD dan panel surya beroperasi terbatas, dan sinyal telepon belum merata.
+Banggai Kepulauan kini bergantung pada perikanan, kopra, dan transfer pusat. Rumah sakit dan sekolah menengah hanya ada di beberapa pulau, sehingga warga dari pulau kecil harus menyeberang untuk mendapatkan layanan. Listrik dari PLTD dan panel surya beroperasi terbatas, dan sinyal telepon belum merata. Kapal perintis melayani rute antarpulau, tetapi jadwalnya sering berubah karena cuaca dan keterbatasan bahan bakar.
 
 Pariwisata bahari dikembangkan di beberapa titik, terutama di sekitar Pulau Banggai dan Peleng, tetapi jumlah kunjungan masih kecil. Ikan capungan menjadi daya tarik bagi penyelam, sekaligus simbol kerentanan: ikan yang hanya hidup di sini bergantung pada lamun yang sehat, sementara nelayan perlu makan. Sejarah kepulauan ini adalah sejarah jarak, dan jarak itu belum sepenuhnya teratasi oleh undang-undang atau kapal cepat.
 

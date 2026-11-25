@@ -41,6 +41,8 @@ Setelah perjanjian, Belanda memperluas ekonomi di Pulau Buton. Pada 3 Mei 1910, 
 
 Pada 1912, gelombang protes serupa muncul di Wakatobi, yang saat itu berada di bawah kekuasaan Buton. Pajak baru dianggap melanggar adat dan memberatkan nelayan. Belanda mengirim patroli dan menangkap beberapa pemimpin. Catatan-catatan ini penting karena menunjukkan bahwa kontrak 1906 tidak diterima tanpa perlawanan; ia diuji di lapangan selama bertahun-tahun.
 
+Penataan ekonomi kolonial juga mengubah perdagangan. Belanda memberi izin kepada pedagang tertentu untuk membeli hasil hutan, sementara pedagang lain dilarang. Di Baubau, kantor bea cukai mencatat setiap kapal yang keluar-masuk, termasuk perahu dari pulau-pulau di selatan. Pendapatan dari cukai itu menjadi salah satu sumber keuangan landschap, dan sebagian dipakai untuk membayar gaji pejabat lokal.
+
 ## Akhir kontrak
 
 Jepang menduduki Buton pada 1942, dan kesultanan menyatakan perjanjian 1906 tidak berlaku lagi. Setelah Jepang menyerah, Buton menjadi bagian dari Republik Indonesia, lalu masuk Negara Indonesia Timur sebelum kembali ke Republik pada 1950. Pada 1960, kesultanan dihapus sebagai unit pemerintahan, bersamaan dengan berakhirnya swapraja di seluruh Indonesia. Sultan terakhir, La Ode Muhammad Falihi, memerintah sejak 1938 dan menyerahkan kekuasaan kepada pemerintah.

@@ -29,6 +29,8 @@ Tojo mengklaim pengaruh atas wilayah Poso, terutama setelah kerajaan-kerajaan pe
 
 Belanda memakai klaim itu untuk kepentingan sendiri. Pada awal abad ke-20, mereka mengangkat raja Tojo sebagai pejabat kolonial dengan gelar landschap, dan memakai otoritasnya untuk menjangkau kampung-kampung yang sulit dijangkau patroli. Ketika ekspedisi militer ke Poso berlangsung pada 1905–1907, sebagian kepala kampung di pedalaman Tojo memberi jalan dan perahu. Peran itu membuat Tojo diuntungkan secara politik, tetapi juga membuatnya bergantung pada Belanda.
 
+Ketergantungan itu terlihat dalam pajak dan kerja rodi. Raja Tojo menerima surat pengangkatan dan gaji, tetapi harus menyetorkan hasil pungutan ke kontrolir. Kampung-kampung yang menolak membayar dianggap membangkang, dan patroli dikirim untuk menegakkan aturan. Ketika raja meninggal, penggantinya harus disetujui Belanda, sehingga garis keturunan tidak lagi satu-satunya penentu.
+
 ## Danau dan pulau
 
 Danau Poso adalah danau tektonik yang panjang dan dalam, terletak sekitar 600 meter di atas permukaan laut. Airnya jernih, dengan ikan endemik seperti butini dan sidat yang menjadi bagian dari makanan dan ritual penduduk. Di tepi danau terdapat kampung-kampung yang hidup dari menangkap ikan, menanam padi, dan mengambil rotan dari hutan sekitar.
@@ -45,7 +47,7 @@ Tuntutan pemekaran muncul pada 1990-an, didorong oleh elite lokal dan oleh peras
 
 ## Setelah pemekaran
 
-Hari ini Tojo Una-Una dikenal karena Danau Poso, wisata alam, dan kakao. Jalan Trans Sulawesi menghubungkan Ampana dengan Poso dan Luwuk, meskipun sebagian ruas masih rusak. Ampana tumbuh sebagai kota pelabuhan dengan pasar ikan dan terminal kapal rakyat. Di pedalaman, kopi dan cengkih menjadi sumber penghasilan, sementara di pulau-pulau, nelayan masih memakai perahu tanpa mesin.
+Tojo Una-Una sekarang dikenal karena Danau Poso, wisata alam, dan kakao. Jalan Trans Sulawesi menghubungkan Ampana dengan Poso dan Luwuk, meskipun sebagian ruas masih rusak. Ampana tumbuh sebagai kota pelabuhan dengan pasar ikan dan terminal kapal rakyat. Di pedalaman, kopi dan cengkih menjadi sumber penghasilan, sementara di pulau-pulau, nelayan masih memakai perahu tanpa mesin.
 
 Pemekaran membawa kantor pemerintah dan anggaran, tetapi juga persoalan baru: batas desa yang belum jelas, sengketa tanah adat, dan ketimpangan antara Ampana dan kecamatan pedalaman. Sejarah Tojo Una-Una menunjukkan bahwa wilayah yang disatukan oleh nama kerajaan tidak otomatis menjadi satu komunitas. Yang menghubungkannya adalah jalan, kapal, dan pasar, bukan hanya cerita tentang raja yang sama.
 

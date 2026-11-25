@@ -41,9 +41,11 @@ Pada 8 Agustus 1926, Gubernur Jenderal meningkatkan onderafdeeling Poso menjadi 
 
 Penataan itu mengubah wajah Poso secara permanen. Jalan menghubungkan pesisir dengan Tentena dan lembah Napu, meskipun rusak setiap musim hujan. Kopi dan damar menjadi komoditas, sementara penduduk diminta kerja rodi untuk membangun jalan dan jembatan. Sekolah zending menghasilkan guru dan juru tulis yang kemudian menjadi elite lokal pertama di daerah itu.
 
+Pada 1930-an, Poso sudah memiliki gereja, sekolah, dan rumah sakit kecil. Jumlah orang Kristen di pedalaman bertambah, terutama di Napu dan Tentena, sementara pesisir tetap berpenduduk Muslim. Pendudukan Jepang pada 1942 menghentikan pekerjaan zending; banyak guru dan pendeta ditahan, dan beberapa meninggal. Setelah 1945, gereja menjadi salah satu lembaga yang paling cepat pulih, dan pada 1950-an sekolah-sekolah zending diambil alih pemerintah.
+
 ## Dua tanggal, dua Poso
 
-Kabupaten Poso dibentuk dengan Undang-Undang Nomor 29 Tahun 1959 dan ditetapkan pada 4 Juli 1959. Pemerintah kabupaten memperingati hari jadi pada 7 Maret 1895, tanggal yang merujuk pada penataan administrasi kolonial, bukan pada undang-undang 1959. Dua tanggal itu mengukur dua hal berbeda: yang satu kelahiran sebuah pos pemerintahan, yang lain kelahiran sebuah daerah otonom.
+Kabupaten Poso dibentuk dengan Undang-Undang Nomor 29 Tahun 1959 dan ditetapkan pada 4 Juli 1959. Pemerintah kabupaten memperingati hari jadi pada 7 Maret 1895, sementara undang-undang menetapkan Poso pada 4 Juli 1959. Dua tanggal itu mengukur dua hal berbeda: yang satu warisan pemerintahan kolonial, yang lain kelahiran sebuah daerah otonom.
 
 Pada 1998–2001, Poso menjadi pusat konflik antar-agama yang menewaskan ratusan orang dan mengusir puluhan ribu dari rumahnya. Deklarasi Malino ditandatangani pada 20 Desember 2001, mengakhiri kekerasan besar meskipun tidak menyelesaikan semua persoalan tanah dan kepercayaan. Kota Poso dan Tentena menjadi titik rekonstruksi, sementara ingatan tentang pembakaran gereja dan masjid masih membentuk politik lokal.
 

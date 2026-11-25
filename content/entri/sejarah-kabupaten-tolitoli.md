@@ -33,7 +33,7 @@ Nama Tolitoli dalam dokumen 1918 bukan kebetulan. Pemerintah kolonial sedang men
 
 Sampai pertengahan abad ke-20, jalan darat di Tolitoli hampir tidak ada. Barang dan orang bergerak lewat laut. Perahu layar dari Tolitoli berlayar ke Gorontalo untuk membeli garam dan kain, lalu kembali dengan kopra dan damar. Kapal uap Koninklijke Pakketvaart Maatschappij (KPM) melayani rute Makassar–Gorontalo–Tolitoli pada awal abad ke-20, tetapi jadwalnya bergantung musim dan cuaca.
 
-Pengawasan Belanda atas pelayaran di Teluk Tomini menguat sejak 1893, ketika pos-pos di sepanjang pantai dari Moutong hingga Tojo mulai mencatat kapal yang lewat. Di Tolitoli, pencatatan itu dilakukan oleh pegawai pelabuhan yang merangkap bea cukai. Kapal yang tidak membawa surat izin dilarang berdagang, dan pedagang lokal harus memakai perantara yang punya hubungan dengan pemerintah.
+Pengawasan Belanda atas pelayaran di Teluk Tomini menguat sejak 1893, ketika pos-pos di sepanjang pantai dari Moutong hingga Tojo mulai mencatat kapal yang lewat. Di Tolitoli, pencatatan dilakukan di pos pelabuhan, dan kapal yang tidak membawa surat izin dilarang berdagang. Aturan itu menguntungkan pedagang yang punya hubungan dengan pemerintah dan mempersulit perahu kecil dari kampung.
 
 Pelayaran itu membentuk kehidupan kota. Kampung-kampung nelayan tumbuh di sepanjang pantai, pasar dibangun dekat dermaga, dan pedagang dari Gorontalo serta Bugis menetap di sekitar pelabuhan. Kopra menjadi komoditas utama setelah kelapa ditanam secara luas pada 1920-an. Ketika harga kopra jatuh pada 1930-an, ekonomi Tolitoli ikut melemah, dan banyak keluarga kembali ke pertanian subsisten.
 
@@ -49,7 +49,7 @@ Masa pendudukan Jepang (1942–1945) meninggalkan jejak lain. Jepang memakai Tol
 
 Hari ini Tolitoli adalah kabupaten dengan pelabuhan yang masih sibuk, meskipun kapal besar lebih sering singgah di Palu atau Gorontalo. Kopra masih dihasilkan, bersama cengkih, kakao, dan rumput laut. Jalan Trans Sulawesi sudah menghubungkan Tolitoli dengan Palu dan Buol, tetapi kualitasnya belum merata; sebagian ruas rusak setiap musim hujan.
 
-Kota lama Tolitoli menyimpan jejak pelayaran: rumah panggung di tepi pantai, pasar lama, dan makam raja-raja di dekat masjid. Nama Tontoli masih dipakai untuk beberapa tempat dan organisasi lokal, meskipun generasi muda lebih mengenal Tolitoli. Sejarahnya menunjukkan bahwa kota pelabuhan tidak hanya ditentukan oleh letak, tetapi oleh rute yang melewatinya. Ketika rute berubah, kota ikut berubah, dan nama pun menyesuaikan diri.
+Kota lama Tolitoli menyimpan jejak pelayaran: rumah panggung di tepi pantai, pasar lama, dan makam raja-raja di dekat masjid. Nama Tontoli masih dipakai untuk beberapa tempat dan organisasi lokal, meskipun generasi muda lebih mengenal Tolitoli. Dermaga lama sekarang dangkal karena sedimentasi, sehingga kapal besar harus berlabuh di luar teluk dan barang diangkut dengan perahu kecil. Sejarahnya menunjukkan bahwa kota pelabuhan tidak hanya ditentukan oleh letak, tetapi oleh rute yang melewatinya. Ketika rute berubah, kota ikut berubah, dan nama pun menyesuaikan diri.
 
 > Tolitoli berganti nama tiga kali, tetapi yang berubah bukan hanya ejaan: setiap nama menandai rezim yang mencatatnya.
 

@@ -23,11 +23,13 @@ Pandai besi di Wangi-Wangi dan Binongko bekerja dengan tungku sederhana dan besi
 
 Selain pandai besi, ada orang Bajo yang hidup dari laut. Mereka bermukim di rumah panggung di atas air, menangkap ikan dengan jaring dan pancing, dan mengangkut barang dengan perahu. Hubungan antara Bajo dan penduduk pulau yang lebih menetap tidak selalu mudah; keduanya bersaing atas wilayah tangkap, tetapi juga saling bergantung dalam perdagangan ikan dan hasil laut.
 
+Kehidupan Bajo berpusat pada perahu. Sebelum bermukim tetap, banyak keluarga tinggal di atas perahu selama berbulan-bulan, berpindah mengikuti musim ikan. Ketika pemerintah membangun kampung di darat, sebagian Bajo pindah ke rumah panggung, tetapi tetap memakai perahu setiap hari. Bahasa Bajo dipakai di rumah dan pasar, sementara bahasa Indonesia dipakai di sekolah dan kantor. Perubahan itu berlangsung perlahan, dan tidak menghapus pengetahuan tentang arus, pasang, dan terumbu.
+
 ## Di bawah Kesultanan Buton
 
 Kepulauan ini masuk wilayah Kesultanan Buton, yang mengangkat pejabat lokal dengan gelar seperti lakina dan bonto. Sultan memungut upeti dari hasil laut dan hasil hutan, terutama teripang dan kopra. Sebagai gantinya, pulau-pulau mendapat perlindungan dari serangan bajak laut dan akses ke pasar Baubau.
 
-Hubungan itu tidak selalu damai. Pada abad ke-19, beberapa pulau mencoba melepaskan diri ketika pajak dianggap terlalu berat. Buton mengirim kapal dan tentara untuk menegakkan kembali kekuasaannya. Sejarah lisan di Kaledupa menyimpan cerita tentang perang kecil yang berlangsung beberapa bulan dan berakhir dengan perjanjian yang tidak selalu ditepati.
+Kendali Buton bergantung pada pejabat yang ditempatkan di pulau-pulau. Di Kaledupa, kekuasaan lokal berada di bawah seorang lakina yang mengurus pungutan dan sengketa. Ketika pejabat pusat terlalu menekan, penduduk biasanya mengadu kepada sultan, bukan mengangkat senjata. Pada awal abad ke-20, ketika Belanda menambah pungutan, keluhan itu berubah menjadi perlawanan terbuka.
 
 ## Pajak 1912
 
@@ -39,13 +41,15 @@ Protes berkembang menjadi perlawanan terbuka. Belanda mengirim patroli, menangka
 
 Setelah kemerdekaan, Wakatobi menjadi bagian Kabupaten Buton. Jarak ke Baubau menjadi keluhan utama: layanan kesehatan dan sekolah menengah terbatas, dan kapal ke ibu kota kabupaten tidak setiap hari. Pada 1990-an, gagasan pemekaran muncul, didorong oleh elite pulau dan oleh berkembangnya pariwisata bahari yang membuat nama Wakatobi dikenal di luar negeri.
 
-Undang-Undang Nomor 29 Tahun 2003 membentuk Kabupaten Wakatobi bersama Bombana dan Kolaka Utara. Wilayahnya mencakup empat pulau utama dan puluhan pulau kecil, dengan ibu kota di Wangi-Wangi. Pada 18 Desember 2003, pemerintahan kabupaten mulai berjalan. Sejak itu, nama Wakatobi dipakai untuk kabupaten, taman nasional, dan merek pariwisata.
+Undang-Undang Nomor 29 Tahun 2003 membentuk Kabupaten Wakatobi bersama Bombana dan Kolaka Utara. Wilayahnya mencakup empat pulau utama dan puluhan pulau kecil, dengan ibu kota di Wangi-Wangi. Pada 18 Desember 2003, pemerintahan kabupaten mulai berjalan. Nama Wakatobi sudah dipakai untuk taman nasional sejak 1996, lalu menjadi nama kabupaten dan merek pariwisata.
+
+Peralihan itu tidak berjalan mulus. Kantor pemerintah harus dibangun di Wangi-Wangi, sementara sebagian pegawai masih berkedudukan di Bau-Bau. Kapal feri dan kapal cepat menjadi satu-satunya hubungan rutin dengan daratan, dan jadwalnya bergantung cuaca. Beberapa kecamatan di pulau terpencil baru mendapat listrik dan telepon beberapa tahun setelah kabupaten berdiri, dan sekolah menengah masih terbatas.
 
 ## Pulau dan anggaran
 
-Hari ini Wakatobi dikenal karena terumbu karangnya. Taman nasional laut di sekitar pulau-pulau itu ditetapkan pada 1996, sebelum kabupaten berdiri, dan menjadi salah satu kawasan konservasi laut terbesar di Indonesia. Pariwisata penyelaman mendatangkan wisatawan asing, tetapi jumlahnya kecil dan terkonsentrasi di beberapa resor.
+Wakatobi sekarang lebih dikenal karena terumbu karangnya. Taman nasional laut di sekitar pulau-pulau itu ditetapkan pada 1996, sebelum kabupaten berdiri, dan menjadi salah satu kawasan konservasi laut terbesar di Indonesia. Pariwisata penyelaman mendatangkan wisatawan asing, tetapi jumlahnya kecil dan terkonsentrasi di beberapa resor.
 
-Pendapatan daerah sebagian besar berasal dari transfer pusat dan sektor perikanan. Nelayan masih menghadapi persoalan lama: harga ikan yang ditentukan pedagang, bahan bakar yang mahal, dan cuaca yang membatasi hari melaut. Pendidikan menjadi tantangan tersendiri, karena anak-anak dari pulau kecil harus menyeberang untuk melanjutkan sekolah. Sejarah Wakatobi adalah sejarah pulau-pulau yang selalu lebih dekat ke laut daripada ke kantor pemerintah.
+Pendapatan daerah sebagian besar berasal dari transfer pusat dan sektor perikanan. Nelayan masih menghadapi persoalan lama: harga ikan yang ditentukan pedagang, bahan bakar yang mahal, dan cuaca yang membatasi hari melaut. Pendidikan menjadi tantangan tersendiri, karena anak-anak dari pulau kecil harus menyeberang untuk melanjutkan sekolah. Sebagian dari mereka tidak kembali, dan memilih bekerja di Kendari atau Makassar. Sejarah Wakatobi adalah sejarah pulau-pulau yang selalu lebih dekat ke laut daripada ke kantor pemerintah.
 
 > Kepulauan Tukang Besi menempa besi dan mengarungi laut jauh sebelum namanya menjadi kabupaten.
 

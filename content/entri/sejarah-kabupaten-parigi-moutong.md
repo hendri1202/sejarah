@@ -49,6 +49,8 @@ Kabupaten baru itu menghadapi persoalan klasik: batas wilayah yang belum tuntas,
 
 Hari ini Parigi Moutong dikenal karena kakao, kelapa, dan ikan. Pesisirnya menjadi jalur Trans Sulawesi yang menghubungkan Palu dengan Gorontalo, dan kota Parigi tumbuh sebagai pusat perdagangan. Perkebunan kakao menyebar ke perbukitan, sementara tambak dan sawah mengisi dataran rendah. Gempa dan tsunami 2018 merusak sebagian pesisir, tetapi tidak seberat Palu dan Donggala.
 
+Kakao menjadi cerita tersendiri. Pada 1980-an dan 1990-an, harga kakao dunia naik, dan petani di Parigi Moutong menanam kakao di hampir setiap kebun. Kabupaten itu sempat menjadi salah satu penghasil kakao terbesar di Sulawesi Tengah. Ketika harga jatuh dan tanaman tua terserang hama, banyak kebun ditinggalkan. Program rehabilitasi tanaman dan fermentasi biji kakao diperkenalkan, tetapi hasilnya belum mengembalikan kejayaan lama.
+
 Nama Tombolotutu sekarang terpampang di bandara dan jalan utama, tetapi ketimpangan antara pesisir dan pedalaman masih terlihat. Kecamatan di pegunungan sering kekurangan air bersih dan guru, sementara pesisir mendapat manfaat dari jalan dan pelabuhan. Sejarah Parigi Moutong adalah sejarah dua wilayah yang disatukan oleh undang-undang, dan masih mencari keseimbangan di antara keduanya.
 
 > Tombolotutu kalah, tetapi nama itu sekarang dipakai oleh kabupaten yang lahir seabad setelah kematiannya.
